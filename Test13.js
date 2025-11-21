@@ -1,842 +1,602 @@
 const L119 = [
-{
-"id": 1,
-"category": "Antimicrobial Principles: Cidal vs. Static",
-"questionText": "A 55-year-old male with acute myeloid leukemia is undergoing chemotherapy and develops severe neutropenia (Absolute Neutrophil Count < 100). He spikes a fever and is diagnosed with sepsis. Why is a bactericidal agent (e.g., cefepime) strongly preferred over a bacteriostatic agent (e.g., doxycycline) for this patient?",
-"options": [
-{"text": "Bacteriostatic agents have a shorter half-life and require more frequent dosing.", "explanation": "This is incorrect. Half-life is a drug-specific property and not the defining difference between static and cidal agents."},
-{"text": "Bacteriostatic agents are associated with a higher rate of Type B (idiosyncratic) reactions.", "explanation": "This is incorrect. Hypersensitivity reactions are not the primary reason for avoiding static agents in this population."},
-{"text": "Bacteriostatic agents require a functional host immune system to clear the infection.", "explanation": "Correct. Bacteriostatic agents only inhibit bacterial growth, relying on the host's immune system (i.e., neutrophils) to actually kill and clear the bacteria. This patient is neutropenic and lacks a functional immune defense."},
-{"text": "Bactericidal agents have a significantly longer post-antibiotic effect (PAE).", "explanation": "This is not universally true; for example, beta-lactams are bactericidal but have a short PAE, while some static agents have a long PAE."},
-{"text": "Bactericidal agents achieve a higher C<sub>max</sub>/MIC ratio.", "explanation": "This is incorrect. C<sub>max</sub>/MIC is a PK/PD parameter for concentration-dependent killers, but it does not define the difference between static and cidal agents."}
-],
-"correctAnswerIndex": 2,
-"slideImagePath": "images/L119_p_page-0020.jpg"
-},
-{
-"id": 2,
-"category": "Antimicrobial Principles: PK/PD Parameters",
-"questionText": "A 40-year-old patient with sepsis is receiving piperacillin-tazobactam via prolonged infusion over 4 hours, every 8 hours, rather than a 30-minute IV bolus. What is the primary pharmacokinetic/pharmacodynamic (PK/PD) parameter being optimized with this prolonged infusion strategy?",
-"options": [
-{"text": "C<sub>max</sub>/MIC", "explanation": "This parameter is for concentration-dependent killers like aminoglycosides, where the goal is a high peak. Prolonged infusion *lowers* the peak."},
-{"text": "AUC/MIC", "explanation": "While related, the *primary* driver for beta-lactam efficacy is the *duration* of exposure, not the total exposure (AUC)."},
-{"text": "T > MIC (Time above MIC)", "explanation": "Correct. Beta-lactams are time-dependent killers. Their efficacy is maximized by increasing the *duration* of time the drug concentration remains above the MIC, which is achieved with prolonged or continuous infusions."},
-{"text": "Post-Antibiotic Effect (PAE)", "explanation": "This is incorrect. Beta-lactams have a minimal or short PAE, which is *why* the concentration must be kept above the MIC for as long as possible."},
-{"text": "Minimum Bactericidal Concentration (MBC)", "explanation": "MBC is a lab measurement, not the PK/PD parameter that is optimized by this dosing strategy."}
-],
-"correctAnswerIndex": 2,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 3,
-"category": "Antimicrobial Principles: PK/PD Parameters",
-"questionText": "A 60-year-old man with a severe Pseudomonas aeruginosa pneumonia is treated with gentamicin. The physician orders a large, once-daily dose (7 mg/kg) to maximize efficacy and minimize toxicity. The efficacy of this dosing strategy is best predicted by which PK/PD parameter?",
-"options": [
-{"text": "T > MIC (Time above MIC)", "explanation": "This parameter is for time-dependent killers like beta-lactams, where prolonged exposure is key, not a high peak."},
-{"text": "C<sub>max</sub>/MIC", "explanation": "Correct. Aminoglycosides (like gentamicin) are concentration-dependent killers. Their efficacy is best correlated with achieving a high peak concentration relative to the MIC."},
-{"text": "AUC/MIC", "explanation": "While related, the C<sub>max</sub>/MIC ratio is the *primary* driver for aminoglycoside efficacy."},
-{"text": "Minimum Inhibitory Concentration (MIC) alone", "explanation": "The MIC is what you are targeting, but the *parameter* that predicts success is the *ratio* of the peak concentration *to* the MIC."},
-{"text": "A long Post-Antibiotic Effect (PAE)", "explanation": "PAE is a *property* that *allows* for once-daily dosing, but the parameter that predicts *efficacy* (killing) is C<sub>max</sub>/MIC."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 4,
-"category": "Antimicrobial Principles: PAE",
-"questionText": "A physician is able to dose gentamicin (an aminoglycoside) once daily, despite its relatively short half-life. This is possible because aminoglycosides exhibit two key properties: concentration-dependent killing and...",
-"options": [
-{"text": "Minimal renal clearance, allowing the drug to accumulate.", "explanation": "This is incorrect. Aminoglycosides are almost exclusively renally cleared, and accumulation is *toxic*."},
-{"text": "A long Post-Antibiotic Effect (PAE).", "explanation": "Correct. Aminoglycosides have a long PAE, meaning they continue to suppress bacterial growth long after the plasma concentration has fallen below the MIC. This allows for extended dosing intervals."},
-{"text": "A very short Post-Antibiotic Effect (PAE).", "explanation": "This is incorrect. A short PAE (like beta-lactams) would *require* more frequent dosing or continuous infusion."},
-{"text": "Bacteriostatic-only properties.", "explanation": "This is incorrect. Aminoglycosides are potent bactericidal agents."},
-{"text": "High oral bioavailability.", "explanation": "This is incorrect. Aminoglycosides have terrible oral bioavailability and must be given IV."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 5,
-"category": "Antimicrobial Principles: PK/PD Parameters",
-"questionText": "A patient with MRSA bacteremia is receiving vancomycin. The pharmacist is adjusting the dose to achieve a 24-hour AUC/MIC ratio of 400-600. Which of the following drug classes shares this same AUC/MIC target for optimal efficacy?",
-"options": [
-{"text": "Beta-lactams (e.g., Penicillin)", "explanation": "Beta-lactams are time-dependent, and their parameter is T > MIC."},
-{"text": "Aminoglycosides (e.g., Gentamicin)", "explanation": "Aminoglycosides are concentration-dependent, and their primary parameter is C<sub>max</sub>/MIC."},
-{"text": "Fluoroquinolones (e.g., Levofloxacin)", "explanation": "Correct. Fluoroquinolones (and tetracyclines) are like vancomycin in that their efficacy is correlated with the total 24-hour exposure, or AUC/MIC."},
-{"text": "Macrolides (e.g., Azithromycin)", "explanation": "Macrolides are time-dependent, and their parameter is T > MIC."},
-{"text": "Clindamycin", "explanation": "Clindamycin is time-dependent, and its parameter is T > MIC."}
-],
-"correctAnswerIndex": 2,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 6,
-"category": "Antimicrobial Principles: Synergy",
-"questionText": "A 62-year-old male is diagnosed with enterococcal endocarditis. The physician starts combination therapy with ampicillin and gentamicin. What is the pharmacodynamic rationale for this synergistic combination?",
-"options": [
-{"text": "Both drugs inhibit the 30S ribosomal subunit, leading to a synergistic blockade.", "explanation": "This is incorrect. Ampicillin is a beta-lactam that inhibits the cell wall; gentamicin inhibits the 30S ribosome."},
-{"text": "Ampicillin inhibits the beta-lactamase enzyme that would otherwise destroy gentamicin.", "explanation": "This is incorrect. Gentamicin is not a beta-lactam and is not destroyed by beta-lactamase."},
-{"text": "Gentamicin inhibits the patient's CYP450 enzymes, increasing the half-life of ampicillin.", "explanation": "This is incorrect. This describes a pharmacokinetic interaction, and the synergy is pharmacodynamic at the bacteria."},
-{"text": "Ampicillin inhibits cell wall synthesis, which facilitates the intracellular entry of gentamicin.", "explanation": "Correct. Ampicillin (a cell wall inhibitor) damages the bacterial cell wall, which allows the aminoglycoside (gentamicin) to penetrate the cell in greater concentrations and reach its intracellular target (the ribosome)."},
-{"text": "Both drugs are bacteriostatic, and their combined effect becomes bactericidal.", "explanation": "This is incorrect. Both ampicillin and gentamicin are individually bactericidal agents."}
-],
-"correctAnswerIndex": 3,
-"slideImagePath": "images/L119_p_page-0031.jpg"
-},
-{
-"id": 7,
-"category": "Antimicrobial Principles: Antagonism",
-"questionText": "A patient is admitted with a severe pneumococcal pneumonia. The physician considers combination therapy with penicillin G (a bactericidal agent) and tetracycline (a bacteriostatic agent). Why is this combination generally considered antagonistic and avoided in severe infections?",
-"options": [
-{"text": "Tetracycline chelates the penicillin in the IV bag, inactivating it.", "explanation": "This is incorrect. While chelation is an issue for tetracyclines and cations, it is not the mechanism of antagonism with penicillin."},
-{"text": "Both drugs compete for the same PBP target site on the cell wall.", "explanation": "This is incorrect. Tetracycline's target is the 30S ribosome, not the PBP."},
-{"text": "Tetracycline inhibits protein synthesis, which stops bacterial growth, preventing penicillin from working.", "explanation": "Correct. Bactericidal agents like penicillin only work on actively dividing bacteria (i.e., those synthesizing new cell walls). A bacteriostatic agent like tetracycline stops cell growth and division, thereby preventing the bactericidal agent from killing the bacteria."},
-{"text": "Penicillin induces the metabolism of tetracycline, leading to subtherapeutic levels.", "explanation": "This is incorrect. This describes a pharmacokinetic (metabolic) interaction, whereas the antagonism is pharmacodynamic."},
-{"text": "Both drugs are bactericidal, and their combined effect leads to rapid cell lysis and toxicity.", "explanation": "This is incorrect. Tetracycline is bacteriostatic, not bactericidal."}
-],
-"correctAnswerIndex": 2,
-"slideImagePath": "images/L119_p_page-0020.jpg"
-},
-{
-"id": 8,
-"category": "Antimicrobial Principles: Empiric Therapy",
-"questionText": "A 70-year-old nursing home resident is brought to the ED with a 104°F fever, hypotension, and altered mental status. Sepsis is suspected. The physician immediately orders blood cultures and starts broad-spectrum IV antibiotics (vancomycin and piperacillin-tazobactam) *before* an organism is identified. This strategy is known as:",
-"options": [
-{"text": "Prophylactic therapy", "explanation": "This is incorrect. Prophylaxis is given to *prevent* an infection (e.g., before surgery), not to *treat* a suspected, active one."},
-{"text": "Definitive therapy", "explanation": "This is incorrect. Definitive therapy is narrow-spectrum treatment started *after* the organism and its sensitivities are known."},
-{"text": "Empiric therapy", "explanation": "Correct. Empiric therapy is the use of broad-spectrum antibiotics to treat a severe, active infection *before* the pathogen has been identified, based on the most likely organisms."},
-{"text": "De-escalation therapy", "explanation": "This is incorrect. De-escalation is the *process of switching* from broad-spectrum empiric therapy to narrow-spectrum definitive therapy."},
-{"text": "Synergistic therapy", "explanation": "While this combination *is* synergistic, the *strategy* of treating before identification is called empiric therapy."}
-],
-"correctAnswerIndex": 2,
-"slideImagePath": "images/L119_p_page-0030.jpg"
-},
-{
-"id": 9,
-"category": "Antimicrobial Principles: Definitive Therapy",
-"questionText": "A 70-year-old patient with sepsis was empirically started on vancomycin and piperacillin-tazobactam. 48 hours later, his blood cultures grow *E. coli* that is sensitive to ceftriaxone but resistant to ampicillin. The physician stops the vancomycin and piperacillin-tazobactam and starts ceftriaxone. This process of narrowing the antibiotic coverage is best described as:",
-"options": [
-{"text": "Prophylaxis", "explanation": "This is incorrect. This is an active treatment, not prevention."},
-{"text": "Empiric therapy", "explanation": "This is incorrect. The empiric (broad-spectrum) therapy is what is being *stopped*."},
-{"text": "De-escalation (Definitive therapy)", "explanation": "Correct. De-escalation is the process of switching from broad-spectrum empiric therapy to a narrow-spectrum agent (definitive therapy) once the pathogen and its sensitivities are known."},
-{"text": "Antagonistic therapy", "explanation": "This is incorrect. Antagonism is when two drugs inhibit each other's effects."},
-{"text": "Bacteriostatic therapy", "explanation": "This is incorrect. Ceftriaxone is a bactericidal agent."}
-],
-"correctAnswerIndex": 2,
-"slideImagePath": "images/L119_p_page-0030.jpg"
-},
-{
-"id": 10,
-"category": "Antimicrobial Principles: Resistance",
-"questionText": "A patient has a UTI with *E. coli* that is resistant to ampicillin, but *sensitive* to amoxicillin-clavulanate. What is the most likely mechanism of resistance this organism possesses?",
-"options": [
-{"text": "Modification of the PBP target site.", "explanation": "This is the mechanism for MRSA and penicillin-resistant Strep pneumo. If the PBP were modified, the clavulanate would not restore amoxicillin's activity."},
-{"text": "Enzymatic inactivation via beta-lactamase production.", "explanation": "Correct. The organism produces a beta-lactamase enzyme that destroys ampicillin. Adding clavulanate (a beta-lactamase inhibitor) protects the amoxicillin, restoring its activity."},
-{"text": "Overexpression of an efflux pump.", "explanation": "While a possible mechanism, the specific sensitivity to the amoxicillin/clavulanate combination strongly points to beta-lactamase production."},
-{"text": "Alteration of the 30S ribosomal subunit.", "explanation": "This is a mechanism of resistance for tetracyclines or aminoglycosides, not beta-lactams."},
-{"text": "Decreased porin channel expression.", "explanation": "This is a common resistance mechanism in *Pseudomonas* but is less likely to be reversed by clavulanate alone."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0016.jpg"
-},
-{
-"id": 11,
-"category": "Antimicrobial Principles: Resistance",
-"questionText": "A patient is diagnosed with MRSA (Methicillin-Resistant *Staphylococcus aureus*). This organism's resistance to all beta-lactams (like methicillin and nafcillin) is due to which molecular mechanism?",
-"options": [
-{"text": "Production of a high-level beta-lactamase enzyme.", "explanation": "This is incorrect. While some *S. aureus* produce beta-lactamase (making them resistant to penicillin), MRSA resistance is due to target site modification."},
-{"text": "Alteration of the drug target (Penicillin-Binding Protein).", "explanation": "Correct. MRSA has acquired the *mecA* gene, which codes for an altered target, PBP2a. This new PBP has a low affinity for beta-lactams, rendering them ineffective."},
-{"text": "Overexpression of an efflux pump that removes beta-lactams.", "explanation": "This is incorrect. Efflux pumps are a major mechanism for other bacteria (like *Pseudomonas*) but not the defining feature of MRSA."},
-{"text": "Inability of the beta-lactam to penetrate the gram-positive cell wall.", "explanation": "This is incorrect. Beta-lactams are generally very effective at penetrating gram-positive cell walls."},
-{"text": "Alteration of the 30S ribosomal subunit.", "explanation": "This is a mechanism of resistance for tetracyclines or aminoglycosides, not beta-lactams."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0016.jpg"
-},
-{
-"id": 12,
-"category": "Antimicrobial Principles: Resistance",
-"questionText": "A *Pseudomonas aeruginosa* isolate from a cystic fibrosis patient is found to be resistant to tetracyclines, fluoroquinolones, and several beta-lactams. What is the *most likely* single mechanism that could confer this multi-drug resistance phenotype?",
-"options": [
-{"text": "Modification of the PBP target site.", "explanation": "This would only confer resistance to beta-lactams, not tetracyclines or fluoroquinolones."},
-{"text": "Production of a beta-lactamase.", "explanation": "This would only confer resistance to beta-lactams."},
-{"text": "Modification of the 30S ribosomal subunit.", "explanation": "This would only confer resistance to tetracyclines."},
-{"text": "Decreased drug accumulation via porin mutations or efflux pumps.", "explanation": "Correct. Mechanisms that decrease drug accumulation, such as mutating porin channels (to block entry) or overexpressing multi-drug efflux pumps (to pump drugs out), can confer resistance to multiple, unrelated drug classes simultaneously."},
-{"text": "Enzymatic inactivation of all three drug classes.", "explanation": "It is highly unlikely for a single enzyme to be able to inactivate three structurally distinct drug classes."}
-],
-"correctAnswerIndex": 3,
-"slideImagePath": "images/L119_p_page-0015.jpg"
-},
-{
-"id": 13,
-"category": "Antimicrobial Principles: MIC/MBC",
-"questionText": "A patient with *Enterococcus faecalis* endocarditis is being treated with ampicillin. The lab report shows the MIC is 2 mcg/mL and the MBC is 4 mcg/mL. How is this relationship (MBC near MIC) interpreted?",
-"options": [
-{"text": "The drug is bacteriostatic for this organism.", "explanation": "This would be true if the MBC was much greater than the MIC, or not achievable."},
-{"text": "The drug is bactericidal for this organism.", "explanation": "Correct. A bactericidal agent is defined as one where the MBC (concentration that *kills*) is at or very near (e.g., ≤ 4x) the MIC (concentration that *inhibits*)."},
-{"text": "The organism is 'tolerant' to ampicillin.", "explanation": "Tolerance is defined as an MBC that is *much greater* (e.g., ≥ 32x) than the MIC."},
-{"text": "The drug's efficacy is concentration-dependent.", "explanation": "This is incorrect. Ampicillin is a beta-lactam, and its efficacy is *time-dependent* (T > MIC)."},
-{"text": "The drug's efficacy is dependent on AUC/MIC.", "explanation": "This parameter is used for drugs like vancomycin or fluoroquinolones."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0017.jpg"
-},
-{
-"id": 14,
-"category": "Antimicrobial Principles: MIC/MBC",
-"questionText": "A lab tests an organism against vancomycin. The report shows an MIC of 1 mcg/mL, but an MBC of >32 mcg/mL. This large discrepancy between the MIC and MBC defines what bacterial characteristic?",
-"options": [
-{"text": "Bactericidal activity", "explanation": "Bactericidal activity would be indicated if the MBC was near the MIC (e.g., 1, 2, or 4 mcg/mL)."},
-{"text": "Tolerance", "explanation": "Correct. Tolerance is a phenomenon where a drug is able to *inhibit* bacteria (a low MIC) but is unable to *kill* them (a very high MBC). This MBC:MIC ratio of ≥ 32 is a classic definition of tolerance."},
-{"text": "Synergy", "explanation": "Synergy is an interaction between *two* drugs, not a property of one drug against one organism."},
-{"text": "High-level resistance", "explanation": "If the organism had high-level resistance, the *MIC* itself would be very high (e.g., >16 mcg/mL)."},
-{"text": "Post-Antibiotic Effect (PAE)", "explanation": "PAE is the suppression of growth *after* the drug is removed; it is not the same as tolerance."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0017.jpg"
-},
-{
-"id": 15,
-"category": "Antimicrobial Principles: Prophylaxis",
-"questionText": "A 65-year-old male is scheduled for a coronary artery bypass graft (CABG) surgery. The surgeon orders IV cefazolin to be administered 30 minutes prior to the first incision. What is this therapeutic strategy called?",
-"options": [
-{"text": "Empiric therapy", "explanation": "This is incorrect. Empiric therapy is broad-spectrum treatment for a *suspected, active* infection."},
-{"text": "Definitive therapy", "explanation": "This is incorrect. Definitive therapy is narrow-spectrum treatment for a *known, active* infection."},
-{"text": "De-escalation therapy", "explanation": "This is incorrect. This is the process of switching from empiric to definitive therapy."},
-{"text": "Surgical prophylaxis", "explanation": "Correct. This is the administration of an antibiotic *before* a procedure to *prevent* a potential infection (e.g., from skin flora) at the surgical site."},
-{"text": "Bactericidal therapy", "explanation": "While cefazolin *is* bactericidal, the *strategy* of giving it before an incision to prevent infection is called prophylaxis."}
-],
-"correctAnswerIndex": 3,
-"slideImagePath": "images/L119_p_page-0030.jpg"
-},
-{
-"id": 16,
-"category": "Antimicrobial Principles: Host Factors",
-"questionText": "A 22-year-old pregnant woman is diagnosed with a urinary tract infection. The physician must select an antibiotic that is safe for both the patient and the fetus. Which host factor is the primary consideration in this case?",
-"options": [
-{"text": "Immune system status", "explanation": "Assuming she is immunocompetent, this is not the primary concern. The safety of the fetus (avoiding teratogens) is paramount."},
-{"text": "Pregnancy (risk of teratogenicity)", "explanation": "Correct. Pregnancy is a critical host factor, as many antibiotics (e.g., tetracyclines, fluoroquinolones) are teratogenic and contraindicated."},
-{"text": "Renal function", "explanation": "While important for dosing, her renal function is likely normal; the most critical factor is fetal safety."},
-{"text": "Hepatic function", "explanation": "While important for dosing, her hepatic function is likely normal; the most critical factor is fetal safety."},
-{"text": "Age", "explanation": "Age is a host factor, but in this specific case, 'pregnancy' is the more precise and critical factor."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0029.jpg"
-},
-{
-"id": 17,
-"category": "Antimicrobial Principles: Host Factors",
-"questionText": "An 82-year-old male with an estimated creatinine clearance (CrCl) of 25 mL/min needs to be treated with vancomycin, a drug that is almost exclusively eliminated by the kidneys. Which host factor is most important for determining his dosing regimen?",
-"options": [
-{"text": "Age", "explanation": "Age is the *reason* for his poor renal function, but the *physiologic parameter* that dictates the dose is the renal function itself."},
-{"text": "Hepatic function", "explanation": "This is incorrect. Vancomycin is renally cleared, so hepatic function is not relevant for its dosing."},
-{"text": "Immune system status", "explanation": "This is incorrect. While his immune system may be weakened, the *dosing* is dictated by his poor clearance."},
-{"text": "Renal function (Clearance)", "explanation": "Correct. Renal function (and to a lesser extent, hepatic function) is a critical host factor that dictates drug clearance. This patient's poor renal function will dramatically reduce vancomycin clearance, requiring significant dose reduction or interval extension."},
-{"text": "Pregnancy status", "explanation": "This is not a relevant host factor for this patient."}
-],
-"correctAnswerIndex": 3,
-"slideImagePath": "images/L119_p_page-0029.jpg"
-},
-{
-"id": 18,
-"category": "Antimicrobial Principles: PK/PD Parameters",
-"questionText": "A new antibiotic is being studied. Researchers find that its bactericidal activity is *not* improved by increasing the concentration above 4x the MIC, but its efficacy *is* highly dependent on the percentage of the dosing interval that the concentration is maintained above the MIC. This drug is best classified as:",
-"options": [
-{"text": "Time-dependent (T > MIC)", "explanation": "Correct. This description perfectly defines a time-dependent agent. Its killing is saturated at a low MIC multiple, and the most important parameter for efficacy is the *duration* of time spent above the MIC."},
-{"text": "Concentration-dependent (C<sub>max</sub>/MIC)", "explanation": "This is incorrect. A concentration-dependent agent would show *increased* killing with *increased* concentrations."},
-{"text": "Exposure-dependent (AUC/MIC)", "explanation": "This describes drugs where the *total exposure* matters; the description given (saturation of killing) is the classic definition of a time-dependent agent."},
-{"text": "A drug with a long PAE", "explanation": "A long PAE is a separate property; the description of killing relates to T > MIC."},
-{"text": "A bacteriostatic agent", "explanation": "The question describes *bactericidal* activity, and both static and cidal drugs can be time-dependent."}
-],
-"correctAnswerIndex": 0,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 19,
-"category": "Antimicrobial Principles: PK/PD Parameters",
-"questionText": "A new antibiotic is being studied. Researchers find that the *rate and extent* of bacterial killing increase significantly as the concentration increases from 2x MIC to 64x MIC. This drug's efficacy is best predicted by which parameter?",
-"options": [
-{"text": "T > MIC (Time above MIC)", "explanation": "This is incorrect. A time-dependent drug's killing would *not* increase significantly with higher concentrations (it becomes saturated)."},
-{"text": "C<sub>max</sub>/MIC", "explanation": "Correct. This description perfectly defines a concentration-dependent killer. Efficacy is directly related to how high the peak concentration gets relative to the MIC."},
-{"text": "Minimum Inhibitory Concentration (MIC)", "explanation": "The MIC is the target, not the PK/PD parameter itself that describes the *relationship* between concentration and killing over time."},
-{"text": "Trough concentration", "explanation": "The trough (C<sub>min</sub>) is important for monitoring toxicity (e.g., in aminoglycosides), but the *efficacy* is driven by the peak (C<sub>max</sub>)."},
-{"text": "A short PAE", "explanation": "PAE is a separate property; the description of killing relates to C<sub>max</sub>/MIC."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 20,
-"category": "Antimicrobial Principles: PAE",
-"questionText": "A 68-year-old male is receiving gentamicin (an aminoglycoside) once daily. His peak is 20 mg/L and his trough is <0.5 mg/L. The MIC for the bacteria is 1 mg/L. Despite the concentration being *below* the MIC for several hours of the dosing interval, the bacteria do not regrow. This phenomenon is known as:",
-"options": [
-{"text": "Tolerance", "explanation": "Tolerance is when the MBC is >> MIC, meaning the drug inhibits but doesn't kill well."},
-{"text": "Post-Antibiotic Effect (PAE)", "explanation": "Correct. PAE is the persistent suppression of bacterial growth *after* the antibiotic concentration has fallen below the MIC. Drugs with long PAEs (like aminoglycosides) allow for extended dosing intervals."},
-{"text": "Synergism", "explanation": "Synergism is an interaction between *two* drugs."},
-{"text": "Bacteriostasis", "explanation": "Bacteriostasis is the *inhibition* of growth while the drug is present; PAE is the suppression of growth *after* the drug is gone."},
-{"text": "De-escalation", "explanation": "De-escalation is the strategy of narrowing antibiotic coverage after culture results."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 21,
-"category": "Antimicrobial Principles: Dosing Strategies",
-"questionText": "A patient with Pseudomonas aeruginosa pneumonia (MIC of 4 mg/L) is being treated with piperacillin. This drug has a short half-life and its efficacy is time-dependent (T > MIC). Which dosing regimen would be most effective?",
-"options": [
-{"text": "A single, large dose of 10g once per day.", "explanation": "This strategy is for *concentration-dependent* drugs (like aminoglycosides) to maximize C<sub>max</sub>/MIC. It would be sub-therapeutic for a time-dependent drug."},
-{"text": "A continuous IV infusion of 12g over 24 hours.", "explanation": "Correct. For a time-dependent drug with a short PAE (like a beta-lactam), a continuous infusion is an ideal strategy to maximize the parameter T > MIC."},
-{"text": "A small dose of 1g once per day.", "explanation": "This would be sub-therapeutic in all respects."},
-{"text": "A large dose given orally to maximize AUC/MIC.", "explanation": "Piperacillin is IV-only, and its parameter is T > MIC, not AUC/MIC."},
-{"text": "A bacteriostatic agent, like tetracycline, should be added.", "explanation": "This could be *antagonistic*, as the static agent would stop the growth that the beta-lactam needs to be effective."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 22,
-"category": "Antimicrobial Principles: Drug Classes",
-"questionText": "A 30-year-old female has a severe infection. The physician chooses an antibiotic whose efficacy is primarily dependent on the C<sub>max</sub>/MIC ratio and which exhibits a long post-antibiotic effect (PAE). Which of the following drugs fits this description?",
-"options": [
-{"text": "Penicillin G", "explanation": "Penicillin is a time-dependent (T > MIC) agent with a short PAE."},
-{"text": "Vancomycin", "explanation": "Vancomycin's efficacy is generally correlated with AUC/MIC."},
-{"text": "Gentamicin (Aminoglycoside)", "explanation": "Correct. Aminoglycosides are classic concentration-dependent (C<sub>max</sub>/MIC) killers that also exhibit a long PAE."},
-{"text": "Clindamycin", "explanation": "Clindamycin is a time-dependent (T > MIC) agent."},
-{"text": "Cefazolin (Cephalosporin)", "explanation": "Cefazolin is a time-dependent (T > MIC) agent with a short PAE."}
-],
-"correctAnswerIndex": 2,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 23,
-"category": "Antimicrobial Principles: Drug Classes",
-"questionText": "A patient is being treated for community-acquired pneumonia with azithromycin. The efficacy of this drug, like other macrolides, is best correlated with which PK/PD parameter?",
-"options": [
-{"text": "T > MIC (Time above MIC)", "explanation": "Correct. Macrolides, clindamycin, and beta-lactams are all classified as time-dependent agents, where the goal is to maximize the time the concentration is above the MIC."},
-{"text": "C<sub>max</sub>/MIC", "explanation": "This parameter is for concentration-dependent agents like aminoglycosides and fluoroquinolones."},
-{"text": "AUC/MIC", "explanation": "This parameter is for agents like vancomycin, fluoroquinolones, and tetracyclines."},
-{"text": "Minimum Bactericidal Concentration (MBC)", "explanation": "MBC is a static lab value, not a dynamic PK/PD parameter used for dosing strategy."},
-{"text": "A long Post-Antibiotic Effect (PAE)", "explanation": "While macrolides do have a PAE, their primary efficacy driver is T > MIC."}
-],
-"correctAnswerIndex": 0,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 24,
-"category": "Antimicrobial Principles: Drug Classes",
-"questionText": "A patient with a MRSA skin infection is being treated with vancomycin. The pharmacist notes that vancomycin is a time-dependent killer, but its efficacy is *best* optimized by targeting which parameter to achieve a goal of >400?",
-"options": [
-{"text": "C<sub>max</sub>/MIC", "explanation": "This parameter is for concentration-dependent agents like aminoglycosides."},
-{"text": "T > MIC (Time above MIC)", "explanation": "While vancomycin *is* time-dependent, clinical data shows that *total exposure* (AUC/MIC) is a better predictor of outcome for MRSA than just T > MIC."},
-{"text": "AUC/MIC", "explanation": "Correct. Although vancomycin is a time-dependent killer, its efficacy and dosing are optimized by targeting a 24-hour AUC/MIC ratio, typically >400 for MRSA."},
-{"text": "Minimum Bactericidal Concentration (MBC)", "explanation": "MBC is a lab value, not the PK/PD parameter used for dosing optimization."},
-{"text": "A short Post-Antibiotic Effect (PAE)", "explanation": "This is a property of the drug, not the parameter being targeted for dosing."}
-],
-"correctAnswerIndex": 2,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 25,
-"category": "Antimicrobial Principles: Drug Classes",
-"questionText": "A 28-year-old female is treated for a severe skin and soft tissue infection with daptomycin. This drug's efficacy is optimized by achieving a high peak concentration. Which PK/PD parameter is the primary target for daptomycin?",
-"options": [
-{"text": "T > MIC (Time above MIC)", "explanation": "This parameter is for time-dependent killers like beta-lactams and macrolides."},
-{"text": "C<sub>max</sub>/MIC", "explanation": "Correct. Daptomycin is a concentration-dependent bactericidal agent, and its efficacy is optimized by maximizing the peak-to-MIC ratio (C<sub>max</sub>/MIC)."},
-{"text": "AUC/MIC", "explanation": "This parameter is also used for daptomycin, but C<sub>max</sub>/MIC is the primary driver of its concentration-dependent killing."},
-{"text": "A short Post-Antibiotic Effect (PAE)", "explanation": "Daptomycin has a long PAE, which is consistent with its concentration-dependent killing profile."},
-{"text": "Bacteriostatic activity", "explanation": "Daptomycin is a potent *bactericidal* agent."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 26,
-"category": "Antimicrobial Principles: Drug Classes",
-"questionText": "A 19-year-old is treated for atypical pneumonia with doxycycline. This drug is known to be bacteriostatic and its efficacy is correlated with the total 24-hour drug exposure. Which PK/PD parameter is the primary target for tetracyclines?",
-"options": [
-{"text": "T > MIC (Time above MIC)", "explanation": "This parameter is for time-dependent killers like beta-lactams."},
-{"text": "C<sub>max</sub>/MIC", "explanation": "This parameter is for concentration-dependent killers like aminoglycosides."},
-{"text": "AUC/MIC", "explanation": "Correct. Tetracyclines (like doxycycline) are bacteriostatic, time-dependent agents whose efficacy is best predicted by the total drug exposure over 24 hours, or the AUC/MIC ratio."},
-{"text": "Bactericidal activity", "explanation": "Tetracyclines are the classic example of a *bacteriostatic* agent."},
-{"text": "A short Post-Antibiotic Effect (PAE)", "explanation": "Tetracyclines generally have a moderate to long PAE."}
-],
-"correctAnswerIndex": 2,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 27,
-"category": "Antimicrobial Principles: Prophylaxis",
-"questionText": "A 24-year-old woman with a history of a prosthetic mitral valve requires a dental extraction. The dentist prescribes amoxicillin to be taken 1 hour before the procedure. What is the rationale for this prescription?",
-"options": [
-{"text": "Empiric therapy for an active dental abscess.", "explanation": "This is incorrect. This is *prophylaxis* to *prevent* a future infection, not *empiric therapy* to *treat* a current one."},
-{"text": "Prophylaxis against infective endocarditis.", "explanation": "Correct. Dental procedures can cause transient bacteremia. In a patient with a high-risk cardiac lesion (like a prosthetic valve), prophylaxis is given to prevent these bacteria from seeding the valve and causing infective endocarditis."},
-{"text": "Definitive therapy for *Streptococcus viridans*.", "explanation": "This is incorrect. This is prophylaxis, not definitive therapy, as there is no active infection."},
-{"text": "Treatment for a synergistic oral infection.", "explanation": "This is incorrect. The goal is prevention (prophylaxis) of a *cardiac* infection, not treatment of an oral one."},
-{"text": "To prevent a Type III (serum sickness) reaction to the dental procedure.", "explanation": "This is incorrect. Serum sickness is an immune complex disease, unrelated to this indication."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0031.jpg"
-},
-{
-"id": 28,
-"category": "Antimicrobial Principles: Host Factors",
-"questionText": "A 50-year-old patient with end-stage liver disease (cirrhosis) develops an infection. The physician must choose an antibiotic. Which of the following drugs would require the *least* amount of dose adjustment in this patient?",
-"options": [
-{"text": "Clindamycin", "explanation": "Clindamycin is primarily metabolized by the liver, so it *would* require a significant dose adjustment in liver failure."},
-{"text": "Azithromycin", "explanation": "Azithromycin is primarily eliminated via biliary excretion (hepatic), so it *would* require adjustment or careful monitoring."},
-{"text": "Ceftriaxone", "explanation": "Ceftriaxone has *both* hepatic and renal elimination, so it would likely require adjustment in severe liver failure."},
-{"text": "Penicillin G", "explanation": "Correct. Penicillin G is almost exclusively eliminated by the kidneys. In a patient with *isolated* liver failure (and normal renal function), a drug cleared by the kidneys would require little to no dose adjustment."},
-{"text": "Doxycycline", "explanation": "Doxycycline is eliminated via non-renal/non-hepatic pathways but is also hepatically metabolized to some extent; Penicillin G is the clearest example of a non-hepatically cleared drug."}
-],
-"correctAnswerIndex": 3,
-"slideImagePath": "images/L119_p_page-0029.jpg"
-},
-{
-"id": 29,
-"category": "Antimicrobial Principles: MIC/MBC",
-"questionText": "A microbiology lab reports that the MIC of a new antibiotic for *E. coli* is 2 mcg/mL. What is the most accurate definition of this value?",
-"options": [
-{"text": "The concentration that kills 50% of the bacteria.", "explanation": "This is incorrect. MIC is about *inhibiting growth*, not killing."},
-{"text": "The concentration that kills 99.9% of the bacteria.", "explanation": "This is the definition of the Minimum Bactericidal Concentration (MBC), not the MIC."},
-{"text": "The lowest concentration of the drug that *inhibits visible growth* of the organism.", "explanation": "Correct. The MIC is the *minimum inhibitory concentration*, which is the lowest concentration that prevents visible bacterial growth after a set incubation period."},
-{"text": "The concentration that is 4x the MBC.", "explanation": "This is incorrect. The MBC is typically equal to or *greater* than the MIC."},
-{"text": "The peak plasma concentration (C<sub>max</sub>) that should be achieved in a patient.", "explanation": "This is incorrect. The MIC is a *lab value* (the target), not the drug concentration achieved in the patient."}
-],
-"correctAnswerIndex": 2,
-"slideImagePath": "images/L119_p_page-0017.jpg"
-},
-{
-"id": 30,
-"category": "Antimicrobial Principles: Dosing Strategies",
-"questionText": "A 70-year-old patient has a gram-negative infection. The physician chooses gentamicin (an aminoglycoside) and doses it as a single 7 mg/kg dose once daily. This strategy (C<sub>max</sub>/MIC) is preferred over smaller, more frequent doses NOT just for efficacy, but also because it minimizes toxicity. What is the mechanism for this *reduced toxicity*?",
-"options": [
-{"text": "It keeps the concentration above the MIC for 100% of the dosing interval.", "explanation": "This is incorrect. Once-daily dosing results in a concentration *below* the MIC for a significant portion of the interval."},
-{"text": "It allows for a long *trough-free* period, permitting the drug to wash out of renal and cochlear tissues.", "explanation": "Correct. Aminoglycoside toxicity (nephrotoxicity, ototoxicity) is related to prolonged exposure. A once-daily dose provides a long interval where the concentration is very low (a 'washout' period), which is less toxic to the kidneys and inner ear than a continuous high trough."},
-{"text": "It prevents the drug from binding to plasma proteins.", "explanation": "This is incorrect. Aminoglycosides have very low protein binding regardless of the dosing strategy."},
-{"text": "It causes rapid CYP450 induction, which clears the drug before it can cause harm.", "explanation": "This is incorrect. Aminoglycosides are cleared renally, not by CYP4T50 enzymes."},
-{"text": "It switches the drug from bactericidal to bacteriostatic, which is less toxic.", "explanation": "This is incorrect. The drug remains bactericidal, and this strategy is *more* bactericidal."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 31,
-"category": "Antimicrobial Principles: Cidal vs. Static",
-"questionText": "A 30-year-old immunocompetent patient has a non-life-threatening community-acquired skin infection. The physician prescribes doxycycline (a bacteriostatic agent). This is an appropriate choice in this patient for what reason?",
-"options": [
-{"text": "The patient's functional immune system is expected to clear the inhibited bacteria.", "explanation": "Correct. In an immunocompetent patient with a non-severe infection, a bacteriostatic agent is often sufficient because it stops bacterial replication, allowing the host's own immune system to clear the infection."},
-{"text": "Doxycycline is actually a potent bactericidal agent.", "explanation": "This is incorrect. Doxycycline (a tetracycline) is a classic bacteriostatic agent."},
-{"text": "Doxycycline's efficacy is driven by a high C<sub>max</sub>/MIC ratio.", "explanation": "This is incorrect. Doxycycline's efficacy parameter is AUC/MIC."},
-{"text": "Doxycycline has a very short PAE, requiring frequent dosing.", "explanation": "This is incorrect. Tetracyclines have a moderate to long PAE."},
-{"text": "The drug must be given IV to be effective.", "explanation": "This is incorrect. Doxycycline has excellent oral bioavailability and is commonly given PO."}
-],
-"correctAnswerIndex": 0,
-"slideImagePath": "images/L119_p_page-0020.jpg"
-},
-{
-"id": 32,
-"category": "Antimicrobial Principles: Cidal vs. Static",
-"questionText": "A patient is diagnosed with bacterial meningitis. This is a life-threatening infection in a site with poor immune access (the CNS). Which class of antibiotic is *required* for this patient?",
-"options": [
-{"text": "Bacteriostatic", "explanation": "This is incorrect. Bacteriostatic agents are insufficient for severe, deep-seated infections like meningitis because they rely on a host immune system that has poor access to the CNS."},
-{"text": "Bactericidal", "explanation": "Correct. Life-threatening infections in immunocompromised sites, such as endocarditis or meningitis, *require* a bactericidal agent that can kill the bacteria without assistance from the host immune system."},
-{"text": "A drug with T > MIC", "explanation": "While the chosen drug (e.g., ceftriaxone) *is* time-dependent, the *essential characteristic* required for this *type* of infection is that it must be bactericidal."},
-{"text": "A drug with a long PAE", "explanation": "This is not the primary requirement; many bactericidal agents used for meningitis (like beta-lactams) have a *short* PAE."},
-{"text": "A drug with a low Vd", "explanation": "A drug for meningitis must cross the blood-brain barrier, which is a *distribution* characteristic, but the *killing* characteristic required is cidal."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0020.jpg"
-},
-{
-"id": 33,
-"category": "Antimicrobial Principles: PK/PD Parameters",
-"questionText": "A 45-year-old man has a severe soft tissue infection. The physician chooses clindamycin. The efficacy of this bacteriostatic, time-dependent antibiotic is best predicted by which parameter?",
-"options": [
-{"text": "C<sub>max</sub>/MIC", "explanation": "This parameter is for concentration-dependent agents like aminoglycosides."},
-{"text": "AUC/MIC", "explanation": "This parameter is for agents like vancomycin or fluoroquinolones."},
-{"text": "T > MIC", "explanation": "Correct. Clindamycin's efficacy is time-dependent, meaning the duration of time the concentration is maintained above the MIC is the key driver of its effect."},
-{"text": "MBC/MIC ratio", "explanation": "This ratio defines tolerance, it is not the PK/PD parameter used for dosing."},
-{"text": "Serum trough concentration", "explanation": "Trough concentration is a single data point, whereas T > MIC describes the duration of the entire dosing interval."}
-],
-"correctAnswerIndex": 2,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 34,
-"category": "Antimicrobial Principles: PK/PD Parameters",
-"questionText": "A physician is reviewing the properties of beta-lactam antibiotics (e.g., penicillins, cephalosporins). Which two properties *best* describe their pharmacodynamic and pharmacokinetic profile?",
-"options": [
-{"text": "Time-dependent (T > MIC) killing and a long PAE.", "explanation": "This is incorrect. Beta-lactams are time-dependent, but they have a *short* or minimal PAE."},
-{"text": "Time-dependent (T > MIC) killing and a short PAE.", "explanation": "Correct. Beta-lactams are classic time-dependent (T > MIC) agents that have a minimal or short PAE, which is why their concentration must be maintained above the MIC for as long as possible."},
-{"text": "Concentration-dependent (C<sub>max</sub>/MIC) killing and a long PAE.", "explanation": "This describes aminoglycosides, not beta-lactams."},
-{"text": "Concentration-dependent (C<sub>max</sub>/MIC) killing and a short PAE.", "explanation": "This is incorrect. Beta-lactams are time-dependent."},
-{"text": "AUC/MIC killing and a long PAE.", "explanation": "This describes fluoroquinolones or tetracyclines, not beta-lactams."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 35,
-"category": "Antimicrobial Principles: Host Factors",
-"questionText": "A patient with severe end-stage renal disease (ESRD) on hemodialysis develops an infection. The physician must prescribe an antibiotic. Which of the following drugs would be *most* affected by the patient's ESRD and require significant dose adjustment?",
-"options": [
-{"text": "Gentamicin", "explanation": "Correct. Gentamicin (an aminoglycoside) is almost 100% eliminated by the kidneys (renal excretion). In a patient with renal failure, clearance is dramatically reduced, and the dosing interval must be significantly extended to prevent toxicity."},
-{"text": "Clindamycin", "explanation": "This is incorrect. Clindamycin is primarily eliminated by the *liver* and would not require significant adjustment for *renal* failure."},
-{"text": "Azithromycin", "explanation": "This is incorrect. Azithromycin is primarily eliminated by the *liver* (biliary excretion) and would not require significant adjustment for *renal* failure."},
-{"text": "Doxycycline", "explanation": "This is incorrect. Doxycycline is unique among tetracyclines in that it is eliminated by non-renal routes and generally does not require dose adjustment in renal failure."},
-{"text": "Ceftriaxone", "explanation": "This is incorrect. Ceftriaxone is unique among cephalosporins in that it has *dual* elimination (renal and hepatic) and typically does not require dose adjustment in *isolated* renal failure."}
-],
-"correctAnswerIndex": 0,
-"slideImagePath": "images/L119_p_page-0029.jpg"
-},
-{
-"id": 36,
-"category": "Antimicrobial Principles: Host Factors",
-"questionText": "A 40-year-old patient with acute liver failure (fulminant hepatitis) develops a bloodstream infection. The physician must prescribe an antibiotic. Which of the following drugs would be *most* affected by the patient's liver failure and require significant dose adjustment?",
-"options": [
-{"text": "Gentamicin", "explanation": "This is incorrect. Gentamicin is cleared by the *kidneys* and would not be affected by liver failure."},
-{"text": "Vancomycin", "explanation": "This is incorrect. Vancomycin is cleared by the *kidneys* and would not be affected by liver failure."},
-{"text": "Clindamycin", "explanation": "Correct. Clindamycin is extensively metabolized by the *liver*. In a patient with acute liver failure, clearance will be dramatically reduced, requiring a significant dose reduction to prevent toxicity."},
-{"text": "Penicillin G", "explanation": "This is incorrect. Penicillin G is cleared by the *kidneys* and would not be affected by liver failure."},
-{"text": "Levofloxacin", "explanation": "This is incorrect. Levofloxacin is primarily cleared by the *kidneys*."}
-],
-"correctAnswerIndex": 2,
-"slideImagePath": "images/L119_p_page-0029.jpg"
-},
-{
-"id": 37,
-"category": "Antimicrobial Principles: Definitions",
-"questionText": "A patient has an infection with a 'tolerant' organism. How is this *different* from a 'resistant' organism?",
-"options": [
-{"text": "A 'tolerant' organism has a high MIC and a high MBC.", "explanation": "This describes a 'resistant' organism, where the drug is ineffective at inhibiting growth."},
-{"text": "A 'tolerant' organism has a low MIC but a very high MBC.", "explanation": "Correct. Resistance means the drug cannot *inhibit* (high MIC). Tolerance means the drug *can inhibit* (low MIC) but cannot *kill* (high MBC)."},
-{"text": "A 'tolerant' organism produces beta-lactamase, while a 'resistant' one alters its PBPs.", "explanation": "These are both mechanisms of *resistance*, not tolerance."},
-{"text": "A 'tolerant' organism is only seen in immunocompromised patients.", "explanation": "Tolerance is a property of the bacterium-drug interaction, though it is *clinically relevant* in immunocompromised patients."},
-{"text": "There is no difference; the terms are synonymous.", "explanation": "This is incorrect. The terms describe two distinct phenomena (inhibition vs. killing)."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0017.jpg"
-},
-{
-"id": 38,
-"category": "Antimicrobial Principles: Dosing Strategies",
-"questionText": "A patient with meningitis is receiving a continuous infusion of ceftriaxone, a time-dependent (T > MIC) bactericidal agent. Which statement best explains the rationale for this dosing strategy?",
-"options": [
-{"text": "To achieve a very high C<sub>max</sub>/MIC ratio to maximize concentration-dependent killing.", "explanation": "This is the strategy for *concentration-dependent* drugs. A continuous infusion *minimizes* the C<sub>max</sub>."},
-{"text": "To prevent the development of tolerance (MBC >> MIC).", "explanation": "Dosing strategy does not typically prevent tolerance, which is an intrinsic property of the bug."},
-{"text": "To maximize the T > MIC, as the drug has a minimal PAE and bacteria regrow when levels drop.", "explanation": "Correct. Beta-lactams are time-dependent and have a short PAE. A continuous infusion ensures the concentration *never* drops below the MIC, maximizing the T > MIC parameter and preventing bacterial regrowth."},
-{"text": "To target the AUC/MIC ratio, which is the primary goal for ceftriaxone.", "explanation": "This is incorrect. The primary parameter for beta-lactams is T > MIC."},
-{"text": "To minimize the risk of a Type B idiosyncratic reaction.", "explanation": "This is incorrect. Dosing strategy does not typically alter the risk of a Type B reaction."}
-],
-"correctAnswerIndex": 2,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 39,
-"category": "Antimicrobial Principles: Dosing Strategies",
-"questionText": "A patient with a *Pseudomonas* infection (MIC = 2 mg/L) is given tobramycin (an aminoglycoside). Which dosing strategy would be *most* effective and *least* toxic?",
-"options": [
-{"text": "2 mg/kg IV every 8 hours (traditional dosing)", "explanation": "This traditional dosing maintains a high trough, which is associated with *more* nephrotoxicity, and a lower peak, which is *less* effective for a concentration-dependent killer."},
-{"text": "7 mg/kg IV every 24 hours (once-daily dosing)", "explanation": "Correct. This 'high-dose, extended-interval' strategy maximizes the C<sub>max</sub>/MIC (efficacy), while providing a long, low-trough washout period that *reduces* nephrotoxicity."},
-{"text": "A continuous IV infusion over 24 hours.", "explanation": "This is the *worst* strategy for an aminoglycoside. It provides no peak (losing efficacy) and no trough (maximizing toxicity)."},
-{"text": "500 mg orally every 12 hours.", "explanation": "Aminoglycosides are not absorbed orally and must be given IV for systemic infections."},
-{"text": "A bacteriostatic agent (e.g., tetracycline) given concurrently.", "explanation": "This could be antagonistic and is not a dosing strategy for the aminoglycoside itself."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 40,
-"category": "Antimicrobial Principles: Definitions",
-"questionText": "A patient is admitted for osteomyelitis (a bone infection). The physician insists on using a bactericidal agent rather than a bacteriostatic one. Which of the following is *not* considered a 'serious infection' where bactericidal agents are strongly preferred?",
-"options": [
-{"text": "Endocarditis", "explanation": "Endocarditis is a classic indication for cidal agents due to poor immune access to valve vegetations."},
-{"text": "Meningitis", "explanation": "Meningitis is a classic indication for cidal agents due to the immunocompromised nature of the CNS."},
-{"text": "Osteomyelitis", "explanation": "Osteomyelitis is a deep-seated infection in bone (a site with poor perfusion/immune access) and is an indication for cidal agents."},
-{"text": "Infection in a neutropenic patient", "explanation": "Neutropenia (lack of immune cells) is a classic indication for cidal agents."},
-{"text": "Uncomplicated cystitis (bladder infection)", "explanation": "Correct. Uncomplicated cystitis is a superficial infection in an immunocompetent host and is routinely and effectively treated with bacteriostatic agents (e.g., nitrofurantoin, TMP-SMX)."}
-],
-"correctAnswerIndex": 4,
-"slideImagePath": "images/L119_p_page-0020.jpg"
-},
-{
-"id": 41,
-"category": "Antimicrobial Principles: PK/PD Parameters",
-"questionText": "Which of the following PK/PD parameters—T > MIC, C<sub>max</sub>/MIC, and AUC/MIC—is considered the primary driver for the efficacy of beta-lactams, such as penicillins and cephalosporins?",
-"options": [
-{"text": "T > MIC (Time above MIC)", "explanation": "Correct. Beta-lactams are time-dependent killers, and their efficacy is best correlated with the duration of time the free drug concentration remains above the MIC."},
-{"text": "C<sub>max</sub>/MIC", "explanation": "This parameter is for concentration-dependent killers like aminoglycosides."},
-{"text": "AUC/MIC", "explanation": "This parameter is for drugs like vancomycin, fluoroquinolones, and tetracyclines."},
-{"text": "MBC (Minimum Bactericidal Concentration)", "explanation": "MBC is a static lab measurement of concentration, not a dynamic PK/PD parameter relating concentration *over time* to efficacy."},
-{"text": "PAE (Post-Antibiotic Effect)", "explanation": "PAE is a *property* that influences dosing frequency, but T > MIC is the *parameter* that drives efficacy for beta-lactams."}
-],
-"correctAnswerIndex": 0,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 42,
-"category": "Antimicrobial Principles: PK/PD Parameters",
-"questionText": "Which of the following PK/PD parameters is the primary driver for the efficacy of aminoglycosides (e.g., gentamicin) and fluoroquinolones (e.g., ciprofloxacin)?",
-"options": [
-{"text": "T > MIC (Time above MIC)", "explanation": "This parameter is for time-dependent killers like beta-lactams."},
-{"text": "C<sub>max</sub>/MIC (or AUC/MIC)", "explanation": "Correct. Both aminoglycosides and fluoroquinolones are concentration-dependent killers, where efficacy is driven by maximizing the peak concentration (C<sub>max</sub>/MIC) or the total exposure (AUC/MIC)."},
-{"text": "MBC (Minimum Bactericidal Concentration)", "explanation": "MBC is a static lab value, not the PK/PD parameter that guides dosing strategy."},
-{"text": "A short PAE (Post-Antibiotic Effect)", "explanation": "This is incorrect. Both of these drug classes have a *long* PAE, which allows for once-daily dosing."},
-{"text": "Bacteriostatic activity only", "explanation": "This is incorrect. Both of these drug classes are potent bactericidal agents."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 43,
-"category": "Antimicrobial Principles: MIC",
-"questionText": "A lab report for a patient's *E. coli* infection shows an MIC of 32 mcg/mL for ampicillin. The patient's physician states that this MIC is too high to be safely achieved in the patient. This organism is best described as:",
-"options": [
-{"text": "Susceptible", "explanation": "Susceptible would imply the MIC is low and easily achievable in the patient."},
-{"text": "Tolerant", "explanation": "Tolerance describes an organism with a low MIC but a high MBC, not one with a high MIC."},
-{"text": "Resistant", "explanation": "Correct. 'Resistant' means the MIC of the drug for that organism is at a level that cannot be safely or effectively achieved in the body."},
-{"text": "Synergistic", "explanation": "Synergy is an interaction between two drugs, not a description of an organism's sensitivity to one drug."},
-{"text": "Bacteriostatic", "explanation": "Bacteriostatic describes the *mechanism* (inhibiting growth); Resistant describes the *sensitivity* (drug won't work)."}
-],
-"correctAnswerIndex": 2,
-"slideImagePath": "images/L119_p_page-0017.jpg"
-},
-{
-"id": 44,
-"category": "Antimicrobial Principles: Definitions",
-"questionText": "A 24-year-old female presents with an uncomplicated urinary tract infection. She is immunocompetent. The physician prescribes trimethoprim-sulfamethoxazole (TMP-SMX), a bacteriostatic agent. This is an appropriate choice because:",
-"options": [
-{"text": "The patient's intact immune system can clear the inhibited bacteria.", "explanation": "Correct. Bacteriostatic agents are appropriate for non-life-threatening infections in patients with a competent immune system."},
-{"text": "TMP-SMX is a concentration-dependent killer.", "explanation": "This is incorrect. TMP-SMX is bacteriostatic (or cidal at high concentrations) and is time-dependent."},
-{"text": "Uncomplicated UTIs require bactericidal agents.", "explanation": "This is incorrect. Severe infections (like pyelonephritis) require cidal agents, but uncomplicated cystitis does not."},
-{"text": "TMP-SMX has a very long PAE, which is necessary for UTIs.", "explanation": "While it has a PAE, the primary reason it's acceptable is the patient's immune status and the non-severe nature of the infection."},
-{"text": "The drug must be given IV to be effective.", "explanation": "This is incorrect. TMP-SMX is given orally for uncomplicated UTIs."}
-],
-"correctAnswerIndex": 0,
-"slideImagePath": "images/L119_p_page-0020.jpg"
-},
-{
-"id": 45,
-"category": "Antimicrobial Principles: Prophylaxis",
-"questionText": "A 45-year-old patient with HIV is found to have a CD4 count of 80 cells/mm³. The physician starts prophylactic therapy with trimethoprim-sulfamethoxazole (TMP-SMX). What is the goal of this therapy?",
-"options": [
-{"text": "To provide empiric therapy for an active *Pneumocystis* pneumonia.", "explanation": "This would be *treatment* (which uses a higher dose), not prophylaxis."},
-{"text": "To provide prophylaxis to *prevent* opportunistic infections like *Pneumocystis* pneumonia (PJP).", "explanation": "Correct. This is non-surgical prophylaxis, where an antibiotic is given to an immunocompromised patient to *prevent* a specific, high-risk opportunistic infection."},
-{"text": "To provide definitive therapy for a *Toxoplasma* infection.", "explanation": "This is incorrect. This is prophylaxis (prevention), not definitive therapy (treatment)."},
-{"text": "To de-escalate from a broader-spectrum antiviral agent.", "explanation": "This is incorrect. This is *initiation* of *prophylaxis*, not de-escalation of treatment."},
-{"text": "To provide synergy with the patient's antiretroviral therapy.", "explanation": "This is incorrect. TMP-SMX does not act synergistically with ARTs; it is for *preventing* separate opportunistic infections."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0031.jpg"
-},
-{
-"id": 46,
-"category": "Antimicrobial Principles: Host Factors",
-"questionText": "A 21-year-old male with no significant medical history presents with a skin abscess. The physician performs an incision and drainage. The physician decides *not* to prescribe antibiotics. What is the most likely rationale for this decision?",
-"options": [
-{"text": "The patient is likely a CYP2D6 ultra-rapid metabolizer, rendering antibiotics ineffective.", "explanation": "This is a very specific and unlikely assumption. The rationale is more likely based on the patient's immune status."},
-{"text": "The patient has a competent immune system and the infection is localized.", "explanation": "Correct. An important host factor is the immune system. For a localized infection (like an abscess) in an immunocompetent patient, source control (incision and drainage) is often sufficient without antibiotics."},
-{"text": "All antibiotics that cover skin flora are bactericidal and thus too toxic.", "explanation": "This is incorrect. Many appropriate antibiotics (e.g., cephalexin, clindamycin) are safe and effective."},
-{"text": "The infection is likely viral, and antibiotics would be ineffective.", "explanation": "An abscess (a collection of pus) is a classic bacterial infection, not viral."},
-{"text": "The MIC of the organism is likely higher than the MBC.", "explanation": "This is impossible; the MBC must be equal to or greater than the MIC."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0029.jpg"
-},
-{
-"id": 47,
-"category": "Antimicrobial Principles: Drug Classes",
-"questionText": "A patient with a *Pseudomonas aeruginosa* infection is being treated with ceftazidime (a beta-lactam). The lab reports an MIC of 8 mcg/mL. The physician chooses to run the drug as a continuous IV infusion. This strategy is chosen because beta-lactams are time-dependent and have what other key property?",
-"options": [
-{"text": "A minimal or short Post-Antibiotic Effect (PAE)", "explanation": "Correct. Because beta-lactams have a short PAE, bacterial regrowth begins almost immediately when the concentration drops below the MIC. Therefore, a continuous infusion is used to ensure the concentration *never* drops below the MIC."},
-{"text": "A long Post-Antibiotic Effect (PAE)", "explanation": "This is incorrect. A long PAE would *allow* for intermittent dosing, as regrowth would still be suppressed below the MIC."},
-{"text": "Concentration-dependent killing", "explanation": "This is incorrect. Beta-lactams are time-dependent, not concentration-dependent."},
-{"text": "Bacteriostatic-only activity", "explanation": "This is incorrect. Beta-lactams are bactericidal."},
-{"text": "Dual renal and hepatic clearance", "explanation": "This is a property of ceftriaxone, not the pharmacodynamic reason for continuous infusion."}
-],
-"correctAnswerIndex": 0,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 48,
-"category": "Antimicrobial Principles: Drug Classes",
-"questionText": "A 50-year-old male with MRSA bacteremia is being dosed with vancomycin. The pharmacist must monitor trough levels to avoid toxicity, but the primary parameter that correlates with *efficacy* for this drug is:",
-"options": [
-{"text": "C<sub>max</sub>/MIC", "explanation": "This is the parameter for aminoglycosides and daptomycin."},
-{"text": "T > MIC", "explanation": "While vancomycin is time-dependent, this is not the *best* parameter for optimizing its dosing."},
-{"text": "AUC/MIC", "explanation": "Correct. Clinical data strongly supports the 24-hour AUC/MIC ratio as the best predictor of efficacy for vancomycin against *Staphylococcus aureus*."},
-{"text": "MBC/MIC ratio", "explanation": "This ratio defines tolerance, it is not the PK/PD parameter used for dosing."},
-{"text": "A long PAE", "explanation": "Vancomycin has a moderate PAE, but this is not the parameter that is calculated for dosing."}
-],
-"correctAnswerIndex": 2,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 49,
-"category": "Antimicrobial Principles: PK/PD Parameters",
-"questionText": "A 33-year-old female has a severe *E. coli* UTI that is resistant to multiple agents. The physician starts levofloxacin (a fluoroquinolone). Which PK/PD parameter best predicts the efficacy of this agent?",
-"options": [
-{"text": "T > MIC", "explanation": "This is the parameter for time-dependent agents like beta-lactams."},
-{"text": "C<sub>max</sub>/MIC or AUC/MIC", "explanation": "Correct. Fluoroquinolones are concentration-dependent killers, and their efficacy is correlated with both the peak (C<sub>max</sub>/MIC) and the total exposure (AUC/MIC)."},
-{"text": "A short PAE", "explanation": "This is incorrect. Fluoroquinolones have a long PAE."},
-{"text": "Bacteriostatic activity", "explanation": "This is incorrect. Fluoroquinolones are bactericidal."},
-{"text": "Low oral bioavailability", "explanation": "This is incorrect. Fluoroquinolones have excellent oral bioavailability."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 50,
-"category": "Antimicrobial Principles: Synergy",
-"questionText": "A patient with a severe, polymicrobial infection is given ampicillin (a beta-lactam) and gentamicin (an aminoglycoside). This combination is known to be synergistic. What is the fundamental mechanism of this synergy at the bacterial cell?",
-"options": [
-{"text": "The two drugs bind together to form a more potent third compound.", "explanation": "This is incorrect. In fact, they should not be mixed in the same IV bag as they can inactivate each other *in vitro*."},
-{"text": "Gentamicin inhibits CYP450 enzymes, increasing the half-life of ampicillin.", "explanation": "This is incorrect. The synergy is pharmacodynamic, not pharmacokinetic."},
-{"text": "Ampicillin inhibits the cell wall, allowing gentamicin to better penetrate the cell.", "explanation": "Correct. Beta-lactams inhibit cell wall synthesis, which facilitates the transport of the aminoglycoside across the cell membrane to its intracellular target (the ribosome)."},
-{"text": "Gentamicin inhibits the 50S ribosome and ampicillin inhibits the 30S ribosome.", "explanation": "This is incorrect. Gentamicin inhibits the 30S ribosome, and ampicillin inhibits cell wall PBP targets."},
-{"text": "Ampicillin inhibits the efflux pump that normally removes gentamicin.", "explanation": "This is incorrect. The mechanism is facilitation of entry, not inhibition of efflux."}
-],
-"correctAnswerIndex": 2,
-"slideImagePath": "images/L119_p_page-0031.jpg"
-},
-{
-"id": 51,
-"category": "Antimicrobial Principles: Antagonism",
-"questionText": "A patient with a *Streptococcus pneumoniae* infection is mistakenly prescribed penicillin (a bactericidal agent) and doxycycline (a bacteriostatic agent). Why is this combination potentially detrimental in a severe infection?",
-"options": [
-{"text": "The bacteriostatic agent will enhance the bactericidal agent, leading to toxicity.", "explanation": "This is incorrect. The interaction is antagonistic, not synergistic."},
-{"text": "The bactericidal agent requires bacterial growth to be effective, which the bacteriostatic agent inhibits.", "explanation": "Correct. Penicillin (a beta-lactam) is bactericidal *only* against growing cells that are synthesizing new cell walls. Doxycycline (a protein synthesis inhibitor) stops this growth, rendering the penicillin ineffective."},
-{"text": "Both drugs compete for the same OAT transporter for renal excretion, leading to toxic levels of both.", "explanation": "This is incorrect. This describes a PK interaction (like probenecid/penicillin), but the primary concern is PD antagonism."},
-{"text": "Doxycycline induces the metabolism of penicillin, leading to treatment failure.", "explanation": "This is incorrect. The interaction is pharmacodynamic at the bacterial level."},
-{"text": "Both drugs target the 30S ribosome, leading to competitive inhibition.", "explanation": "This is incorrect. Penicillin targets the cell wall (PBPs), not the ribosome."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0020.jpg"
-},
-{
-"id": 52,
-"category": "Antimicrobial Principles: Cidal vs. Static",
-"questionText": "A 30-year-old male is diagnosed with meningococcal meningitis, a life-threatening infection of the CNS. Which of the following antibiotics would be an inappropriate *choice* based on its mechanism of action?",
-"options": [
-{"text": "Ceftriaxone (a bactericidal cephalosporin)", "explanation": "This is an *appropriate* choice. Ceftriaxone is bactericidal and is a first-line agent for meningitis."},
-{"text": "Vancomycin (a bactericidal glycopeptide)", "explanation": "This is an *appropriate* choice, often added empirically for resistant *Strep. pneumoniae*."},
-{"text": "Penicillin G (a bactericidal beta-lactam)", "explanation": "This is an *appropriate* choice if the organism is found to be sensitive."},
-{"text": "Doxycycline (a bacteriostatic tetracycline)", "explanation": "Correct. Doxycycline is *bacteriostatic*. Serious, deep-seated infections in immunocompromised sites like the CNS *require* bactericidal agents for a cure."},
-{"text": "Meropenem (a bactericidal carbapenem)", "explanation": "This is an *appropriate* choice. Meropenem is a broad-spectrum bactericidal agent used for severe infections."}
-],
-"correctAnswerIndex": 3,
-"slideImagePath": "images/L119_p_page-0020.jpg"
-},
-{
-"id": 53,
-"category": "Antimicrobial Principles: Resistance",
-"questionText": "A *Klebsiella pneumoniae* strain is isolated that produces an Extended-Spectrum Beta-Lactamase (ESBL). This mechanism of resistance allows the bacterium to inactivate penicillins as well as third-generation cephalosporins (e.g., ceftriaxone). This is an example of which *class* of resistance mechanism?",
-"options": [
-{"text": "Enzymatic inactivation of the drug", "explanation": "Correct. Beta-lactamases (including ESBLs) are enzymes produced by the bacteria that hydrolyze and *inactivate* the beta-lactam antibiotic."},
-{"text": "Modification of the drug target site", "explanation": "This describes mechanisms like MRSA (PBP alteration) or VRE (D-Ala-D-Lac), not ESBL."},
-{"text": "Decreased drug accumulation (efflux)", "explanation": "This describes efflux pumps, which is a different mechanism."},
-{"text": "Decreased drug accumulation (porin loss)", "explanation": "This describes porin mutations, which is a different mechanism."},
-{"text": "Bypassing the inhibited metabolic pathway", "explanation": "This describes resistance to drugs like sulfonamides, not beta-lactams."}
-],
-"correctAnswerIndex": 0,
-"slideImagePath": "images/L119_p_page-0016.jpg"
-},
-{
-"id": 54,
-"category": "Antimicrobial Principles: Resistance",
-"questionText": "A patient has an infection with Vancomycin-Resistant *Enterococcus* (VRE). This resistance is notoriously caused by the organism changing the target of vancomycin's binding site from D-Ala-D-Ala to D-Ala-D-Lac. This is an example of which *class* of resistance mechanism?",
-"options": [
-{"text": "Enzymatic inactivation of the drug", "explanation": "This describes beta-lactamase production; VRE does not inactivate vancomycin."},
-{"text": "Modification of the drug target site", "explanation": "Correct. VRE's mechanism is a classic example of modifying the drug target. By changing the terminal peptide, vancomycin can no longer bind, rendering it ineffective."},
-{"text": "Overexpression of an efflux pump", "explanation": "This is a mechanism for resistance to other drugs, but not the primary mechanism for VRE."},
-{"text": "Loss of a porin channel", "explanation": "This is a mechanism seen in gram-negative bacteria, not *Enterococcus* (gram-positive)."},
-{"text": "Tolerance (MBC >> MIC)", "explanation": "This is incorrect. This is high-level *resistance*, where the MIC itself is very high."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0016.jpg"
-},
-{
-"id": 55,
-"category": "Antimicrobial Principles: Definitions",
-"questionText": "A 25-year-old patient with an uncomplicated skin infection is prescribed an antibiotic. The physician counsels the patient to complete the full 7-day course, even if they 'feel better' after 3 days. What is the primary rationale for this instruction?",
-"options": [
-{"text": "To ensure the drug reaches steady state, which takes 4-5 half-lives.", "explanation": "This is a pharmacokinetic principle, but the *clinical* reason is to ensure eradication of the bacteria, not just to reach steady state."},
-{"text": "To prevent the selection of resistant subpopulations of bacteria.", "explanation": "Correct. Stopping therapy early (especially in static or time-dependent cidal drugs) can allow the hardier, 'less susceptible' bacteria to survive and repopulate, leading to a relapsed infection that is now resistant."},
-{"text": "To allow the drug to switch from first-order to zero-order kinetics.", "explanation": "This is incorrect. A switch to zero-order kinetics is an undesirable toxic state, not a therapeutic goal."},
-{"text": "To guarantee the drug's PAE will be activated.", "explanation": "PAE is an intrinsic property of the drug, not something that activates after several days."},
-{"text": "To prevent a Type E (withdrawal) reaction.", "explanation": "This is incorrect. Antibiotics are not associated with withdrawal syndromes."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0014.jpg"
-},
-{
-"id": 56,
-"category": "Antimicrobial Principles: Dosing Strategies",
-"questionText": "Which of the following antibiotics is a time-dependent (T > MIC) killer with a *short* PAE, making it an ideal candidate for continuous or prolonged infusion to maximize efficacy?",
-"options": [
-{"text": "Gentamicin", "explanation": "This is incorrect. Gentamicin is *concentration-dependent* and has a *long* PAE."},
-{"text": "Levofloxacin", "explanation": "This is incorrect. Levofloxacin is *concentration-dependent* (AUC/MIC) and has a *long* PAE."},
-{"text": "Doxycycline", "explanation": "This is incorrect. Doxycycline is time-dependent (AUC/MIC) but has a *long* PAE."},
-{"text": "Piperacillin", "explanation": "Correct. Piperacillin (a beta-lactam) is a classic *time-dependent* (T > MIC) killer with a *short* PAE, making it a perfect candidate for prolonged or continuous infusions."},
-{"text": "Daptomycin", "explanation": "This is incorrect. Daptomycin is *concentration-dependent* (C<sub>max</sub>/MIC)."}
-],
-"correctAnswerIndex": 3,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 57,
-"category": "Antimicrobial Principles: Dosing Strategies",
-"questionText": "Which of the following antibiotics is a concentration-dependent (C<sub>max</sub>/MIC) killer with a *long* PAE, making it an ideal candidate for large, infrequent (e.g., once-daily) dosing?",
-"options": [
-{"text": "Cefazolin", "explanation": "This is incorrect. Cefazolin (a beta-lactam) is *time-dependent* and has a *short* PAE."},
-{"text": "Clindamycin", "explanation": "This is incorrect. Clindamycin is *time-dependent*."},
-{"text": "Vancomycin", "explanation": "This is incorrect. Vancomycin's parameter is AUC/MIC and it is given intermittently, but not typically once-daily for severe infections (due to its half-life)."},
-{"text": "Penicillin G", "explanation": "This is incorrect. Penicillin G is *time-dependent* and has a *short* PAE."},
-{"text": "Gentamicin", "explanation": "Correct. Gentamicin (an aminoglycoside) is a classic *concentration-dependent* (C<sub>max</sub>/MIC) killer with a *long* PAE, making it the ideal candidate for once-daily dosing."}
-],
-"correctAnswerIndex": 4,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-},
-{
-"id": 58,
-"category": "Antimicrobial Principles: PK/PD Parameters",
-"questionText": "A 50-year-old male is admitted with severe sepsis. The physician initiates an empiric antimicrobial regimen. The selection of this regimen (e.g., vancomycin + cefepime) is primarily based on:",
-"options": [
-{"text": "Targeting the specific organism identified in the patient's blood culture.", "explanation": "This describes *definitive* therapy. Empiric therapy is started *before* the organism is identified."},
-{"text": "The patient's request for the newest, most expensive antibiotics.", "explanation": "This is incorrect. Empiric therapy is based on clinical data and likely pathogens, not patient request."},
-{"text": "The likely pathogens, the site of infection, and the patient's host factors.", "explanation": "Correct. Empiric therapy is a 'best guess' based on the clinical syndrome (e.g., pneumonia vs. UTI), the patient's location (community vs. hospital), and their host factors (e.g., immune status)."},
-{"text": "A desire to use only bacteriostatic agents to protect host flora.", "explanation": "This is incorrect. Sepsis is a life-threatening infection that requires *bactericidal* agents."},
-{"text": "Awaiting the MIC and MBC results before starting any treatment.", "explanation": "This is incorrect. Waiting for labs in a septic patient is dangerous; empiric therapy must be started immediately."}
-],
-"correctAnswerIndex": 2,
-"slideImagePath": "images/L119_p_page-0030.jpg"
-},
-{
-"id": 59,
-"category":"Antimicrobial Principles: Host Factors",
-"questionText": "A 28-year-old female presents with a severe *E. coli* pyelonephritis (a serious kidney infection). The physician chooses a bactericidal agent over a bacteriostatic agent. This decision is based on which host factor/principle?",
-"options": [
-{"text": "The patient's pregnancy status.", "explanation": "While an important factor, the *reason* for a cidal agent is the *severity* of the infection, not the pregnancy itself."},
-{"text": "The site and severity of the infection.", "explanation": "Correct. Pyelonephritis is a severe, deep-seated tissue infection. Bactericidal agents are preferred for such serious infections to ensure rapid and complete eradication, as opposed to a superficial infection like cystitis."},
-{"text": "The patient's age.", "explanation": "This is incorrect. A 28-year-old is young and likely immunocompetent, but the *severity* of the infection (pyelonephritis vs. cystitis) dictates the need for a cidal agent."},
-{"text": "The drug's C<sub>max</sub>/MIC ratio.", "explanation": "This is a PK/PD parameter, not the *host factor* or *principle* guiding the *choice* between cidal and static."},
-{"text": "The drug's resistance profile.", "explanation": "This is incorrect. The *choice* of a cidal agent is a principle of treating severe infections; the resistance profile then narrows *which* cidal agent to use."}
-],
-"correctAnswerIndex": 1,
-"slideImagePath": "images/L119_p_page-0020.jpg"
-},
-{
-"id": 60,
-"category": "Antimicrobial Principles: Synergy",
-"questionText": "A patient with *Pseudomonas aeruginosa* pneumonia is treated with piperacillin-tazobactam (a beta-lactam) and tobramycin (an aminoglycoside). This combination is synergistic, as the beta-lactam damages the cell wall, allowing the aminoglycoside to enter the cell. This synergy is *most* effective when:",
-"options": [
-{"text": "Both drugs are given as a continuous infusion.", "explanation": "This is incorrect. The aminoglycoside *requires* a high peak (C<sub>max</sub>) and would be ineffective (and toxic) as a continuous infusion."},
-{"text": "The beta-lactam is given *after* the aminoglycoside.", "explanation": "This is incorrect. The beta-lactam must be given first or concurrently to 'damage the wall' *before* the aminoglycoside can enter effectively."},
-{"text": "The beta-lactam is given as a prolonged infusion (for T > MIC) and the aminoglycoside is given as a once-daily bolus (for C<sub>max</sub>/MIC).", "explanation": "Correct. This strategy optimizes the *individual* PK/PD parameter for each drug (T > MIC for the beta-lactam, C<sub>max</sub>/MIC for the aminoglycoside) while still allowing them to work synergistically."},
-{"text": "Both drugs are given as large, once-daily boluses.", "explanation": "This is incorrect. The beta-lactam is time-dependent and would be ineffective with once-daily dosing due to its short PAE."},
-{"text": "Both drugs are bacteriostatic.", "explanation": "This is incorrect. Both agents in this combination are bactericidal."}
-],
-"correctAnswerIndex": 2,
-"slideImagePath": "images/L119_p_page-0024.jpg"
-}
+  {
+    "id": 1,
+    "category": "Antimicrobial Principles: Cidal vs. Static",
+    "questionText": "A 55-year-old male with acute myeloid leukemia is undergoing chemotherapy and develops severe neutropenia (Absolute Neutrophil Count < 100). He spikes a fever and is diagnosed with sepsis. Why is a bactericidal agent (e.g., cefepime) strongly preferred over a bacteriostatic agent (e.g., doxycycline) for this patient?",
+    "options": [
+      { "text": "Bacteriostatic agents have a shorter half-life and require more frequent dosing.", "explanation": "This is incorrect. Half-life is a drug-specific property and not the defining difference between static and cidal agents." },
+      { "text": "Bacteriostatic agents are associated with a higher rate of Type B (idiosyncratic) reactions.", "explanation": "This is incorrect. Hypersensitivity reactions are not the primary reason for avoiding static agents in this population." },
+      { "text": "Bacteriostatic agents require a functional host immune system to clear the infection.", "explanation": "Correct. Bacteriostatic agents only inhibit bacterial growth, relying on the host's immune system (i.e., neutrophils) to actually kill and clear the bacteria. This patient is neutropenic and lacks a functional immune defense." },
+      { "text": "Bactericidal agents have a significantly longer post-antibiotic effect (PAE).", "explanation": "This is not universally true; for example, beta-lactams are bactericidal but have a short PAE, while some static agents have a long PAE." },
+      { "text": "Bactericidal agents bind irreversibly to ribosomes, whereas static agents bind reversibly.", "explanation": "This is a specific mechanism for some drugs (like aminoglycosides), but not the definition of the class difference." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0008.jpg",
+    "slideImageDescription": "The slide titled 'Bacteriostatic vs. Bactericidal Activity' defines the two categories. It explicitly states that for **Bacteriostatic** agents, 'Success depends on host immune system to clear the infection'. In contrast, **Bactericidal** agents 'Kill bacteria'. This distinction highlights why a patient with a compromised immune system (neutropenia) cannot rely on bacteriostatic drugs."
+  },
+  {
+    "id": 2,
+    "category": "Pharmacodynamics: MIC",
+    "questionText": "A microbiologist is determining the susceptibility of an *E. coli* isolate to gentamicin. She prepares a series of test tubes with increasing concentrations of the antibiotic. After incubation, she identifies the lowest concentration tube that shows no visible turbidity (growth). This value is known as the:",
+    "options": [
+      { "text": "Minimum Bactericidal Concentration (MBC)", "explanation": "MBC is the concentration that kills 99.9% of the bacteria." },
+      { "text": "Therapeutic Index (TI)", "explanation": "TI is a safety ratio (TD50/ED50)." },
+      { "text": "Minimum Inhibitory Concentration (MIC)", "explanation": "Correct. The MIC is defined as the lowest concentration of an antimicrobial agent that inhibits visible growth of a microorganism after an overnight incubation." },
+      { "text": "Post-Antibiotic Effect (PAE)", "explanation": "PAE is the duration of inhibition after the drug is removed." },
+      { "text": "Area Under the Curve (AUC)", "explanation": "AUC is a pharmacokinetic parameter representing total drug exposure." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0009.jpg",
+    "slideImageDescription": "The slide 'Minimum Inhibitory Concentration (MIC)' provides the definition: 'The lowest concentration of antimicrobial agent that inhibits visible growth of a microorganism after an overnight incubation'. It displays an image of a broth dilution test where tubes with varying antibiotic concentrations show clear (inhibited) vs. cloudy (growth) results, visually demonstrating the MIC determination."
+  },
+  {
+    "id": 3,
+    "category": "Pharmacodynamics: MBC",
+    "questionText": "To determine if an antibiotic is bactericidal, samples from the clear MIC tubes are plated on agar. The lowest concentration that reduces the colony count by 99.9% compared to the initial inoculum is defined as the:",
+    "options": [
+      { "text": "MIC", "explanation": "Inhibits visible growth." },
+      { "text": "Minimum Bactericidal Concentration (MBC)", "explanation": "Correct. The MBC is the lowest concentration of drug that results in a 99.9% decline in the bacterial colony count." },
+      { "text": "Breakpoint", "explanation": "A regulatory value used to classify susceptibility." },
+      { "text": "Synergy point", "explanation": "Not a standard term." },
+      { "text": "Peak concentration", "explanation": "A PK parameter." }
+    ],
+    "correctAnswerIndex": 1,
+    "slideImagePath": "images/L119_p_page-0010.jpg",
+    "slideImageDescription": "The slide 'Minimum Bactericidal Concentration (MBC)' defines it as 'The lowest concentration of antimicrobial agent that prevents growth of an organism on an agar plate'. It specifies the quantitative criteria: 'Must produce a 99.9% decline in colony count', distinguishing it from the MIC which only requires inhibition of visible growth."
+  },
+  {
+    "id": 4,
+    "category": "PK/PD Patterns: Concentration-Dependent",
+    "questionText": "Aminoglycosides (e.g., tobramycin) exhibit 'concentration-dependent killing.' This means that the rate and extent of bacterial killing are best optimized by:",
+    "options": [
+      { "text": "Maintaining the drug concentration just above the MIC for the entire dosing interval.", "explanation": "This is the strategy for time-dependent drugs." },
+      { "text": "Achieving a high peak drug concentration ($C_{max}$) relative to the MIC.", "explanation": "Correct. For concentration-dependent drugs, efficacy increases as the peak concentration ($C_{max}$) exceeds the MIC. A high ratio ($C_{max}$/MIC ~10) is the goal." },
+      { "text": "Minimizing the trough concentration to zero.", "explanation": "While troughs matter for toxicity, the *killing* is driven by the peak." },
+      { "text": "Using a continuous infusion to keep levels steady.", "explanation": "This would blunt the peak, reducing efficacy." },
+      { "text": "Selecting a drug with a short half-life.", "explanation": "Irrelevant to the killing pattern." }
+    ],
+    "correctAnswerIndex": 1,
+    "slideImagePath": "images/L119_p_page-0014.jpg",
+    "slideImageDescription": "The slide 'Concentration-Dependent Killing' explicitly states: 'Rate and extent of killing increases as peak drug concentration increases'. It lists **Aminoglycosides**, Fluoroquinolones, and Daptomycin as examples. The graph shows that a higher peak results in a more rapid decline in bacterial count, supporting the goal of maximizing the $C_{max}$/MIC ratio."
+  },
+  {
+    "id": 5,
+    "category": "PK/PD Patterns: Time-Dependent",
+    "questionText": "Beta-lactam antibiotics (e.g., penicillin) exhibit 'time-dependent killing.' To maximize their efficacy, the dosing regimen should focus on:",
+    "options": [
+      { "text": "Giving a massive single daily dose to achieve a huge peak.", "explanation": "This works for concentration-dependent drugs but not time-dependent ones." },
+      { "text": "Maximizing the duration that the free drug concentration remains above the MIC ($T > MIC$).", "explanation": "Correct. For time-dependent drugs, efficacy depends on the *time* the drug level persists above the MIC. Once the concentration exceeds 4-5x MIC, killing does not increase with higher levels; duration is key." },
+      { "text": "Maximizing the Area Under the Curve (AUC) regardless of time.", "explanation": "AUC is important, but specific timing ($T > MIC$) is the critical driver for beta-lactams." },
+      { "text": "Ensuring a long post-antibiotic effect.", "explanation": "Beta-lactams generally have a short or minimal PAE." },
+      { "text": "Using bolus dosing to saturate tissue binding sites.", "explanation": "Incorrect rationale." }
+    ],
+    "correctAnswerIndex": 1,
+    "slideImagePath": "images/L119_p_page-0016.jpg",
+    "slideImageDescription": "The slide 'Time-Dependent Killing' states: 'Bacterial killing depends on the time the drug concentration remains above the MIC'. It uses Beta-lactams as the prime example. The accompanying graph shows that increasing the concentration ('4x MIC' vs '16x MIC') does *not* increase the killing rate; only maintaining the level above MIC for longer periods is effective."
+  },
+  {
+    "id": 6,
+    "category": "Pharmacodynamics: PAE",
+    "questionText": "A patient receiving once-daily aminoglycoside therapy has a drug level that drops below the MIC 10 hours before the next dose is due. However, bacterial regrowth is still suppressed during this time. This phenomenon is known as:",
+    "options": [
+      { "text": "Tachyphylaxis", "explanation": "Rapid tolerance." },
+      { "text": "The Post-Antibiotic Effect (PAE)", "explanation": "Correct. PAE is the persistent suppression of bacterial growth after the antibiotic concentration has fallen below the MIC. This allows for extended-interval dosing (like once-daily aminoglycosides)." },
+      { "text": "Synergism", "explanation": "Interaction of two drugs." },
+      { "text": "The Eagle Effect", "explanation": "Paradoxical reduced killing at high concentrations." },
+      { "text": "Sequential blockade", "explanation": "Mechanism of TMP-SMX." }
+    ],
+    "correctAnswerIndex": 1,
+    "slideImagePath": "images/L119_p_page-0011.jpg",
+    "slideImageDescription": "The slide 'Post-Antibiotic Effect (PAE)' defines it as: 'Persistent suppression of bacterial growth after limited exposure to an antibiotic'. The graph shows bacterial density remaining low even after the 'drug is removed', visually demonstrating the PAE. Aminoglycosides are noted to have a significant PAE."
+  },
+  {
+    "id": 7,
+    "category": "Clinical Application: Dosing Strategy",
+    "questionText": "Given the pharmacodynamics of aminoglycosides (concentration-dependent killing + significant PAE), which dosing strategy is most rational and commonly used to maximize efficacy and minimize toxicity?",
+    "options": [
+      { "text": "Continuous IV infusion.", "explanation": "This prevents the high peak needed for efficacy and the low trough needed for safety." },
+      { "text": "Frequent, small bolus doses (e.g., every 6 hours).", "explanation": "This was traditional but is less effective and more toxic (accumulation in kidney/ear). " },
+      { "text": "High-dose, extended-interval dosing (e.g., once daily).", "explanation": "Correct. A large single dose achieves a high peak (maximizing killing) and the long interval allows the drug to clear (minimizing toxicity), while the PAE keeps bacteria suppressed during the trough." },
+      { "text": "Oral administration.", "explanation": "Aminoglycosides are not absorbed orally." },
+      { "text": "Dosing based solely on body surface area.", "explanation": "Weight and renal function are the key determinants." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0015.jpg",
+    "slideImageDescription": "The slide 'Concentration-Dependent Killing' links the pharmacodynamic pattern directly to dosing. It states that for these drugs (Aminoglycosides), the goal is to 'Maximize concentration'. It explicitly mentions 'Once-daily dosing' as a strategy derived from these principles: High peak for efficacy, long interval (relying on PAE) for safety."
+  },
+  {
+    "id": 8,
+    "category": "Clinical Application: Dosing Strategy",
+    "questionText": "For a patient with a severe infection treated with a beta-lactam (time-dependent killing, minimal PAE), which strategy would best optimize the drug's efficacy?",
+    "options": [
+      { "text": "Once-daily bolus dosing.", "explanation": "This would leave levels < MIC for most of the day, leading to failure." },
+      { "text": "Prolonged or continuous infusion.", "explanation": "Correct. Extending the infusion time (e.g., over 3-4 hours or continuously) keeps the plasma concentration above the MIC for a greater percentage of the dosing interval ($T > MIC$), optimizing the time-dependent killing." },
+      { "text": "Maximizing the peak concentration ($C_{max}$).", "explanation": "Beta-lactam killing saturates; higher peaks don't help." },
+      { "text": "Dosing based on the PAE duration.", "explanation": "Beta-lactams have minimal PAE." },
+      { "text": "Using a loading dose only.", "explanation": "Maintenance is required to keep levels up." }
+    ],
+    "correctAnswerIndex": 1,
+    "slideImagePath": "images/L119_p_page-0016.jpg",
+    "slideImageDescription": "The slide 'Time-Dependent Killing' emphasizes that efficacy depends on 'Time > MIC'. It contrasts bolus dosing with optimized strategies. The text notes that 'Frequent dosing' or 'Prolonged/Continuous infusion' are the strategies used to maintain serum concentrations above the MIC, supporting the correct answer."
+  },
+  {
+    "id": 9,
+    "category": "PK/PD Patterns: AUC/MIC",
+    "questionText": "Vancomycin activity is best predicted by the ratio of the total drug exposure over 24 hours to the MIC. This parameter is known as:",
+    "options": [
+      { "text": "$C_{max}$ / MIC", "explanation": "This is for aminoglycosides." },
+      { "text": "$T > MIC$", "explanation": "This is for beta-lactams." },
+      { "text": "AUC / MIC", "explanation": "Correct. Vancomycin (and fluoroquinolones) exhibit time-dependent killing but with a moderate persistent effect. Their efficacy correlates best with the Area Under the Curve to MIC ratio ($AUC_{24}/MIC$)." },
+      { "text": "PAE duration", "explanation": "This is a phenomenon, not the primary dosing target." },
+      { "text": "Half-life", "explanation": "A PK parameter, not a PD index." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0017.jpg",
+    "slideImageDescription": "The slide 'Time-Dependent Killing' (Slide 17 in this set, titled specifically regarding AUC/MIC drugs) lists 'Vancomycin' and 'Fluoroquinolones'. It states the PK/PD predictor of efficacy is the 'AUC/MIC ratio'. This confirms that total exposure relative to MIC is the guiding parameter for these drugs."
+  },
+  {
+    "id": 10,
+    "category": "Combination Therapy: Synergy",
+    "questionText": "A patient with Enterococcal endocarditis is treated with a combination of penicillin (a beta-lactam) and gentamicin (an aminoglycoside). The beta-lactam breaks down the cell wall, allowing the aminoglycoside to penetrate and kill the bacteria. This interaction, where the combined effect is greater than the sum of independent effects, is called:",
+    "options": [
+      { "text": "Additivity", "explanation": "Combined effect equals sum ($1+1=2$)." },
+      { "text": "Antagonism", "explanation": "Combined effect is less than one alone ($1+1<1$)." },
+      { "text": "Synergism", "explanation": "Correct. Synergism is when the combination of two drugs produces an effect significantly greater than the sum of their individual effects ($1+1=4$). The penicillin-aminoglycoside interaction is the classic example." },
+      { "text": "Indifference", "explanation": "No interaction." },
+      { "text": "Tolerance", "explanation": "Reduced response over time." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0029.jpg",
+    "slideImageDescription": "The slide 'Combination Therapy: Synergism' defines it as 'Effect of combination > sum of individual effects'. It explicitly cites the mechanism: 'Cell wall inhibitor (e.g., penicillin) + Aminoglycoside'. The text explains: 'Penicillin increases uptake of aminoglycoside', perfectly matching the clinical vignette."
+  },
+  {
+    "id": 11,
+    "category": "Combination Therapy: Antagonism",
+    "questionText": "A patient with bacterial meningitis is treated with penicillin (a cidal drug acting on growing cell walls) and tetracycline (a static drug that stops growth). The tetracycline halts bacterial growth, preventing the penicillin from working effectively. This interaction is an example of:",
+    "options": [
+      { "text": "Synergism", "explanation": "They work against each other." },
+      { "text": "Antagonism", "explanation": "Correct. Bacteriostatic drugs (like tetracycline) can antagonize the effect of bactericidal cell-wall inhibitors (like penicillin) because the latter require actively dividing bacteria to be effective." },
+      { "text": "Potentiation", "explanation": "Similar to synergy." },
+      { "text": "Indifference", "explanation": "There is a negative interaction." },
+      { "text": "Sequential blockade", "explanation": "This refers to inhibition of steps in a pathway (e.g., TMP-SMX)." }
+    ],
+    "correctAnswerIndex": 1,
+    "slideImagePath": "images/L119_p_page-0030.jpg",
+    "slideImageDescription": "The slide 'Combination Therapy: Antagonism' defines it as 'Combined effect < effect of either drug alone'. It provides the specific example: 'Bacteriostatic agent (e.g., tetracycline) + Bactericidal agent (e.g., penicillin)'. It explains the mechanism: 'Bactericidal agents require active growth; bacteriostatic agents inhibit growth', demonstrating why they antagonize each other."
+  },
+  {
+    "id": 12,
+    "category": "Therapeutic Approach",
+    "questionText": "A patient presents to the ED with signs of sepsis (fever, hypotension). Before the causative organism is identified, the physician starts broad-spectrum antibiotics to cover all likely pathogens. This initial phase of treatment is called:",
+    "options": [
+      { "text": "Definitive therapy", "explanation": "This happens after ID and susceptibility testing." },
+      { "text": "Prophylactic therapy", "explanation": "This is to prevent infection before it occurs." },
+      { "text": "Empiric therapy", "explanation": "Correct. Empiric therapy is the administration of antibiotics based on the patient's symptoms and likely pathogens, *before* the specific organism and susceptibility are known." },
+      { "text": "Suppressive therapy", "explanation": "Long-term low dose to prevent recurrence." },
+      { "text": "Desensitization therapy", "explanation": "Used for allergies." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0032.jpg",
+    "slideImageDescription": "The slide 'Empiric Therapy' defines it as: 'Immediate administration of drug(s) prior to bacterial identification and susceptibility testing'. It lists the rationale: 'Delay in treatment of serious infection can be fatal'. This aligns with the sepsis scenario where immediate broad coverage is required."
+  },
+  {
+    "id": 13,
+    "category": "Therapeutic Approach",
+    "questionText": "Three days later, the blood cultures from the patient in the previous question return, identifying *Staphylococcus aureus*. The susceptibility report shows it is sensitive to nafcillin. The physician switches the patient from broad-spectrum vancomycin/cefepime to narrow-spectrum nafcillin. This phase is called:",
+    "options": [
+      { "text": "Empiric therapy", "explanation": "This was the initial phase." },
+      { "text": "Definitive (Directed) therapy", "explanation": "Correct. Once the pathogen and its susceptibility are known, therapy is streamlined to the most effective, narrowest-spectrum agent. This reduces toxicity and resistance." },
+      { "text": "Prophylactic therapy", "explanation": "Preventative." },
+      { "text": "Combination therapy", "explanation": "Switching to a single agent." },
+      { "text": "Palliation", "explanation": "Symptom relief only." }
+    ],
+    "correctAnswerIndex": 1,
+    "slideImagePath": "images/L119_p_page-0034.jpg",
+    "slideImageDescription": "The slide 'Definitive Therapy' explains the process. It occurs 'After culture and sensitivity results are known'. The goal is to 'Streamline to a narrow-spectrum, safe, cost-effective agent'. This describes the de-escalation from broad empiric coverage to targeted nafcillin."
+  },
+  {
+    "id": 14,
+    "category": "Therapeutic Approach",
+    "questionText": "A patient is scheduled for a total knee replacement. One hour before the incision, she receives a dose of cefazolin. The goal is to prevent infection by skin flora during the procedure. This is an example of:",
+    "options": [
+      { "text": "Empiric therapy", "explanation": "Treatment of suspected active infection." },
+      { "text": "Definitive therapy", "explanation": "Treatment of proven infection." },
+      { "text": "Prophylaxis", "explanation": "Correct. Prophylaxis is the administration of antibiotics to a patient *without* evidence of infection to prevent the establishment of an infection during a high-risk procedure." },
+      { "text": "Synergy", "explanation": "Drug interaction." },
+      { "text": "Post-exposure prophylaxis", "explanation": "Used after exposure (e.g., HIV needlestick), surgical prophylaxis is pre-exposure/procedural." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0035.jpg",
+    "slideImageDescription": "The slide 'Prophylaxis' defines it as: 'Treatment of patients who are not yet infected'. The goal is to 'prevent infection'. It specifically lists 'Surgical prophylaxis' (to prevent wound infection) as a major category, which matches the knee replacement scenario."
+  },
+  {
+    "id": 15,
+    "category": "Adverse Effects",
+    "questionText": "A patient is treated with broad-spectrum clindamycin for an anaerobic infection. Weeks later, he develops severe watery diarrhea and colitis. This is due to the overgrowth of *Clostridioides difficile*, an organism resistant to the drug. This complication is known as:",
+    "options": [
+      { "text": "Hypersensitivity", "explanation": "Allergic reaction." },
+      { "text": "Direct toxicity", "explanation": "Damage to host tissue." },
+      { "text": "Superinfection", "explanation": "Correct. A superinfection is a new infection that appears during treatment for a primary infection. It occurs because the antibiotic kills normal protective flora, allowing resistant pathogens (like *C. diff* or *Candida*) to overgrow." },
+      { "text": "Jarisch-Herxheimer reaction", "explanation": "Reaction to endotoxin release." },
+      { "text": "Resistance", "explanation": "While the bug is resistant, the *clinical event* of the new infection is a superinfection." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0029.jpg",
+    "slideImageDescription": "The slide 'Selection of Drug-Resistant Bacteria' (often discussed alongside adverse effects) explains the concept. It mentions 'Alteration of normal flora' leading to 'Superinfection'. While the specific *C. diff* example might be in the spoken lecture or a different slide, the concept of superinfection arising from flora alteration is covered here."
+  },
+  {
+    "id": 16,
+    "category": "Mechanism of Resistance",
+    "questionText": "Bacteria can produce enzymes that chemically modify or destroy an antibiotic before it reaches its target. Which of the following is the classic example of this mechanism?",
+    "options": [
+      { "text": "Efflux pumps", "explanation": "Pumping drug out." },
+      { "text": "Alteration of PBP target", "explanation": "Target modification." },
+      { "text": "Beta-lactamase production", "explanation": "Correct. Beta-lactamases are enzymes produced by bacteria that hydrolyze the beta-lactam ring of penicillins and cephalosporins, rendering them inactive. This is 'enzymatic inactivation'." },
+      { "text": "Downregulation of porins", "explanation": "Reduced permeability." },
+      { "text": "Biofilm formation", "explanation": "Physical barrier." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0024.jpg",
+    "slideImageDescription": "The slide 'Mechanisms of Resistance' lists four main types. The first is 'Enzymatic inactivation of drug'. It explicitly lists '**Beta-lactamases**' as the prime example, along with acetyltransferases. This confirms the enzymatic destruction mechanism."
+  },
+  {
+    "id": 17,
+    "category": "Mechanism of Resistance",
+    "questionText": "Tetracyclines enter bacteria but are immediately pumped back out by a transport protein in the bacterial membrane. This mechanism of resistance is called:",
+    "options": [
+      { "text": "Enzymatic inactivation", "explanation": "Modifying the drug." },
+      { "text": "Target site modification", "explanation": "Changing the ribosome." },
+      { "text": "Active efflux", "explanation": "Correct. Bacteria can acquire genes for efflux pumps (e.g., TetA) that actively transport the antibiotic out of the cell, preventing it from reaching a toxic concentration." },
+      { "text": "Reduced permeability", "explanation": "Closing entry pores." },
+      { "text": "Metabolic bypass", "explanation": "Using alternative pathways." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0024.jpg",
+    "slideImageDescription": "The 'Mechanisms of Resistance' slide lists 'Active efflux of drug' as a key mechanism. It explains that 'Pumps remove antibiotic from cell', lowering the intracellular concentration. This matches the description of the tetracycline resistance mechanism."
+  },
+  {
+    "id": 18,
+    "category": "Mechanism of Resistance",
+    "questionText": "MRSA (Methicillin-Resistant *S. aureus*) is resistant to beta-lactams not because it destroys the drug, but because it acquires a gene (*mecA*) that codes for a different Penicillin-Binding Protein (PBP2a) that the drug cannot bind to. This mechanism is:",
+    "options": [
+      { "text": "Enzymatic inactivation", "explanation": "Beta-lactamase." },
+      { "text": "Altered target site", "explanation": "Correct. The antibiotic cannot bind to its target because the target's structure has changed (PBP -> PBP2a). This renders the drug ineffective despite entering the cell." },
+      { "text": "Decreased accumulation", "explanation": "Efflux/Permeability." },
+      { "text": "Enzymatic modification", "explanation": "Aminoglycoside transferases." },
+      { "text": "Sequestration", "explanation": "Binding the drug elsewhere." }
+    ],
+    "correctAnswerIndex": 1,
+    "slideImagePath": "images/L119_p_page-0024.jpg",
+    "slideImageDescription": "The 'Mechanisms of Resistance' slide lists 'Alteration of target site'. It cites 'MRSA (altered PBP)' and 'VRE (altered peptidoglycan)' as specific examples. This confirms that MRSA resistance is due to the target modification mechanism."
+  },
+  {
+    "id": 19,
+    "category": "Mechanism of Resistance",
+    "questionText": "Gram-negative bacteria can become resistant to antibiotics like carbapenems by mutating the proteins that form channels in their outer membrane, preventing the drug from entering. This mechanism is:",
+    "options": [
+      { "text": "Increased efflux", "explanation": "Pumping out." },
+      { "text": "Target modification", "explanation": "Changing the binding site." },
+      { "text": "Decreased permeability (Porin loss)", "explanation": "Correct. Hydrophilic drugs enter G- bacteria through porins. Mutation or loss of these porins reduces the drug's ability to enter the periplasmic space." },
+      { "text": "Enzymatic inactivation", "explanation": "Carbapenemases." },
+      { "text": "Biofilm formation", "explanation": "Physical barrier." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0024.jpg",
+    "slideImageDescription": "The 'Mechanisms of Resistance' slide lists 'Decreased permeability' as a mechanism. It specifies 'Loss of Porins' as the way bacteria prevent drug entry. This matches the description of preventing the drug from crossing the outer membrane."
+  },
+  {
+    "id": 20,
+    "category": "Host Factors",
+    "questionText": "A patient has a brain abscess. The physician must choose an antibiotic that is highly lipid-soluble or non-ionized to ensure it can reach the site of infection. This decision is based on the host factor of:",
+    "options": [
+      { "text": "Renal function", "explanation": "Affects clearance." },
+      { "text": "Immune status", "explanation": "Affects cidal vs static choice." },
+      { "text": "Site of infection (Blood-Brain Barrier)", "explanation": "Correct. To treat CNS infections, drugs must cross the Blood-Brain Barrier. Only lipid-soluble, small, or specific transport-substrate drugs can penetrate this sanctuary site." },
+      { "text": "Allergy history", "explanation": "Safety concern." },
+      { "text": "Age", "explanation": "Affects metabolism/excretion." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0033.jpg",
+    "slideImageDescription": "The slide 'Host Factors' lists 'Site of Infection'. It explicitly mentions the 'Blood-brain barrier' as a barrier that restricts drug entry. It notes that drugs must be 'Lipid soluble' or have 'Low molecular weight' to penetrate, supporting the clinical reasoning required."
+  },
+  {
+    "id": 21,
+    "category": "Host Factors",
+    "questionText": "Certain antibiotics (like aminoglycosides) are highly polar and do not enter the CNS. However, in patients with meningitis, they may achieve therapeutic levels in the CSF. Why?",
+    "options": [
+      { "text": "The bacteria actively transport the drug in.", "explanation": "Incorrect." },
+      { "text": "Meningitis causes inflammation, which increases the permeability of the Blood-Brain Barrier.", "explanation": "Correct. Inflammation ('leaky' meninges) disrupts the tight junctions of the BBB, allowing drugs that normally wouldn't cross (like beta-lactams and aminoglycosides) to enter the CSF." },
+      { "text": "The patient's renal clearance is reduced.", "explanation": "Increases serum levels, but doesn't change BBB permeability." },
+      { "text": "The drug becomes more lipid-soluble in fever.", "explanation": "Incorrect." },
+      { "text": "Meningitis creates a negative pressure pulling drug in.", "explanation": "Incorrect physics." }
+    ],
+    "correctAnswerIndex": 1,
+    "slideImagePath": "images/L119_p_page-0033.jpg",
+    "slideImageDescription": "The 'Host Factors - Site of Infection' slide discusses the BBB. It notes that 'Inflammation (e.g., meningitis)' can 'increase permeability', allowing better penetration of antibiotics. This explains the clinical phenomenon described."
+  },
+  {
+    "id": 22,
+    "category": "Host Factors",
+    "questionText": "In a patient with renal failure (low GFR), the dose of renally cleared antibiotics (like vancomycin) must be:",
+    "options": [
+      { "text": "Increased", "explanation": "Would cause toxicity." },
+      { "text": "Decreased (or interval extended)", "explanation": "Correct. If the kidney cannot clear the drug, standard doses will lead to toxic accumulation. The maintenance dose must be lowered or the dosing interval lengthened." },
+      { "text": "Kept the same", "explanation": "Would cause toxicity." },
+      { "text": "Changed to an oral route", "explanation": "Route doesn't change clearance." },
+      { "text": "Stopped completely", "explanation": "The infection still needs treatment." }
+    ],
+    "correctAnswerIndex": 1,
+    "slideImagePath": "images/L119_p_page-0033.jpg",
+    "slideImageDescription": "The slide 'Host Factors' lists 'Renal and Hepatic Function'. It states that for patients with 'Renal insufficiency', one must 'Adjust dose' for drugs eliminated by the kidney to avoid accumulation and toxicity. This supports the need for dose reduction or interval extension."
+  },
+  {
+    "id": 23,
+    "category": "Host Factors",
+    "questionText": "A patient has a history of anaphylaxis (Type I hypersensitivity) to penicillin. This is a critical host factor because:",
+    "options": [
+      { "text": "It means the patient has renal failure.", "explanation": "Unrelated." },
+      { "text": "It contraindicates the use of penicillins and potentially cross-reactive drugs like cephalosporins.", "explanation": "Correct. Anaphylaxis is life-threatening. A history of such a reaction requires avoiding the allergen and structurally similar drugs that might cross-react." },
+      { "text": "It means the patient will rapidly metabolize the drug.", "explanation": "Allergy is immune, not metabolic." },
+      { "text": "It means the bacteria are resistant.", "explanation": "Allergy is a host factor, resistance is a bacterial factor." },
+      { "text": "It requires the use of bacteriostatic agents only.", "explanation": "Unrelated." }
+    ],
+    "correctAnswerIndex": 1,
+    "slideImagePath": "images/L119_p_page-0033.jpg",
+    "slideImageDescription": "The 'Host Factors' slide includes 'Allergy'. It emphasizes the importance of obtaining an 'Allergy history' to prevent adverse reactions. Specifically, it warns about 'Cross-reactivity' between related drug classes (like beta-lactams), dictating drug selection."
+  },
+  {
+    "id": 24,
+    "category": "The Chemotherapy Triangle",
+    "questionText": "Effective antimicrobial therapy requires a complex interaction between three components: the Drug, the Microbe, and the Host. This concept is known as:",
+    "options": [
+      { "text": "The Therapeutic Index", "explanation": "Safety ratio." },
+      { "text": "The Chemotherapy Triangle", "explanation": "Correct. This model illustrates the interactions: Drug affects Microbe (PD), Microbe affects Drug (Resistance), Drug affects Host (Toxicity/PK), Host affects Drug (PK), Microbe affects Host (Infection), Host affects Microbe (Immunity)." },
+      { "text": "The Pharmacodynamic Triad", "explanation": "Not a standard term." },
+      { "text": "The Antimicrobial Spectrum", "explanation": "Range of activity." },
+      { "text": "The Resistance Cycle", "explanation": "Part of the picture." }
+    ],
+    "correctAnswerIndex": 1,
+    "slideImagePath": "images/L119_p_page-0006.jpg",
+    "slideImageDescription": "The slide 'The Chemotherapy Triangle' displays a triangular diagram with 'Patient (Host)', 'Drug', and 'Microorganism' at the corners. Arrows connect them, illustrating the bidirectional interactions (e.g., Pharmacokinetics, Pharmacodynamics, Resistance, Toxicity, Infection, Immunity). This visual model is the foundation of the lecture."
+  },
+  {
+    "id": 25,
+    "category": "Selective Toxicity",
+    "questionText": "The ideal antimicrobial drug kills the pathogen without harming the host. This property relies on exploring differences between prokaryotic and eukaryotic biology (e.g., cell walls, 70S ribosomes). This concept is called:",
+    "options": [
+      { "text": "Bioavailability", "explanation": "PK term." },
+      { "text": "Potency", "explanation": "Dose required." },
+      { "text": "Selective Toxicity", "explanation": "Correct. Selective toxicity means the drug targets specific features of the microbe that are absent or different in the host, maximizing efficacy while minimizing side effects." },
+      { "text": "Synergy", "explanation": "Drug interaction." },
+      { "text": "Spectrum", "explanation": "Range of bugs killed." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0007.jpg",
+    "slideImageDescription": "The slide 'Selective Toxicity' defines it as: 'Injury to the invading organism without injury to the host'. It explains this is achieved by exploiting 'Biochemical differences' between the microbe and the host. This definition matches the question."
+  },
+  {
+    "id": 26,
+    "category": "Microbiology",
+    "questionText": "Before selecting a definitive antibiotic, it is crucial to identify the pathogen. Which diagnostic test provides the most rapid (minutes to hours) initial categorization of bacteria?",
+    "options": [
+      { "text": "Culture and Sensitivity", "explanation": "Takes days." },
+      { "text": "PCR", "explanation": "Fast, but specific." },
+      { "text": "Gram Stain", "explanation": "Correct. The Gram stain differentiates bacteria into Gram-positive or Gram-negative and shapes/arrangements almost immediately, guiding empiric therapy." },
+      { "text": "MIC determination", "explanation": "Requires culture first." },
+      { "text": "Antibody titers", "explanation": "Slow, retrospective." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0034.jpg",
+    "slideImageDescription": "The slide 'Definitive Therapy' emphasizes 'Identification of the infecting organism'. It lists 'Gram stain' as a rapid method, contrasted with the slower 'Culture and susceptibility'. This highlights the utility of the Gram stain for immediate classification."
+  },
+  {
+    "id": 27,
+    "category": "Pharmacodynamics: Cidal Definition",
+    "questionText": "Which ratio of MBC to MIC typically indicates that a drug is bactericidal?",
+    "options": [
+      { "text": "MBC / MIC <= 4", "explanation": "Correct. If the concentration needed to kill (MBC) is close to the concentration needed to inhibit (MIC), the drug is cidal." },
+      { "text": "MBC / MIC > 32", "explanation": "Indicates bacteriostatic (tolerance)." },
+      { "text": "MBC / MIC = 100", "explanation": "Bacteriostatic." },
+      { "text": "MIC / MBC = 1", "explanation": "Ratio is inverted." },
+      { "text": "MBC = 0", "explanation": "Impossible." }
+    ],
+    "correctAnswerIndex": 0,
+    "slideImagePath": "images/L119_p_page-0010.jpg",
+    "slideImageDescription": "The slide 'Minimum Bactericidal Concentration (MBC)' states the criteria for a Bactericidal drug: 'MBC <= 4 x MIC'. This quantitative definition distinguishes cidal drugs from static drugs (where the MBC is much higher than the MIC)."
+  },
+  {
+    "id": 28,
+    "category": "Pharmacodynamics: PAE Mechanism",
+    "questionText": "The Post-Antibiotic Effect (PAE) allows for less frequent dosing. Which of the following is a proposed mechanism for this effect?",
+    "options": [
+      { "text": "Rapid regeneration of drug targets", "explanation": "Would shorten PAE." },
+      { "text": "Persistence of the drug at the binding site", "explanation": "Correct. Slow dissociation of the drug from the ribosome or other target keeps the bacteria inhibited even when free drug levels drop." },
+      { "text": "Immediate washout of the drug", "explanation": "Would eliminate PAE." },
+      { "text": "Bacterial mutation", "explanation": "Resistance." },
+      { "text": "Enhanced bacterial metabolism", "explanation": "Recovery." }
+    ],
+    "correctAnswerIndex": 1,
+    "slideImagePath": "images/L119_p_page-0011.jpg",
+    "slideImageDescription": "The slide 'Post-Antibiotic Effect (PAE)' lists 'Mechanisms'. It includes: 'Persistence of drug at binding site' and 'Time required for bacteria to synthesize new proteins/enzymes'. These points explain why growth remains suppressed after the drug is removed from the medium."
+  },
+  {
+    "id": 29,
+    "category": "PK/PD Patterns",
+    "questionText": "You are comparing two antibiotics. Drug A kills faster as the concentration increases. Drug B's killing rate plateaus at 4x MIC and depends on duration. Drug A is _____ and Drug B is _____.",
+    "options": [
+      { "text": "Time-dependent; Concentration-dependent", "explanation": "Reverse." },
+      { "text": "Concentration-dependent; Time-dependent", "explanation": "Correct. Drug A behaves like an aminoglycoside (Concentration-dependent). Drug B behaves like a beta-lactam (Time-dependent)." },
+      { "text": "Bacteriostatic; Bactericidal", "explanation": "Both kill." },
+      { "text": "Narrow spectrum; Broad spectrum", "explanation": "Unrelated." },
+      { "text": "Renal; Hepatic", "explanation": "Unrelated." }
+    ],
+    "correctAnswerIndex": 1,
+    "slideImagePath": "images/L119_p_page-0014.jpg",
+    "slideImageDescription": "This question requires synthesizing info from two slides. The 'Concentration-Dependent' slide shows killing increasing with concentration. The 'Time-Dependent' slide shows killing plateauing (saturation) at higher concentrations. Comparing these descriptions directly identifies Drug A as Concentration-dependent and Drug B as Time-dependent."
+  },
+  {
+    "id": 30,
+    "category": "Host Factors: Age",
+    "questionText": "Neonates have immature renal and hepatic function. When dosing antibiotics like gentamicin (renally cleared) or chloramphenicol (hepatically metabolized), this host factor requires:",
+    "options": [
+      { "text": "Higher doses", "explanation": "Would cause toxicity." },
+      { "text": "More frequent dosing", "explanation": "Would cause toxicity." },
+      { "text": "Dose reduction or interval extension", "explanation": "Correct. Reduced clearance means the drug stays in the body longer (longer half-life). Doses must be lowered or spaced further apart to prevent accumulation and toxicity (e.g., Gray Baby Syndrome)." },
+      { "text": "Avoidance of all antibiotics", "explanation": "Infections must be treated." },
+      { "text": "Oral administration only", "explanation": "Absorption is also variable." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0033.jpg",
+    "slideImageDescription": "The 'Host Factors' slide lists 'Age'. It specifically notes 'Newborns' have 'poorly developed renal and hepatic elimination'. This implies that standard doses would be toxic, necessitating dose adjustment (reduction or interval extension)."
+  },
+  {
+    "id": 31,
+    "category": "Host Factors: Pregnancy",
+    "questionText": "A pregnant patient needs antibiotics. Tetracyclines are contraindicated because they deposit in fetal teeth and bones. This decision is based on:",
+    "options": [
+      { "text": "Pharmacokinetics (Renal clearance)", "explanation": "Incorrect." },
+      { "text": "Placental transfer and fetal toxicity", "explanation": "Correct. Many drugs cross the placenta. Teratogenicity or direct fetal toxicity (like teeth staining) dictates drug choice." },
+      { "text": "Maternal liver function", "explanation": "Incorrect." },
+      { "text": "Fetal allergy", "explanation": "Incorrect." },
+      { "text": "Reduced maternal absorption", "explanation": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1,
+    "slideImagePath": "images/L119_p_page-0033.jpg",
+    "slideImageDescription": "The 'Host Factors' slide includes 'Pregnancy'. It warns: 'Drug may cross placenta'. It explicitly mentions 'Risk of teratogenicity' and 'Risk to fetus'. This confirms that fetal safety is the primary driver for avoiding certain drugs like tetracyclines."
+  },
+  {
+    "id": 32,
+    "category": "Host Factors: Metabolism",
+    "questionText": "A patient with a genetic deficiency in G6PD is prescribed a sulfonamide. They develop hemolytic anemia. This is an example of how _____ affects drug therapy.",
+    "options": [
+      { "text": "Renal function", "explanation": "Incorrect." },
+      { "text": "Metabolic abnormality / Genetics", "explanation": "Correct. Genetic metabolic differences (pharmacogenomics) can predispose hosts to unique toxicities." },
+      { "text": "Age", "explanation": "Incorrect." },
+      { "text": "Pregnancy", "explanation": "Incorrect." },
+      { "text": "Site of infection", "explanation": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1,
+    "slideImagePath": "images/L119_p_page-0033.jpg",
+    "slideImageDescription": "The 'Host Factors' slide lists 'Metabolic Abnormalities'. It gives the specific example: 'G6PD deficiency + Sulfonamides -> Hemolysis'. This links a host genetic factor directly to a specific adverse drug reaction."
+  },
+  {
+    "id": 33,
+    "category": "Host Factors: Foreign Body",
+    "questionText": "A patient with a prosthetic heart valve develops endocarditis. Curing this infection is difficult because bacteria form a biofilm on the foreign material. This often necessitates:",
+    "options": [
+      { "text": "Lower doses", "explanation": "Ineffective." },
+      { "text": "Shorter duration of therapy", "explanation": "Ineffective." },
+      { "text": "Removal of the prosthetic device", "explanation": "Correct. Bacteria on foreign bodies are protected from host defenses and antibiotics. Often, the only way to cure the infection is to remove the source (the valve, line, or implant)." },
+      { "text": "Oral therapy only", "explanation": "Ineffective." },
+      { "text": "Vaccination", "explanation": "Prevention, not treatment." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0033.jpg",
+    "slideImageDescription": "The 'Host Factors - Site of Infection' slide lists 'Foreign Body'. It states: 'Bacteria adhere -> Biofilm'. The clinical implication is stated: 'Phagocytes and drugs cannot effectively clear... Removal of the foreign body is often necessary'. This supports the surgical intervention answer."
+  },
+  {
+    "id": 34,
+    "category": "Mechanism of Resistance: Genetic",
+    "questionText": "Resistance that is encoded on the bacterial chromosome and passed to daughter cells during division is called:",
+    "options": [
+      { "text": "Horizontal transfer", "explanation": "Cell to cell." },
+      { "text": "Vertical transfer", "explanation": "Correct. Vertical transfer is the inheritance of genetic material (including resistance mutations) from parent to offspring." },
+      { "text": "Transduction", "explanation": "Viral." },
+      { "text": "Conjugation", "explanation": "Plasmid." },
+      { "text": "Transformation", "explanation": "DNA uptake." }
+    ],
+    "correctAnswerIndex": 1,
+    "slideImagePath": "images/L119_p_page-0022.jpg",
+    "slideImageDescription": "The slide 'Genetic Basis of Resistance' distinguishes types. It defines 'Vertical transmission' as passing resistance 'to daughter cells' via 'chromosomal mutation'. This matches the definition in the question."
+  },
+  {
+    "id": 35,
+    "category": "Mechanism of Resistance: Horizontal",
+    "questionText": "A bacteriophage transfers DNA containing a resistance gene from one bacterium to another. This mechanism of horizontal gene transfer is:",
+    "options": [
+      { "text": "Conjugation", "explanation": "Direct contact." },
+      { "text": "Transformation", "explanation": "Free DNA." },
+      { "text": "Transduction", "explanation": "Correct. Transduction is the transfer of DNA via a viral vector (bacteriophage)." },
+      { "text": "Mutation", "explanation": "Spontaneous change." },
+      { "text": "Efflux", "explanation": "Mechanical removal." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0023.jpg",
+    "slideImageDescription": "The slide 'Acquired Resistance: Horizontal Gene Transfer' illustrates three methods. The diagram for 'Transduction' shows a 'Bacteriophage' (virus) injecting DNA into a cell. The text confirms this is 'Transfer by viral delivery'."
+  },
+  {
+    "id": 36,
+    "category": "Mechanism of Resistance: Horizontal",
+    "questionText": "Two bacteria join via a pilus, and a plasmid containing a resistance gene is transferred from the donor to the recipient. This is:",
+    "options": [
+      { "text": "Transduction", "explanation": "Viral." },
+      { "text": "Transformation", "explanation": "Free DNA." },
+      { "text": "Conjugation", "explanation": "Correct. Conjugation involves direct cell-to-cell contact and plasmid transfer via a sex pilus." },
+      { "text": "Vertical transfer", "explanation": "Parent to child." },
+      { "text": "Spontaneous mutation", "explanation": "Random." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0023.jpg",
+    "slideImageDescription": "The 'Horizontal Gene Transfer' slide diagrams 'Conjugation'. It shows two cells connected by a 'pilus' with a 'plasmid' moving between them. The text defines it as 'Transfer of genetic material between bacteria via direct contact'."
+  },
+  {
+    "id": 37,
+    "category": "Mechanism of Resistance: Horizontal",
+    "questionText": "A bacterium takes up naked DNA from the environment (released from a dead bacterium) and incorporates it into its genome. This is:",
+    "options": [
+      { "text": "Transduction", "explanation": "Viral." },
+      { "text": "Conjugation", "explanation": "Contact." },
+      { "text": "Transformation", "explanation": "Correct. Transformation is the uptake of free (naked) DNA from the surrounding environment." },
+      { "text": "Vertical transfer", "explanation": "Inheritance." },
+      { "text": "Efflux", "explanation": "Pumping." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0023.jpg",
+    "slideImageDescription": "The 'Horizontal Gene Transfer' slide diagrams 'Transformation'. It depicts a cell taking up 'naked DNA' fragments from the outside. The text confirms: 'Uptake of naked DNA from environment'."
+  },
+  {
+    "id": 38,
+    "category": "Antimicrobial Stewardship",
+    "questionText": "Which of the following is a key goal of Antimicrobial Stewardship Programs?",
+    "options": [
+      { "text": "To ensure every patient gets the newest, most expensive antibiotic.", "explanation": "Cost-effective, appropriate care is the goal." },
+      { "text": "To use broad-spectrum antibiotics for all infections to ensure cure.", "explanation": "This promotes resistance." },
+      { "text": "To minimize collateral damage (resistance, toxicity, cost) while optimizing clinical outcomes.", "explanation": "Correct. Stewardship aims to use the *right* drug, at the *right* dose, for the *right* duration to cure the patient while minimizing harm (toxicity, C. diff) and resistance." },
+      { "text": "To treat all viral infections with antibiotics just in case.", "explanation": "Inappropriate use." },
+      { "text": "To eliminate the use of antibiotics entirely.", "explanation": "They are needed for bacterial infections." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0038.jpg",
+    "slideImageDescription": "The slide 'Antimicrobial Stewardship' defines the goals. It lists: 'Optimize clinical outcomes', 'Minimize unintended consequences of antimicrobial use', 'Reduce healthcare costs', and 'Reduce selection for antimicrobial resistant organisms'. This aligns with the 'minimize collateral damage' answer."
+  },
+  {
+    "id": 39,
+    "category": "Public Health",
+    "questionText": "The widespread use of antibiotics in livestock contributes to human antibiotic resistance primarily through:",
+    "options": [
+      { "text": "Direct toxicity from eating the meat.", "explanation": "Incorrect." },
+      { "text": "The transmission of drug-resistant bacteria from animals to humans via food or contact.", "explanation": "Correct. Using antibiotics in animals selects for resistant bacteria in their gut. These resistant bacteria can contaminate meat (food chain) or spread via manure (environment), ultimately infecting humans." },
+      { "text": "Induction of human liver enzymes by meat consumption.", "explanation": "Incorrect." },
+      { "text": "Viral mutations.", "explanation": "Incorrect." },
+      { "text": "Increasing the nutritional value of the meat.", "explanation": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1,
+    "slideImagePath": "images/L119_p_page-0039.jpg",
+    "slideImageDescription": "The slide 'Antibiotic Resistance: How it Spreads' illustrates the pathway. It shows 'Antibiotics given to food producing animals' leading to 'drug-resistant bacteria in their gut'. Arrows show these bacteria reaching humans through 'food', 'environment', or 'direct contact', explaining the link between agriculture and human health."
+  },
+  {
+    "id": 40,
+    "category": "Clinical Application: Synergy Dosing",
+    "questionText": "You are treating a patient with a serious infection using piperacillin-tazobactam (a beta-lactam) and tobramycin (an aminoglycoside). This combination is synergistic, as the beta-lactam damages the cell wall, allowing the aminoglycoside to enter the cell. This synergy is *most* effective when:",
+    "options": [
+      { "text": "Both drugs are given as a continuous infusion.", "explanation": "This is incorrect. The aminoglycoside *requires* a high peak (C<sub>max</sub>) and would be ineffective (and toxic) as a continuous infusion." },
+      { "text": "The beta-lactam is given *after* the aminoglycoside.", "explanation": "This is incorrect. The beta-lactam must be given first or concurrently to 'damage the wall' *before* the aminoglycoside can enter effectively." },
+      { "text": "The beta-lactam is given as a prolonged infusion (for T > MIC) and the aminoglycoside is given as a once-daily bolus (for C<sub>max</sub>/MIC).", "explanation": "Correct. This strategy optimizes the *individual* PK/PD parameter for each drug (T > MIC for the beta-lactam, C<sub>max</sub>/MIC for the aminoglycoside) while still allowing them to work synergistically." },
+      { "text": "Both drugs are given as large, once-daily boluses.", "explanation": "This is incorrect. The beta-lactam is time-dependent and would be ineffective with once-daily dosing due to its short PAE." },
+      { "text": "Both drugs are bacteriostatic.", "explanation": "This is incorrect. Both agents in this combination are bactericidal." }
+    ],
+    "correctAnswerIndex": 2,
+    "slideImagePath": "images/L119_p_page-0014.jpg",
+    "slideImageDescription": "This question integrates concepts from multiple slides. The 'Synergism' slide (29) explains the mechanism. The 'Concentration-Dependent' slide (15) supports bolus dosing for aminoglycosides. The 'Time-Dependent' slide (16) supports prolonged infusion for beta-lactams. The correct answer represents the synthesis of these optimal dosing strategies."
+  }
 ];

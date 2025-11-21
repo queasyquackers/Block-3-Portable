@@ -144,7 +144,14 @@
 	<script src="Test18.js"></script>
 	<script src="Test19.js"></script>
 	<script src="Test20.js"></script>
-	
+	<script src="Test21.js"></script>
+	<script src="Test22.js"></script>
+	<script src="Test23.js"></script>
+	<script src="Test24.js"></script>
+	<script src="Test25.js"></script>
+	<script src="Test26.js"></script>
+	<script src="Test27.js"></script>
+
     </head>
 <body>
     <script>
@@ -314,7 +321,14 @@
 				{ name: "15-Beta Lactams Pt2", data: L123 },
 				{ name: "15-Aminoglycosides", data: L124 },
 				{ name: "15-Protein Synthesis Inhibitors", data: L125 },
-				{ name: "15-Folic Acids", data: L126 }
+				{ name: "15-Folic Acids", data: L126 },
+		{ name: "16-Orbit and Extraocular Muscles", data: L127 },
+				{ name: "16-Cellular Adaptation and Injury", data: L128 },
+				{ name: "16-Inflammation", data: L129 },
+				{ name: "16-Healing and Repair", data: L130 },
+				{ name: "16-Neoplasia 1", data: L131 },
+				{ name: "16-Neoplasia 2", data: L132 },
+				{ name: "16-Intro to Nervous System", data: L133 }
                 // Add your other test objects here
             ];
 
@@ -743,15 +757,26 @@
                 // After submitting, check if there's a slide *path* and display it.
                 if (answerState.isSubmitted && question.slideImagePath && question.slideImagePath !== "") {
                    slideContainer.classList.remove('hidden');
+                   slidePlaceholder.innerHTML = ''; // Clear any old text
                    
-                   // Create a real <img> tag
+                   // 1. Create and append the Image
                    const img = document.createElement('img');
                    img.src = question.slideImagePath;
-                   img.alt = question.category; // Use category as alt text
+                   img.alt = question.category;
                    img.className = "w-full h-auto rounded-lg border border-default";
-                   
-                   slidePlaceholder.innerHTML = ''; // Clear any old text
                    slidePlaceholder.appendChild(img);
+
+                   // 2. NEW: Create and append the Description
+                   if (question.slideImageDescription && question.slideImageDescription !== "") {
+                       const descDiv = document.createElement('div');
+                       // Use specific CSS classes to match the theme (using bg-selected for the "POP")
+                       descDiv.className = "mt-4 p-4 border-l-4 text-sm rounded-r shadow-md";
+                       // Use inline style to pull the exact accent color from the theme variables
+                       descDiv.style.backgroundColor = "var(--bg-selected)";
+                       descDiv.style.borderColor = "var(--accent-color)";
+                       descDiv.innerHTML = `<strong class="block mb-2" style="color: var(--text-primary);">Image Context:</strong><span style="color: var(--text-primary);">${question.slideImageDescription}</span>`;
+                       slidePlaceholder.appendChild(descDiv);
+                   }
                 }
                 // --- END MODIFIED IMAGE LOGIC ---
 
@@ -994,10 +1019,19 @@
                     // --- MODIFIED IMAGE LOGIC for REVIEW ---
                     let imageHtml = '';
                     if (q.slideImagePath && q.slideImagePath !== "") {
+                        // NEW: Check for description and format it using theme variables (POP OUT VERSION)
+                        const descHtml = q.slideImageDescription 
+                            ? `<div class="mt-4 p-4 border-l-4 text-sm rounded-r shadow-md" style="border-color: var(--accent-color); background-color: var(--bg-selected);">
+                                 <strong class="block mb-2" style="color: var(--text-primary);">Context & Clues:</strong>
+                                 <span style="color: var(--text-primary);">${q.slideImageDescription}</span>
+                               </div>` 
+                            : '';
+
                         imageHtml = `
-                        <div class="mt-4 p-4 rounded-lg border border-default">
+                        <div class="mt-4 p-4 rounded-lg border border-default subtle-card">
                             <h4 class="font-semibold mb-2">Relevant Diagram</h4>
                             <img src="${q.slideImagePath}" alt="${q.category}" class="w-full h-auto rounded-lg border border-default">
+                            ${descHtml}
                         </div>`;
                     }
                     // --- END MODIFIED LOGIC ---

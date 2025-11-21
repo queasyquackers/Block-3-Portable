@@ -1,4 +1,4 @@
-const L126_Questions = [
+const L126 = [
   {
     "id": 1,
     "category": "Folate Inhibitors: Mechanism of Action",

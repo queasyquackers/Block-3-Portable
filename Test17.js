@@ -1,4 +1,4 @@
-const L123_Questions_Part2 = [
+const L123 = [
   {
     "id": 9,
     "category": "Vancomycin: Adverse Effects",

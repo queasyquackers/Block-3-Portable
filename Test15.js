@@ -11,7 +11,8 @@ const L121 = [
       {"text": "L4 F RSL", "explanation": "This is incorrect. A posterior right transverse process indicates rotation to the right (RR), not the left (RL)."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L121_page-0004.jpg"
+    "slideImagePath": "images/L121_page-0004.jpg",
+    "slideImageDescription": "The slide displays photographs demonstrating the osteopathic structural examination of the lumbar spine. The images show a physician using their thumbs to palpate the transverse processes of the lumbar vertebrae on a patient in both seated and prone positions. The text outlines the diagnostic steps: screening for rotation by identifying the posterior transverse process, using landmarks to find the level, and inducing flexion/extension to differentiate between Type 1 and Type 2 dysfunctions. This visual context confirms that the position of the posterior transverse process in flexion versus extension is the key diagnostic maneuver described in the question."
   },
   {
     "id": 2,
@@ -25,7 +26,8 @@ const L121 = [
       {"text": "Muscle Energy", "explanation": "This is incorrect. Muscle energy is an active, direct technique and is not absolutely contraindicated, as the patient's own muscle contraction is the therapeutic force."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L121_page-0008.jpg"
+    "slideImagePath": "images/L121_page-0008.jpg",
+    "slideImageDescription": "This slide presents a comprehensive list of 'Contraindications to HVLA Techniques,' categorized into Absolute and Relative. Under the 'Absolute' category, 'Osteoporosis' is explicitly listed alongside conditions like osteomyelitis and fractures. This textual evidence directly supports the answer that HVLA is absolutely contraindicated for a patient with a T-score of -2.9, which is diagnostic for osteoporosis."
   },
   {
     "id": 3,
@@ -39,7 +41,8 @@ const L121 = [
       {"text": "Position the patient in the prone position", "explanation": "This is incorrect. The HVLA setup for this dysfunction described in the lecture is performed with the patient in the lateral recumbent position, not prone."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L121_page-0005.jpg"
+    "slideImagePath": "images/L121_page-0005.jpg",
+    "slideImageDescription": "The slide is titled 'Lumbar Soft Tissue Techniques' and features a prominent warning in the center: '***Remember to perform soft tissue techniques before performing any HVLA technique!!***'. This emphasizes the mandatory safety protocol of treating the soft tissues to relax the musculature prior to engaging the restrictive barrier with a high-velocity thrust, directly pointing to the correct preparatory step."
   },
   {
     "id": 4,
@@ -53,7 +56,8 @@ const L121 = [
       {"text": "A posterior-to-anterior thrust on the L5 spinous process", "explanation": "This is incorrect. This describes a different type of thrust (e.g., prone setup), not the long-lever rotational setup described."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L121_page-0009.jpg"
+    "slideImagePath": "images/L121_page-0009.jpg",
+    "slideImageDescription": "This text-heavy slide details the step-by-step procedure for 'L1-L5 Type I/Neutral Dysfunctions Long-Lever, Rotational/Side bending Emphasis.' Step 8 specifically describes the final thrust: 'the physician delivers an impulse thrust with the caudad forearm... while simultaneously moving the shoulder slightly cephalad and the pelvis and sacrum caudad.' This specific directionality distinguishes the Type 1 correction technique from others."
   },
   {
     "id": 5,
@@ -67,7 +71,8 @@ const L121 = [
       {"text": "The patient inhales and exhales before the thrust", "explanation": "This is incorrect. This step is part of the final localization for both techniques."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L121_page-0011.jpg"
+    "slideImagePath": "images/L121_page-0011.jpg",
+    "slideImageDescription": "The slide lists the procedural steps for treating 'L1-L5 Type II/Non-Neutral Dysfunctions.' Step 5 explicitly states, 'The physician's caudad hand stabilizes L5,' identifying this stabilization of the segment below the dysfunction as a specific component of the Type 2 setup, contrasting it with the broader pelvic contact used in Type 1 treatments."
   },
   {
     "id": 6,
@@ -95,7 +100,8 @@ const L121 = [
       {"text": "S2", "explanation": "This is incorrect. The level of S2 corresponds to the Posterior Superior Iliac Spine (PSIS), not the iliac crest."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L121_page-0003.jpg"
+    "slideImagePath": "images/L121_page-0003.jpg",
+    "slideImageDescription": "This slide lists 'Landmarks' for the lumbar spine. It clearly states 'Iliac crest heights at L4-L5' as a key anatomical reference point. This text directly answers the question regarding which vertebral level corresponds to the palpation of the iliac crests."
   },
   {
     "id": 8,
@@ -109,7 +115,8 @@ const L121 = [
       {"text": "Flex the hips, abduct the left leg, and rotate the pelvis right", "explanation": "This is incorrect. The treatment for this posterior point requires extension."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L121_page-0015.jpg"
+    "slideImagePath": "images/L121_page-0015.jpg",
+    "slideImageDescription": "The slide presents a table titled 'Posterior Lumbar Counterstrain Points'. For the row 'PL1-PL5 transverse process', the Classic Treatment Position is described as 'Patient prone: Extend to spinal level by lifting extremity or ASIS on side of tender point... side bend away (adduct lower extremity)'. This description matches the correct answer for treating a left-sided L2 transverse process point."
   },
   {
     "id": 9,
@@ -123,7 +130,8 @@ const L121 = [
       {"text": "Lateral recumbent, pull the patient's knees toward their chest", "explanation": "This is incorrect. This is not the correct treatment position for a QL point."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L121_page-0017.jpg"
+    "slideImagePath": "images/L121_page-0017.jpg",
+    "slideImageDescription": "This slide details the 'Quadratus Lumborum CS' technique. It includes an anatomical diagram showing the QL muscle and tender points, including those on the iliac crest. The accompanying table explicitly lists the treatment position as 'Hip/thigh EXTENSION, ABduction, and External Rotation' and provides the acronym 'E ABD ER', pointing directly to the correct answer."
   },
   {
     "id": 10,
@@ -137,7 +145,8 @@ const L121 = [
       {"text": "A contraindication for soft tissue only", "explanation": "This is incorrect. It is a specific relative contraindication for HVLA."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L121_page-0008.jpg"
+    "slideImagePath": "images/L121_page-0008.jpg",
+    "slideImageDescription": "The slide lists 'Contraindications to HVLA Techniques'. Under the 'Relative' category, 'Herniated Nucleus Pulposus (\"herniated disc\")' is clearly listed. This categorization confirms that while caution is needed, it is not an absolute barrier to treatment, making 'Relative' the correct answer."
   },
   {
     "id": 11,
@@ -151,7 +160,8 @@ const L121 = [
       {"text": "Normal spinal motion", "explanation": "This is correct. This describes physiologic motion. The segment is symmetric in neutral. In flexion, the facets open, allowing rotation (left TP posterior = right rotation). In extension, the facets close, allowing rotation (right TP posterior = left rotation). No restrictive barrier is implied."}
     ],
     "correctAnswerIndex": 4,
-    "slideImagePath": "images/L121_page-0004.jpg"
+    "slideImagePath": "images/L121_page-0004.jpg",
+    "slideImageDescription": "This slide shows the 'Lumbar Diagnosis, Review'. The text explains the diagnostic process: screening for a posterior transverse process (rotational freedom) and inducing flexion/extension to find the dysfunction. The question describes a scenario where symmetry exists in neutral and motion occurs freely (different sides become posterior depending on motion), which aligns with the absence of the 'improvement of asymmetry' that characterizes a dysfunction, thus describing normal physiological motion."
   },
   {
     "id": 12,
@@ -165,7 +175,8 @@ const L121 = [
       {"text": "Herniated Nucleus Pulposus", "explanation": "This is incorrect. While possible, the most evident contraindication based on the history of a fall 1 hour ago is the 'acute lumbar pain' itself."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L121_page-0008.jpg"
+    "slideImagePath": "images/L121_page-0008.jpg",
+    "slideImageDescription": "The 'Contraindications to HVLA Techniques' slide lists 'Acute Whiplash or any acute lumbar pain (HVLA may be too direct)' under the Relative category. This directly addresses the clinical vignette of a patient with severe acute pain and guarding, identifying it as a relative contraindication."
   },
   {
     "id": 13,
@@ -179,7 +190,8 @@ const L121 = [
       {"text": "High Velocity and Direct", "explanation": "This is incorrect. This describes HVLA, which involves a thrust, not a 90-second hold in a position of ease."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L121_page-0013.jpg"
+    "slideImagePath": "images/L121_page-0013.jpg",
+    "slideImageDescription": "The slide introduces 'Counterstrain' and immediately defines it as a 'Passive, indirect technique' in the subtitle. The text further explains it involves treating 'tender points' with a 'positional release technique', confirming the description in the question corresponds to a passive and indirect modality."
   },
   {
     "id": 14,
@@ -193,7 +205,8 @@ const L121 = [
       {"text": "Quadratus Lumborum Counterstrain", "explanation": "This is incorrect. This technique would be applied to the back/hip and is not contraindicated by a DVT in the calf."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L121_page-0006.jpg"
+    "slideImagePath": "images/L121_page-0006.jpg",
+    "slideImageDescription": "This slide outlines 'Contraindications to Soft Tissue Techniques'. It lists 'DVT' (Deep Vein Thrombosis) under 'Cautions and relative contraindications for local application'. This supports the answer that applying soft tissue techniques directly to the area of a DVT (the right calf) is contraindicated."
   },
   {
     "id": 15,
@@ -207,6 +220,7 @@ const L121 = [
       {"text": "Adduction of the left leg", "explanation": "This is incorrect. The motion is applied to the extremity on the same side as the tender point."}
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L121_page-0015.jpg"
+    "slideImagePath": "images/L121_page-0015.jpg",
+    "slideImageDescription": "The slide displays a table for 'Posterior Lumbar Counterstrain Points'. In the 'Classic Treatment Position' column for PL1-PL5 points, it instructs to 'side bend away (adduct lower extremity)'. This confirms that adducting the leg is the correct motion to induce the required sidebending for this technique."
   }
 ];

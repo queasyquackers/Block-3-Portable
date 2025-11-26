@@ -1,4 +1,4 @@
-const L114 = [
+window.L114 = [
   {
     "id": 1,
     "category": "Physical Exam: Technique",

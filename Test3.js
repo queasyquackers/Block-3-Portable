@@ -1,4 +1,4 @@
-const L104 = [
+window.L104 = [
   {
     "id": 1,
     "category": "Pharyngeal Arch Derivatives",

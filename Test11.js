@@ -1,4 +1,4 @@
-const L115L116 = [
+window.L115L116 = [
   {
     "id": 1,
     "category": "Pharmacokinetics: Volume of Distribution",

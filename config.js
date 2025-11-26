@@ -1,0 +1,31 @@
+const testsToLoad = [
+    // Assumes L103 is defined in Test1.js
+    { name: "13-H&N Anatomy", data: L103 },
+    { name: "13-OMM Lumbar Dx", data: L102 },
+    { name: "13-H&N Embryology", data: L104 },
+    { name: "13-H&N Pathways", data: L105 },
+    { name: "13-DPR Health Disparities", data: L106 },
+    { name: "13-Pharmacodynamics", data: L107L108 },
+    { name: "13-Pharmacokinetics", data: L109L110 },
+    { name: "14-Special Afferents", data: L112 },
+    { name: "14-Autonomics of H&N", data: L113 },
+    { name: "14-DPR - GI", data: L114 },
+    { name: "14-Clinical Pharmacokinetics", data: L115L116 },
+    { name: "14-Drug Interactions & Pharmacogenomics", data: L117L118 },
+    { name: "14-Antimicrobials", data: L119 },
+    { name: "14-Beta Lactams Pt1", data: L120 },
+    { name: "15-Lumbar HVLA", data: L121 },
+    { name: "15-DPR - GI Pt 2", data: L122 },
+    { name: "15-Beta Lactams Pt2", data: L123 },
+    { name: "15-Aminoglycosides", data: L124 },
+    { name: "15-Protein Synthesis Inhibitors", data: L125 },
+    { name: "15-Folic Acids", data: L126 },
+    { name: "16-Orbit and Extraocular Muscles", data: L127 },
+    { name: "16-Cellular Adaptation and Injury", data: L128 },
+    { name: "16-Inflammation", data: L129 },
+    { name: "16-Healing and Repair", data: L130 },
+    { name: "16-Neoplasia 1", data: L131 },
+    { name: "16-Neoplasia 2", data: L132 },
+    { name: "16-Intro to Nervous System", data: L133 }
+    // Add your other test objects here
+];

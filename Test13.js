@@ -1,4 +1,4 @@
-const L119 = [
+window.L119 = [
   {
     "id": 1,
     "category": "Antimicrobial Principles: Cidal vs. Static",

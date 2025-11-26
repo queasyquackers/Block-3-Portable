@@ -1,4 +1,4 @@
-const L121 = [
+window.L121 = [
   {
     "id": 1,
     "category": "OMM Diagnosis",

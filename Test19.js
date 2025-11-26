@@ -1,4 +1,4 @@
-const L125 = [
+window.L125 = [
   {
     "id": 1,
     "category": "Tetracyclines: Mechanism of Action",

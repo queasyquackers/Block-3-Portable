@@ -1,0 +1,448 @@
+/* enhancements.css */
+
+/* 1. Typography Imports */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;700;800&display=swap');
+
+/* 2. Global Resets & Base Styles */
+:root {
+    --font-heading: 'Outfit', sans-serif;
+    --font-body: 'Inter', sans-serif;
+    --glass-border: rgba(255, 255, 255, 0.2);
+    --glass-bg: rgba(255, 255, 255, 0.7);
+    --glass-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
+}
+
+body.dark-mode {
+    --glass-border: rgba(255, 255, 255, 0.05);
+    --glass-bg: rgba(15, 23, 42, 0.6);
+    --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+}
+
+body {
+    font-family: var(--font-body);
+    background-attachment: fixed;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--font-heading);
+}
+
+/* 3. Glassmorphism Utilities */
+.glass-panel {
+    background: var(--glass-bg);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--glass-border);
+    box-shadow: var(--glass-shadow);
+}
+
+/* 4. Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+}
+
+.dark-mode ::-webkit-scrollbar-thumb {
+    background: #475569;
+}
+
+.dark-mode ::-webkit-scrollbar-thumb:hover {
+    background: #64748b;
+}
+
+/* 5. Animations */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-fade-in-up {
+    animation: fadeInUp 0.5s ease-out forwards;
+}
+
+@keyframes pulseSoft {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+}
+
+.animate-pulse-soft {
+    animation: pulseSoft 2s infinite ease-in-out;
+}
+
+/* 6. Component Enhancements */
+
+/* Cards */
+.card,
+.subtle-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-lg);
+}
+
+/* Buttons */
+.btn-primary {
+    background-image: linear-gradient(135deg, var(--accent-color), var(--accent-hover));
+    border: none;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.btn-primary::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.2), transparent);
+    opacity: 0;
+    transition: opacity 0.3s;
+    z-index: -1;
+}
+
+.btn-primary:hover::after {
+    opacity: 1;
+}
+
+/* Option Buttons */
+.option-btn {
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.option-btn:active {
+    transform: scale(0.98);
+}
+
+/* Dark Mode Contrast Improvements for Options */
+body.dark-mode .option-btn {
+    background-color: rgba(255, 255, 255, 0.03);
+    border-color: rgba(255, 255, 255, 0.1);
+    color: var(--text-primary);
+}
+
+body.dark-mode .option-btn:hover {
+    background-color: rgba(255, 255, 255, 0.08);
+    border-color: var(--accent-color);
+}
+
+body.dark-mode .option-btn-selected {
+    background-color: rgba(38, 139, 210, 0.15);
+    border-color: var(--accent-color);
+}
+
+body.dark-mode .option-btn-correct {
+    background-color: rgba(34, 197, 94, 0.2) !important;
+    border-color: #22c55e !important;
+    color: #4ade80 !important;
+}
+
+body.dark-mode .option-btn-incorrect {
+    background-color: rgba(239, 68, 68, 0.2) !important;
+    border-color: #ef4444 !important;
+    color: #f87171 !important;
+}
+
+body.dark-mode .explanation-correct {
+    background-color: rgba(34, 197, 94, 0.1) !important;
+    border-left-color: #22c55e !important;
+    color: #dcfce7 !important;
+}
+
+body.dark-mode .explanation-incorrect {
+    background-color: rgba(239, 68, 68, 0.1) !important;
+    border-left-color: #ef4444 !important;
+    color: #fee2e2 !important;
+}
+
+
+/* Visual Aid Box Styling */
+#slide-display-container {
+    font-family: var(--font-body);
+    background-color: var(--bg-card-subtle);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+    box-shadow: var(--shadow-sm);
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+#slide-display-container h3 {
+    font-family: var(--font-heading);
+    color: var(--accent-color);
+    font-weight: 700;
+}
+
+/* HIGH CONTRAST IMAGE CONTEXT */
+.image-context-box {
+    margin-top: 1.5rem;
+}
+
+.image-context-header {
+    font-family: var(--font-heading);
+    color: var(--text-secondary) !important;
+    font-weight: 700;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.image-context-content {
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    line-height: 1.6;
+    padding: 1.25rem;
+    border-radius: 0.5rem;
+    
+    /* POP EFFECT: Semi-transparent white background */
+    background-color: rgba(255, 255, 255, 0.65) !important;
+    
+    /* POP EFFECT: Accent border on the left */
+    border: 1px solid var(--border-color) !important;
+    border-left: 5px solid var(--accent-color) !important;
+    
+    /* POP EFFECT: Stronger shadow */
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
+    
+    color: var(--text-primary) !important;
+}
+
+/* Dark Mode Overrides for Image Context */
+body.dark-mode .image-context-content {
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    border-color: var(--border-color) !important;
+    border-left-color: var(--accent-color) !important;
+    color: var(--text-primary) !important;
+}
+
+body.dark-mode .image-context-header {
+    color: var(--text-secondary) !important;
+}
+
+
+/* Progress Bar */
+.progress-container {
+    height: 6px;
+    background-color: var(--bg-hover);
+    border-radius: 3px;
+    overflow: hidden;
+    margin-top: 1rem;
+}
+
+.progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent-color), var(--accent-hover));
+    width: 0%;
+    transition: width 0.5s ease-out;
+}
+
+/* Finish Button Special Styling */
+#finish-test-btn {
+    background-image: linear-gradient(135deg, #ef4444, #dc2626);
+    box-shadow: 0 4px 14px 0 rgba(220, 38, 38, 0.39);
+}
+
+#finish-test-btn:hover {
+    box-shadow: 0 6px 20px rgba(220, 38, 38, 0.23);
+    transform: translateY(-1px);
+}
+
+/* Navbar Logo */
+.nav-logo-box {
+    background: linear-gradient(135deg, #6366f1, #8b5cf6);
+    box-shadow: 0 4px 10px rgba(99, 102, 241, 0.3);
+}
+
+/* Question Navigator (Sidebar) Buttons */
+.q-grid-btn {
+    transition: all 0.2s ease;
+    border: 2px solid transparent;
+}
+
+.q-grid-btn-current {
+    border-color: var(--accent-color) !important;
+    transform: scale(1.1);
+    box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.2);
+}
+
+.q-grid-btn-correct {
+    background-color: #22c55e !important;
+    color: white !important;
+    border-color: #22c55e !important;
+}
+
+.q-grid-btn-incorrect {
+    background-color: #ef4444 !important;
+    color: white !important;
+    border-color: #ef4444 !important;
+}
+
+.q-grid-btn.q-grid-btn-flagged {
+    background-color: #eab308 !important;
+    color: white !important;
+    border-color: #eab308 !important;
+    position: relative;
+}
+
+/* Dropdown Menu Styling */
+.week-dropdown-panel {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 50;
+    margin-top: 0.5rem;
+    min-width: 240px;
+    background: var(--glass-bg);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid var(--glass-border);
+    box-shadow: var(--glass-shadow);
+    border-radius: 0.75rem;
+    padding: 0.5rem;
+    animation: dropdownFadeIn 0.2s ease-out forwards;
+}
+
+@keyframes dropdownFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.week-dropdown-panel .test-item-btn {
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding: 0.75rem 1rem;
+    margin-bottom: 0.25rem;
+    border-radius: 0.5rem;
+    font-size: 0.9rem;
+    color: var(--text-primary);
+    background-color: transparent;
+    transition: all 0.2s ease;
+    border: none;
+}
+
+.week-dropdown-panel .test-item-btn:hover {
+    background-color: rgba(99, 102, 241, 0.1);
+    color: var(--accent-color);
+    transform: translateX(4px);
+}
+
+.week-dropdown-panel .test-item-btn:last-child {
+    margin-bottom: 0;
+}
+
+body.dark-mode .week-dropdown-panel .test-item-btn {
+    color: #cbd5e1;
+}
+
+body.dark-mode .week-dropdown-panel .test-item-btn:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+    color: #818cf8;
+}
+
+/* --- UPDATED: QUESTION STEM (MAIN QUESTION) --- */
+#question-container > p {
+    font-size: 1.15rem;
+    font-weight: 500;
+    line-height: 1.7;
+    
+    /* POP EFFECT: Semi-transparent white background (same as context box) */
+    background-color: rgba(255, 255, 255, 0.65) !important;
+    
+    /* POP EFFECT: Accent border on the left */
+    border: 1px solid var(--border-color) !important;
+    border-left: 5px solid var(--accent-color) !important;
+    
+    /* POP EFFECT: Stronger shadow */
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
+    
+    color: var(--text-primary) !important;
+    
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+body.dark-mode #question-container > p {
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    border-color: var(--border-color) !important;
+    border-left-color: var(--accent-color) !important;
+    color: var(--text-primary) !important;
+}
+
+/* Flag for Review Button Styling */
+#flag-question-btn {
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    border: 1px solid transparent;
+    background-color: rgba(0, 0, 0, 0.03);
+    transition: all 0.2s ease;
+}
+
+#flag-question-btn:hover {
+    background-color: rgba(234, 179, 8, 0.1);
+    color: #ca8a04;
+    border-color: #ca8a04;
+}
+
+body.dark-mode #flag-question-btn {
+    background-color: rgba(255, 255, 255, 0.05);
+    color: #94a3b8;
+}
+
+body.dark-mode #flag-question-btn:hover {
+    background-color: rgba(234, 179, 8, 0.15);
+    color: #facc15;
+    border-color: #facc15;
+}
+
+#flag-question-btn.text-yellow-500 {
+    background-color: rgba(234, 179, 8, 0.15);
+    border-color: #eab308;
+    color: #ca8a04;
+}
+
+body.dark-mode #flag-question-btn.text-yellow-500 {
+    background-color: rgba(234, 179, 8, 0.2);
+    border-color: #facc15;
+    color: #facc15;
+}

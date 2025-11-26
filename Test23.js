@@ -1,4 +1,4 @@
-const L129 = [
+window.L129 = [
   {
     "id": 1,
     "category": "Acute Inflammation",

@@ -1,4 +1,4 @@
-const L128 = [
+window.L128 = [
 {
 "id": 1,
 "category": "Cellular Adaptation",

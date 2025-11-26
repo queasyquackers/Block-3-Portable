@@ -1,4 +1,4 @@
-const L123 = [
+window.L123 = [
   {
     "id": 9,
     "category": "Vancomycin: Adverse Effects",

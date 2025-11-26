@@ -1,4 +1,4 @@
-const L131 = [
+window.L131 = [
   {
     "id": 1,
     "category": "Tumor Nomenclature",

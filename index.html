@@ -1,1083 +1,534 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Block 3 Practice</title>
+    <title>Medical Practice Exam</title>
+
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="enhancements.css">
+
     <style>
         :root {
-            --bg-main: #f3f4f6; --bg-card: #ffffff; --bg-card-subtle: #f9fafb; --bg-hover: #eff6ff; --bg-selected: #dbeafe;
-            --text-primary: #1f2937; --text-secondary: #4b5563;
-            --border-color: #d1d5db; --border-accent: #3b82f6;
-            --accent-color: #3b82f6; --accent-text: #3b82f6;
-            --correct-bg: #dcfce7; --correct-border: #22c55e; --correct-text: #166534;
-            --incorrect-bg: #fee2e2; --incorrect-border: #ef4444; --incorrect-text: #991b1b;
+            --bg-main: #fdf6e3;
+            --bg-card: #eee8d5;
+            --bg-card-subtle: #fdf6e3;
+            --bg-hover: #e0e0ce;
+            --bg-selected: #d6e4e6;
+            --text-primary: #586e75;
+            --text-secondary: #93a1a1;
+            --border-color: #d3d0c8;
+            --border-accent: #268bd2;
+            --accent-color: #268bd2;
+            --accent-hover: #2aa198;
+            --accent-text: #268bd2;
+            --correct-bg: #e4f0d6;
+            --correct-border: #859900;
+            --correct-text: #859900;
+            --incorrect-bg: #f5d6d5;
+            --incorrect-border: #dc322f;
+            --incorrect-text: #dc322f;
+            --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+            --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.05), 0 2px 4px -2px rgb(0 0 0 / 0.05);
+            --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.05), 0 4px 6px -4px rgb(0 0 0 / 0.05);
+            --font-sans: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
         }
-        body.dark-mode {
-            --bg-main: #111827; --bg-card: #1f2937; --bg-card-subtle: #374151; --bg-hover: #374151; --bg-selected: #1e40af;
-            --text-primary: #f9fafb; --text-secondary: #d1d5db;
-            --border-color: #4b5563; --border-accent: #60a5fa;
-            --accent-color: #60a5fa; --accent-text: #60a5fa;
-            --correct-bg: #14532d; --correct-border: #4ade80; --correct-text: #bbf7d0;
-            --incorrect-bg: #7f1d1d; --incorrect-border: #f87171; --incorrect-text: #fecaca;
+
+        .dark-mode {
+            --bg-main: #002b36;
+            --bg-card: #073642;
+            --bg-card-subtle: #002b36;
+            --bg-hover: #0b404d;
+            --bg-selected: #0e4857;
+            --text-primary: #839496;
+            --text-secondary: #586e75;
+            --border-color: #0b404d;
+            --border-accent: #268bd2;
+            --accent-color: #268bd2;
+            --accent-hover: #2aa198;
+            --accent-text: #268bd2;
+            --correct-bg: #073642;
+            --correct-border: #859900;
+            --correct-text: #859900;
+            --incorrect-bg: #073642;
+            --incorrect-border: #dc322f;
+            --incorrect-text: #dc322f;
         }
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background-color: var(--bg-main); color: var(--text-primary); transition: background-color 0.2s, color 0.2s; }
-        .card { background-color: var(--bg-card); transition: background-color 0.2s; }
-        .subtle-card { background-color: var(--bg-card-subtle); transition: background-color 0.2s; }
-        .text-secondary { color: var(--text-secondary); }
-        .border-default { border-color: var(--border-color); }
-        .tab-active { border-bottom-color: var(--accent-color); color: var(--accent-text); }
-        .test-selector-btn-active { background-color: var(--accent-color); color: white; }
-        .test-selector-btn-inactive { background-color: var(--bg-main); color: var(--text-secondary); }
-        
-        .q-grid-btn { 
-            transition: all 0.2s ease-in-out; 
-            border-color: var(--border-color); 
-            position: relative;
+
+        body {
+            background-color: var(--bg-main);
+            color: var(--text-primary);
+
+            transition: background-color 0.3s, color 0.3s;
         }
-        .q-grid-btn-correct { background-color: #22c55e; color: white; border-color: #16a34a; }
-        .q-grid-btn-incorrect { background-color: #ef4444; color: white; border-color: #dc2626; }
-        .q-grid-btn-current { 
-            transform: scale(1.15); 
-            z-index: 5;
-            background-color: var(--bg-selected);
+
+        .card {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 0.5rem;
+            box-shadow: var(--shadow-md);
+        }
+
+        .subtle-card {
+            background-color: var(--bg-card-subtle);
+            border: 1px solid var(--border-color);
+            border-radius: 0.5rem;
+        }
+
+        .btn-primary {
+            background-color: var(--accent-color);
+            color: white;
+            font-weight: 600;
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            transition: background-color 0.2s;
+        }
+
+        .btn-primary:hover {
+            background-color: var(--accent-hover);
+        }
+
+        .btn-secondary {
+            background-color: transparent;
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            font-weight: 600;
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            transition: all 0.2s;
+        }
+
+        .btn-secondary:hover {
+            background-color: var(--bg-hover);
+            border-color: var(--text-secondary);
+        }
+
+        .tab-btn {
+            font-weight: 600;
+            color: var(--text-secondary);
+            border-bottom: 2px solid transparent;
+            transition: all 0.2s;
+        }
+
+        .tab-btn:hover {
             color: var(--text-primary);
         }
-        .q-grid-btn-flagged { background-color: #f59e0b; color: white; }
-        
-        .q-grid-btn-correct::after, .q-grid-btn-incorrect::after {
-            content: '';
-            position: absolute;
-            bottom: -2px;
-            right: -2px;
-            width: 1rem; 
-            height: 1rem; 
+
+        .tab-active {
+            color: var(--accent-color);
+            border-bottom-color: var(--accent-color);
+        }
+
+        .option-btn {
+            background-color: var(--bg-card);
+            border: 2px solid var(--border-color);
+            padding: 1rem;
+            border-radius: 0.75rem;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: flex;
+            align-items: flex-start;
+            gap: 0.75rem;
+        }
+
+        .option-btn:hover {
+            border-color: var(--accent-color);
+            background-color: var(--bg-hover);
+        }
+
+        .option-btn-selected {
+            border-color: var(--accent-color);
+            background-color: var(--bg-selected);
+            box-shadow: 0 0 0 2px var(--accent-color);
+        }
+
+        .option-btn-correct {
+            border-color: var(--correct-border);
+            background-color: var(--correct-bg);
+            color: var(--correct-text);
+        }
+
+        .option-btn-incorrect {
+            border-color: var(--incorrect-border);
+            background-color: var(--incorrect-bg);
+            color: var(--incorrect-text);
+        }
+
+        .explanation {
+            display: none;
+            background-color: var(--bg-card-subtle);
+            border-left: 4px solid var(--accent-color);
+            padding: 1rem;
+            margin-top: 1rem;
+            border-radius: 0.5rem;
+            font-size: 0.95rem;
+            line-height: 1.6;
+            color: var(--text-primary);
+        }
+
+        .explanation-correct {
+            background-color: var(--correct-bg);
+            border-left-color: var(--correct-border);
+            color: var(--correct-text);
+        }
+
+        .explanation-incorrect {
+            background-color: var(--incorrect-bg);
+            border-left-color: var(--incorrect-border);
+            color: var(--incorrect-text);
+        }
+
+        .q-grid-btn {
+            width: 100%;
+            aspect-ratio: 1;
             display: flex;
             align-items: center;
             justify-content: center;
-            border-radius: 50%;
-            background-color: var(--bg-card);
-            font-weight: bold;
-            line-height: 1;
-            box-shadow: 0 0 0 2px var(--bg-main);
-        }
-        .q-grid-btn-correct::after {
-            content: '✔';
-            color: #22c55e;
-            border: 2px solid #22c55e;
-            font-size: 0.75rem;
-        }
-        .q-grid-btn-incorrect::after {
-            content: '✖';
-            color: #ef4444;
-            border: 2px solid #ef4444;
+            border-radius: 0.5rem;
+            font-weight: 600;
             font-size: 0.875rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: 1px solid var(--border-color);
+            background-color: var(--bg-card);
+            color: var(--text-secondary);
         }
-        .test-selector-btn { padding: 8px 16px; border-radius: 6px; font-weight: 500; transition: background-color 0.2s; }
-        .option-btn { border: 1px solid var(--border-color); transition: background-color 0.2s, border-color 0.2s; }
-        .option-btn:hover { background-color: var(--bg-hover); border-color: var(--border-accent); }
-        .option-btn-selected { background-color: var(--bg-selected); border-color: var(--border-accent); box-shadow: 0 0 0 2px var(--accent-color); }
-        .option-btn-correct { background-color: var(--correct-bg); border-color: var(--correct-border); color: var(--correct-text); }
-        .option-btn-incorrect { background-color: var(--incorrect-bg); border-color: var(--incorrect-border); color: var(--incorrect-text); }
-        .option-strikethrough { text-decoration: line-through; background-color: var(--bg-main) !important; color: var(--text-secondary) !important; opacity: 0.7; }
-        .explanation { display: none; margin-top: 0.5rem; padding: 0.75rem; border-left: 4px solid var(--border-color); background-color: var(--bg-card-subtle); color: var(--text-secondary); }
-    
-        .week-toggle-btn {
-             width: 100%;
+
+        .q-grid-btn:hover {
+            border-color: var(--accent-color);
+            transform: scale(1.05);
         }
+
+        .q-grid-btn-current {
+            border-color: var(--accent-color);
+            box-shadow: 0 0 0 3px var(--bg-selected);
+            color: var(--accent-text);
+        }
+
+        .q-grid-btn-correct {
+            font-weight: 700;
+        }
+
+        .q-grid-btn-flagged {
+            background-color: #f97316 !important;
+            border-color: #ea580c !important;
+            color: white !important;
+        }
+
         .week-dropdown-panel {
-            position: absolute;
-            z-index: 10;
             background-color: var(--bg-card);
             border: 1px solid var(--border-color);
-            border-radius: 6px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-            margin-top: 4px;
-            width: 100%;
-            max-height: 300px;
-            overflow-y: auto;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            border-radius: 0.75rem;
+            overflow: hidden;
+            transform-origin: top;
+            animation: dropdownFadeIn 0.2s ease-out forwards;
+            position: absolute;
+            z-index: 50;
+            min-width: 220px;
+            margin-top: 0.5rem;
         }
-        .test-item-btn {
-            display: block;
-            width: 100%;
-            text-align: left;
-            border-radius: 0;
-            border: none;
-            border-bottom: 1px solid var(--border-color);
-        }
-        .test-item-btn:last-child {
-            border-bottom: none;
-        }
-        .test-item-btn.test-selector-btn-active {
-            background-color: var(--accent-color);
-            color: white;
-        }
-        @media (min-width: 640px) { /* sm breakpoint */
-            .week-toggle-btn {
-                width: auto;
-            }
-            .week-dropdown-panel {
-                width: 250px;
-            }
+
+        .week-toggle-btn {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            font-weight: 600;
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            transition: all 0.2s;
+            display: flex;
+            border-color: var(--accent-color);
         }
     </style>
+</head>
 
-    <script src="Test1.js"></script>
-	<script src="Test2.js"></script>
-	<script src="Test3.js"></script>
-	<script src="Test4.js"></script>
-	<script src="Test5.js"></script>
-	<script src="Test6.js"></script>
-	<script src="Test7.js"></script>
-	<script src="Test8.js"></script>
-	<script src="Test9.js"></script>
-	<script src="Test10.js"></script>
-	<script src="Test11.js"></script>
-	<script src="Test12.js"></script>
-	<script src="Test13.js"></script>
-	<script src="Test14.js"></script>
-	<script src="Test15.js"></script>
-	<script src="Test16.js"></script>
-	<script src="Test17.js"></script>
-	<script src="Test18.js"></script>
-	<script src="Test19.js"></script>
-	<script src="Test20.js"></script>
-	<script src="Test21.js"></script>
-	<script src="Test22.js"></script>
-	<script src="Test23.js"></script>
-	<script src="Test24.js"></script>
-	<script src="Test25.js"></script>
-	<script src="Test26.js"></script>
-	<script src="Test27.js"></script>
-
-    </head>
-<body>
+<body class="antialiased min-h-screen pb-12">
     <script>
-        if (localStorage.getItem('theme') === 'dark') { document.body.classList.add('dark-mode'); }
+        if (localStorage.getItem('theme') === 'dark') {
+            document.body.classList.add('dark-mode');
+        }
     </script>
 
-    <div id="app-container" class="container mx-auto max-w-7xl p-4">
-        <nav class="card shadow-md mb-6 p-4 rounded-lg">
-            <h2 class="text-xl font-bold text-center mb-3">Select an Exam</h2>
-            <div id="test-selector-nav" class="flex flex-wrap justify-center gap-3"></div>
+    <div id="app-container" class="container mx-auto max-w-7xl p-4 lg:p-8">
+
+        <nav
+            class="card mb-8 p-4 flex flex-col lg:flex-row justify-between items-center gap-4 sticky top-4 z-20 glass-panel rounded-2xl">
+            <div class="flex flex-col md:flex-row items-center gap-6 w-full lg:w-auto">
+                <div class="flex items-center gap-3">
+                    <div class="nav-logo-box w-10 h-10 rounded-xl flex items-center justify-center text-white font-bold text-xl"
+                        style="background-color: var(--accent-color);">
+                        B3
+                    </div>
+                    <h1 class="text-2xl font-bold tracking-tight">Practice<span
+                            style="color: var(--accent-color)">OS</span></h1>
+                </div>
+
+                <div class="h-8 w-px bg-gray-300 dark:bg-gray-700 hidden md:block"></div>
+
+                <div id="test-selector-nav" class="flex flex-wrap justify-center md:justify-start gap-2"></div>
+            </div>
+
+            <div class="flex items-center gap-4">
+                <button id="master-review-btn" class="btn-primary flex items-center gap-2">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M19.428 15.428a2 2 0 00-1.022-.547l-2.384-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z">
+                        </path>
+                    </svg>
+                    Master Review
+                </button>
+                <button id="dark-mode-toggle"
+                    class="p-2 rounded-full hover:bg-gray-200 dark:hover:bg-gray-700 transition text-secondary">
+                    <svg id="theme-icon-light" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z">
+                        </path>
+                    </svg>
+                    <svg id="theme-icon-dark" class="w-6 h-6 hidden" fill="none" stroke="currentColor"
+                        viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z">
+                        </path>
+                    </svg>
+                </button>
+            </div>
         </nav>
-        <div class="grid grid-cols-1 md:grid-cols-4 gap-6">
-            <aside class="card md:col-span-1 p-4 rounded-lg shadow-md h-full md:sticky top-4">
-                <div class="flex justify-between items-center mb-4">
-                    <h2 class="text-xl font-bold">Exam Control</h2>
-                    <button id="dark-mode-toggle" class="p-2 rounded-full hover:bg-gray-200 dark:hover:bg-gray-700 transition">
-                        <svg id="theme-icon-light" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path></svg>
-                        <svg id="theme-icon-dark" class="w-5 h-5 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"></path></svg>
+
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
+
+            <aside class="lg:col-span-3 space-y-6">
+                <div class="card p-6 sticky top-28 glass-panel rounded-2xl">
+                    <div class="flex justify-between items-center mb-6">
+                        <h2 class="text-lg font-bold text-secondary uppercase tracking-wider text-xs">Control Center
+                        </h2>
+                        <div class="flex items-center gap-2">
+                            <span class="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
+                            <span class="text-xs font-medium text-green-600 dark:text-green-400">Active</span>
+                        </div>
+                    </div>
+
+                    <div class="subtle-card text-center p-6 mb-6">
+                        <div class="text-xs font-semibold text-secondary uppercase mb-2">Time Elapsed</div>
+                        <div id="timer-display" class="text-4xl font-mono font-bold tracking-tighter"
+                            style="color: var(--accent-color)">00:00</div>
+                        <div class="flex justify-center space-x-3 mt-4">
+                            <button id="timer-start-btn" class="btn-primary py-1 px-4 text-sm">Start</button>
+                            <button id="timer-pause-btn"
+                                class="hidden bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-1 px-4 rounded-lg text-sm transition">Pause</button>
+                        </div>
+                    </div>
+
+                    <h3 class="font-semibold mb-3 text-sm text-secondary">Question Navigator</h3>
+                    <div id="question-grid" class="grid grid-cols-5 gap-2 mb-6"></div>
+
+                    <div class="space-y-2 text-xs text-secondary mb-6 subtle-card p-3">
+                        <div class="flex items-center"><span
+                                class="w-2 h-2 rounded-full bg-gray-300 mr-2"></span>Unanswered</div>
+                        <div class="flex items-center"><span
+                                class="w-2 h-2 rounded-full bg-green-500 mr-2"></span>Correct</div>
+                        <div class="flex items-center"><span
+                                class="w-2 h-2 rounded-full bg-red-500 mr-2"></span>Incorrect</div>
+                        <div class="flex items-center"><span
+                                class="w-2 h-2 rounded-full bg-orange-500 mr-2"></span>Flagged</div>
+                    </div>
+
+                    <button id="finish-test-btn"
+                        class="w-full bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-4 rounded-xl shadow-md transition transform hover:scale-[1.02] disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none">
+                        Finish & Grade
+                    </button>
+                    <button id="reset-progress-btn"
+                        class="w-full mt-3 text-sm text-center text-secondary hover:text-red-500 transition">
+                        Reset Progress
                     </button>
                 </div>
-                <div class="subtle-card text-center p-4 rounded-lg mb-4">
-                    <div id="timer-display" class="text-3xl font-mono font-bold text-secondary">00:00</div>
-                    <div class="flex justify-center space-x-2 mt-2">
-                        <button id="timer-start-btn" class="text-sm bg-green-500 hover:bg-green-600 text-white font-semibold py-1 px-3 rounded">Start</button>
-                        <button id="timer-pause-btn" class="hidden text-sm bg-yellow-500 hover:bg-yellow-600 text-white font-semibold py-1 px-3 rounded">Pause</button>
-                    </div>
-                </div>
-                <h3 class="font-semibold mb-2 text-center">Question Navigator</h3>
-                <div id="question-grid" class="grid grid-cols-5 gap-2 mb-4"></div>
-                <div class="text-xs text-secondary mb-4">
-                    <div class="flex items-center"><span class="w-3 h-3 border border-default rounded-full mr-2"></span>Not Answered</div>
-                    <div class="flex items-center mt-1"><span class="w-3 h-3 bg-green-500 rounded-full mr-2"></span>Correct</div>
-                    <div class="flex items-center mt-1"><span class="w-3 h-3 bg-red-500 rounded-full mr-2"></span>Incorrect</div>
-                    <div class="flex items-center mt-1"><span class="w-3 h-3 bg-yellow-500 rounded-full mr-2"></span>Flagged</div>
-                    <div class="flex items-center mt-1"><span class="w-3 h-3 rounded-full mr-2" style="background-color: var(--bg-selected);"></span>Current</div>
-                </div>
-                <button id="finish-test-btn" class="w-full bg-red-500 hover:bg-red-600 text-white font-bold py-2 px-4 rounded disabled:opacity-50 disabled:cursor-not-allowed">
-                    Finish & Grade Exam
-                </button>
-                <button id="reset-progress-btn" class="w-full mt-2 text-sm text-center text-secondary hover:text-red-600">
-                    Reset Progress
-                </button>
             </aside>
-            <main class="md:col-span-3">
-                 <header class="card rounded-t-lg shadow-md p-6">
-                    <h1 id="exam-title" class="text-2xl font-bold">Practice Exam</h1>
-                    <div class="border-b border-default mt-4">
-                        <nav class="-mb-px flex" aria-label="Tabs">
-                            <button id="tab-test" class="w-1/2 py-4 px-1 text-center border-b-2 font-medium text-sm tab-active">
-                                Practice Test
-                            </button>
-                            <button id="tab-summary" class="w-1/2 py-4 px-1 text-center border-b-2 font-medium text-sm text-gray-500 border-transparent disabled:opacity-50 disabled:cursor-not-allowed" disabled>
-                                Review Summary
-                            </button>
-                        </nav>
-                    </div>
-                </header>
-                <div id="main-content-area" class="card rounded-b-lg shadow-md p-6">
-                    <div id="test-view">
-                         <div id="question-header" class="flex justify-between items-center mb-6">
-                            <h2 id="question-counter" class="text-xl font-semibold">Question 1 of N</h2>
-                             <button id="flag-question-btn" class="flex items-center text-gray-500 hover:text-yellow-500 font-semibold py-1 px-3 rounded-full border border-default hover:border-yellow-400 transition disabled:opacity-50 disabled:cursor-not-allowed">
-                                <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 21v-4m0 0V5a2 2 0 012-2h6.5l1 1H21l-3 6 3 6H8.5l-1-1H5a2 2 0 00-2 2zm9-13.5V9"></path></svg>
-                                <span id="flag-btn-text">Flag for Review</span>
-                            </button>
-                        </div>
-                        <div id="question-container"></div>
-                        
-                        <div id="slide-display-container" class="mt-6 p-4 rounded-lg subtle-card hidden">
-                            <h3 class="text-lg font-semibold mb-3">Relevant Concept Diagram:</h3>
-                            <div id="slide-image-placeholder" class="text-center text-secondary italic">
-                                </div>
-                        </div>
-                        <div id="navigation-container" class="mt-8 flex justify-between items-center border-t border-default pt-6"></div>
-                    </div>
-                    <div id="summary-view" class="hidden">
-                        <div id="summary-dashboard">
-                            <h2 class="text-2xl font-bold text-center mb-6">Test Completed!</h2>
-                            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
-                                <div class="flex flex-col items-center">
-                                    <div class="max-w-xs w-full"><canvas id="performance-chart"></canvas></div>
-                                </div>
-                                <div class="text-center md:text-left">
-                                    <h3 class="text-lg font-semibold mb-2">Final Score</h3>
-                                    <p id="final-score" class="text-5xl font-bold" style="color: var(--accent-text)"></p>
-                                    <p id="final-percentage" class="text-2xl text-secondary mb-6"></p>
-                                    <h3 class="text-lg font-semibold mb-2">Performance Overview</h3>
-                                    <div id="performance-overview"></div>
-                                </div>
-                            </div>
-                            <div class="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
-                                <button id="view-all-btn" class="bg-gray-200 hover:bg-gray-300 text-gray-800 dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white font-bold py-2 px-4 rounded">Review All</button>
-                                <button id="view-incorrect-btn" class="bg-red-500 hover:bg-red-600 text-white font-bold py-2 px-4 rounded">Review Incorrect</button>
-                            </div>
-                            <div class="mt-12 border-t border-default pt-6">
-                                <h3 class="text-lg font-semibold text-center mb-4">Generate Study Prompt</h3>
-                                <div class="flex justify-center">
-                                    <button id="generate-prompt-btn" class="bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-2 px-4 rounded">Generate Prompt for Weak Areas</button>
-                                </div>
-                                <textarea id="prompt-output-area" class="mt-4 w-full h-48 p-2 border border-default rounded subtle-card text-secondary text-sm" readonly placeholder="Your study prompt will appear here..."></textarea>
+
+            <main class="lg:col-span-9">
+                <div class="card shadow-lg min-h-[600px] flex flex-col glass-panel rounded-2xl">
+                    <header class="p-6 border-b border-default bg-opacity-50 backdrop-blur-sm rounded-t-2xl">
+                        <div class="flex justify-between items-start">
+                            <div>
+                                <h1 id="exam-title" class="text-3xl font-bold tracking-tight mb-2">Practice Exam</h1>
+                                <p class="text-secondary text-sm">Block 3 • Medical Sciences</p>
                             </div>
                         </div>
-                        <div id="detailed-review-view" class="hidden">
-                            <button id="back-to-summary-btn" class="mb-6 bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded">&larr; Back to Summary</button>
-                            <div id="detailed-questions-container"></div>
+                        <div class="flex gap-6 mt-6">
+                            <button id="tab-test" class="tab-btn tab-active pb-2 px-1">Practice Test</button>
+                            <button id="tab-summary" class="tab-btn pb-2 px-1 disabled:opacity-30" disabled>Performance
+                                Summary</button>
+                        </div>
+                    </header>
+
+                    <div id="main-content-area" class="p-6 lg:p-10 flex-grow">
+                        <div id="test-view" class="animate-fade-in">
+                            <div id="question-header" class="flex justify-between items-center mb-8">
+                                <span id="question-counter"
+                                    class="text-sm font-bold uppercase tracking-wider text-secondary px-3 py-1 rounded-full"
+                                    style="background-color: var(--bg-card-subtle)">Question 1</span>
+                                <button id="flag-question-btn"
+                                    class="flex items-center gap-2 text-secondary hover:text-orange-500 transition font-medium text-sm">
+                                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M3 21v-4m0 0V5a2 2 0 012-2h6.5l1 1H21l-3 6 3 6H8.5l-1-1H5a2 2 0 00-2 2zm9-13.5V9">
+                                        </path>
+                                    </svg>
+                                    <span id="flag-btn-text">Flag</span>
+                                </button>
+                            </div>
+
+                            <div id="question-container" class="max-w-3xl mx-auto"></div>
+
+                            <div id="slide-display-container" class="mt-8 p-6 rounded-xl subtle-card hidden border-l-4"
+                                style="border-color: var(--accent-color)">
+                                <h3 class="text-lg font-bold mb-4 flex items-center gap-2">
+                                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z">
+                                        </path>
+                                    </svg>
+                                    Visual Aid
+                                </h3>
+                                <div id="slide-image-placeholder"></div>
+                            </div>
+
+                            <div id="navigation-container"
+                                class="mt-12 flex justify-between items-center pt-8 border-t border-default"></div>
+                        </div>
+
+                        <div id="summary-view" class="hidden animate-fade-in">
+                            <div id="summary-dashboard">
+                                <div class="text-center mb-10">
+                                    <div
+                                        class="inline-block p-3 rounded-full bg-green-100 dark:bg-green-900 text-green-600 dark:text-green-400 mb-4">
+                                        <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                        </svg>
+                                    </div>
+                                    <h2 class="text-3xl font-bold">Exam Completed</h2>
+                                    <p class="text-secondary mt-2">Here is how you performed</p>
+                                </div>
+
+                                <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center mb-12">
+                                    <div class="flex flex-col items-center justify-center p-6 subtle-card rounded-2xl">
+                                        <div class="w-48 h-48"><canvas id="performance-chart"></canvas></div>
+                                    </div>
+                                    <div class="space-y-6">
+                                        <div>
+                                            <h3 class="text-sm font-bold text-secondary uppercase tracking-wider">Total
+                                                Score</h3>
+                                            <div class="flex items-baseline gap-3">
+                                                <p id="final-score" class="text-6xl font-bold"
+                                                    style="color: var(--accent-color)"></p>
+                                                <p id="final-percentage" class="text-2xl font-semibold text-secondary">
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div id="performance-overview" class="space-y-4"></div>
+                                    </div>
+                                </div>
+
+                                <div class="flex flex-col sm:flex-row gap-4 justify-center mb-12">
+                                    <button id="view-all-btn" class="btn-secondary py-3 px-8">Review All
+                                        Questions</button>
+                                    <button id="view-incorrect-btn"
+                                        class="btn-primary py-3 px-8 bg-red-500 hover:bg-red-600 border-none">Review
+                                        Incorrect Only</button>
+                                </div>
+
+                                <div class="border-t border-default pt-8">
+                                    <div class="flex justify-between items-center mb-6">
+                                        <h3 class="text-lg font-bold">AI Study Assistant</h3>
+                                        <button id="generate-prompt-btn"
+                                            class="text-sm font-bold text-indigo-600 hover:text-indigo-700 flex items-center gap-1">
+                                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                    d="M13 10V3L4 14h7v7l9-11h-7z"></path>
+                                            </svg>
+                                            Generate Study Plan
+                                        </button>
+                                    </div>
+                                    <textarea id="prompt-output-area"
+                                        class="w-full h-32 p-4 border border-default rounded-xl subtle-card text-sm focus:ring-2 focus:ring-indigo-500 focus:border-transparent outline-none transition"
+                                        readonly
+                                        placeholder="Click 'Generate Study Plan' to get a personalized study prompt based on your weak areas..."></textarea>
+                                </div>
+                            </div>
+
+                            <div id="detailed-review-view" class="hidden">
+                                <button id="back-to-summary-btn"
+                                    class="mb-8 flex items-center gap-2 text-secondary hover:text-primary transition font-medium">
+                                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+                                    </svg>
+                                    Back to Summary
+                                </button>
+                                <div id="detailed-questions-container" class="space-y-8"></div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </main>
         </div>
     </div>
-    <div id="finish-modal" class="hidden fixed inset-0 bg-gray-800 bg-opacity-75 flex items-center justify-center p-4 z-50">
-        <div id="modal-backdrop" class="absolute inset-0"></div>
-        <div id="modal-content" class="card shadow-xl p-6 w-full max-w-md z-10">
-            <h3 class="text-xl font-bold">Finish Exam?</h3>
-            <p id="modal-text" class="text-secondary my-4">Are you sure you want to finish and grade the exam? Any unanswered questions will be marked incorrect.</p>
-            <div class="flex justify-end space-x-4 mt-6">
-                <button id="modal-cancel-btn" class="px-4 py-2 bg-gray-200 text-gray-800 rounded-lg hover:bg-gray-300 dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">Cancel</button>
-                <button id="modal-confirm-btn" class="px-4 py-2 bg-red-500 text-white rounded-lg hover:bg-red-600">Finish Exam</button>
+
+    <div id="finish-modal" class="hidden fixed inset-0 z-50 flex items-center justify-center p-4">
+        <div id="modal-backdrop" class="absolute inset-0 bg-slate-900/50 backdrop-blur-sm transition-opacity"></div>
+        <div id="modal-content" class="card shadow-2xl p-8 w-full max-w-md z-10 transform transition-all scale-100">
+            <div class="text-center mb-6">
+                <div class="inline-block p-3 rounded-full bg-red-100 text-red-500 mb-4">
+                    <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z">
+                        </path>
+                    </svg>
+                </div>
+                <h3 class="text-2xl font-bold">Finish Exam?</h3>
+                <p id="modal-text" class="text-secondary mt-2">Are you sure you want to finish?</p>
+            </div>
+            <div class="flex gap-3">
+                <button id="modal-cancel-btn" class="flex-1 btn-secondary py-3">Cancel</button>
+                <button id="modal-confirm-btn"
+                    class="flex-1 bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-4 rounded-xl shadow-md transition">Finish
+                    Exam</button>
             </div>
         </div>
     </div>
 
-    <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            
-            function groupTests(tests) {
-                const grouped = {};
-                tests.forEach(test => {
-                    const match = test.name.match(/^(\d+)-(.+)/);
-                    let groupKey = "General";
-                    let displayName = test.name;
-                    if (match) {
-                        const weekNum = match[1].trim();
-                        displayName = match[2].trim();
-                        groupKey = `Week ${weekNum}`;
-                    }
-                    if (!grouped[groupKey]) {
-                        grouped[groupKey] = [];
-                    }
-                    grouped[groupKey].push({
-                        ...test,
-                        displayName: displayName 
-                    });
-                });
-                return grouped;
-            }
+    <script src="Test1.js"></script>
+    <script src="Test2.js"></script>
+    <script src="Test3.js"></script>
+    <script src="Test4.js"></script>
+    <script src="Test5.js"></script>
+    <script src="Test6.js"></script>
+    <script src="Test7.js"></script>
+    <script src="Test8.js"></script>
+    <script src="Test9.js"></script>
+    <script src="Test10.js"></script>
+    <script src="Test11.js"></script>
+    <script src="Test12.js"></script>
+    <script src="Test13.js"></script>
+    <script src="Test14.js"></script>
+    <script src="Test15.js"></script>
+    <script src="Test16.js"></script>
+    <script src="Test17.js"></script>
+    <script src="Test18.js"></script>
+    <script src="Test19.js"></script>
+    <script src="Test20.js"></script>
+    <script src="Test21.js"></script>
+    <script src="Test22.js"></script>
+    <script src="Test23.js"></script>
+    <script src="Test24.js"></script>
+    <script src="Test25.js"></script>
+    <script src="Test26.js"></script>
+    <script src="Test27.js"></script>
 
-            const testsToLoad = [
-                // Assumes L103 is defined in Test1.js
-		{ name: "13-H&N Anatomy", data: L103 },
-					{name: "13-OMM Lumbar Dx", data: L102 },
-					{ name: "13-H&N Embryology", data: L104 },
-					{ name: "13-H&N Pathways", data: L105 },
-					{ name: "13-DPR Health Disparities", data: L106 },
-					{ name: "13-Pharmacodynamics", data: L107L108 },
-					{ name: "13-Pharmacokinetics", data: L109L110 },
-            	{ name: "14-Special Afferents", data: L112 },
-				{ name: "14-Autonomics of H&N", data: L113 },
-				{ name: "14-DPR - GI", data: L114 },
-				{ name: "14-Clinical Pharmacokinetics", data: L115L116 },
-				{ name: "14-Drug Interactions & Pharmacogenomics", data: L117L118 },
-				{ name: "14-Antimicrobials", data: L119 },
-				{ name: "14-Beta Lactams Pt1", data: L120 },
-		{ name: "15-Lumbar HVLA", data: L121 },
-				{ name: "15-DPR - GI Pt 2", data: L122 },
-				{ name: "15-Beta Lactams Pt2", data: L123 },
-				{ name: "15-Aminoglycosides", data: L124 },
-				{ name: "15-Protein Synthesis Inhibitors", data: L125 },
-				{ name: "15-Folic Acids", data: L126 },
-		{ name: "16-Orbit and Extraocular Muscles", data: L127 },
-				{ name: "16-Cellular Adaptation and Injury", data: L128 },
-				{ name: "16-Inflammation", data: L129 },
-				{ name: "16-Healing and Repair", data: L130 },
-				{ name: "16-Neoplasia 1", data: L131 },
-				{ name: "16-Neoplasia 2", data: L132 },
-				{ name: "16-Intro to Nervous System", data: L133 }
-                // Add your other test objects here
-            ];
-
-            const testStates = {};
-            let currentTestName = '';
-            let performanceChart = null;
-
-            const getCurrentTestState = () => {
-                if (!currentTestName || !testStates[currentTestName]) return null;
-                return testStates[currentTestName];
-            };
-
-            const getEl = (id) => document.getElementById(id);
-
-            const darkModeToggle = getEl('dark-mode-toggle');
-            const lightIcon = getEl('theme-icon-light');
-            const darkIcon = getEl('theme-icon-dark');
-            
-            const updateThemeIcons = () => {
-                if (document.body.classList.contains('dark-mode')) {
-                    lightIcon.classList.add('hidden');
-                    darkIcon.classList.remove('hidden');
-                } else {
-                    darkIcon.classList.add('hidden');
-                    lightIcon.classList.remove('hidden');
-                }
-            };
-
-            darkModeToggle.addEventListener('click', () => {
-                document.body.classList.toggle('dark-mode');
-                localStorage.setItem('theme', document.body.classList.contains('dark-mode') ? 'dark' : 'light');
-                updateThemeIcons();
-            });
-
-            const generatePromptBtn = getEl('generate-prompt-btn');
-            const promptOutputArea = getEl('prompt-output-area');
-            generatePromptBtn.addEventListener('click', () => {
-                const state = getCurrentTestState();
-                if (!state) return;
-                const numberOfQuestions = 10;
-                const weakCategories = Object.entries(state.currentSummaryStats)
-                    .filter(([_, stats]) => stats.correct < stats.total)
-                    .sort(([, a], [, b]) => (a.correct / a.total) - (b.correct / b.total));
-
-                let dynamicInputText = "";
-                if (weakCategories.length === 0) {
-                    const allCategories = Object.keys(state.currentSummaryStats).join(', ');
-                    dynamicInputText = `I did not get any questions wrong on this test. Please generate a mixed review set from all topics covered (${allCategories}).`;
-                } else {
-                    dynamicInputText = "The following list contains my weak areas from the test...:\n";
-                    weakCategories.forEach(([category, stats]) => {
-                        const percent = ((stats.correct / stats.total) * 100).toFixed(0);
-                        dynamicInputText += `- ${category}: Scored ${percent}% (${stats.correct}/${stats.total})\n`;
-                    });
-                }
-                const fullPrompt = `... (Your prompt generation logic) ...\n# Dynamic Inputs\n${dynamicInputText}\n...`;
-                promptOutputArea.value = fullPrompt.trim();
-            });
-
-            const handleSubmit = () => {
-                const state = getCurrentTestState();
-                if (!state || state.examFinished) return;
-                const answerState = state.userAnswers[state.currentQuestionIndex];
-                if (answerState.selectedIndex === null) {
-                    alert('Please select an answer before submitting.');
-                    return;
-                }
-                answerState.isSubmitted = true;
-                answerState.isCorrect = answerState.selectedIndex === state.questions[state.currentQuestionIndex].correctAnswerIndex;
-                answerState.strikedOutIndices.clear();
-                displayQuestion();
-                saveState();
-            };
-            
-            const generateSummary = (testName) => {
-                const state = testStates[testName];
-                if (!state) return;
-                
-                const score = state.userAnswers.filter(a => a.isCorrect).length;
-                const totalQuestions = state.questions.length;
-                const percentage = totalQuestions > 0 ? (score / totalQuestions * 100).toFixed(1) : 0;
-                getEl('final-score').textContent = `${score} / ${totalQuestions}`;
-                getEl('final-percentage').textContent = `${percentage}%`;
-                const correctCount = score;
-                const incorrectCount = totalQuestions - score;
-                if (performanceChart) performanceChart.destroy();
-                const ctx = getEl('performance-chart').getContext('2d');
-                performanceChart = new Chart(ctx, {
-                    type: 'doughnut',
-                    data: { labels: ['Correct', 'Incorrect'], datasets: [{ data: [correctCount, incorrectCount], backgroundColor: ['rgba(75, 192, 192, 0.8)', 'rgba(255, 99, 132, 0.8)'], borderColor: 'var(--bg-card)', borderWidth: 4 }] },
-                    options: { responsive: true, plugins: { legend: { position: 'top' }, tooltip: { callbacks: { label: (c) => `${c.label}: ${c.raw} (${((c.raw / totalQuestions) * 100).toFixed(0)}%)` } } } }
-                });
-
-                const categoryStats = {};
-                state.questions.forEach((q, index) => {
-                    if (!categoryStats[q.category]) categoryStats[q.category] = { correct: 0, total: 0 };
-                    if (state.userAnswers[index].isSubmitted) {
-                        categoryStats[q.category].total++;
-                        if (state.userAnswers[index].isCorrect) categoryStats[q.category].correct++;
-                    }
-                });
-                state.currentSummaryStats = categoryStats;
-                
-                const perfArray = Object.entries(categoryStats).map(([name, stats]) => ({
-                    name,
-                    score: stats.total > 0 ? (stats.correct / stats.total) : 0,
-                    stats: `${stats.correct} / ${stats.total}`
-                })).sort((a, b) => a.score - b.score);
-
-                const overviewContainer = getEl('performance-overview');
-                overviewContainer.innerHTML = '';
-                
-                const weakest = perfArray.slice(0, 3);
-                const strongest = perfArray.length > 3 ? perfArray.slice(-3).reverse() : [];
-
-                let html = '';
-                if (weakest.length > 0) {
-                    html += `<h4 class="font-semibold text-red-500">Areas for Review</h4>`;
-                    weakest.forEach(item => {
-                        html += `<p class="text-sm text-secondary">${item.name} - ${item.stats} (${(item.score * 100).toFixed(0)}%)</p>`;
-                    });
-                }
-                if (strongest.length > 0) {
-                    html += `<h4 class="font-semibold text-green-500 mt-4">Strongest Areas</h4>`;
-                    strongest.forEach(item => {
-                        html += `<p class="text-sm text-secondary">${item.name} - ${item.stats} (${(item.score * 100).toFixed(0)}%)</p>`;
-                    });
-                }
-                overviewContainer.innerHTML = html;
-                promptOutputArea.value = '';
-            };
-            
-            function switchToTest(testName) {
-                if (currentTestName && testStates[currentTestName]) {
-                    saveState();
-                }
-                
-                currentTestName = testName;
-                const state = testStates[testName];
-                if (!state) return;
-                
-                const displayName = testName.replace(/^(\d+)-/, '').trim();
-                getEl('exam-title').textContent = `Practice Exam: ${displayName}`;
-
-                const selectorBtns = getEl('test-selector-nav').querySelectorAll('.test-item-btn');
-                selectorBtns.forEach(btn => {
-                    btn.classList.toggle('test-selector-btn-active', btn.dataset.name === testName);
-                    btn.classList.toggle('test-selector-btn-inactive', btn.dataset.name !== testName);
-                });
-
-                const weekToggles = getEl('test-selector-nav').querySelectorAll('.week-toggle-btn');
-                weekToggles.forEach(toggle => {
-                    const panel = toggle.nextElementSibling;
-                    if (panel && panel.querySelector('.test-selector-btn-active')) {
-                        toggle.classList.add('test-selector-btn-active');
-                        toggle.classList.remove('test-selector-btn-inactive');
-                    } else {
-                        toggle.classList.remove('test-selector-btn-active');
-                        toggle.classList.add('test-selector-btn-inactive');
-                    }
-                });
-
-                getEl('timer-display').textContent = formatTime(Math.floor(state.timer.elapsedTime / 1000));
-                
-                getEl('finish-test-btn').disabled = state.examFinished;
-                getEl('flag-question-btn').disabled = state.examFinished;
-                getEl('timer-start-btn').disabled = state.examFinished;
-                getEl('timer-pause-btn').disabled = state.examFinished;
-                
-                const summaryTab = getEl('tab-summary');
-                summaryTab.disabled = !state.examFinished;
-                if (state.examFinished) {
-                    summaryTab.classList.remove('disabled:opacity-50', 'disabled:cursor-not-allowed');
-                } else {
-                    summaryTab.classList.add('disabled:opacity-50', 'disabled:cursor-not-allowed');
-                }
-                
-                if (state.examFinished) {
-                    getEl('tab-summary').click();
-                    generateSummary(testName);
-                } else {
-                    getEl('tab-test').click();
-                }
-                
-                if (state.timer.isRunning) {
-                    getEl('timer-start-btn').classList.add('hidden');
-                    getEl('timer-pause-btn').classList.remove('hidden');
-                } else {
-                    getEl('timer-start-btn').classList.remove('hidden');
-                    getEl('timer-pause-btn').classList.add('hidden');
-                    getEl('timer-start-btn').textContent = state.timer.elapsedTime > 0 ? 'Resume' : 'Start';
-                }
-                
-                renderSidebar();
-                displayQuestion();
-            }
-            
-            function loadTest(testObject) {
-                if (!testStates[testObject.name]) {
-                    testStates[testObject.name] = {
-                        questions: testObject.data,
-                        currentQuestionIndex: 0,
-                        userAnswers: [],
-                        flaggedQuestions: new Set(),
-                        timer: { interval: null, startTime: 0, elapsedTime: 0, isRunning: false },
-                        examFinished: false,
-                        currentSummaryStats: {}
-                    };
-                    
-                    const LOCAL_STORAGE_KEY = `examProgress_${testObject.name}`;
-                    const savedState = localStorage.getItem(LOCAL_STORAGE_KEY);
-                    if (savedState) {
-                        const parsedState = JSON.parse(savedState);
-                        const state = testStates[testObject.name];
-                        state.currentQuestionIndex = parsedState.currentQuestionIndex;
-                        state.userAnswers = parsedState.userAnswers.map(a => ({...a, strikedOutIndices: new Set(a.strikedOutIndices)}));
-                        state.flaggedQuestions = new Set(parsedState.flaggedQuestions);
-                        state.timer.elapsedTime = parsedState.timer.elapsedTime;
-                    } else {
-                        const state = testStates[testObject.name];
-                        state.userAnswers = Array(state.questions.length).fill(null).map(() => ({ 
-                            selectedIndex: null, 
-                            isSubmitted: false, 
-                            isCorrect: false, 
-                            strikedOutIndices: new Set() 
-                        }));
-                    }
-                }
-                
-                switchToTest(testObject.name);
-            }
-            
-            function createTestSelector() { 
-                const navContainer = getEl('test-selector-nav'); 
-                navContainer.innerHTML = ''; 
-
-                const grouped = groupTests(testsToLoad);
-                
-                const groupKeys = Object.keys(grouped).sort((a, b) => {
-                    if (a === "General") return 1;
-                    if (b === "General") return -1;
-                    return a.localeCompare(b, undefined, { numeric: true });
-                });
-
-                groupKeys.forEach(groupName => {
-                    const groupContainer = document.createElement('div');
-                    groupContainer.className = 'relative inline-block text-left w-full sm:w-auto';
-
-                    const weekButton = document.createElement('button');
-                    weekButton.textContent = groupName + ' ▼';
-                    weekButton.className = 'week-toggle-btn test-selector-btn test-selector-btn-inactive w-full sm:w-auto text-left sm:text-center justify-between sm:inline-flex items-center';
-                    
-                    const dropdownPanel = document.createElement('div');
-                    dropdownPanel.className = 'week-dropdown-panel';
-                    dropdownPanel.style.display = 'none';
-
-                    const testsInGroup = grouped[groupName];
-                    testsInGroup.forEach(testObj => {
-                        const button = document.createElement('button');
-                        button.textContent = testObj.displayName;
-                        button.dataset.name = testObj.name;
-                        button.className = 'test-selector-btn test-selector-btn-inactive test-item-btn';
-                        
-                        const originalTestObj = testsToLoad.find(t => t.name === testObj.name);
-                        button.onclick = () => {
-                            loadTest(originalTestObj);
-                            document.querySelectorAll('.week-dropdown-panel').forEach(p => p.style.display = 'none');
-                        };
-                        dropdownPanel.appendChild(button);
-                    });
-                    
-                    weekButton.onclick = (e) => {
-                        document.querySelectorAll('.week-dropdown-panel').forEach(panel => {
-                            if (panel !== dropdownPanel) {
-                                panel.style.display = 'none';
-                            }
-                        });
-                        const isHidden = dropdownPanel.style.display === 'none';
-                        dropdownPanel.style.display = isHidden ? 'block' : 'none';
-                    };
-
-                    groupContainer.appendChild(weekButton);
-                    groupContainer.appendChild(dropdownPanel);
-                    navContainer.appendChild(groupContainer);
-                });
-            }
-            
-            const finishTest = () => {
-                hideModal();
-                const state = getCurrentTestState();
-                if (!state) return;
-                
-                state.examFinished = true;
-                pauseTimer();
-                state.userAnswers.forEach(ans => {
-                    if (!ans.isSubmitted) {
-                        ans.isSubmitted = true;
-                        ans.isCorrect = false;
-                    }
-                });
-                
-                let score = 0;
-                state.userAnswers.forEach(ans => { if(ans.isCorrect) score++ });
-                
-                getEl('finish-test-btn').disabled = true;
-                getEl('flag-question-btn').disabled = true;
-                getEl('timer-start-btn').disabled = true;
-                getEl('timer-pause-btn').disabled = true;
-                
-                const summaryTab = getEl('tab-summary');
-                summaryTab.disabled = false;
-                summaryTab.classList.remove('disabled:opacity-50', 'disabled:cursor-not-allowed');
-                summaryTab.click();
-                
-                localStorage.removeItem(`examProgress_${currentTestName}`);
-                generateSummary(currentTestName);
-                
-                const navButtons = getEl('question-grid').querySelectorAll('button');
-                navButtons.forEach((btn, index) => {
-                    btn.classList.remove('q-grid-btn-answered', 'q-grid-btn-flagged', 'q-grid-btn-current');
-                    if(state.userAnswers[index].isCorrect) {
-                        btn.classList.add('q-grid-btn-correct');
-                    } else {
-                        btn.classList.add('q-grid-btn-incorrect');
-                    }
-                });
-            };
-            
-            const handleTabClick = (e) => {
-                const target = e.currentTarget;
-                if (target.disabled) return;
-                const testTab = getEl('tab-test');
-                const summaryTab = getEl('tab-summary');
-                const testView = getEl('test-view');
-                const summaryView = getEl('summary-view');
-                testTab.classList.remove('tab-active');
-                testTab.classList.add('text-gray-500', 'border-transparent');
-                summaryTab.classList.remove('tab-active');
-                summaryTab.classList.add('text-gray-500', 'border-transparent');
-                if (target.id === 'tab-test') {
-                    summaryView.classList.add('hidden');
-                    testView.classList.remove('hidden');
-                    testTab.classList.add('tab-active');
-                    testTab.classList.remove('text-gray-500', 'border-transparent');
-                } else {
-                    testView.classList.add('hidden');
-                    summaryView.classList.remove('hidden');
-                    summaryTab.classList.add('tab-active');
-                    summaryTab.classList.remove('text-gray-500', 'border-transparent');
-                    getEl('detailed-review-view').classList.add('hidden');
-                    getEl('summary-dashboard').classList.remove('hidden');
-                }
-            };
-            
-            // --- UPDATED displayQuestion FUNCTION ---
-            const displayQuestion = () => {
-                const state = getCurrentTestState();
-                if (!state || state.questions.length === 0) return;
-                
-                const question = state.questions[state.currentQuestionIndex];
-                const answerState = state.userAnswers[state.currentQuestionIndex];
-                const questionContainer = getEl('question-container');
-                const navigationContainer = getEl('navigation-container');
-                
-                // Get the slide containers
-                const slideContainer = getEl('slide-display-container');
-                const slidePlaceholder = getEl('slide-image-placeholder');
-                
-                questionContainer.innerHTML = '';
-                navigationContainer.innerHTML = '';
-                // Reset slide display
-                slideContainer.classList.add('hidden');
-                slidePlaceholder.innerHTML = ''; // Clear placeholder content
-
-                getEl('question-counter').textContent = `Question ${state.currentQuestionIndex + 1} of ${state.questions.length}`;
-                
-                // Update flag button
-                if (state.flaggedQuestions.has(state.currentQuestionIndex)) {
-                    getEl('flag-btn-text').textContent = 'Unflag';
-                    getEl('flag-question-btn').classList.add('text-yellow-500');
-                } else {
-                    getEl('flag-btn-text').textContent = 'Flag for Review';
-                    getEl('flag-question-btn').classList.remove('text-yellow-500');
-                }
-                
-                const qText = document.createElement('p');
-                qText.className = 'text-lg leading-relaxed mb-6';
-                qText.innerHTML = question.questionText;
-                questionContainer.appendChild(qText);
-                
-                const optsContainer = document.createElement('div');
-                optsContainer.className = 'space-y-3';
-                question.options.forEach((opt, index) => {
-                    const wrapper = document.createElement('div');
-                    const btn = document.createElement('button');
-                    btn.className = 'w-full text-left p-4 rounded-lg option-btn';
-                    btn.dataset.index = index;
-                    btn.innerHTML = `<span class="font-bold mr-2">${String.fromCharCode(65 + index)}.</span> ${opt.text}`;
-                    if (answerState.strikedOutIndices.has(index)) btn.classList.add('option-strikethrough');
-                    const explanationEl = document.createElement('div');
-                    explanationEl.className = 'explanation';
-                    explanationEl.innerHTML = opt.explanation;
-                    
-                    if (answerState.isSubmitted) {
-                        btn.disabled = true;
-                        explanationEl.style.display = 'block';
-                        btn.classList.remove('option-btn-selected');
-                        
-                        if (index === question.correctAnswerIndex) {
-                            btn.classList.add('option-btn-correct');
-                        }
-                        else if (index === answerState.selectedIndex) {
-                            btn.classList.add('option-btn-incorrect');
-                        }
-                        
-                    } else {
-                        if (answerState.selectedIndex === index) btn.classList.add('option-btn-selected');
-                    }
-                    wrapper.appendChild(btn);
-                    wrapper.appendChild(explanationEl);
-                    optsContainer.appendChild(wrapper);
-                });
-                questionContainer.appendChild(optsContainer);
-
-                // --- MODIFIED IMAGE LOGIC ---
-                // After submitting, check if there's a slide *path* and display it.
-                if (answerState.isSubmitted && question.slideImagePath && question.slideImagePath !== "") {
-                   slideContainer.classList.remove('hidden');
-                   slidePlaceholder.innerHTML = ''; // Clear any old text
-                   
-                   // 1. Create and append the Image
-                   const img = document.createElement('img');
-                   img.src = question.slideImagePath;
-                   img.alt = question.category;
-                   img.className = "w-full h-auto rounded-lg border border-default";
-                   slidePlaceholder.appendChild(img);
-
-                   // 2. NEW: Create and append the Description
-                   if (question.slideImageDescription && question.slideImageDescription !== "") {
-                       const descDiv = document.createElement('div');
-                       // Use specific CSS classes to match the theme (using bg-selected for the "POP")
-                       descDiv.className = "mt-4 p-4 border-l-4 text-sm rounded-r shadow-md";
-                       // Use inline style to pull the exact accent color from the theme variables
-                       descDiv.style.backgroundColor = "var(--bg-selected)";
-                       descDiv.style.borderColor = "var(--accent-color)";
-                       descDiv.innerHTML = `<strong class="block mb-2" style="color: var(--text-primary);">Image Context:</strong><span style="color: var(--text-primary);">${question.slideImageDescription}</span>`;
-                       slidePlaceholder.appendChild(descDiv);
-                   }
-                }
-                // --- END MODIFIED IMAGE LOGIC ---
-
-                const prevBtn = document.createElement('button');
-                prevBtn.textContent = '← Previous';
-                prevBtn.className = 'bg-gray-200 hover:bg-gray-300 text-gray-800 dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white font-bold py-2 px-6 rounded disabled:opacity-50';
-                if (state.currentQuestionIndex === 0) prevBtn.disabled = true;
-                prevBtn.onclick = () => changeQuestion(-1);
-                
-                const nextBtn = document.createElement('button');
-                nextBtn.textContent = 'Next →';
-                nextBtn.className = 'bg-gray-200 hover:bg-gray-300 text-gray-800 dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white font-bold py-2 px-6 rounded disabled:opacity-50';
-                if (state.currentQuestionIndex === state.questions.length - 1) nextBtn.disabled = true;
-                nextBtn.onclick = () => changeQuestion(1);
-                
-                navigationContainer.appendChild(prevBtn);
-                
-                if (!answerState.isSubmitted) {
-                    const submitBtn = document.createElement('button');
-                    submitBtn.textContent = 'Submit Answer';
-                    submitBtn.className = 'bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-6 rounded';
-                    submitBtn.onclick = handleSubmit;
-                    navigationContainer.appendChild(submitBtn);
-                }
-                
-                navigationContainer.appendChild(nextBtn);
-                updateSidebarState();
-            };
-            
-            const handleStrikeThrough = (e) => {
-                e.preventDefault();
-                const state = getCurrentTestState();
-                if (!state || state.examFinished || state.userAnswers[state.currentQuestionIndex].isSubmitted) return;
-                const targetButton = e.target.closest('button[data-index]');
-                if (!targetButton) return;
-                const index = parseInt(targetButton.dataset.index);
-                const strikedOutSet = state.userAnswers[state.currentQuestionIndex].strikedOutIndices;
-                if (strikedOutSet.has(index)) {
-                    strikedOutSet.delete(index);
-                } else {
-                    strikedOutSet.add(index);
-                }
-                targetButton.classList.toggle('option-strikethrough');
-                saveState();
-            };
-            
-            const saveState = () => {
-                const state = getCurrentTestState();
-                if(!state || state.examFinished) return;
-                const LOCAL_STORAGE_KEY = `examProgress_${currentTestName}`;
-                const stateToSave = {
-                    currentQuestionIndex: state.currentQuestionIndex,
-                    userAnswers: state.userAnswers.map(a => ({...a, strikedOutIndices: Array.from(a.strikedOutIndices)})),
-                    flaggedQuestions: Array.from(state.flaggedQuestions),
-                    timer: { elapsedTime: state.timer.elapsedTime + (state.timer.isRunning ? Date.now() - state.timer.startTime : 0) }
-                };
-                localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(stateToSave));
-            };
-            
-            const resetState = () => {
-                if(confirm("Are you sure you want to reset all progress for this test? This cannot be undone.")) {
-                    pauseTimer();
-                    const LOCAL_STORAGE_KEY = `examProgress_${currentTestName}`;
-                    localStorage.removeItem(LOCAL_STORAGE_KEY);
-                    const testObject = testsToLoad.find(t => t.name === currentTestName);
-                    delete testStates[currentTestName];
-                    loadTest(testObject);
-                }
-            };
-            
-            const formatTime = (seconds) => {
-                const mins = Math.floor(seconds / 60).toString().padStart(2, '0');
-                const secs = (seconds % 60).toString().padStart(2, '0');
-                return `${mins}:${secs}`;
-            };
-            
-            const updateTimer = () => {
-                const state = getCurrentTestState();
-                if (!state) return;
-                const now = Date.now();
-                const totalElapsed = state.timer.elapsedTime + (now - state.timer.startTime);
-                getEl('timer-display').textContent = formatTime(Math.floor(totalElapsed / 1000));
-            };
-            
-            const startTimer = () => {
-                const state = getCurrentTestState();
-                if (!state || state.examFinished || state.timer.isRunning) return;
-                state.timer.isRunning = true;
-                state.timer.startTime = Date.now();
-                state.timer.interval = setInterval(updateTimer, 1000);
-                getEl('timer-start-btn').textContent = 'Resume';
-                getEl('timer-start-btn').classList.add('hidden');
-                getEl('timer-pause-btn').classList.remove('hidden');
-            };
-            
-            const pauseTimer = () => {
-                const state = getCurrentTestState();
-                if (!state || !state.timer.isRunning) return;
-                state.timer.isRunning = false;
-                clearInterval(state.timer.interval);
-                state.timer.elapsedTime += Date.now() - state.timer.startTime;
-                getEl('timer-start-btn').classList.remove('hidden');
-                getEl('timer-pause-btn').classList.add('hidden');
-                if(!state.examFinished) saveState();
-            };
-            
-            const renderSidebar = () => {
-                const state = getCurrentTestState();
-                if (!state) return;
-                const questionGrid = getEl('question-grid');
-                questionGrid.innerHTML = '';
-                state.questions.forEach((q, index) => {
-                    const btn = document.createElement('button');
-                    btn.className = 'q-grid-btn w-10 h-10 flex items-center justify-center rounded-full border border-default text-sm font-semibold';
-                    btn.textContent = index + 1;
-                    btn.dataset.index = index;
-                    questionGrid.appendChild(btn);
-                });
-                updateSidebarState();
-            };
-            
-            const updateSidebarState = () => {
-                const state = getCurrentTestState();
-                if (!state) return;
-                const buttons = getEl('question-grid').querySelectorAll('button');
-                buttons.forEach((btn, index) => {
-                    btn.classList.remove('q-grid-btn-current', 'q-grid-btn-flagged');
-                    btn.classList.remove('q-grid-btn-correct', 'q-grid-btn-incorrect');
-                    
-                    const answerState = state.userAnswers[index];
-                    if (answerState.isSubmitted) {
-                        if (answerState.isCorrect) {
-                            btn.classList.add('q-grid-btn-correct');
-                        } else {
-                            btn.classList.add('q-grid-btn-incorrect');
-                        }
-                    }
-                    if (!state.examFinished) {
-                        if (state.flaggedQuestions.has(index)) {
-                            btn.classList.add('q-grid-btn-flagged');
-                        }
-                        if (index === state.currentQuestionIndex) {
-                            btn.classList.add('q-grid-btn-current');
-                        }
-                    }
-                });
-            };
-            
-            const jumpToQuestion = (index) => {
-                const state = getCurrentTestState();
-                if (!state) return;
-                if (state.examFinished && getEl('summary-view').classList.contains('hidden')) {
-                } else if (state.examFinished) {
-                    getEl('tab-test').click();
-                }
-                state.currentQuestionIndex = index;
-                displayQuestion();
-                if (!state.examFinished) saveState();
-            };
-            
-            const changeQuestion = (direction) => {
-                const state = getCurrentTestState();
-                if (!state) return;
-                const newIndex = state.currentQuestionIndex + direction;
-                if(newIndex >= 0 && newIndex < state.questions.length) {
-                    jumpToQuestion(newIndex);
-                }
-            };
-            
-            const toggleFlag = () => {
-                const state = getCurrentTestState();
-                if(!state || state.examFinished) return;
-                if (state.flaggedQuestions.has(state.currentQuestionIndex)) {
-                    state.flaggedQuestions.delete(state.currentQuestionIndex);
-                } else {
-                    state.flaggedQuestions.add(state.currentQuestionIndex);
-                }
-                displayQuestion();
-                saveState();
-            };
-            
-            const handleSelectAnswer = (e) => {
-                const state = getCurrentTestState();
-                if (!state || state.examFinished) return;
-                const selectedButton = e.target.closest('button[data-index]');
-                if (!selectedButton || state.userAnswers[state.currentQuestionIndex].isSubmitted) return;
-                const selectedIndex = parseInt(selectedButton.dataset.index);
-                state.userAnswers[state.currentQuestionIndex].selectedIndex = selectedIndex;
-                displayQuestion();
-                saveState();
-            };
-            
-            const showModal = () => {
-                const state = getCurrentTestState();
-                if (!state) return;
-                const unansweredCount = state.userAnswers.filter(a => !a.isSubmitted).length;
-                const modalText = getEl('modal-text');
-                if(unansweredCount > 0){
-                    modalText.innerHTML = `<span class="font-bold">${unansweredCount} unanswered</span> questions. Are you sure you want to finish? They will be marked incorrect.`;
-                } else {
-                    modalText.textContent = "Are you sure you want to finish and grade the exam?";
-                }
-                getEl('finish-modal').classList.remove('hidden');
-            };
-            
-            const hideModal = () => getEl('finish-modal').classList.add('hidden');
-            
-            const showDetailedReview = (filterType) => {
-                const state = getCurrentTestState();
-                if (!state) return;
-                getEl('summary-dashboard').classList.add('hidden');
-                getEl('detailed-review-view').classList.remove('hidden');
-                const container = getEl('detailed-questions-container');
-                container.innerHTML = '';
-                const questionsToReview = state.questions.filter((q, index) => {
-                    if (filterType === 'all') return state.userAnswers[index].isSubmitted;
-                    if (filterType === 'incorrect') return state.userAnswers[index].isSubmitted && !state.userAnswers[index].isCorrect;
-                    return false;
-                });
-                if (questionsToReview.length === 0 && filterType === 'incorrect') {
-                    container.innerHTML = `<div class="text-center p-8 subtle-card rounded-lg"><h3 class="text-xl font-bold text-green-500">Congratulations!</h3><p class="text-secondary mt-2">You have no incorrect answers to review.</p></div>`;
-                    return;
-                }
-                questionsToReview.forEach((q) => {
-                    const originalIndex = state.questions.findIndex(origQ => origQ.id === q.id);
-                    const userAnswer = state.userAnswers[originalIndex];
-                    const questionEl = document.createElement('div');
-                    questionEl.className = 'subtle-card p-6 border border-default rounded-lg mb-6';
-                    let optionsHtml = q.options.map((opt, optIndex) => {
-                        let indicators = '';
-                        if(optIndex === q.correctAnswerIndex) indicators += '<span class="ml-2 text-xs font-bold text-green-600 bg-green-100 px-2 py-1 rounded-full">Correct</span>';
-                        if (userAnswer.selectedIndex === optIndex && !userAnswer.isCorrect) indicators += '<span class="ml-2 text-xs font-bold text-red-600 bg-red-100 px-2 py-1 rounded-full">Your Answer</span>';
-                        let optionClass = 'mt-2 p-3 border-l-4 card rounded-r-md';
-                        if (optIndex === q.correctAnswerIndex) optionClass += ' option-btn-correct';
-                        else if (userAnswer.selectedIndex === optIndex) optionClass += ' option-btn-incorrect';
-                        else optionClass += ' border-default';
-                        return `<div class="${optionClass}"><p>${String.fromCharCode(65 + optIndex)}. ${opt.text} ${indicators}</p><p class="text-sm text-secondary mt-1 pl-5"><em>Explanation:</em> ${opt.explanation}</p></div>`;
-                    }).join('');
-                    
-                    // --- MODIFIED IMAGE LOGIC for REVIEW ---
-                    let imageHtml = '';
-                    if (q.slideImagePath && q.slideImagePath !== "") {
-                        // NEW: Check for description and format it using theme variables (POP OUT VERSION)
-                        const descHtml = q.slideImageDescription 
-                            ? `<div class="mt-4 p-4 border-l-4 text-sm rounded-r shadow-md" style="border-color: var(--accent-color); background-color: var(--bg-selected);">
-                                 <strong class="block mb-2" style="color: var(--text-primary);">Context & Clues:</strong>
-                                 <span style="color: var(--text-primary);">${q.slideImageDescription}</span>
-                               </div>` 
-                            : '';
-
-                        imageHtml = `
-                        <div class="mt-4 p-4 rounded-lg border border-default subtle-card">
-                            <h4 class="font-semibold mb-2">Relevant Diagram</h4>
-                            <img src="${q.slideImagePath}" alt="${q.category}" class="w-full h-auto rounded-lg border border-default">
-                            ${descHtml}
-                        </div>`;
-                    }
-                    // --- END MODIFIED LOGIC ---
-                    
-                    questionEl.innerHTML = `
-                        <p class="font-semibold text-secondary">Question ${originalIndex + 1} (${q.category})</p>
-                        <p class="font-bold text-lg mt-1">${q.questionText}</p>
-                        <div class="mt-4 space-y-2">${optionsHtml}</div>
-                        ${imageHtml}`; // Add the image HTML here
-                    
-                    container.appendChild(questionEl);
-                });
-            };
-            
-            // --- Event Listeners ---
-            getEl('timer-start-btn').addEventListener('click', startTimer);
-            getEl('timer-pause-btn').addEventListener('click', pauseTimer);
-            getEl('question-grid').addEventListener('click', (e) => { if(e.target.matches('button[data-index]')) jumpToQuestion(parseInt(e.target.dataset.index)); });
-            getEl('flag-question-btn').addEventListener('click', toggleFlag);
-            getEl('question-container').addEventListener('click', handleSelectAnswer);
-            getEl('question-container').addEventListener('contextmenu', handleStrikeThrough);
-            getEl('finish-test-btn').addEventListener('click', showModal);
-            getEl('reset-progress-btn').addEventListener('click', resetState);
-            getEl('modal-cancel-btn').addEventListener('click', hideModal);
-            getEl('modal-confirm-btn').addEventListener('click', finishTest);
-            getEl('modal-backdrop').addEventListener('click', hideModal);
-            getEl('view-all-btn').addEventListener('click', () => showDetailedReview('all'));
-            getEl('view-incorrect-btn').addEventListener('click', () => showDetailedReview('incorrect'));
-            getEl('back-to-summary-btn').addEventListener('click', () => { getEl('detailed-review-view').classList.add('hidden'); getEl('summary-dashboard').classList.remove('hidden'); });
-            getEl('tab-test').addEventListener('click', handleTabClick);
-            getEl('tab-summary').addEventListener('click', handleTabClick);
-
-            // --- Initial Load ---
-            updateThemeIcons();
-            createTestSelector();
-            if (testsToLoad.length > 0) {
-                // Ensure the JS file is loaded
-                if (typeof L103 !== 'undefined') {
-                    loadTest(testsToLoad[0]);
-                } else {
-                    getEl('main-content-area').innerHTML = `<p class="text-secondary text-center">Error: Test data 'L103' not found. Make sure 'Test1.js' is loaded correctly.</p>`;
-                }
-            } else {
-                getEl('main-content-area').innerHTML = `<p class="text-secondary text-center">No tests found. Please add a test script to the HTML head and add it to the 'testsToLoad' array.</p>`;
-            }
-        });
-    </script>
+    <script src="config.js"></script>
+    <script src="app.js"></script>
 </body>
+
 </html>

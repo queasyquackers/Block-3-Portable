@@ -1,4 +1,4 @@
-const L122 = [
+window.L122 = [
   {
     "id": 1,
     "category": "Abdominal Pain HPI",

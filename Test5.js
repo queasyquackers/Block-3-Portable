@@ -1,4 +1,4 @@
-const L106 = [
+window.L106 = [
 {
 "id": 1,
 "category": "Social Determinants of Health",

@@ -1,4 +1,4 @@
-const L120 = [
+window.L120 = [
   {
     "id": 1,
     "category": "Antimicrobial MOA: Penicillins",

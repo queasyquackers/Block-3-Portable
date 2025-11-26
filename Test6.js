@@ -1,4 +1,4 @@
-const L107L108 = [
+window.L107L108 = [
 {
 "id": 1,
 "category": "Two-State Receptor Model",

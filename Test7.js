@@ -1,4 +1,4 @@
-const L109L110 = [
+window.L109L110 = [
   {
     "id": 1,
     "category": "Absorption/Ion Trapping",

@@ -1,4 +1,4 @@
-const L133 = [
+window.L133 = [
   {
     "id": 1,
     "category": "Introduction to Nervous System",

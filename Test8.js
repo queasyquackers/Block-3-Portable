@@ -1,4 +1,4 @@
-const L112 = [
+window.L112 = [
 {
 "id": 1,
 "category": "Neuroanatomy/Special Senses (Olfaction)",

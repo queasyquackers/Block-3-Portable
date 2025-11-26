@@ -11,7 +11,7 @@ window.L103 = [
       {"text": "CN V (Trigeminal)", "explanation": "CN V is primarily for somatic sensation to the face and motor to muscles of mastication, not eye movement or pupillary control."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L103_p46.jpg",
+    "slideImagePath": "images/L103_slide_46.jpg",
     "slideImageDescription": "The slide titled 'CN III: Oculomotor Nerve' details the functional components of the nerve, specifically listing 'Somatic Motor' to the Levator Palpebrae Superioris (elevation of eyelid) and four extraocular muscles, as well as 'Visceral Motor' (parasympathetic) to the pupil constrictor and ciliary muscles. It describes the clinical presentation of a CN III lesion as 'ptosis' (drooping eyelid), 'mydriasis' (dilated pupil), and the eye being 'abducted and depressed' ('down and out') due to the unopposed action of the Lateral Rectus and Superior Oblique. This comprehensive list of deficits directly matches the clinical vignette."
   },
   {
@@ -26,7 +26,7 @@ window.L103 = [
       {"text": "CN XII (Hypoglossal)", "explanation": "CN XII provides somatic motor innervation to most tongue muscles; when damaged, the tongue deviates toward the side of the paralyzed muscle due to the action of the contralateral genioglossus muscle."}
     ],
     "correctAnswerIndex": 4,
-    "slideImagePath": "images/L103_p56.jpg",
+    "slideImagePath": "images/L103_slide_56.jpg",
     "slideImageDescription": "The slide discussing 'CN XII: Hypoglossal Nerve' identifies its function as 'Somatic Motor' to the intrinsic and extrinsic muscles of the tongue. A 'Clinical Correlate' on the slide explicitly states that in the event of a nerve lesion, the 'tongue deviates to the side of the lesion' when protruded. This is due to the unopposed action of the healthy genioglossus muscle on the opposite side pushing the tongue toward the paralyzed side, confirming that a leftward deviation indicates a left-sided CN XII lesion."
   },
   {
@@ -41,7 +41,7 @@ window.L103 = [
       {"text": "I, II, and VIII", "explanation": "CN I (Olfactory), CN II (Optic), and CN VIII (Vestibulocochlear) are grouped as carrying only special sensory fibers (smell, vision, hearing/balance)."}
     ],
     "correctAnswerIndex": 4,
-    "slideImagePath": "images/L103_p57.jpg",
+    "slideImagePath": "images/L103_slide_57.jpg",
     "slideImageDescription": "This summary table categorizes all 12 cranial nerves. It groups them by functional type. Under the category of 'Special Sensory,' it explicitly lists CN I (Olfactory), CN II (Optic), and CN VIII (Vestibulocochlear) as the nerves that carry specific sensory information (smell, vision, hearing/balance) without any somatic motor or parasympathetic components. This grouping provides the definitive answer to the classification question."
   },
   {
@@ -56,7 +56,7 @@ window.L103 = [
       {"text": "CN X (Vagus)", "explanation": "CN X is a complex nerve involved in parasympathetic control and laryngeal motor function, not sensation of the teeth."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L103_p49.jpg",
+    "slideImagePath": "images/L103_slide_49.jpg",
     "slideImageDescription": "The slide for 'CN V: Trigeminal Nerve' highlights its broad sensory distribution. It maps the 'Somatic Sensory' function to the face, scalp, eyes, and specifically the 'teeth'. The slide divides the nerve into V1 (Ophthalmic), V2 (Maxillary), and V3 (Mandibular) divisions, showing their sensory coverage. This anatomical mapping confirms that CN V is the nerve responsible for tooth sensation and the target for dental anesthesia."
   },
   {
@@ -71,7 +71,7 @@ window.L103 = [
       {"text": "The choanae, where it is warmed and humidified before being swallowed.", "explanation": "The choanae are the internal nares, which are the boundaries leading to the nasopharynx, a path the milk must bypass."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L103_p18.jpg"
+    "slideImagePath": "images/L103_slide_23.jpg"
   },
   {
     "id": 6,
@@ -85,7 +85,7 @@ window.L103 = [
       {"text": "External carotid artery", "explanation": "The External Carotid artery is outside the skull, primarily supplying external structures of the head and face."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L103_p23.jpg",
+    "slideImagePath": "images/L103_slide_6.jpg",
     "slideImageDescription": "The slide titled 'Danger Zone #1: The Pterion' illustrates the lateral skull where the frontal, parietal, temporal, and sphenoid bones meet. It specifically identifies this junction as the 'Pterion' and notes that it is the 'thinnest part of the skull'. The text warns that the 'Middle Meningeal Artery' lies directly underneath this point, and fracture can lead to an 'Epidural Hematoma', thereby linking the fracture location directly to the specific artery at risk."
   },
   {
@@ -100,7 +100,7 @@ window.L103 = [
       {"text": "Parathyroid glands", "explanation": "The parathyroid glands produce PTH to regulate calcium and phosphorus metabolism, sitting within the thyroid gland."}
     ],
     "correctAnswerIndex": 4,
-    "slideImagePath": "images/L103_p37.jpg",
+    "slideImagePath": "images/L103_slide_37.jpg",
     "slideImageDescription": "The slide discussing the 'Thyroid Gland' includes a posterior view showing four small distinct glands located on the posterior surface of the thyroid lobes. These are labeled as the 'Parathyroid Glands'. The text explains their function: 'secrete parathyroid hormone (PTH) to regulate calcium and phosphorus levels', which provides the physiological basis for the correct answer."
   },
   {
@@ -115,7 +115,7 @@ window.L103 = [
       {"text": "Glossopharyngeal nerve (CN IX)", "explanation": "CN IX controls the stylopharyngeus muscle and is not the primary motor nerve for the larynx."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L103_p38.jpg",
+    "slideImagePath": "images/L103_slide_38.jpg",
     "slideImageDescription": "This slide discusses 'Clinical Correlates' related to the thyroid gland. It visually depicts a 'Goiter' (enlarged thyroid) and highlights the anatomical proximity of the 'Recurrent Laryngeal Nerve' (a branch of CN X) running immediately behind the thyroid gland. The text notes that this nerve innervates the muscles of the larynx (voice box) and that compression by a goiter can cause 'hoarseness', directly linking the symptom to the specific nerve."
   },
   {
@@ -130,7 +130,7 @@ window.L103 = [
       {"text": "Vagus nerve (CN X)", "explanation": "The Vagus nerve innervates structures, but the carotid body itself is the cluster of chemosensitive cells."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L103_p21.jpg"
+    "slideImagePath": "images/L103_slide_8.jpg"
   },
   {
     "id": 10,
@@ -144,7 +144,7 @@ window.L103 = [
       {"text": "Frontal bone and the Parietal bone", "explanation": "These bones are joined by the coronal suture, a synarthrosis (immobile joint)."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L103_p08.jpg",
+    "slideImagePath": "images/L103_slide_10.jpg",
     "slideImageDescription": "The slide titled 'The Neck' displays the cervical vertebrae, focusing on C1 (Atlas) and C2 (Axis). It identifies the 'Dens' (odontoid process) of C2 acting as a pivot point for C1. The text explicitly states that the 'Atlanto-axial joint' (C1-C2) allows for the 'No' motion (rotation), distinguishing it from the 'Atlanto-occipital joint' which allows for the 'Yes' motion (nodding)."
   },
   {
@@ -159,7 +159,7 @@ window.L103 = [
       {"text": "Internal jugular vein", "explanation": "The Internal Jugular Vein drains the cavernous sinus, but the direct pathway for infection spread is into the sinus itself."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L103_p28.jpg",
+    "slideImagePath": "images/L103_slide_27.jpg",
     "slideImageDescription": "The slide 'Danger Zone #2: The Danger Triangle of the Face' outlines the area around the nose and upper lip. It details the venous drainage pathway via the 'Facial Vein,' noting that it is 'valveless,' allowing blood (and infection) to flow backward. The diagram shows this vein connecting via the 'Ophthalmic Veins' directly into the 'Cavernous Sinus' inside the cranial cavity, explaining the risk of cavernous sinus thrombosis/infection from superficial facial infections."
   },
   {
@@ -174,7 +174,7 @@ window.L103 = [
       {"text": "CN VIII (Vestibulocochlear); Special Sensory", "explanation": "CN VIII is special sensory, but its functions are hearing and balance, not smell."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L103_p44.jpg",
+    "slideImagePath": "images/L103_slide_44.jpg",
     "slideImageDescription": "The slide 'CN I: Olfactory Nerve' clearly labels the nerve's function as 'Special Sensory' for 'Smell (Olfaction)'. It shows the olfactory bulbs and tracts. A 'Clinical Correlate' section on the slide mentions 'Anosmia' (loss of smell) as a consequence of damage to this nerve, directly pointing to the correct answer."
   },
   {
@@ -189,7 +189,7 @@ window.L103 = [
       {"text": "Larynx", "explanation": "The Larynx is the voice box, an entrance to the trachea, not a region of the pharynx."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L103_p15.jpg",
+    "slideImagePath": "images/L103_slide_15.jpg",
     "slideImageDescription": "The slide illustrating the 'Pharynx' is divided into three color-coded regions. The superior-most region, located behind the nasal cavity, is labeled the 'Nasopharynx'. The anatomical boundaries are shown, with the internal nares anteriorly and the uvula/soft palate marking the inferior border, distinguishing it from the Oropharynx below."
   },
   {
@@ -204,7 +204,7 @@ window.L103 = [
       {"text": "CN XII (Hypoglossal)", "explanation": "CN XII controls the muscles of the tongue, not the facial expression muscles."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L103_p51.jpg",
+    "slideImagePath": "images/L103_slide_51.jpg",
     "slideImageDescription": "The slide for 'CN VII: Facial Nerve' lists its primary function as 'Somatic Motor' to the 'Muscles of Facial Expression'. It specifically lists actions such as 'smiling', 'frowning', and closing the eyes (via Orbicularis Oculi). A diagram shows the branching of the nerve to the face, supporting the conclusion that a lesion here would paralyze these specific motor functions."
   },
   {
@@ -219,7 +219,7 @@ window.L103 = [
       {"text": "Superior Canaliculus", "explanation": "The Superior Canaliculus collects tears from the eye surface, it is near the beginning of the drainage pathway."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L103_p36.jpg",
+    "slideImagePath": "images/L103_slide_36.jpg",
     "slideImageDescription": "The slide titled 'Lacrimal Apparatus' diagrams the flow of tears. Arrows trace the path from the Lacrimal Gland -> Eye Surface -> Canaliculi -> Lacrimal Sac -> Nasolacrimal Duct. The final arrow points into the nasal cavity, specifically labeled as the 'Inferior Meatus'. The text confirms that tears drain into the nasal cavity, causing the 'sniffles' when crying."
   },
   {
@@ -234,7 +234,7 @@ window.L103 = [
       {"text": "CN VII (Facial)", "explanation": "CN VII controls facial expression, not eye movement."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L103_p47.jpg",
+    "slideImagePath": "images/L103_slide_47.jpg",
     "slideImageDescription": "The slide 'CN IV: Trochlear Nerve' identifies its sole function as 'Somatic Motor' to the 'Superior Oblique' muscle. It describes the action of this muscle as moving the eye 'down and out'. A 'Clinical Correlate' section explains that damage to this nerve results in an inability to look down when the eye is adducted, causing vertical diplopia and difficulty with stairs, which matches the patient's complaint."
   },
   {
@@ -249,7 +249,7 @@ window.L103 = [
       {"text": "They are the bony fusion points (sutures) that rapidly ossify before birth.", "explanation": "Fontanelles are non-ossified fibrous areas; sutures are the eventual bony fusion points."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L103_p11.jpg",
+    "slideImagePath": "images/L103_slide_11.jpg",
     "slideImageDescription": "The slide 'The Skull: Newborn' highlights the 'Fontanelles' (soft spots). The text explicitly states their two main functions: allowing the cranial bones to overlap during birth (molding) to pass through the canal, and allowing for the rapid expansion of the brain after birth. This functionality directly supports the correct answer choice."
   },
   {
@@ -264,7 +264,7 @@ window.L103 = [
       {"text": "A rupture of the thyroid's investing fascia due to a viral infection.", "explanation": "The investing fascia is a dense layer; its rupture is not the mechanism of goiter formation."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L103_p38.jpg",
+    "slideImagePath": "images/L103_slide_38.jpg",
     "slideImageDescription": "The slide 'Clinical Correlates: Goiter' displays images of an enlarged thyroid gland. The text explains that a Goiter is an 'enlargement of the thyroid gland'. It clarifies that this can occur in 'Hypothyroidism (underactive)', where the gland enlarges in an attempt to compensate for low hormone production (often due to iodine deficiency), validating the correct physiological explanation."
   },
   {
@@ -279,7 +279,7 @@ window.L103 = [
       {"text": "They are the only cranial nerves that contain parasympathetic (visceral motor) fibers.", "explanation": "CN III, VII, IX, and X contain parasympathetic fibers, but CN V does not."}
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L103_p57.jpg",
+    "slideImagePath": "images/L103_slide_57.jpg",
     "slideImageDescription": "The summary slide categorizes Cranial Nerves into functional groups. One group is labeled 'Branchiomeric Nerves' and lists CN V, VII, IX, and X. The text notes they are 'derived from pharyngeal arches' and comments that they 'have more complex functions', distinguishing them from the purely sensory or purely somatic motor nerves."
   },
   {
@@ -294,7 +294,7 @@ window.L103 = [
       {"text": "The nasopharynx opens to allow air to pass into the lungs.", "explanation": "Respiration is temporarily stopped in the pharyngeal phase; the nasopharynx is blocked."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L103_p17.jpg",
+    "slideImagePath": "images/L103_slide_16.jpg",
     "slideImageDescription": "The slide 'Pharynx: Deglutition (Swallowing)' uses a series of diagrams to show the three phases of swallowing. In the second and third phases (Pharyngeal/Esophageal), the image clearly shows the 'Epiglottis' folding down to cover the 'Laryngeal Inlet' (opening to the trachea). The text annotations confirm this action prevents food from entering the airway, ensuring it passes into the esophagus instead."
   },
   {
@@ -309,7 +309,7 @@ window.L103 = [
       {"text": "CN III (Oculomotor)", "explanation": "CN III is a motor nerve for eye movement."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L103_p49.jpg",
+    "slideImagePath": "images/L103_slide_49.jpg",
     "slideImageDescription": "The slide describing 'CN V: Trigeminal Nerve' breaks down its functions. It lists 'Somatic Sensory' for the 'Face, scalp, teeth' and 'Somatic Motor' for the 'Muscles of Mastication'. The combination of sensory loss on the face and motor weakness in chewing muscles uniquely identifies a lesion of the Trigeminal nerve, as detailed on this slide."
   },
   {
@@ -324,7 +324,7 @@ window.L103 = [
       {"text": "Superior sagittal sinus", "explanation": "The Superior Sagittal Sinus is an intracranial dural venous sinus."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L103_p25.jpg",
+    "slideImagePath": "images/L103_slide_26.jpg",
     "slideImageDescription": "The slide titled 'Major Veins of the Head and Neck' diagrams the venous drainage. It distinguishes between the Internal Jugular (draining inside the skull) and the 'External Jugular Vein'. The text and arrows indicate the External Jugular Vein collects blood from the 'exterior of the cranium' and deep parts of the face, eventually emptying into the 'Subclavian Vein', supporting the correct answer."
   },
   {
@@ -339,7 +339,7 @@ window.L103 = [
       {"text": "Thymus gland", "explanation": "The thymus gland is part of the immune system and is not a salivary gland."}
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L103_p35.jpg",
+    "slideImagePath": "images/L103_slide_35.jpg",
     "slideImageDescription": "The slide 'Salivary Glands' illustrates the three major pairs. It highlights the 'Parotid Gland' as the largest, located 'anterior to the ear'. The text notes it secretes 'serous (watery) saliva' via the parotid duct. This anatomical position and functional description directly point to the Parotid gland."
   },
   {
@@ -354,7 +354,7 @@ window.L103 = [
       {"text": "Arachnoid mater and Choroid plexus", "explanation": "The Choroid plexus is inside the ventricles and is the source of CSF, not a meningeal boundary."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L103_p24.jpg",
+    "slideImagePath": "images/L103_slide_24.jpg",
     "slideImageDescription": "The slide 'Clinical Correlates: Intracranial Hemorrhages' diagrams the three meningeal layers: Dura, Arachnoid, and Pia. It specifically illustrates a 'Subdural Hematoma' as a collection of blood located in the potential space 'between the Dura and Arachnoid mater', typically venous in origin, confirming the anatomical location of the pathology."
   },
   {
@@ -369,7 +369,7 @@ window.L103 = [
       {"text": "Investing fascia and Alar fascia", "explanation": "The Investing Fascia is superficial and not directly bordering this deep space."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L103_p30.jpg",
+    "slideImagePath": "images/L103_slide_30.jpg",
     "slideImageDescription": "The slide 'Danger Zone #3: Retropharyngeal Space' shows a cross-section of the neck fascia. It highlights the 'Danger Space' located between the 'Alar Fascia' (anteriorly) and the 'Prevertebral Fascia' (posteriorly). The text warns that infection here can spread 'inferiorly into the superior mediastinum' and potentially to the diaphragm, identifying the specific fascial boundaries involved."
   },
   {
@@ -384,7 +384,7 @@ window.L103 = [
       {"text": "Hypoglossal nerve (CN XII)", "explanation": "CN XII is responsible for tongue movement."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L103_p52.jpg",
+    "slideImagePath": "images/L103_slide_52.jpg",
     "slideImageDescription": "The slide 'CN VIII: Vestibulocochlear Nerve' lists its 'Special Sensory' functions as 'Hearing (Cochlear division)' and 'Balance/Equilibrium (Vestibular division)'. A 'Clinical Correlate' states that lesions can cause 'hearing loss, tinnitus, and vertigo', directly linking these symptoms to CN VIII dysfunction."
   },
   {
@@ -399,7 +399,7 @@ window.L103 = [
       {"text": "Sutures and Fontanelles", "explanation": "Sutures and Fontanelles are the junctions between the skull bones, not the entire regions."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L103_p07.jpg",
+    "slideImagePath": "images/L103_slide_8.jpg",
     "slideImageDescription": "The 'Head Architecture' slide defines the 'Skull'. It presents a schematic or text equation stating: 'Skull = Cranium + Mandible'. It further breaks down the 'Cranium' into 'Neurocranium' and 'Viscerocranium', clarifying that the term 'Skull' encompasses the entire bony head structure, including the jaw."
   },
   {
@@ -414,7 +414,7 @@ window.L103 = [
       {"text": "CN XII (Hypoglossal)", "explanation": "CN XII is the somatic motor nerve for tongue movement."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L103_p53.jpg",
+    "slideImagePath": "images/L103_slide_53.jpg",
     "slideImageDescription": "The slide 'CN IX: Glossopharyngeal Nerve' details its functional components. Under 'Special Sensory', it explicitly lists 'Taste from the posterior 1/3 of the tongue'. It also notes 'Visceral Sensory' from the same region (gag reflex), reinforcing its role in the posterior tongue."
   },
   {
@@ -429,7 +429,7 @@ window.L103 = [
       {"text": "Hypoglossal nerve (CN XII)", "explanation": "CN XII provides only somatic motor fibers (tongue muscles)."}
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L103_p57.jpg",
+    "slideImagePath": "images/L103_slide_57.jpg",
     "slideImageDescription": "The summary table of cranial nerves categorizes nerves by fiber type. The group 'Somatic Motor Only' lists CN IV, VI, XI, and XII. CN III (Oculomotor) is placed in a different category ('Mixed' or 'Somatic Motor + Visceral Motor') because it carries parasympathetic fibers to the pupil, making it the exception in a 'somatic motor only' list."
   },
   {
@@ -444,7 +444,7 @@ window.L103 = [
       {"text": "Subclavian artery, CN X, XI, XII", "explanation": "The Subclavian Artery and CN X, XI, XII are primarily in the neck/jugular foramen, not the cavernous sinus."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L103_p26.jpg",
+    "slideImagePath": "images/L103_slide_26.jpg",
     "slideImageDescription": "The slide 'Cavernous Sinus' shows a coronal cross-section. It clearly labels the 'Internal Carotid Artery' and 'CN VI' passing *inside* the sinus itself. In the lateral wall, it labels CN III, CN IV, V1, and V2. The text emphasizes that these structures traverse the sinus, making them vulnerable to 'Cavernous Sinus Thrombosis' or infection, thus identifying the correct list of structures."
   }
 ];

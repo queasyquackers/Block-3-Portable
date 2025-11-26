@@ -1,4 +1,4 @@
-const L113 = [
+window.L113 = [
   {
     "id": 1,
     "category": "Autonomics: Sympathetic Pathway",

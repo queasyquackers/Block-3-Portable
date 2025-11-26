@@ -1,4 +1,4 @@
-const L130 = [
+window.L130 = [
   {
     "id": 1,
     "category": "Cellular Proliferation & Tissue Types",

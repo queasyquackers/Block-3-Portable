@@ -1,4 +1,4 @@
-const L105 = [
+window.L105 = [
   {
     "id": 1,
     "category": "Cranial Nerves: Oculomotor",

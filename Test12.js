@@ -1,4 +1,4 @@
-const L117L118 = [
+window.L117L118 = [
   {
     "id": 1,
     "category": "Adverse Drug Reactions: Type A",

@@ -1,4 +1,4 @@
-const L132 = [
+window.L132 = [
   {
     "id": 1,
     "category": "Genetic and Molecular Basis of Cancer",

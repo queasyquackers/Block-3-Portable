@@ -1,4 +1,4 @@
-const L124 = [
+window.L124 = [
   {
     "id": 1,
     "category": "Aminoglycosides: PK/Clinical Use",

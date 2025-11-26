@@ -1,4 +1,4 @@
-const L127 = [
+window.L127 = [
   {
     "id": 1,
     "category": "Anatomy: Orbit and Extraocular Muscles",

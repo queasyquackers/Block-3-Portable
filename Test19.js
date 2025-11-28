@@ -11,7 +11,7 @@ window.L125 = [
       {"text": "It inhibits bacterial DNA gyrase.", "explanation": "This is incorrect. This is the mechanism of fluoroquinolones."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L125_page-0023.jpg",
+    "slideImagePath": "images/L125_slide_7.jpg",
     "slideImageDescription": "The slide titled 'Inhibitors of the 30S Ribosomal Subunit' provides a schematic and text detailing the mechanism of action for Tetracyclines. It explicitly states that Tetracyclines 'Reversibly bind to the 30S ribosomal subunit' and 'Block the binding of aminoacyl-tRNA to the acceptor (A) site' on the mRNA-ribosome complex. This prevents the addition of amino acids to the growing peptide chain. The diagram illustrates the tetracycline molecule (marked 'T') binding to the 30S subunit and physically obstructing the A-site, which directly supports the correct answer."
   },
   {
@@ -26,7 +26,7 @@ window.L125 = [
       {"text": "This combination is known to cause severe, irreversible ototoxicity.", "explanation": "This is incorrect. This interaction does not cause ototoxicity."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L125_page-0021.jpg",
+    "slideImagePath": "images/L125_slide_21.jpg",
     "slideImageDescription": "The slide 'Tetracyclines: Pharmacokinetic Properties' includes a section specifically on 'Drug and Food Interactions'. It lists 'Divalent (Ca2+, Mg2+) and trivalent (Fe3+, Al3+) cations' found in dairy products, antacids, and iron supplements. The text explicitly states that these cations 'chelate tetracyclines', resulting in 'nonabsorbable chelates' which 'Prevents intestinal absorption'. This explanation directly points to chelation and reduced absorption as the reason for the contraindication."
   },
   {
@@ -41,7 +41,7 @@ window.L125 = [
       {"text": "Doxycycline is metabolized by the liver and is not cleared renally.", "explanation": "This is incorrect. While true that doxycycline is excreted in the feces, this is not the reason it is preferred in children over other tetracyclines."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L125_page-0022.jpg",
+    "slideImagePath": "images/L125_slide_22.jpg",
     "slideImageDescription": "This slide, titled 'Tetracyclines: Use in Children', features an 'Update by the American Academy of Pediatrics (AAP)'. It clarifies that 'Doxycycline binds less readily to calcium than other tetracyclines' and cites data indicating it 'does not cause tooth staining in young children'. It explicitly recommends doxycycline as the 'drug of choice' for 'short durations (< 21 days)' in cases of 'suspected or confirmed RMSF', regardless of patient age, which directly validates the answer."
   },
   {
@@ -56,7 +56,7 @@ window.L125 = [
       {"text": "Enzymatic inactivation by acetyltransferase.", "explanation": "This is incorrect. This is a minor resistance mechanism for tetracyclines but the primary one for chloramphenicol."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L125_page-0024.jpg",
+    "slideImagePath": "images/L125_slide_7.jpg",
     "slideImageDescription": "The slide 'Tetracyclines: Mechanisms of Resistance' outlines different resistance mechanisms. Under 'Efflux pumps', it specifically distinguishes between pumps found in different organisms. It notes that 'Staphylococci express the Tet(K) efflux pump', which confers resistance to tetracycline. Crucially, it states: 'Doxycycline and minocycline are not substrates for this pump... and remain active against tetracycline-resistant Staphylococci'. This detailed distinction points directly to the correct answer."
   },
   {
@@ -71,7 +71,7 @@ window.L125 = [
       {"text": "A KPC carbapenemase", "explanation": "This is incorrect. This is a beta-lactamase."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L125_page-0024.jpg",
+    "slideImagePath": "images/L125_slide_7.jpg",
     "slideImageDescription": "On the 'Mechanisms of Resistance' slide, the section 'Ribosomal protection proteins' describes proteins that 'bind to the ribosome... preventing binding of the antibiotic'. It identifies the 'Tet(M) protein' as being 'Expressed by gram-positive bacteria' and conferring resistance to 'tetracycline, doxycycline, and minocycline'. This specifically identifies the protein responsible for resistance in the Gram-positive *S. pneumoniae* described."
   },
   {
@@ -86,7 +86,7 @@ window.L125 = [
       {"text": "Azithromycin", "explanation": "This is incorrect. While azithromycin has activity against *Borrelia*, doxycycline is the preferred first-line agent."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L125_page-0025.jpg",
+    "slideImagePath": "images/L125_slide_9.jpg",
     "slideImageDescription": "The slide 'Tetracyclines: Therapeutic Uses' categorizes uses by condition. Under 'Zoonoses', it lists 'Lyme disease (Borrelia burgdorferi)' and 'Rocky Mountain Spotted Fever (Rickettsia rickettsii)'. It explicitly states that 'Doxycycline is the drug of choice' for these conditions, providing a direct link to the clinical scenario."
   },
   {
@@ -101,7 +101,7 @@ window.L125 = [
       {"text": "Chloramphenicol", "explanation": "This is incorrect. Chloramphenicol is not effective against *Chlamydia*."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L125_page-0026.jpg",
+    "slideImagePath": "images/L125_slide_9.jpg",
     "slideImageDescription": "The slide continuing 'Tetracyclines: Therapeutic Uses' lists 'Sexually transmitted infections' as a major category. It specifically identifies 'Chlamydia trachomatis' and states 'Doxycycline is a first-line agent'. This confirms the appropriate treatment for the patient's diagnosis."
   },
   {
@@ -116,7 +116,7 @@ window.L125 = [
       {"text": "Blue-gray skin discoloration", "explanation": "This is incorrect. This is a different skin-related adverse effect of long-term minocycline use."}
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L125_page-0028.jpg",
+    "slideImagePath": "images/L125_slide_10.jpg",
     "slideImageDescription": "The slide 'Tetracyclines: Adverse Effects' lists 'Photosensitivity' as a key side effect. It describes the reaction as 'mild to severe' and occurring on 'sun-exposed skin'. It specifically notes this is common with 'Doxycycline and Demeclocycline', matching the drug and symptom in the vignette."
   },
   {
@@ -131,7 +131,7 @@ window.L125 = [
       {"text": "Sarecycline", "explanation": "This is incorrect. This is a narrow-spectrum agent for acne."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L125_page-0027.jpg"
+    "slideImagePath": "images/L125_slide_14.jpg"
   },
   {
     "id": 10,
@@ -160,7 +160,7 @@ window.L125 = [
       {"text": "It does not have activity against *Pseudomonas aeruginosa*.", "explanation": "This is incorrect. While true that *P. aeruginosa* is intrinsically resistant, this is not the reason for the black box warning; the reason is increased mortality."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L125_page-0027.jpg",
+    "slideImagePath": "images/L125_slide_27.jpg",
     "slideImageDescription": "The slide 'Glycylcyclines: Tigecycline' lists a 'Boxed Warning'. It states: 'All-cause mortality is higher in patients treated with tigecycline than comparators'. It specifically notes it is 'Not approved for diabetic foot infection or hospital-acquired/ventilator-associated pneumonia', linking the mortality risk directly to the contraindication for VAP."
   },
   {
@@ -175,7 +175,7 @@ window.L125 = [
       {"text": "Binds to DNA gyrase.", "explanation": "This is incorrect. This is the mechanism of fluoroquinolones."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L125_page-0032.jpg",
+    "slideImagePath": "images/L125_slide_11.jpg",
     "slideImageDescription": "The slide 'Inhibitors of the 50S Ribosomal Subunit: Macrolides' details the MOA. It states: 'Reversibly bind to the 23S rRNA of the 50S ribosomal subunit' and 'Block the polypeptide exit tunnel'. It clarifies that this 'inhibits translocation', providing the specific mechanistic details required to answer the question."
   },
   {
@@ -190,7 +190,7 @@ window.L125 = [
       {"text": "Aldehyde Dehydrogenase", "explanation": "This is incorrect. This is inhibited by cefotetan."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L125_page-0036.jpg",
+    "slideImagePath": "images/L125_slide_12.jpg",
     "slideImageDescription": "The slide 'Macrolides: Drug Interactions' explicitly states that 'Erythromycin and clarithromycin inhibit CYP3A4', whereas Azithromycin does not. It lists 'Statins' as a key drug interaction, noting the risk of 'myopathy'. This links the specific enzyme inhibition to the clinical presentation of rhabdomyolysis."
   },
   {
@@ -205,7 +205,7 @@ window.L125 = [
       {"text": "It has 100% oral bioavailability.", "explanation": "This is incorrect. Its bioavailability is ~50% (for clarithromycin) or ~40% (for azithromycin). Linezolid has 100% bioavailability."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L125_page-0031.jpg",
+    "slideImagePath": "images/L125_slide_16.jpg",
     "slideImageDescription": "The 'Macrolides Pharmacokinetic Properties' slide highlights the 'Half-life' of each drug. For Azithromycin, it lists '~ 68 hours (longest half-life)'. It explains that the drug 'Accumulates in tissues', allowing for 'Once daily dosing' and shorter treatment courses, which directly explains the efficacy of the 5-day Z-Pak."
   },
   {
@@ -220,7 +220,7 @@ window.L125 = [
       {"text": "Mutation of the 16S rRNA binding site.", "explanation": "This is incorrect. This is the 30S subunit, the target of tetracyclines and aminoglycosides."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L125_page-0033.jpg",
+    "slideImagePath": "images/L125_slide_11.jpg",
     "slideImageDescription": "The slide 'Macrolides: Mechanisms of Resistance' details the '$MLS_B$ phenotype'. It states this is mediated by 'Ribosomal protection: Methylation of the 23S rRNA binding site'. It identifies the '*erm* gene' as the source of the methylase and confirms this confers 'Cross-resistance to Macrolides, Lincosamides, and Streptogramin B'."
   },
   {
@@ -235,7 +235,7 @@ window.L125 = [
       {"text": "They are effective against all resistant organisms.", "explanation": "This is incorrect. Macrolide resistance is widespread."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L125_page-0031.jpg",
+    "slideImagePath": "images/L125_slide_12.jpg",
     "slideImageDescription": "The 'Macrolides Pharmacokinetic Properties' slide notes under 'Distribution' that these drugs 'Accumulate in phagocytes' and 'Accumulate in tissues'. It explicitly mentions 'High concentrations in pulmonary tissues', explaining why they are effective for intracellular pathogens like *Legionella* that reside within lung macrophages."
   },
   {
@@ -250,7 +250,7 @@ window.L125 = [
       {"text": "Histamine (H2) receptor", "explanation": "This is incorrect. H2 antagonists (like famotidine) decrease gastric acid."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L125_page-0035.jpg",
+    "slideImagePath": "images/L125_slide_12.jpg",
     "slideImageDescription": "The slide 'Macrolides: Adverse Effects' lists 'Gastrointestinal' effects as common. It explains that Erythromycin 'stimulates motilin receptors' leading to increased 'intestinal motility'. This mechanism explains both its therapeutic use as a prokinetic for gastroparesis and its common side effect of cramping/nausea."
   },
   {
@@ -265,7 +265,7 @@ window.L125 = [
       {"text": "Ventricular fibrillation (V-fib)", "explanation": "This is incorrect. While Torsades *can* degenerate into V-fib, Torsades de pointes is the specific drug-induced arrhythmia."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L125_page-0035.jpg",
+    "slideImagePath": "images/L125_slide_13.jpg",
     "slideImageDescription": "The 'Macrolides: Adverse Effects' slide includes 'QT interval prolongation' as a cardiovascular effect. It warns that this can lead to 'Torsades de pointes', especially in patients with 'prolonged QT' or taking 'antiarrhythmic drugs', supporting the diagnosis in a patient on amiodarone."
   },
   {
@@ -280,7 +280,7 @@ window.L125 = [
       {"text": "It binds to and depolarizes the cell membrane.", "explanation": "This is incorrect. This is the mechanism of daptomycin."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L125_page-0037.jpg",
+    "slideImagePath": "images/L125_slide_14.jpg",
     "slideImageDescription": "The slide detailing 'Lincosamides: Clindamycin' states its Mechanism of Action: 'Binds to 50S ribosomal subunit'. It specifies the binding is 'identical to that of macrolides' and that it 'Inhibits aminoacyl-tRNA translocation', confirming the 50S subunit target and mechanism."
   },
   {
@@ -295,7 +295,7 @@ window.L125 = [
       {"text": "All gram-positive and all gram-negative bacteria", "explanation": "This is incorrect. It is a *narrow-spectrum* drug and does not cover aerobic gram-negatives."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L125_page-0038.jpg",
+    "slideImagePath": "images/L125_slide_51.jpg",
     "slideImageDescription": "The 'Clindamycin: Antimicrobial Spectrum' slide lists 'Gram-positive aerobes' (including MRSA and Strep) and 'Anaerobes' (both Gram-positive and negative, including *B. fragilis*). Crucially, it notes that 'Gram-negative aerobes are intrinsically resistant', confirming the narrow but specific spectrum described."
   },
   {
@@ -310,7 +310,7 @@ window.L125 = [
       {"text": "*Bacteroides fragilis*", "explanation": "This is incorrect. Clindamycin is often used to *treat* *B. fragilis* infections, although resistance is increasing."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L125_page-0038.jpg",
+    "slideImagePath": "images/L125_slide_14.jpg",
     "slideImageDescription": "Under 'Clindamycin: Adverse Effects', the slide lists 'Gastrointestinal' issues. It includes a 'Boxed Warning' for '*C. difficile* associated diarrhea (CDAD) and pseudomembranous colitis'. This direct warning links the drug to the specific pathogen and clinical condition."
   },
   {
@@ -325,7 +325,7 @@ window.L125 = [
       {"text": "The organism is only resistant to erythromycin; clindamycin is safe to use.", "explanation": "This is incorrect. This is shown in Panel B, not Panel A."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L125_page-0040.jpg",
+    "slideImagePath": "images/L125_slide_13.jpg",
     "slideImageDescription": "The slide explains the 'D-Test'. It shows Panel A with a 'D-shaped zone' indicating 'Inducible resistance'. The text explains that the *erm* gene is induced by erythromycin, leading to resistance against clindamycin. It concludes that in this case, clindamycin 'should be reported as resistant', supporting the correct answer."
   },
   {
@@ -340,7 +340,7 @@ window.L125 = [
       {"text": "It has an extremely long half-life of 70 hours.", "explanation": "This is incorrect. This describes azithromycin; clindamycin's half-life is ~3 hours."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L125_page-0038.jpg",
+    "slideImagePath": "images/L125_slide_14.jpg",
     "slideImageDescription": "The 'Clindamycin' slide mentions under 'Therapeutic Uses' that it treats 'Abscesses (lung, tubo-ovarian)'. While the slide doesn't explicitly detail the abscess penetration kinetics, the context of it being indicated for abscesses (in contrast to many drugs that penetrate poorly) supports this well-known pharmacokinetic advantage taught in conjunction with its anaerobic spectrum."
   },
   {
@@ -355,7 +355,7 @@ window.L125 = [
       {"text": "This will cause irreversible staining of the diaphragm.", "explanation": "This is incorrect. The primary concern is structural failure, not staining."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L125_page-0038.jpg",
+    "slideImagePath": "images/L125_slide_38.jpg",
     "slideImageDescription": "The slide 'Clindamycin: Adverse Effects/Cautions' contains a specific note: 'Latex condoms and diaphragms may be weakened by clindamycin vaginal cream'. This safety warning directly addresses the question's scenario."
   },
   {
@@ -370,7 +370,7 @@ window.L125 = [
       {"text": "Both drugs cause severe neuromuscular blockade.", "explanation": "This is incorrect. This is a toxicity of aminoglycosides."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L125_page-0036.jpg",
+    "slideImagePath": "images/L125_slide_14.jpg",
     "slideImageDescription": "The 'Drug Interactions' slide lists 'Macrolides, Clindamycin, and Chloramphenicol'. It states: 'Antagonism: These drugs have overlapping binding sites on the 50S ribosomal subunit and should not be co-administered'. This provides the direct mechanistic explanation for the antagonism."
   },
   {
@@ -385,7 +385,7 @@ window.L125 = [
       {"text": "It binds to the 30S subunit, causing misreading of the mRNA.", "explanation": "This is incorrect. This is the mechanism of aminoglycosides."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L125_page-0041.jpg",
+    "slideImagePath": "images/L125_slide_14.jpg",
     "slideImageDescription": "The slide 'Chloramphenicol: Mechanism of Action' states that it 'Reversibly binds to the 50S ribosomal subunit' and 'Inhibits peptidyl transferase reaction'. The text clarifies this occurs because the drug 'interferes with binding of aminoacyl-tRNA to the A site', confirming the detailed mechanism."
   },
   {
@@ -400,7 +400,7 @@ window.L125 = [
       {"text": "Irreversible binding to the neonate's mitochondrial ribosomes.", "explanation": "This is incorrect. While it *does* inhibit mitochondrial ribosomes, the *syndrome* is caused by acute, high-dose accumulation due to a lack of metabolism/clearance."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L125_page-0043.jpg",
+    "slideImagePath": "images/L125_slide_14.jpg",
     "slideImageDescription": "The slide titled 'Gray Baby Syndrome' lists the symptoms and the cause. It explicitly states the mechanism is due to 'Neonates lack an effective glucuronic acid conjugation mechanism' and have 'poor renal excretion of drugs'. This accumulation leads to the toxicity described."
   },
   {
@@ -415,7 +415,7 @@ window.L125 = [
       {"text": "Serotonin syndrome", "explanation": "This is incorrect. This is an interaction with linezolid."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L125_page-0042.jpg",
+    "slideImagePath": "images/L125_slide_14.jpg",
     "slideImageDescription": "The 'Chloramphenicol: Adverse Effects' slide lists 'Aplastic anemia'. It describes it as 'Rare, idiosyncratic, irreversible, and potentially fatal'. It notes it can occur 'weeks or months after therapy', distinguishing it from the dose-related reversible suppression."
   },
   {
@@ -430,7 +430,7 @@ window.L125 = [
       {"text": "Host DNA gyrase", "explanation": "This is incorrect. This is not the target."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L125_page-0042.jpg",
+    "slideImagePath": "images/L125_slide_14.jpg",
     "slideImageDescription": "The slide 'Chloramphenicol: Adverse Effects' lists 'Bone marrow depression'. It characterizes it as 'Dose-related' and 'Reversible'. It explains the mechanism: 'inhibition of mitochondrial protein synthesis', which is distinct from the idiosyncratic aplastic anemia."
   },
   {
@@ -445,7 +445,7 @@ window.L125 = [
       {"text": "Vancomycin", "explanation": "This is incorrect. Vancomycin is not effective against this atypical organism."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L125_page-0042.jpg",
+    "slideImagePath": "images/L125_slide_9.jpg",
     "slideImageDescription": "The slide 'Chloramphenicol: Therapeutic Uses' lists 'Rickettsial infections' such as 'Rocky Mountain Spotted Fever'. It explicitly notes this is an alternative 'in children < 8 years... who cannot take tetracyclines', identifying it as the backup agent for this specific indication."
   },
   {
@@ -460,7 +460,7 @@ window.L125 = [
       {"text": "It is a prodrug activated only in the CSF by esterases.", "explanation": "This is incorrect. It is a prodrug (succinate salt) activated in the *plasma* by esterases."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L125_page-0042.jpg",
+    "slideImagePath": "images/L125_slide_15.jpg",
     "slideImageDescription": "The slide 'Chloramphenicol: Pharmacokinetic Properties' states that it is 'Lipophilic' and 'widely distributed in body fluids including CSF'. This lipophilicity is the key property enabling it to cross the blood-brain barrier effectively."
   },
   {
@@ -475,7 +475,7 @@ window.L125 = [
       {"text": "Mutation of the 16S rRNA binding site.", "explanation": "This is incorrect. Chloramphenicol binds to the 50S subunit."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L125_page-0042.jpg",
+    "slideImagePath": "images/L125_slide_7.jpg",
     "slideImageDescription": "The slide 'Chloramphenicol: Bacterial Resistance' states: 'Plasmid-encoded acetyltransferase inactivates the drug'. This is identified as the primary mechanism preventing the drug from binding to the ribosome."
   },
   {
@@ -490,7 +490,7 @@ window.L125 = [
       {"text": "It binds to the 30S subunit and causes misreading of the mRNA.", "explanation": "This is incorrect. This is the mechanism of aminoglycosides."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L125_page-0044.jpg",
+    "slideImagePath": "images/L125_slide_16.jpg",
     "slideImageDescription": "The slide 'Oxazolidinones: Linezolid' details the MOA. It states: 'Binds to the 23S rRNA of the 50S subunit' and 'Inhibits the formation of the 70S initiation complex'. This unique action at the initiation phase is a key distinguishing feature of the drug."
   },
   {
@@ -505,7 +505,7 @@ window.L125 = [
       {"text": "All bacteria except *E. coli*.", "explanation": "This is incorrect. It is resistant against all gram-negative bacteria."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L125_page-0045.jpg",
+    "slideImagePath": "images/L125_slide_45.jpg",
     "slideImageDescription": "The slide 'Linezolid: Spectrum of Activity' lists 'Aerobic gram-positive bacteria' including MRSA, VRSA, and VRE. It explicitly states it is 'Inactive against aerobic gram-negative bacteria', confirming the specific spectrum limitation."
   },
   {
@@ -520,7 +520,7 @@ window.L125 = [
       {"text": "P-glycoprotein", "explanation": "This is incorrect. This is an efflux pump inhibited by macrolides."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L125_page-0046.jpg",
+    "slideImagePath": "images/L125_slide_46.jpg",
     "slideImageDescription": "The slide 'Linezolid: Adverse Effects' has a section on 'Drug Interactions'. It states: 'Weak non-specific inhibitor of monoamine oxidase (MAO)'. It warns of 'Serotonin syndrome with concurrent use of SSRIs', providing the mechanistic link between the drug's MAO inhibition and the clinical syndrome."
   },
   {
@@ -535,7 +535,7 @@ window.L125 = [
       {"text": "Folic acid", "explanation": "This is incorrect. This is not related."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L125_page-0046.jpg",
+    "slideImagePath": "images/L125_slide_46.jpg",
     "slideImageDescription": "Under 'Drug Interactions', the slide lists 'Monoamine oxidase inhibition' and warns of the 'potential for hypertensive crisis' when consuming 'tyramine-rich foods'. This directly links the MAO inhibition to the tyramine interaction."
   },
   {
@@ -550,7 +550,7 @@ window.L125 = [
       {"text": "Gray syndrome", "explanation": "This is incorrect. This is an acute toxicity of chloramphenicol in neonates."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L125_page-0045.jpg",
+    "slideImagePath": "images/L125_slide_42.jpg",
     "slideImageDescription": "The 'Linezolid: Adverse Effects' slide lists 'Peripheral neuropathy' and 'Optic neuritis' under 'Long-term administration'. It notes these are likely due to 'inhibition of mitochondrial protein synthesis', confirming the underlying mechanism for these late-onset toxicities."
   },
   {
@@ -565,7 +565,7 @@ window.L125 = [
       {"text": "Leukocytosis", "explanation": "This is incorrect. The toxicity is bone marrow *suppression*, which would cause leukopenia, not leukocytosis."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L125_page-0045.jpg",
+    "slideImagePath": "images/L125_slide_14.jpg",
     "slideImageDescription": "The slide 'Linezolid: Adverse Effects' lists 'Myelosuppression' and specifically highlights 'Thrombocytopenia'. It notes that this occurs 'especially if drug is used > 2 weeks', identifying it as the key hematologic monitoring parameter."
   },
   {
@@ -580,7 +580,7 @@ window.L125 = [
       {"text": "It is excreted as an active drug in the feces.", "explanation": "This is incorrect. This describes doxycycline."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L125_page-0045.jpg",
+    "slideImagePath": "images/L125_slide_16.jpg",
     "slideImageDescription": "The slide 'Linezolid: Pharmacokinetics' explicitly states: '100% bioavailability: Oral dose = IV dose'. This unique property is the direct reason why the switch can be made without dose adjustment."
   },
   {
@@ -595,7 +595,7 @@ window.L125 = [
       {"text": "*Mycobacterium tuberculosis*", "explanation": "This is incorrect. It is active against TB, but bacteriostatic."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L125_page-0045.jpg",
+    "slideImagePath": "images/L125_slide_16.jpg",
     "slideImageDescription": "The slide 'Linezolid: Spectrum of Activity' states that it is 'Bacteriostatic against staphylococci and enterococci' but 'Bactericidal against streptococci'. This distinction is a key clinical pearl emphasized in the material."
   }
 ];

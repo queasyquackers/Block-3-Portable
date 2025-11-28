@@ -1,0 +1,6421 @@
+1
+00:00:02,810 --> 00:00:03,870
+Hello, everybody.
+
+2
+00:00:10,190 --> 00:00:13,670
+This is Dr. Maria
+Plummer. Sorry about the
+
+3
+00:00:13,670 --> 00:00:15,830
+delay. This is our
+first pathology lecture.
+
+4
+00:00:15,830 --> 00:00:17,100
+We're going to
+discuss cellular
+
+5
+00:00:17,510 --> 00:00:20,990
+adaptation and cellular
+injury and cell death.
+
+6
+00:00:21,430 --> 00:00:24,130
+These are the session
+objectives that should
+
+7
+00:00:24,130 --> 00:00:27,250
+be the same in your
+CPG. And these are the
+
+8
+00:00:27,250 --> 00:00:30,170
+general topics that
+we will be hitting on.
+
+9
+00:00:30,710 --> 00:00:31,750
+Okay,
+
+10
+00:00:31,870 --> 00:00:37,010
+I do realize that the
+histology as a subject
+
+11
+00:00:37,010 --> 00:00:39,250
+has been reduced in
+most medical schools.
+
+12
+00:00:39,850 --> 00:00:42,130
+And I want to start
+out by saying that one
+
+13
+00:00:42,130 --> 00:00:43,850
+thing important
+about pathology is to
+
+14
+00:00:43,850 --> 00:00:46,250
+know how the abnormal
+looks from the normal.
+
+15
+00:00:46,250 --> 00:00:51,190
+Having said that, I
+do realize that this
+
+16
+00:00:51,190 --> 00:00:53,910
+is your first year,
+first semester. So you
+
+17
+00:00:54,890 --> 00:00:57,790
+still need to know
+about the epithelium,
+
+18
+00:00:57,790 --> 00:00:59,290
+like where it is,
+what it is, and stuff
+
+19
+00:00:59,290 --> 00:01:01,370
+like that. But I bring
+you these pictures
+
+20
+00:01:01,590 --> 00:01:04,130
+to remind you hopefully
+you've had some of
+
+21
+00:01:04,130 --> 00:01:08,250
+this and also I want to
+make it clear that in
+
+22
+00:01:08,250 --> 00:01:10,610
+your first semester
+first year I generally
+
+23
+00:01:10,610 --> 00:01:13,530
+do not I can't say
+always but generally do
+
+24
+00:01:13,530 --> 00:01:16,310
+not put pictures on
+an exam for first year
+
+25
+00:01:16,310 --> 00:01:19,690
+first semester medical
+student it's not time
+
+26
+00:01:19,690 --> 00:01:22,070
+yet I believe to do it
+afterwards in second
+
+27
+00:01:22,070 --> 00:01:24,630
+semester and then in
+your second year but the
+
+28
+00:01:24,630 --> 00:01:27,070
+boards do do pictures
+and I don't believe in
+
+29
+00:01:27,070 --> 00:01:28,620
+just putting a picture
+and telling you to
+
+30
+00:01:28,620 --> 00:01:31,390
+to recognize that you
+can't do that but I do
+
+31
+00:01:31,390 --> 00:01:34,410
+want to remind you about
+the types of epithelial
+
+32
+00:01:34,410 --> 00:01:36,610
+tissues here. The
+one especially we're
+
+33
+00:01:36,610 --> 00:01:39,370
+going to talk about
+later will be the one on
+
+34
+00:01:39,370 --> 00:01:41,310
+the bottom in the left
+stratified squamous
+
+35
+00:01:41,310 --> 00:01:45,750
+esophagus and the one
+over on the bottom right
+
+36
+00:01:45,750 --> 00:01:48,390
+the pseudostratified
+columnar. As you can
+
+37
+00:01:48,390 --> 00:01:50,590
+tell in the stratified
+squamous it's usually
+
+38
+00:01:50,590 --> 00:01:53,890
+the esophagus it's a
+protective epithelium
+
+39
+00:01:54,220 --> 00:01:57,410
+and for the pseudostratified
+columnar that's
+
+40
+00:01:57,410 --> 00:02:00,230
+the trachea where you
+have cilia and that
+
+41
+00:02:00,230 --> 00:02:02,890
+helps with it taking out
+pollutants and things
+
+42
+00:02:02,890 --> 00:02:04,650
+like that but they're
+all kind of important
+
+43
+00:02:04,650 --> 00:02:07,050
+the thing is that just
+realize that there
+
+44
+00:02:07,050 --> 00:02:10,190
+are different types and
+I don't mean for you
+
+45
+00:02:10,190 --> 00:02:12,510
+to recognize it but
+you do want to see it
+
+46
+00:02:12,510 --> 00:02:16,150
+when we look side by
+side so pathology is the
+
+47
+00:02:16,150 --> 00:02:18,510
+study of the structural
+biochemical and
+
+48
+00:02:18,510 --> 00:02:22,410
+functional changes in
+cells uh tissues and organs
+
+49
+00:02:22,410 --> 00:02:25,150
+underlying disease and
+that That is a direct
+
+50
+00:02:25,150 --> 00:02:28,370
+definition from my
+particular Bible, which
+
+51
+00:02:28,370 --> 00:02:31,910
+is Robins and Cotron,
+pathological basis of
+
+52
+00:02:31,910 --> 00:02:34,410
+disease. They just came
+out with a new issue
+
+53
+00:02:34,410 --> 00:02:37,730
+this year. So a lot
+of this is from that.
+
+54
+00:02:39,010 --> 00:02:41,310
+General pathology versus
+systemic pathology
+
+55
+00:02:41,310 --> 00:02:42,790
+just means that what
+we're going to talk
+
+56
+00:02:42,790 --> 00:02:44,790
+about the next few
+lectures is general
+
+57
+00:02:44,790 --> 00:02:48,390
+pathology. The groundwork
+basically that is very
+
+58
+00:02:48,390 --> 00:02:51,950
+important, though
+it's not as exciting I
+
+59
+00:02:51,950 --> 00:02:54,350
+think anyway as the
+systemic pathology which
+
+60
+00:02:54,350 --> 00:02:56,490
+discusses the different
+organ systems.
+
+61
+00:02:56,510 --> 00:02:59,610
+Okay, but no matter what
+general or systemic,
+
+62
+00:03:00,010 --> 00:03:03,090
+we want to in
+pathology we want to
+
+63
+00:03:03,090 --> 00:03:05,030
+think about etiology
+which is the
+
+64
+00:03:05,030 --> 00:03:07,350
+cause of a disease,
+the pathogenesis,
+
+65
+00:03:07,930 --> 00:03:09,690
+the changes, the
+morphological
+
+66
+00:03:09,690 --> 00:03:11,450
+changes that
+are associated,
+
+67
+00:03:11,450 --> 00:03:13,650
+and the clinical
+manifestations.
+
+68
+00:03:14,150 --> 00:03:17,950
+This is a really good
+overall picture from
+
+69
+00:03:17,950 --> 00:03:21,090
+the text which shows
+the normal cell all the
+
+70
+00:03:21,090 --> 00:03:23,190
+way on the top and
+generally the first part
+
+71
+00:03:23,190 --> 00:03:24,750
+of this lecture we're
+going to talk about
+
+72
+00:03:24,800 --> 00:03:27,550
+adaptation which is all
+the way to the left.
+
+73
+00:03:28,130 --> 00:03:30,310
+When there's a
+stressor just like
+
+74
+00:03:30,310 --> 00:03:32,710
+human being cells
+need to adapt. If
+
+75
+00:03:32,710 --> 00:03:34,930
+you can't adapt it
+will be a problem.
+
+76
+00:03:35,190 --> 00:03:37,370
+So we're going to talk
+about the cellular
+
+77
+00:03:37,370 --> 00:03:40,190
+adaptations first
+however if there's
+
+78
+00:03:40,190 --> 00:03:42,390
+an inability to adapt
+for whatever reason
+
+79
+00:03:42,390 --> 00:03:44,960
+or if the stimulus
+is very injurious
+
+80
+00:03:44,960 --> 00:03:47,050
+there's going to be
+injury and then And
+
+81
+00:03:47,050 --> 00:03:50,470
+there is a matter
+of time whether that
+
+82
+00:03:50,470 --> 00:03:53,210
+injury is reversible
+or irreversible.
+
+83
+00:03:54,570 --> 00:03:57,070
+And irreversible
+injury can usually
+
+84
+00:03:57,070 --> 00:03:58,850
+lead to necrosis,
+but we're also
+
+85
+00:03:58,850 --> 00:04:00,410
+going to talk
+about another type
+
+86
+00:04:00,410 --> 00:04:02,640
+of cell death
+called apoptosis.
+
+87
+00:04:03,620 --> 00:04:05,370
+Okay, so let's
+start with the first
+
+88
+00:04:05,370 --> 00:04:08,010
+adaptation is hypertrophy,
+which is an increase
+
+89
+00:04:08,010 --> 00:04:11,530
+in the size of cells
+that, of course,
+
+90
+00:04:11,530 --> 00:04:12,970
+the organ is going to
+get increased. Please
+
+91
+00:04:12,970 --> 00:04:14,770
+note that in
+hypertrophy there are no
+
+92
+00:04:14,770 --> 00:04:17,370
+new cells. it's the
+size that's increased.
+
+93
+00:04:18,670 --> 00:04:21,410
+In hypertrophy you have
+increased production
+
+94
+00:04:21,410 --> 00:04:23,950
+of protein in the
+cells because growth
+
+95
+00:04:23,950 --> 00:04:27,150
+factors are activated
+and also because
+
+96
+00:04:27,150 --> 00:04:29,390
+of mechanical force
+and now you'll see
+
+97
+00:04:29,390 --> 00:04:31,310
+what I mean in a second
+that stimulate the
+
+98
+00:04:31,310 --> 00:04:33,310
+protein pathways to
+protein synthesis.
+
+99
+00:04:33,730 --> 00:04:35,510
+Now hypertrophy
+like a lot of
+
+100
+00:04:35,510 --> 00:04:38,530
+adaptations has two
+types physiologic
+
+101
+00:04:38,530 --> 00:04:41,330
+and pathologic and
+physiologic means
+
+102
+00:04:41,990 --> 00:04:45,510
+basically normal increased
+functional demands
+
+103
+00:04:45,510 --> 00:04:48,150
+stimulation by growth
+factors or hormones
+
+104
+00:04:48,150 --> 00:04:53,050
+and examples are better
+to define this which
+
+105
+00:04:53,050 --> 00:04:55,150
+means things like
+uterine growth during
+
+106
+00:04:55,150 --> 00:04:58,910
+pregnancy skeletal
+muscle in response to you
+
+107
+00:04:58,910 --> 00:05:01,730
+know working out so your
+bodybuilding those are
+
+108
+00:05:01,730 --> 00:05:03,710
+physiological hypertrophy
+they're supposed
+
+109
+00:05:03,710 --> 00:05:05,690
+to happen they're
+supposed to happen there's
+
+110
+00:05:05,690 --> 00:05:08,370
+nothing wrong with
+that pathologic would
+
+111
+00:05:08,370 --> 00:05:12,090
+mean it has to do with
+a disease so the heart
+
+112
+00:05:12,090 --> 00:05:15,450
+and hypertension the
+blood pressure is elevated
+
+113
+00:05:15,450 --> 00:05:17,230
+if it's elevated
+the heart is working
+
+114
+00:05:17,230 --> 00:05:21,950
+against the vasculature
+and it has to pump
+
+115
+00:05:21,950 --> 00:05:24,830
+harder and so it's a
+muscle and it's going to
+
+116
+00:05:24,830 --> 00:05:29,670
+increase in size by
+increasing the cell size
+
+117
+00:05:29,950 --> 00:05:31,810
+that would also happen
+in something like
+
+118
+00:05:31,810 --> 00:05:34,150
+aortic stenosis where
+you have the aortic
+
+119
+00:05:34,150 --> 00:05:36,810
+bowel which leads out
+from the left ventricle
+
+120
+00:05:36,810 --> 00:05:41,610
+that is narrow and
+the blood has to the
+
+121
+00:05:41,610 --> 00:05:43,270
+heart has to work
+hard to push out the
+
+122
+00:05:43,270 --> 00:05:45,310
+blood. Same thing it's
+going to work hard and
+
+123
+00:05:45,310 --> 00:05:47,790
+like skeletal muscle
+it will hypertrophy.
+
+124
+00:05:48,210 --> 00:05:50,390
+So this is a picture
+granted it's from a
+
+125
+00:05:50,390 --> 00:05:53,570
+mouse but this is
+myocardial. I don't expect
+
+126
+00:05:53,570 --> 00:05:59,190
+you to identify this
+because again you
+
+127
+00:05:59,190 --> 00:06:02,070
+may recognize that
+this is a cardiac
+
+128
+00:06:02,070 --> 00:06:04,710
+muscle or not. The
+point being that on the
+
+129
+00:06:04,710 --> 00:06:07,060
+left is normal, the
+right is hypertrophy.
+
+130
+00:06:07,190 --> 00:06:09,530
+It's hypertrophy
+because the cells, this
+
+131
+00:06:09,530 --> 00:06:11,770
+is a longitudinal
+section, are thicker,
+
+132
+00:06:11,770 --> 00:06:14,070
+they're bigger, even
+the nuclei are bigger.
+
+133
+00:06:14,290 --> 00:06:17,650
+So this is hypertrophy
+and it's the result
+
+134
+00:06:17,650 --> 00:06:20,610
+of cellular protein
+production increase.
+
+135
+00:06:21,110 --> 00:06:23,370
+A lot of ways
+that can happen is
+
+136
+00:06:23,370 --> 00:06:27,170
+mechanical sensors
+will detect increased
+
+137
+00:06:27,170 --> 00:06:31,570
+load like the heart
+filling or heart
+
+138
+00:06:31,570 --> 00:06:35,870
+pumping or your
+pumping iron. Sensors
+
+139
+00:06:35,870 --> 00:06:37,970
+will activate
+signaling pathways.
+
+140
+00:06:38,200 --> 00:06:39,750
+I don't need
+you to memorize
+
+141
+00:06:39,750 --> 00:06:41,150
+these pathways
+you probably learn
+
+142
+00:06:41,150 --> 00:06:42,740
+about them in
+other lectures.
+
+143
+00:06:45,030 --> 00:06:47,550
+Some other signaling
+pathways will be
+
+144
+00:06:47,550 --> 00:06:49,930
+increased production
+of growth factors and
+
+145
+00:06:49,930 --> 00:06:52,210
+even vasoactive
+agents. So basically
+
+146
+00:06:52,210 --> 00:06:54,870
+what we need is activation
+of transcription
+
+147
+00:06:54,870 --> 00:06:57,070
+factors which is
+increase the expression
+
+148
+00:06:57,070 --> 00:06:59,620
+of genes, and that
+in the case of
+
+149
+00:06:59,620 --> 00:07:02,710
+muscle will encode
+contractile proteins.
+
+150
+00:07:02,950 --> 00:07:06,010
+What I just said is
+illustrated, if you're
+
+151
+00:07:06,010 --> 00:07:07,730
+much more of an
+image person, I do
+
+152
+00:07:07,730 --> 00:07:09,810
+this a lot. I will talk
+it through and then
+
+153
+00:07:09,810 --> 00:07:11,330
+I'll give you the
+image. This is directly
+
+154
+00:07:11,330 --> 00:07:13,390
+from the book, this
+is exactly what I
+
+155
+00:07:13,390 --> 00:07:14,830
+just said, probably
+a few things added
+
+156
+00:07:14,830 --> 00:07:17,950
+here. I don't need
+you to memorize this
+
+157
+00:07:17,950 --> 00:07:19,970
+particular figure,
+but you should look at
+
+158
+00:07:19,970 --> 00:07:22,450
+it and understand
+it, what's going on.
+
+159
+00:07:23,550 --> 00:07:26,210
+So let's start with,
+let's go to another
+
+160
+00:07:26,210 --> 00:07:27,970
+adaptation i'm going
+to give you two cases
+
+161
+00:07:27,970 --> 00:07:30,410
+i'm going to talk about
+it this is a 70 year
+
+162
+00:07:30,410 --> 00:07:32,830
+old man who complains
+of difficulty urinating
+
+163
+00:07:32,830 --> 00:07:36,630
+is a weak urinary
+system and um has to
+
+164
+00:07:36,630 --> 00:07:38,450
+get a lot of times
+in the night that's
+
+165
+00:07:38,450 --> 00:07:41,470
+called bacteria to go
+to go urinary his PSA
+
+166
+00:07:41,470 --> 00:07:45,210
+the prostate specific
+antigen is mildly
+
+167
+00:07:45,210 --> 00:07:48,730
+elevated and as you as
+you may or may not know
+
+168
+00:07:48,730 --> 00:07:51,450
+PSA can be elevated in
+benign and malignant
+
+169
+00:07:51,450 --> 00:07:55,070
+processes of the
+prostate. He undergoes
+
+170
+00:07:55,070 --> 00:07:57,910
+a transurethal resection
+of this prostate.
+
+171
+00:07:58,050 --> 00:07:59,810
+Okay and what do they
+find now again now
+
+172
+00:07:59,810 --> 00:08:02,910
+we're going to look at
+tissue. Okay so on the
+
+173
+00:08:02,910 --> 00:08:06,010
+bottom with the blue
+box is normal prostate
+
+174
+00:08:06,010 --> 00:08:10,410
+and on the top left
+of the two boxes is a
+
+175
+00:08:10,410 --> 00:08:13,230
+lower power and a higher
+power view of this
+
+176
+00:08:13,230 --> 00:08:15,610
+man's prostate. So you
+have to ask yourself
+
+177
+00:08:15,610 --> 00:08:17,630
+okay again what type
+of epithelium is
+
+178
+00:08:17,630 --> 00:08:21,270
+present this is glandular
+or columnar epithelium
+
+179
+00:08:21,270 --> 00:08:23,510
+okay it's not squamous
+it's not transitional
+
+180
+00:08:23,510 --> 00:08:26,650
+it's glandular um and
+that's what because
+
+181
+00:08:26,650 --> 00:08:29,830
+remember prostate
+secretes things um is
+
+182
+00:08:29,830 --> 00:08:31,890
+there an increase in
+the number of cells and
+
+183
+00:08:31,890 --> 00:08:34,230
+the answer to that is
+going to be yes and
+
+184
+00:08:34,230 --> 00:08:36,910
+what do we call this
+adaptation and you'll
+
+185
+00:08:36,910 --> 00:08:39,590
+i will reveal that in a
+second after i present
+
+186
+00:08:39,590 --> 00:08:42,310
+the next case which
+is a 45 year old
+
+187
+00:08:42,310 --> 00:08:45,130
+woman who is pale and weak
+and she has a decrease
+
+188
+00:08:45,130 --> 00:08:47,150
+from her red blood
+cell count she has
+
+189
+00:08:47,150 --> 00:08:50,210
+anemia but her bone
+marrow biopsy shows an
+
+190
+00:08:50,210 --> 00:08:53,170
+increase in red blood
+cell precursor cells so
+
+191
+00:08:53,170 --> 00:08:55,950
+that indicates an
+attempt to compensate for
+
+192
+00:08:55,950 --> 00:09:00,070
+the decrease in the
+rbcs and this is what
+
+193
+00:09:00,070 --> 00:09:02,470
+it looks like on the
+top again i don't expect
+
+194
+00:09:02,470 --> 00:09:04,990
+you to recognize this
+on the top is normal
+
+195
+00:09:04,990 --> 00:09:07,250
+bone marrow with all
+the three lineages
+
+196
+00:09:07,250 --> 00:09:11,750
+if you remember um
+the the rbcs the white
+
+197
+00:09:11,750 --> 00:09:14,390
+cells the platelets and
+on the bottom although
+
+198
+00:09:14,390 --> 00:09:17,630
+that's a much more
+magnified picture those
+
+199
+00:09:17,630 --> 00:09:20,330
+that's a bone marrow
+of this woman who has
+
+200
+00:09:20,330 --> 00:09:23,530
+uh increased erythroid
+precursors I do not
+
+201
+00:09:23,530 --> 00:09:25,470
+expect you to recognize
+that what you see
+
+202
+00:09:25,470 --> 00:09:29,350
+in um the middle here
+I mean in the lower
+
+203
+00:09:29,350 --> 00:09:32,650
+left is a large cell
+that's a megakaryocyte
+
+204
+00:09:33,430 --> 00:09:36,750
+and all the really
+dark almost black but
+
+205
+00:09:36,750 --> 00:09:38,610
+they're really kind
+of blue black uh cells
+
+206
+00:09:38,610 --> 00:09:40,770
+are erythroid
+precursors so you're not
+
+207
+00:09:40,770 --> 00:09:43,350
+supposed to have this
+many okay and and and
+
+208
+00:09:43,350 --> 00:09:45,510
+i gave you a question
+i would say there
+
+209
+00:09:45,510 --> 00:09:47,490
+would be increased
+irregular precursors i
+
+210
+00:09:47,490 --> 00:09:49,690
+don't necessarily need
+you to identify them
+
+211
+00:09:49,690 --> 00:09:53,470
+not at this point yet
+so what process is
+
+212
+00:09:53,470 --> 00:09:55,230
+going on here in the
+bone marrow and also
+
+213
+00:09:55,230 --> 00:09:57,450
+in that man with
+the prostate and the
+
+214
+00:09:57,450 --> 00:10:00,250
+answer is you can stop
+the tape if you want
+
+215
+00:10:00,250 --> 00:10:04,330
+but it's hyperplasia a
+bone marrow undergoes
+
+216
+00:10:04,330 --> 00:10:06,970
+rapid hyperplasia
+because it's responding
+
+217
+00:10:06,970 --> 00:10:09,350
+to the deficiency
+in red blood cells.
+
+218
+00:10:09,650 --> 00:10:12,170
+So if there's any
+acute bleeding or
+
+219
+00:10:12,200 --> 00:10:15,550
+hemolysis, there's
+feedback loops and there's
+
+220
+00:10:15,550 --> 00:10:18,190
+a growth factor slash
+hormone or erythopoietin
+
+221
+00:10:18,190 --> 00:10:19,770
+that's activated
+from the kidney
+
+222
+00:10:19,770 --> 00:10:22,110
+and it stimulates the
+growth of red cell
+
+223
+00:10:22,110 --> 00:10:24,810
+progenitors and allows
+the red cell production
+
+224
+00:10:24,810 --> 00:10:26,250
+to increase. So
+that's a good thing
+
+225
+00:10:26,250 --> 00:10:28,250
+because it's a
+compensatory thing and it's
+
+226
+00:10:28,250 --> 00:10:30,870
+more. So what is
+this hyperplasia? It
+
+227
+00:10:30,870 --> 00:10:34,510
+means an increased
+number of cells, okay?
+
+228
+00:10:34,750 --> 00:10:37,010
+Hypertrophy is increased
+size, hyperplasia
+
+229
+00:10:37,010 --> 00:10:39,610
+increased number and
+it's usually in response
+
+230
+00:10:39,610 --> 00:10:42,050
+to something a stimulus
+and it can only
+
+231
+00:10:42,050 --> 00:10:44,410
+happen in tissues if
+they're capable of
+
+232
+00:10:44,410 --> 00:10:46,350
+dividing and i'll get
+into that in a little
+
+233
+00:10:46,350 --> 00:10:50,630
+bit now some organs some
+tissue types um will
+
+234
+00:10:50,630 --> 00:10:52,910
+have both hyperplasia
+and hypertrophy but
+
+235
+00:10:52,910 --> 00:10:54,910
+that does not happen
+in permanent tissue
+
+236
+00:10:54,910 --> 00:10:57,390
+which we'll discuss in
+a second hyperplasia
+
+237
+00:10:57,870 --> 00:11:00,090
+is the result of
+growth factor driven
+
+238
+00:11:00,090 --> 00:11:03,530
+proliferation of cells
+mature cells but sometimes
+
+239
+00:11:03,530 --> 00:11:05,450
+it's also increased
+output of new cells
+
+240
+00:11:05,450 --> 00:11:08,730
+from tissue stem cells
+there are two types
+
+241
+00:11:08,730 --> 00:11:11,210
+like in hypertrophy
+there's physiologic or
+
+242
+00:11:11,210 --> 00:11:14,450
+pathologic physiologic
+usually is due to
+
+243
+00:11:14,450 --> 00:11:17,070
+hormones growth factors
+when they're needed
+
+244
+00:11:17,070 --> 00:11:20,870
+to increase the function
+of hormone sensitive
+
+245
+00:11:20,870 --> 00:11:23,050
+organs or when you
+need a compensatory
+
+246
+00:11:23,050 --> 00:11:25,690
+increase because of
+damage so one of the
+
+247
+00:11:25,690 --> 00:11:30,330
+two of the best um
+examples would be the
+
+248
+00:11:30,330 --> 00:11:33,250
+breast at puberty the
+uterus at pregnancy even
+
+249
+00:11:33,250 --> 00:11:35,990
+the breasts at pregnancy
+where the uterus
+
+250
+00:11:35,990 --> 00:11:39,150
+of pregnancy would
+grow probably a little
+
+251
+00:11:39,150 --> 00:11:41,630
+bit of both but the
+point is that the puberty
+
+252
+00:11:41,630 --> 00:11:44,350
+breast is increasing
+the number of cells
+
+253
+00:11:44,350 --> 00:11:46,850
+not necessarily the
+size although both can
+
+254
+00:11:46,850 --> 00:11:49,270
+happen that's normal
+that's supposed to
+
+255
+00:11:49,270 --> 00:11:51,450
+happen your breasts are
+supposed to come out
+
+256
+00:11:51,450 --> 00:11:55,310
+of puberty and in
+pregnancy they get bigger
+
+257
+00:11:55,310 --> 00:11:58,410
+because of the increase
+in mother's milk
+
+258
+00:12:02,030 --> 00:12:04,670
+pathologically what
+could it mean well there
+
+259
+00:12:04,670 --> 00:12:06,730
+are things like
+endometrial hyperplasia
+
+260
+00:12:06,800 --> 00:12:10,230
+which means that the
+lining of the uterus is
+
+261
+00:12:10,230 --> 00:12:12,290
+going to be thicker
+and that should not
+
+262
+00:12:12,290 --> 00:12:15,610
+happen so it's response
+it's an inappropriate
+
+263
+00:12:15,610 --> 00:12:21,330
+or excessive hormonal
+situation BPH which
+
+264
+00:12:21,330 --> 00:12:23,390
+is what the gentleman
+had the first case
+
+265
+00:12:23,390 --> 00:12:26,650
+benign prostatic hyperplasia
+means there's more
+
+266
+00:12:26,650 --> 00:12:31,670
+um cells present now
+hyperplasia is not in
+
+267
+00:12:31,670 --> 00:12:33,910
+and of itself cancer
+it's not even really
+
+268
+00:12:33,910 --> 00:12:35,810
+pre-cancer you can't
+really call it that
+
+269
+00:12:35,810 --> 00:12:38,910
+however and I want you
+to realize this increased
+
+270
+00:12:38,910 --> 00:12:41,490
+cell division that
+you know you're
+
+271
+00:12:41,490 --> 00:12:44,170
+dividing the cells there's
+more cells coming and
+
+272
+00:12:44,170 --> 00:12:45,810
+that means there's
+an increased risk of
+
+273
+00:12:45,810 --> 00:12:48,970
+getting genetic
+aberrations because and if
+
+274
+00:12:48,970 --> 00:12:51,380
+that happens you can that
+can drive proliferation
+
+275
+00:12:51,380 --> 00:12:53,570
+that's unrestrained
+and give rise to
+
+276
+00:12:53,570 --> 00:12:57,090
+cancer so it's not
+cancer but hyperplasia
+
+277
+00:12:57,090 --> 00:13:02,470
+needs to be taken care
+of okay here is a picture
+
+278
+00:13:02,470 --> 00:13:05,870
+of a heart obviously
+um cross-section on
+
+279
+00:13:05,870 --> 00:13:08,990
+the left is a cellular
+adaptation not now
+
+280
+00:13:08,990 --> 00:13:10,490
+we're not looking at
+micros we're looking
+
+281
+00:13:10,490 --> 00:13:12,470
+at gross pictures and
+that's a hypertrophy
+
+282
+00:13:12,470 --> 00:13:14,930
+of the heart and as
+compared to the normal
+
+283
+00:13:14,930 --> 00:13:16,470
+heart and I know that's
+a little bit smaller
+
+284
+00:13:16,470 --> 00:13:18,330
+in the picture but the
+heart left ventricle
+
+285
+00:13:18,330 --> 00:13:21,010
+shouldn't be more than
+1.5 centimeters so
+
+286
+00:13:21,010 --> 00:13:23,310
+whatever this person
+has is causing left
+
+287
+00:13:23,310 --> 00:13:28,410
+ventricular hypertrophy
+now why is this called
+
+288
+00:13:28,410 --> 00:13:30,990
+hypertrophy and why
+is the heart not going
+
+289
+00:13:30,990 --> 00:13:33,370
+to have hyperplasia
+and that goes back to
+
+290
+00:13:33,370 --> 00:13:34,810
+what I was talking
+about that permanent
+
+291
+00:13:34,810 --> 00:13:37,770
+tissue for our intents
+and purposes permanent
+
+292
+00:13:37,770 --> 00:13:40,530
+tissue includes cardiac
+muscle, skeletal
+
+293
+00:13:40,530 --> 00:13:43,050
+muscle, and nerve tissue
+because those generally
+
+294
+00:13:43,050 --> 00:13:45,890
+do not regenerate.
+Now I know that there
+
+295
+00:13:45,890 --> 00:13:47,640
+are new things coming
+out and they're
+
+296
+00:13:47,640 --> 00:13:50,150
+regenerating nerve tissue
+etc but for our purposes
+
+297
+00:13:50,150 --> 00:13:53,850
+for traditional
+definitions of tissue
+
+298
+00:13:53,850 --> 00:13:56,730
+these three especially
+are permanent tissue
+
+299
+00:13:56,960 --> 00:13:58,550
+and we'll talk more about
+
+300
+00:13:58,550 --> 00:14:00,050
+that in healing
+and repair.
+
+301
+00:14:02,120 --> 00:14:04,730
+So let's go on to
+another case we've got
+
+302
+00:14:04,730 --> 00:14:06,910
+a 70 year old woman
+this time who has a
+
+303
+00:14:06,910 --> 00:14:09,070
+hysterectomy because
+she has benign smooth
+
+304
+00:14:09,070 --> 00:14:11,550
+muscle tumors which
+are known as myomyoma
+
+305
+00:14:11,550 --> 00:14:16,650
+also fibroids the
+uterus is small and it
+
+306
+00:14:16,650 --> 00:14:19,890
+has no other visible
+pathology or as we say
+
+307
+00:14:19,890 --> 00:14:22,670
+gross pathology in
+processing the uterus
+
+308
+00:14:22,850 --> 00:14:25,690
+they take a sample of
+the endometrium and
+
+309
+00:14:25,690 --> 00:14:28,670
+what do they see
+they see this on the
+
+310
+00:14:28,670 --> 00:14:31,020
+left hand side with
+the blue arrow this
+
+311
+00:14:31,670 --> 00:14:34,690
+again is glandular
+epithelium that should
+
+312
+00:14:34,690 --> 00:14:38,590
+be columnar uh it's
+not squamous um and
+
+313
+00:14:38,590 --> 00:14:40,650
+it does that because
+the you know the
+
+314
+00:14:40,650 --> 00:14:43,510
+endometrial lining
+secretes things and also
+
+315
+00:14:43,510 --> 00:14:45,670
+it gets sloughed off
+when menstruation
+
+316
+00:14:47,090 --> 00:14:50,130
+now whether this is
+physiologically pathologic
+
+317
+00:14:50,220 --> 00:14:53,050
+it can be kind of
+debated this is a
+
+318
+00:14:53,050 --> 00:14:56,150
+woman who know what is
+postmenopausal so she
+
+319
+00:14:56,150 --> 00:15:00,830
+is normally would not
+have um hormone uh
+
+320
+00:15:00,940 --> 00:15:03,930
+secretion that would
+make her that would um
+
+321
+00:15:03,930 --> 00:15:06,590
+increase the lining of
+the uterus because she
+
+322
+00:15:06,590 --> 00:15:09,590
+cannot get pregnant
+anymore on the right
+
+323
+00:15:09,590 --> 00:15:11,210
+you see the normal
+and I think what you
+
+324
+00:15:11,210 --> 00:15:13,990
+notice is that I hope
+that and again it's a
+
+325
+00:15:13,990 --> 00:15:16,170
+different stain I
+realize that and that's
+
+326
+00:15:16,170 --> 00:15:18,070
+because a lot is I showed
+you because a lot of
+
+327
+00:15:18,070 --> 00:15:19,700
+different stains look
+at different color
+
+328
+00:15:19,700 --> 00:15:21,810
+actually it's the same
+stain but it looks
+
+329
+00:15:21,810 --> 00:15:24,490
+different because of
+the characteristic of
+
+330
+00:15:24,490 --> 00:15:27,130
+the picture on the
+right the normal shows a
+
+331
+00:15:27,130 --> 00:15:29,670
+lot more round tubular
+structures or glands
+
+332
+00:15:29,670 --> 00:15:32,910
+than the left okay so
+what do we call this
+
+333
+00:15:32,910 --> 00:15:36,030
+adaptation this is
+called atrophy it's a
+
+334
+00:15:36,030 --> 00:15:38,530
+reduction in the size
+due to a decrease in
+
+335
+00:15:38,530 --> 00:15:41,990
+the cell size and
+number because there's
+
+336
+00:15:41,990 --> 00:15:44,250
+decreased protein
+synthesis and increased
+
+337
+00:15:44,250 --> 00:15:47,610
+protein degradation like
+the others there could
+
+338
+00:15:47,610 --> 00:15:50,790
+be physiologic or
+pathologic uh normal
+
+339
+00:15:50,790 --> 00:15:54,350
+development um sometimes
+uh you get atrophy
+
+340
+00:15:54,350 --> 00:15:56,390
+and the uterus postpartum
+you want it to go
+
+341
+00:15:56,390 --> 00:16:00,890
+back down you want the
+um the uh the uterus
+
+342
+00:16:00,890 --> 00:16:03,610
+to be back to normal
+so that's atrophy but
+
+343
+00:16:03,610 --> 00:16:06,110
+pathologic um there's
+a lot of reasons for
+
+344
+00:16:06,110 --> 00:16:08,670
+pathologic astrophobia
+and that includes
+
+345
+00:16:08,670 --> 00:16:11,410
+a decreased workload
+you're not using your
+
+346
+00:16:11,410 --> 00:16:14,080
+muscles so you just
+use atrophy deneration
+
+347
+00:16:14,710 --> 00:16:18,090
+uh decreased blood
+supply because that
+
+348
+00:16:18,090 --> 00:16:21,250
+supplies oxygen if you
+don't get oxygen the the
+
+349
+00:16:21,250 --> 00:16:24,470
+tissue cannot grow
+or cannot you know be
+
+350
+00:16:24,470 --> 00:16:27,830
+fed decrease nutrition
+in general and decrease
+
+351
+00:16:27,830 --> 00:16:30,070
+hormone stimulation
+also pressure you
+
+352
+00:16:30,070 --> 00:16:32,010
+can get pressure atrophy
+something if you have
+
+353
+00:16:32,010 --> 00:16:34,690
+a tumor that's benign
+but it's huge and
+
+354
+00:16:34,690 --> 00:16:36,810
+it's pressing upon some
+other internal organ
+
+355
+00:16:36,810 --> 00:16:39,430
+it can that organ can
+become atrophic okay
+
+356
+00:16:39,430 --> 00:16:42,910
+so that's atrophy and
+what happens is in
+
+357
+00:16:42,910 --> 00:16:46,170
+atrophy there's trophic
+signals that are
+
+358
+00:16:46,170 --> 00:16:49,030
+reduced and it's the
+opposite of hypertrophy
+
+359
+00:16:49,030 --> 00:16:51,350
+so you get a decrease
+in protein synthesis
+
+360
+00:16:52,000 --> 00:16:54,170
+how does this happen
+they talk about the
+
+361
+00:16:54,170 --> 00:16:57,810
+ubiquitin proteasome
+pathway that's where
+
+362
+00:16:57,810 --> 00:17:00,190
+most of the that's
+how degradation of the
+
+363
+00:17:00,190 --> 00:17:02,850
+proteins happen in the
+cell they have these
+
+364
+00:17:02,850 --> 00:17:05,330
+things called these
+enzymes the ubiquitin
+
+365
+00:17:05,330 --> 00:17:08,130
+ligases are activated
+by disuse and
+
+366
+00:17:08,130 --> 00:17:11,270
+nutritional deficits and
+the ligases will attach
+
+367
+00:17:11,270 --> 00:17:15,570
+to this ubiquitin
+and I'm sorry the
+
+368
+00:17:15,570 --> 00:17:18,330
+ligases will attach
+ubiquitin to the proteins
+
+369
+00:17:18,330 --> 00:17:21,250
+targeting them and
+and they're being
+
+370
+00:17:21,250 --> 00:17:24,030
+targeted for degradation
+in the proteasomes.
+
+371
+00:17:24,390 --> 00:17:26,650
+A lot of times we'll
+talk about this a little
+
+372
+00:17:26,650 --> 00:17:29,430
+bit later atrophy can
+be accompanied with
+
+373
+00:17:29,430 --> 00:17:32,010
+autophagy which is
+basically a cell that's
+
+374
+00:17:32,010 --> 00:17:35,370
+starving eats itself
+because to decrease
+
+375
+00:17:35,370 --> 00:17:39,330
+nutrient demands okay
+so now this is a really
+
+376
+00:17:39,330 --> 00:17:40,810
+important concept
+we're going to go into
+
+377
+00:17:40,810 --> 00:17:42,770
+this is the last of
+the adaptations i'm
+
+378
+00:17:42,770 --> 00:17:45,830
+going to talk about
+which is metaplasia oh i
+
+379
+00:17:45,830 --> 00:17:47,750
+said that already all
+right well this is a
+
+380
+00:17:47,750 --> 00:17:50,910
+little bit harder this
+this um this case 52
+
+381
+00:17:50,910 --> 00:17:52,770
+year old man presents
+with a six month
+
+382
+00:17:52,770 --> 00:17:56,350
+history of heartburn last
+year he had reflux uh
+
+383
+00:17:56,350 --> 00:17:58,270
+diagnosed with reflux
+esophagitis that
+
+384
+00:17:58,270 --> 00:18:01,610
+means that acid was
+going back into esophagus
+
+385
+00:18:01,610 --> 00:18:04,150
+from the stomach and
+that of course causes
+
+386
+00:18:04,150 --> 00:18:06,250
+feelings of heartburn
+and things like that
+
+387
+00:18:06,550 --> 00:18:08,790
+they do an endoscopy
+and there's an
+
+388
+00:18:08,790 --> 00:18:10,890
+irregular g-e junction
+we really don't
+
+389
+00:18:10,890 --> 00:18:12,570
+want to have an
+irregular g-e junction
+
+390
+00:18:12,570 --> 00:18:14,110
+but there's no
+masses so there's no
+
+391
+00:18:14,110 --> 00:18:17,930
+cancer okay so again
+on the left side
+
+392
+00:18:18,310 --> 00:18:21,070
+of this photo is
+stratified squamous
+
+393
+00:18:21,070 --> 00:18:23,390
+that is the normal
+epithelium of the
+
+394
+00:18:23,390 --> 00:18:27,980
+esophagus why i alluded
+to this earlier and
+
+395
+00:18:27,980 --> 00:18:29,890
+this is because the
+stratified squamous
+
+396
+00:18:29,890 --> 00:18:31,890
+is protective when
+the bolus of food
+
+397
+00:18:31,890 --> 00:18:34,170
+comes down from the
+mouth to the stomach.
+
+398
+00:18:34,970 --> 00:18:37,310
+On the right hand
+side however this is
+
+399
+00:18:37,310 --> 00:18:39,410
+like the G-junction
+but there's something
+
+400
+00:18:39,410 --> 00:18:41,110
+abnormal about
+it. Although this
+
+401
+00:18:41,110 --> 00:18:43,130
+glandular epithelium,
+those are columnar
+
+402
+00:18:43,130 --> 00:18:46,310
+cells, they've also
+got big nuisance vacals
+
+403
+00:18:46,310 --> 00:18:48,090
+in them, some areas
+that look pale.
+
+404
+00:18:48,650 --> 00:18:50,870
+That's called
+intestinalization. It almost
+
+405
+00:18:50,870 --> 00:18:53,710
+looks like intestinal
+rather than stomach.
+
+406
+00:18:53,770 --> 00:18:57,930
+So we have two types
+of epithelium and what
+
+407
+00:18:57,930 --> 00:19:00,870
+is going on here and
+it's going on right
+
+408
+00:19:00,870 --> 00:19:02,890
+near the junction I
+think there's a long
+
+409
+00:19:02,890 --> 00:19:04,950
+thin arrow though it's
+not as good but that's
+
+410
+00:19:04,950 --> 00:19:07,130
+kind of where the
+junction and this is a
+
+411
+00:19:07,130 --> 00:19:09,610
+very important process
+called metaplasia.
+
+412
+00:19:10,110 --> 00:19:12,330
+Metaplasia is
+reversible I do want
+
+413
+00:19:12,330 --> 00:19:14,130
+to emphasize that
+and it means that
+
+414
+00:19:14,130 --> 00:19:15,990
+there's one
+differentiated cell type
+
+415
+00:19:15,990 --> 00:19:17,730
+that was replaced
+by another one
+
+416
+00:19:18,190 --> 00:19:20,550
+why would that
+happen again this is
+
+417
+00:19:20,550 --> 00:19:23,650
+adaptive one cell type
+is sensitive to some
+
+418
+00:19:23,650 --> 00:19:26,310
+stress is replaced
+by another one that's
+
+419
+00:19:26,310 --> 00:19:29,050
+better able to
+withstand the stress so
+
+420
+00:19:29,050 --> 00:19:32,930
+in the case of the
+esophagus getting acid
+
+421
+00:19:32,930 --> 00:19:35,810
+reflux the although
+the stratified
+
+422
+00:19:35,810 --> 00:19:37,770
+squamous is protective
+it's not protective
+
+423
+00:19:37,770 --> 00:19:40,850
+enough but by causing
+the cells to turn
+
+424
+00:19:40,850 --> 00:19:44,410
+into an intestinal
+cell or producing mucin
+
+425
+00:19:44,410 --> 00:19:48,450
+the mucin will buffer
+or neutralize the
+
+426
+00:19:48,450 --> 00:19:50,730
+acid and that's how
+it protects itself
+
+427
+00:19:51,260 --> 00:19:53,850
+but and this is the
+big but even though
+
+428
+00:19:53,850 --> 00:19:56,410
+it's reversible
+it if it keeps if
+
+429
+00:19:56,410 --> 00:19:58,310
+the stimulus keeps
+there you can get
+
+430
+00:19:58,310 --> 00:20:01,410
+to dysplasia and
+then cancer and so
+
+431
+00:20:01,410 --> 00:20:03,390
+metaplasia is
+important to remember
+
+432
+00:20:03,670 --> 00:20:06,470
+the most common
+metaplasia most common
+
+433
+00:20:06,470 --> 00:20:08,810
+tissue type is columnar
+disquamous but there's
+
+434
+00:20:08,810 --> 00:20:11,100
+a lot of others and
+I have a table later
+
+435
+00:20:11,100 --> 00:20:14,550
+to show you results
+this results from
+
+436
+00:20:14,550 --> 00:20:18,490
+either reprogramming
+of stem cells that
+
+437
+00:20:18,490 --> 00:20:21,670
+are local or colonization
+by different cell
+
+438
+00:20:21,670 --> 00:20:24,550
+populations from sites
+that are adjacent
+
+439
+00:20:24,680 --> 00:20:26,910
+and like a lot of things
+i've been mentioning
+
+440
+00:20:26,910 --> 00:20:28,790
+it's stimulated by
+signals that are
+
+441
+00:20:28,790 --> 00:20:31,370
+generated by growth
+factors cytokines etc
+
+442
+00:20:31,850 --> 00:20:35,530
+so again i don't
+expect you to know this
+
+443
+00:20:35,710 --> 00:20:38,200
+uh by just looking at
+this is metoplastic
+
+444
+00:20:38,200 --> 00:20:40,610
+bronchoepithelium what
+is normal is the question
+
+445
+00:20:40,610 --> 00:20:43,570
+now if you remember
+or maybe you did
+
+446
+00:20:43,570 --> 00:20:46,310
+not get this yet the
+bronchial epithelium the
+
+447
+00:20:46,310 --> 00:20:49,190
+upper respiratory tract
+has as I mentioned
+
+448
+00:20:49,190 --> 00:20:52,040
+a little bit earlier
+pseudo stratified
+
+449
+00:20:52,040 --> 00:20:55,590
+columnar epithelium with
+cilia I don't see any
+
+450
+00:20:55,590 --> 00:20:58,270
+cilia here and this does
+this looks stratified
+
+451
+00:20:58,270 --> 00:21:01,210
+but it's not columnar
+it's actually
+
+452
+00:21:01,210 --> 00:21:05,450
+squamous so this is a
+columnar epithelium having
+
+453
+00:21:05,450 --> 00:21:08,330
+gone to squamous why
+would it do this in
+
+454
+00:21:08,330 --> 00:21:11,230
+the trachea in the
+bronchus oh the upper
+
+455
+00:21:11,230 --> 00:21:14,490
+bronchi because if
+you're a ****** the smoke
+
+456
+00:21:14,490 --> 00:21:18,130
+is going to irritate the
+mucosa and it's going
+
+457
+00:21:18,130 --> 00:21:20,390
+to become metaplastic
+and the squamous in
+
+458
+00:21:20,390 --> 00:21:23,170
+this case is more
+protective okay this is
+
+459
+00:21:23,170 --> 00:21:26,790
+smoke that's an irritant
+not acid that that
+
+460
+00:21:26,790 --> 00:21:30,570
+needs to be neutralized
+this is another case
+
+461
+00:21:30,570 --> 00:21:33,140
+which is kind of
+interesting again I don't
+
+462
+00:21:33,140 --> 00:21:35,670
+I hope maybe you
+can see that this is
+
+463
+00:21:35,670 --> 00:21:38,010
+squamous epithelium and
+I do have the keratin
+
+464
+00:21:38,010 --> 00:21:40,370
+labeled but the point
+is this is a bladder
+
+465
+00:21:40,370 --> 00:21:44,630
+and if you remember bladder
+should be transitional
+
+466
+00:21:44,630 --> 00:21:46,710
+epithelium
+transitional epithelium
+
+467
+00:21:46,710 --> 00:21:48,950
+you can go back and stop
+the tape and go back
+
+468
+00:21:48,950 --> 00:21:50,990
+to what it's supposed
+to look like it it's
+
+469
+00:21:50,990 --> 00:21:53,490
+it's transitions it
+changes because the
+
+470
+00:21:53,490 --> 00:21:56,250
+bladder has to go is
+distended or it shrinks
+
+471
+00:21:56,250 --> 00:21:58,560
+depending on how much
+urine you have in it so
+
+472
+00:21:59,010 --> 00:22:03,650
+this case the transitional
+epithelium has
+
+473
+00:22:04,270 --> 00:22:06,710
+has become metaplastic
+to squamous
+
+474
+00:22:06,710 --> 00:22:10,890
+why would that happen
+there's two main
+
+475
+00:22:10,890 --> 00:22:12,370
+reasons but there
+could be a lot of
+
+476
+00:22:12,370 --> 00:22:14,730
+other reasons but
+one is bladder stones
+
+477
+00:22:14,730 --> 00:22:16,770
+if you have stones
+in your bladder
+
+478
+00:22:17,250 --> 00:22:19,030
+and they're not
+coming out and they're
+
+479
+00:22:19,030 --> 00:22:22,210
+irritating the transitional
+mucosa again it will
+
+480
+00:22:22,210 --> 00:22:24,870
+become squamous with
+keratin because it needs
+
+481
+00:22:24,870 --> 00:22:28,630
+to protect that mucosa
+another thing is
+
+482
+00:22:28,630 --> 00:22:31,270
+certain infections with
+schistosoma in certain
+
+483
+00:22:31,270 --> 00:22:33,310
+parts of the world
+can lead to this as
+
+484
+00:22:33,310 --> 00:22:38,010
+well again the metaplasia
+is adaptive this is
+
+485
+00:22:38,010 --> 00:22:42,150
+uh the endocervical and
+the ectocervical area
+
+486
+00:22:42,150 --> 00:22:43,910
+and this is important
+there's a transformation
+
+487
+00:22:43,910 --> 00:22:46,250
+zone where it's
+supposed to go from
+
+488
+00:22:46,250 --> 00:22:49,530
+columnar on the left to
+squamous on the right
+
+489
+00:22:50,970 --> 00:22:53,490
+but in the transformation
+zone that's where
+
+490
+00:22:53,490 --> 00:22:55,630
+you go to get in the
+pap smears they try
+
+491
+00:22:55,630 --> 00:22:57,290
+to get cells from there
+that's where cancer
+
+492
+00:22:57,290 --> 00:22:59,250
+can start and that
+can cancer can start
+
+493
+00:22:59,250 --> 00:23:01,950
+there because metaprasia
+starts there okay
+
+494
+00:23:01,950 --> 00:23:06,430
+so in this case the
+squamous metaprasia um
+
+495
+00:23:06,430 --> 00:23:08,890
+where the blue arrows
+are and that is
+
+496
+00:23:08,890 --> 00:23:13,590
+protective uh among other
+things as a woman uh
+
+497
+00:23:14,130 --> 00:23:17,070
+ages there's ph
+changes there might be
+
+498
+00:23:17,070 --> 00:23:19,110
+infections they have
+babies things like that
+
+499
+00:23:19,110 --> 00:23:22,810
+so as time goes on
+uh this might happen
+
+500
+00:23:22,810 --> 00:23:25,470
+squamous metaplasia is
+kind of normal here but
+
+501
+00:23:25,470 --> 00:23:28,110
+you want to make sure
+that's why women get
+
+502
+00:23:28,110 --> 00:23:30,090
+pap smears every
+year that it does not
+
+503
+00:23:30,090 --> 00:23:36,630
+become dysplasia or
+become cancer so this is
+
+504
+00:23:36,630 --> 00:23:39,110
+a picture of metaplasia
+of columnar to
+
+505
+00:23:39,110 --> 00:23:41,670
+squamous epithelium i'm
+repeating myself i do
+
+506
+00:23:41,670 --> 00:23:45,010
+that a lot just to
+make it stick and so
+
+507
+00:23:45,010 --> 00:23:47,390
+you see on the top the
+cartoon and you see
+
+508
+00:23:47,390 --> 00:23:49,720
+on the bottom what it
+really looks like from
+
+509
+00:23:49,720 --> 00:23:52,070
+columnar to squamous.
+I'm not really sure
+
+510
+00:23:52,070 --> 00:23:55,430
+where this is. It's
+probably long, I'm not
+
+511
+00:23:55,430 --> 00:23:57,450
+sure, but that's not
+the point. The point
+
+512
+00:23:57,450 --> 00:23:59,630
+is you've got two types
+of epithelium, and
+
+513
+00:23:59,630 --> 00:24:02,430
+it's changing because
+it needs to adapt.
+
+514
+00:24:02,610 --> 00:24:05,470
+This is a nice table
+to keep in mind,
+
+515
+00:24:05,490 --> 00:24:07,790
+and we went through
+all these already.
+
+516
+00:24:07,790 --> 00:24:10,050
+Cigarette smoke can
+cause menoplasia
+
+517
+00:24:10,050 --> 00:24:11,650
+in the upper
+respiratory tract, to
+
+518
+00:24:11,650 --> 00:24:14,250
+squamous epithelium,
+the bladder stone,
+
+519
+00:24:14,250 --> 00:24:16,010
+the Barrett's
+esophagus, and the
+
+520
+00:24:16,010 --> 00:24:17,670
+******. So keep
+this table in mind.
+
+521
+00:24:17,670 --> 00:24:18,750
+I think it's
+important, and it
+
+522
+00:24:18,750 --> 00:24:20,510
+can happen in
+other tissue types.
+
+523
+00:24:20,690 --> 00:24:25,610
+So to review
+the adaptations
+
+524
+00:24:28,530 --> 00:24:31,310
+they have
+normal, atrophy,
+
+525
+00:24:31,310 --> 00:24:33,070
+hypertrophy,
+and hyperplasia.
+
+526
+00:24:33,330 --> 00:24:35,290
+And there's a
+cartoon here
+
+527
+00:24:35,570 --> 00:24:37,410
+and metaplasia
+on the bottom.
+
+528
+00:24:39,490 --> 00:24:42,390
+Okay now let's go to
+cell injury and there
+
+529
+00:24:42,390 --> 00:24:45,090
+are many ways cells
+can be injured this is
+
+530
+00:24:45,090 --> 00:24:49,390
+just a few hypoxia
+means decrease oxygen
+
+531
+00:24:49,540 --> 00:24:52,590
+usually via decreased
+blood flow or anemia
+
+532
+00:24:52,590 --> 00:24:55,910
+physical things like trauma
+radiation electricity
+
+533
+00:24:55,910 --> 00:24:59,190
+chemicals infections
+with microbes like
+
+534
+00:24:59,190 --> 00:25:03,510
+bacteria fungi viruses
+immunological reactions
+
+535
+00:25:03,510 --> 00:25:06,990
+all of this can cause
+injury to cells to
+
+536
+00:25:06,990 --> 00:25:11,450
+tissue etc now this
+slide i want you guys to
+
+537
+00:25:11,450 --> 00:25:13,750
+just look at and keep
+going because this
+
+538
+00:25:13,750 --> 00:25:15,710
+is, I'm not going to
+test you on this slide,
+
+539
+00:25:15,910 --> 00:25:17,250
+this is something
+they put in the
+
+540
+00:25:17,250 --> 00:25:19,470
+book about what
+happens to cells or
+
+541
+00:25:19,470 --> 00:25:21,610
+what happens in
+response to injury.
+
+542
+00:25:21,830 --> 00:25:24,770
+Well there's, they
+figured out between the
+
+543
+00:25:24,770 --> 00:25:27,950
+two editions, the one
+five years ago now,
+
+544
+00:25:27,950 --> 00:25:29,650
+that there's three
+different types of kind
+
+545
+00:25:29,650 --> 00:25:32,070
+of responses or
+pathways, the integrated
+
+546
+00:25:32,070 --> 00:25:34,630
+stress response, the
+unfolded protein response,
+
+547
+00:25:34,630 --> 00:25:36,410
+and autofagy. The
+only one I really want
+
+548
+00:25:36,410 --> 00:25:39,280
+to talk about here
+is autofagy because
+
+549
+00:25:39,280 --> 00:25:41,990
+that's, I mentioned
+earlier is when the cell
+
+550
+00:25:41,990 --> 00:25:44,230
+eats its own contents
+because its response
+
+551
+00:25:44,230 --> 00:25:46,010
+it could be response
+to stress in a
+
+552
+00:25:46,010 --> 00:25:50,110
+physiological state like
+aging or in pathology
+
+553
+00:25:50,110 --> 00:25:54,550
+like in hypoxia etc
+and the whole thing is
+
+554
+00:25:54,550 --> 00:25:58,990
+the formation of this
+autophagosome that's
+
+555
+00:25:58,990 --> 00:26:01,610
+a vesicle from the
+isolation membrane which
+
+556
+00:26:01,610 --> 00:26:03,710
+is known as a phagophore
+and that's where
+
+557
+00:26:03,710 --> 00:26:06,510
+all this organelles
+and structures are
+
+558
+00:26:06,510 --> 00:26:10,230
+sequestered and And as
+it matures, it's fused
+
+559
+00:26:10,230 --> 00:26:13,990
+with lysosomes, and
+there's digestive enzymes
+
+560
+00:26:13,990 --> 00:26:15,750
+in there, and they
+degrade it. So they
+
+561
+00:26:15,750 --> 00:26:18,490
+kill this out, and
+that can be protective.
+
+562
+00:26:19,750 --> 00:26:21,830
+Okay, so let's talk about
+
+563
+00:26:21,830 --> 00:26:23,610
+cellular injury a
+little bit more,
+
+564
+00:26:23,770 --> 00:26:27,270
+and reversible and
+irreversible. This is
+
+565
+00:26:27,270 --> 00:26:29,330
+a 58-year-old man
+who has a history of
+
+566
+00:26:29,330 --> 00:26:31,670
+unstable angina, who
+presents shortness
+
+567
+00:26:31,670 --> 00:26:33,710
+of breath and chest
+pain and sweating.
+
+568
+00:26:33,870 --> 00:26:36,810
+um the question is
+that within 30 minutes
+
+569
+00:26:36,810 --> 00:26:39,750
+it could be 20 minutes
+too uh what reversible
+
+570
+00:26:39,750 --> 00:26:42,150
+changes may take place
+in the myocardial
+
+571
+00:26:42,150 --> 00:26:44,610
+area that's supplied
+by the coronary artery
+
+572
+00:26:44,610 --> 00:26:46,570
+which is being occluded
+by a thrombus so
+
+573
+00:26:46,570 --> 00:26:48,150
+it's telling you what's
+happening here that
+
+574
+00:26:48,150 --> 00:26:51,240
+there's hypoxia because
+the artery that's
+
+575
+00:26:51,240 --> 00:26:54,240
+supplying that area
+is being blocked it
+
+576
+00:26:54,890 --> 00:26:57,650
+doesn't die right away
+there's first there's
+
+577
+00:26:57,650 --> 00:26:59,770
+reversible change now
+which one of these five
+
+578
+00:26:59,770 --> 00:27:03,450
+is reversible now of
+course this is way I
+
+579
+00:27:03,450 --> 00:27:05,470
+introduce the subject
+so unless you write
+
+580
+00:27:05,470 --> 00:27:07,080
+ahead you're not going
+to know the answer.
+
+581
+00:27:07,080 --> 00:27:09,210
+The answer to this
+is going to be
+
+582
+00:27:09,210 --> 00:27:12,410
+C as in Charlie
+cellular swelling.
+
+583
+00:27:12,530 --> 00:27:15,350
+The others are not
+reversible and we'll
+
+584
+00:27:15,350 --> 00:27:16,830
+talk about the
+others especially the
+
+585
+00:27:16,830 --> 00:27:19,230
+first two in this
+lecture and the last two
+
+586
+00:27:19,430 --> 00:27:21,770
+in the healing lecture.
+
+587
+00:27:22,530 --> 00:27:25,230
+So this is a picture
+of kidney tubules.
+
+588
+00:27:25,610 --> 00:27:27,810
+Cellular swelling and
+I want to make this
+
+589
+00:27:27,810 --> 00:27:30,710
+clear cellular swelling
+is usually the earliest
+
+590
+00:27:30,710 --> 00:27:34,010
+manifestation of
+cell injury at least
+
+591
+00:27:34,010 --> 00:27:37,290
+microscopically and you
+can see vacuoles in the
+
+592
+00:27:37,290 --> 00:27:40,110
+cytoplasm and it's
+also known as hydropic
+
+593
+00:27:40,110 --> 00:27:43,770
+change or vascular
+degeneration also you'll
+
+594
+00:27:43,770 --> 00:27:46,710
+notice that it's a little
+pinker theosinophilia
+
+595
+00:27:46,770 --> 00:27:50,570
+because this one in
+this case is progressing
+
+596
+00:27:50,570 --> 00:27:53,010
+to acute tubular
+necrosis of the kidney
+
+597
+00:27:53,170 --> 00:27:56,330
+but the swelling is
+acute and reversible
+
+598
+00:27:56,330 --> 00:27:59,510
+to approximately 30
+minutes now i mean it's
+
+599
+00:27:59,510 --> 00:28:01,590
+not exact it could
+be 20 minutes 35
+
+600
+00:28:01,590 --> 00:28:03,850
+minutes the point is
+it's a short period of
+
+601
+00:28:03,850 --> 00:28:05,650
+time which is why you
+brush people to the
+
+602
+00:28:05,650 --> 00:28:07,670
+hospital they're having
+a heart attack so
+
+603
+00:28:07,950 --> 00:28:10,690
+what's going on here
+well in this case
+
+604
+00:28:10,690 --> 00:28:13,770
+ischemia there's a low
+blood supply to the
+
+605
+00:28:13,770 --> 00:28:17,230
+kidney in this case
+uh it causes with any
+
+606
+00:28:17,230 --> 00:28:19,290
+ischemia to any organ
+causes decreased
+
+607
+00:28:19,290 --> 00:28:22,210
+oxidative phosphorylation
+and therefore decreased
+
+608
+00:28:22,210 --> 00:28:25,270
+ATP so what's going
+to happen well
+
+609
+00:28:25,270 --> 00:28:27,710
+you don't have energy
+now ATP and that's
+
+610
+00:28:27,710 --> 00:28:29,900
+going to decrease the
+function of the sodium
+
+611
+00:28:29,900 --> 00:28:32,510
+potassium pump so
+what's going to happen
+
+612
+00:28:32,510 --> 00:28:34,690
+is you're going to
+have influx of sodium
+
+613
+00:28:34,810 --> 00:28:37,910
+and water is going to
+fall which means they're
+
+614
+00:28:37,910 --> 00:28:39,490
+going to have swelling
+or edema now it
+
+615
+00:28:39,490 --> 00:28:42,450
+says influx of calcium
+that comes later that
+
+616
+00:28:42,450 --> 00:28:44,570
+that's still that
+would not be reversible
+
+617
+00:28:44,570 --> 00:28:46,170
+so i shouldn't really
+put calcium in there
+
+618
+00:28:46,170 --> 00:28:48,230
+but the sodium and the
+water are important.
+
+619
+00:28:49,350 --> 00:28:52,010
+So let's continue this
+patient goes to the
+
+620
+00:28:52,010 --> 00:28:54,690
+hospital one hour after
+he has the symptoms.
+
+621
+00:28:54,950 --> 00:28:58,450
+EKG shows that he's
+having an MI and they
+
+622
+00:28:58,450 --> 00:29:00,770
+have myocardial enzymes
+that you'll learn about
+
+623
+00:29:00,770 --> 00:29:03,850
+that are consistent
+from the diagnosis and
+
+624
+00:29:03,850 --> 00:29:06,490
+this is what you can see
+under that microscope
+
+625
+00:29:06,490 --> 00:29:08,790
+and I hope this
+looks like a mess to
+
+626
+00:29:08,790 --> 00:29:10,850
+you because it looks
+like a mess to me. It's
+
+627
+00:29:10,850 --> 00:29:13,070
+very disorganized and
+the only thing really
+
+628
+00:29:13,070 --> 00:29:16,130
+you can see is these
+dark cells and those are
+
+629
+00:29:16,130 --> 00:29:21,590
+basically dying nuclei
+okay so the nuclei
+
+630
+00:29:21,590 --> 00:29:24,670
+become shrunken they're
+dark that's pycnosis
+
+631
+00:29:24,960 --> 00:29:28,930
+there's also carrier
+axis that's fragmentation
+
+632
+00:29:28,930 --> 00:29:31,150
+of the nucleus and
+carrier lysis or
+
+633
+00:29:31,150 --> 00:29:34,750
+dissolution and those
+are all greek terms and
+
+634
+00:29:34,750 --> 00:29:37,750
+within time you know
+the nucleus is going to
+
+635
+00:29:37,750 --> 00:29:40,530
+be gone but it'll be
+the tissue will be dead
+
+636
+00:29:40,530 --> 00:29:43,990
+before that okay but
+the nucleus will then
+
+637
+00:29:43,990 --> 00:29:45,270
+should be gone and
+we'll talk a little bit
+
+638
+00:29:45,270 --> 00:29:48,280
+more about that in
+a bit so this is not
+
+639
+00:29:48,280 --> 00:29:51,430
+necessarily a this is
+all what's going on okay
+
+640
+00:29:51,430 --> 00:29:55,970
+from from the the first
+two okay the first
+
+641
+00:29:55,970 --> 00:29:58,250
+two bullet points are
+going to be reversible
+
+642
+00:29:58,250 --> 00:30:02,590
+basically um you can have
+oxypedic phosphorylation
+
+643
+00:30:02,590 --> 00:30:05,090
+decrease or damage
+and decrease ATP
+
+644
+00:30:05,090 --> 00:30:08,170
+at first, which what
+it will happen is, as I
+
+645
+00:30:08,170 --> 00:30:09,750
+mentioned, to reduce
+the sodium potassium
+
+646
+00:30:09,750 --> 00:30:12,630
+bump, and you're going
+to get cell swelling.
+
+647
+00:30:12,790 --> 00:30:14,190
+That's reversible.
+
+648
+00:30:14,310 --> 00:30:15,970
+But after some time, like
+
+649
+00:30:15,970 --> 00:30:17,310
+30 minutes, for example,
+
+650
+00:30:17,490 --> 00:30:19,750
+you'll get an
+increase in anaerobic
+
+651
+00:30:20,050 --> 00:30:21,310
+glycolysis. And we'll
+talk a little bit
+
+652
+00:30:21,310 --> 00:30:23,770
+more in detail about
+this, which decreases
+
+653
+00:30:23,770 --> 00:30:26,150
+glycogen, and that
+increases lactic
+
+654
+00:30:26,150 --> 00:30:28,690
+acid, and you get
+decreased pH, and that
+
+655
+00:30:28,690 --> 00:30:30,890
+causes chromatin
+in the DNA decline.
+
+656
+00:30:31,170 --> 00:30:33,550
+Protein synthesis is
+going to be decreased.
+
+657
+00:30:33,550 --> 00:30:36,110
+The cell is dying and
+the calcium pump is
+
+658
+00:30:36,110 --> 00:30:39,290
+important here because
+calcium then enters the
+
+659
+00:30:39,290 --> 00:30:41,830
+cell and I have pictures
+of this so don't
+
+660
+00:30:41,830 --> 00:30:45,930
+worry and causes activation
+of a lot of different
+
+661
+00:30:45,930 --> 00:30:48,910
+enzymes listed here
+and all those enzymes
+
+662
+00:30:48,910 --> 00:30:51,510
+do they break things
+up and that's going
+
+663
+00:30:51,510 --> 00:30:54,550
+to cause membrane damage
+and DNA damage etc.
+
+664
+00:30:55,250 --> 00:30:59,590
+And then finally as
+everything gets destroyed
+
+665
+00:30:59,590 --> 00:31:03,150
+and there's digestion
+of the cell uh the
+
+666
+00:31:03,150 --> 00:31:05,670
+contents will leak out
+and elicit inflammation
+
+667
+00:31:05,670 --> 00:31:07,830
+which is the topic
+of the next lecture
+
+668
+00:31:07,830 --> 00:31:10,590
+now this is not autophagy
+because autophagy
+
+669
+00:31:10,590 --> 00:31:12,770
+is when the cell does
+it to itself this is
+
+670
+00:31:12,770 --> 00:31:15,250
+because there's been
+hypoxia or some kind
+
+671
+00:31:15,250 --> 00:31:18,510
+of injury so let's
+talk a little bit more
+
+672
+00:31:18,510 --> 00:31:20,950
+in details about these
+mechanisms of cell
+
+673
+00:31:20,950 --> 00:31:24,330
+death slash injury and
+like it's a spectrum
+
+674
+00:31:24,330 --> 00:31:26,710
+you know i mean reversible
+and irreversible
+
+675
+00:31:27,010 --> 00:31:30,910
+there's not one time
+you know one minute
+
+676
+00:31:30,910 --> 00:31:35,970
+but it is notably around
+30 minutes could be
+
+677
+00:31:35,970 --> 00:31:39,870
+less or more but
+notably so we already
+
+678
+00:31:39,870 --> 00:31:42,750
+mentioned atp depletion
+and what happens is
+
+679
+00:31:42,750 --> 00:31:45,150
+that the mitochondrial
+membrane when the
+
+680
+00:31:45,150 --> 00:31:47,630
+atp gets depleted
+forms a mitochondrial
+
+681
+00:31:47,630 --> 00:31:50,990
+permeability transition
+pore when that pore
+
+682
+00:31:50,990 --> 00:31:55,850
+opens the there's a loss
+of membrane potential
+
+683
+00:31:55,850 --> 00:31:58,530
+mitochondria and you
+get the failure more
+
+684
+00:31:58,530 --> 00:32:00,890
+failure of oxidation
+phosphorylation more
+
+685
+00:32:00,890 --> 00:32:02,930
+ATP depletion and
+we've already talked
+
+686
+00:32:02,930 --> 00:32:05,710
+about the plasma
+membrane energy dependent
+
+687
+00:32:05,710 --> 00:32:09,890
+sodium pump at the
+sodium potassium pump and
+
+688
+00:32:09,890 --> 00:32:13,080
+that will cause reduced
+so I mean reduces
+
+689
+00:32:13,080 --> 00:32:16,310
+the the action of that
+pump and it causes
+
+690
+00:32:16,310 --> 00:32:19,150
+sodium to enter inside
+the cell it shouldn't
+
+691
+00:32:19,150 --> 00:32:21,110
+be inside the cell
+remember sodium is
+
+692
+00:32:21,110 --> 00:32:25,130
+usually out potassium
+in and um accumulation
+
+693
+00:32:25,130 --> 00:32:30,210
+um of water by osmotic
+drive okay because
+
+694
+00:32:30,210 --> 00:32:33,430
+water follows sodium
+that's a big thing so
+
+695
+00:32:33,430 --> 00:32:36,450
+you get cell swelling
+okay now i talked
+
+696
+00:32:36,450 --> 00:32:38,110
+to you know again you
+don't have to read this
+
+697
+00:32:38,110 --> 00:32:40,210
+in detail the point
+is that i mentioned
+
+698
+00:32:40,750 --> 00:32:43,750
+glycolysis um you know
+because there's no
+
+699
+00:32:43,750 --> 00:32:46,130
+atp there's no energy
+the body's going to want
+
+700
+00:32:46,130 --> 00:32:48,030
+to use like or the
+cells are going to want
+
+701
+00:32:48,030 --> 00:32:50,710
+to use their glycogen
+stores they're depleted
+
+702
+00:32:50,710 --> 00:32:53,550
+and when glycolysis
+happens under anaerobic
+
+703
+00:32:53,550 --> 00:32:56,070
+conditions you get
+lactic acid so that
+
+704
+00:32:56,070 --> 00:32:58,170
+will decrease the
+intercellular ph which will
+
+705
+00:32:58,170 --> 00:33:02,430
+cause uh dna problems
+um decrease activity
+
+706
+00:33:02,430 --> 00:33:06,050
+of the enzymes in the
+cystus in the cell
+
+707
+00:33:06,160 --> 00:33:09,810
+itself but at this is
+the point where things
+
+708
+00:33:09,810 --> 00:33:13,030
+become dangerously bad
+and you're irreversible
+
+709
+00:33:13,030 --> 00:33:16,510
+damage and the
+mitochondria the membranes
+
+710
+00:33:16,510 --> 00:33:19,550
+they're all dead and
+that's necrosis we're
+
+711
+00:33:19,550 --> 00:33:21,070
+going to talk about
+the calcium pump what
+
+712
+00:33:21,070 --> 00:33:24,350
+i did mention and that
+contributes to necrosis
+
+713
+00:33:24,350 --> 00:33:26,150
+because it breaks
+down a lot of things
+
+714
+00:33:26,150 --> 00:33:29,510
+the calcium is a secondary
+messenger and also
+
+715
+00:33:29,510 --> 00:33:31,770
+we'll talk about the
+last point which is
+
+716
+00:33:31,770 --> 00:33:35,890
+formation of a reaction
+oxygen species which
+
+717
+00:33:35,890 --> 00:33:39,670
+can happen when you have
+incomplete oxidative
+
+718
+00:33:39,670 --> 00:33:43,270
+phosphorylation so
+that was mitochondrial
+
+719
+00:33:43,270 --> 00:33:45,430
+damage what about the
+membrane of the cell
+
+720
+00:33:45,860 --> 00:33:48,090
+well if you're going
+to lose the membrane
+
+721
+00:33:48,090 --> 00:33:50,770
+you have damage that's
+going to affect a lot
+
+722
+00:33:50,770 --> 00:33:52,390
+of things the integrity
+and the function
+
+723
+00:33:52,390 --> 00:33:57,430
+of the cell and again
+it can be the result
+
+724
+00:33:57,430 --> 00:34:00,730
+and it usually is of
+ATP depletion and the
+
+725
+00:34:00,730 --> 00:34:04,330
+calcium mediated activation
+of phospholipases.
+
+726
+00:34:04,330 --> 00:34:06,430
+Remember what cell
+membranes are made of.
+
+727
+00:34:06,930 --> 00:34:09,150
+Also, plasma membranes
+can be damaged
+
+728
+00:34:09,150 --> 00:34:11,890
+directly from toxins
+from bacteria or
+
+729
+00:34:11,890 --> 00:34:14,330
+viral proteins, etc,
+etc. So it doesn't
+
+730
+00:34:14,330 --> 00:34:16,150
+always have to be
+as a result of ATP
+
+731
+00:34:16,150 --> 00:34:18,150
+depletion, they could
+be damaged directly
+
+732
+00:34:18,150 --> 00:34:19,850
+by things like
+chemical, physical,
+
+733
+00:34:20,090 --> 00:34:20,930
+bacterial.
+
+734
+00:34:21,350 --> 00:34:23,670
+Reaction oxygen
+species are oxygen free
+
+735
+00:34:23,670 --> 00:34:27,170
+radicals that cause injury
+to cell membranes by
+
+736
+00:34:27,170 --> 00:34:31,230
+lipid peroxidation.
+And when that happens
+
+737
+00:34:31,230 --> 00:34:33,510
+when there's membrane
+of mitochondrial damage
+
+738
+00:34:33,510 --> 00:34:36,090
+we're going to have a
+decrease in phospholipid
+
+739
+00:34:36,090 --> 00:34:37,870
+synthesis and
+membrane damage and
+
+740
+00:34:37,870 --> 00:34:42,130
+increase in phospholipid
+breakdown and basically
+
+741
+00:34:42,130 --> 00:34:45,330
+what's happening is
+the calcium severe cell
+
+742
+00:34:45,330 --> 00:34:48,130
+injury is associated
+with these degradation
+
+743
+00:34:48,130 --> 00:34:50,870
+because there's
+activation of the calcium
+
+744
+00:34:50,870 --> 00:34:54,030
+dependent phospholite
+bases because the
+
+745
+00:34:54,030 --> 00:34:56,810
+calcium has increased
+and it's going to be a
+
+746
+00:34:56,810 --> 00:35:00,450
+secondary messenger
+that does a lot of the
+
+747
+00:35:00,450 --> 00:35:03,530
+enzyme reactions we'll
+talk about in a second
+
+748
+00:35:03,810 --> 00:35:06,950
+cytoskeletal filaments
+kind of anchor
+
+749
+00:35:06,950 --> 00:35:09,170
+connect the plasma
+membrane to the interior
+
+750
+00:35:09,170 --> 00:35:11,890
+so if they become
+abnormal you're going
+
+751
+00:35:11,890 --> 00:35:15,210
+to get stretching and
+and rupture and the
+
+752
+00:35:15,210 --> 00:35:18,950
+cell is dead again
+this is a pictorial
+
+753
+00:35:18,950 --> 00:35:21,910
+image of what i just
+said so if you prefer
+
+754
+00:35:21,910 --> 00:35:23,830
+the image you can
+take a look at this
+
+755
+00:35:23,890 --> 00:35:25,690
+It basically said
+what I just said,
+
+756
+00:35:25,690 --> 00:35:27,490
+it may have a few
+extra things in it.
+
+757
+00:35:29,650 --> 00:35:31,970
+So just to mention,
+again, this is one
+
+758
+00:35:31,970 --> 00:35:33,830
+other slide, which I'm
+just giving you some
+
+759
+00:35:33,830 --> 00:35:35,630
+background information.
+I'm not going to
+
+760
+00:35:36,090 --> 00:35:37,810
+test you on this, I'm
+going to assume some
+
+761
+00:35:37,810 --> 00:35:40,070
+knowledge of it, but
+I'm not going to ask
+
+762
+00:35:40,070 --> 00:35:42,870
+you for formulas or
+anything like that.
+
+763
+00:35:43,010 --> 00:35:45,290
+Free radicals, as you
+know, are unstable,
+
+764
+00:35:45,290 --> 00:35:48,970
+they decay spontaneously,
+but normally cells
+
+765
+00:35:48,970 --> 00:35:52,170
+do have mechanisms
+both enzymatic and non
+
+766
+00:35:52,170 --> 00:35:56,130
+-enzymatic to remove
+the free radicals and a
+
+767
+00:35:56,130 --> 00:36:01,550
+couple of them include
+antioxidants in the
+
+768
+00:36:01,550 --> 00:36:05,550
+the binding of iron
+and copper to transport
+
+769
+00:36:05,550 --> 00:36:08,890
+proteins that's how
+it protects itself and
+
+770
+00:36:08,890 --> 00:36:12,130
+enzymes that act as
+radical scavenging systems
+
+771
+00:36:12,130 --> 00:36:15,030
+like the ones listed
+catalase etc again
+
+772
+00:36:15,030 --> 00:36:17,250
+i just want to bring
+that back into your
+
+773
+00:36:17,250 --> 00:36:20,690
+memory so this is a slide
+that you can you know
+
+774
+00:36:20,690 --> 00:36:22,910
+i'm not putting on
+any exam but somebody
+
+775
+00:36:22,910 --> 00:36:25,730
+else may you know and
+this is a picture of
+
+776
+00:36:25,730 --> 00:36:28,890
+what i just said okay
+so here's an image i
+
+777
+00:36:28,890 --> 00:36:31,030
+think it's helpful if
+you want to take a look
+
+778
+00:36:31,030 --> 00:36:34,330
+at that i want to
+bring back the calcium
+
+779
+00:36:34,330 --> 00:36:39,510
+problem because it's
+big um calcium ions as
+
+780
+00:36:39,510 --> 00:36:41,870
+i mentioned or alluded
+to act as secondary
+
+781
+00:36:41,870 --> 00:36:45,690
+messengers in many
+pathways but if they're
+
+782
+00:36:45,690 --> 00:36:48,330
+excessive in the cell
+they can cause injury
+
+783
+00:36:49,270 --> 00:36:52,190
+ischemia toxins can
+cause an excessive
+
+784
+00:36:52,190 --> 00:36:54,390
+increase in the
+calcium in the cell
+
+785
+00:36:54,390 --> 00:36:56,650
+because first
+there's release from
+
+786
+00:36:56,650 --> 00:37:00,050
+intercellular stores and
+later there's increased
+
+787
+00:37:00,050 --> 00:37:02,210
+influx across the
+plasma membrane
+
+788
+00:37:02,210 --> 00:37:05,990
+so the calcium pump
+fails this is not
+
+789
+00:37:05,990 --> 00:37:09,850
+good because you're
+going to basically
+
+790
+00:37:09,850 --> 00:37:12,970
+activate enzymes,
+and those enzymes are
+
+791
+00:37:12,970 --> 00:37:15,290
+going to damage
+things. So the enzymes
+
+792
+00:37:15,290 --> 00:37:17,550
+include the four
+listed here and others,
+
+793
+00:37:17,710 --> 00:37:20,210
+phospholipases,
+proteases, and these
+
+794
+00:37:20,210 --> 00:37:23,430
+all cause damage to
+the cell, which it
+
+795
+00:37:23,430 --> 00:37:25,510
+cannot survive,
+okay, especially
+
+796
+00:37:25,510 --> 00:37:28,090
+endonucleases, which
+will break down DNA.
+
+797
+00:37:28,210 --> 00:37:31,510
+This is necrosis
+happening.
+
+798
+00:37:32,090 --> 00:37:37,090
+So on the left here
+is a picture of what I
+
+799
+00:37:37,090 --> 00:37:38,930
+have been saying,
+that's ischemia, there's
+
+800
+00:37:38,930 --> 00:37:42,470
+a blockage and it's um
+oxidative phosphorylation
+
+801
+00:37:42,470 --> 00:37:44,350
+goes down and the
+mitochondria remember
+
+802
+00:37:44,350 --> 00:37:47,510
+that's the uh the
+workhouse uh atp goes
+
+803
+00:37:47,510 --> 00:37:50,450
+down and you have all
+these consequences okay
+
+804
+00:37:50,830 --> 00:37:55,010
+um the big one on the
+left is the reversible
+
+805
+00:37:55,010 --> 00:37:59,270
+one the sodium pump
+and um the efl the
+
+806
+00:37:59,270 --> 00:38:01,730
+sodium going down
+calcium will start
+
+807
+00:38:01,730 --> 00:38:04,810
+influxing but not till
+later do the enzymes
+
+808
+00:38:04,810 --> 00:38:08,390
+get um activated so
+then the anaerobic
+
+809
+00:38:08,390 --> 00:38:12,670
+glycolysis which decreases
+the ph etc on the
+
+810
+00:38:12,670 --> 00:38:14,970
+right is the illustration
+of the calcium
+
+811
+00:38:15,590 --> 00:38:17,730
+extracellular calcium
+going intracellularly
+
+812
+00:38:17,730 --> 00:38:19,150
+not a good thing
+because it activates
+
+813
+00:38:19,150 --> 00:38:22,110
+the enzymes and as
+you can see from
+
+814
+00:38:22,110 --> 00:38:25,830
+the picture their
+enzymes can when you
+
+815
+00:38:25,830 --> 00:38:27,330
+activate them they're
+going to eat up things
+
+816
+00:38:27,330 --> 00:38:29,150
+like the membrane
+and the nucleus and
+
+817
+00:38:29,150 --> 00:38:31,250
+that of course is
+not good for the cell
+
+818
+00:38:31,950 --> 00:38:34,150
+one thing that they've
+learned you know
+
+819
+00:38:34,150 --> 00:38:36,710
+again fine line
+between reversible and
+
+820
+00:38:36,710 --> 00:38:38,150
+irreversible but
+one thing that's
+
+821
+00:38:38,150 --> 00:38:41,570
+consistently found in
+irreversible damage
+
+822
+00:38:41,570 --> 00:38:44,650
+is the inability to
+reverse the mitochondrial
+
+823
+00:38:44,650 --> 00:38:46,890
+dysfunction you
+don't have oxidative
+
+824
+00:38:46,890 --> 00:38:49,370
+phosphorylation
+and atp generation
+
+825
+00:38:49,630 --> 00:38:52,990
+that and any
+profound problem or
+
+826
+00:38:52,990 --> 00:38:54,790
+disturbance in the
+membrane function
+
+827
+00:38:54,990 --> 00:38:59,410
+it these are
+characteristic of necrosis
+
+828
+00:38:59,600 --> 00:39:01,290
+and that's where
+we're going to
+
+829
+00:39:01,290 --> 00:39:03,070
+so cell injury now
+we're talking about
+
+830
+00:39:03,070 --> 00:39:05,550
+necrosis which is
+cell death this
+
+831
+00:39:05,550 --> 00:39:08,530
+is always a pathological
+process okay
+
+832
+00:39:08,790 --> 00:39:11,650
+um the main causes
+there are a lot of
+
+833
+00:39:11,650 --> 00:39:13,430
+causes but they're
+listed here as like
+
+834
+00:39:13,430 --> 00:39:16,950
+ischemia is a big one
+uh toxins burns etc
+
+835
+00:39:18,930 --> 00:39:21,610
+Necrosis is characterized
+microscopically
+
+836
+00:39:21,610 --> 00:39:23,850
+by denaturation
+of cellular
+
+837
+00:39:23,850 --> 00:39:26,270
+proteins which makes
+things look pinker.
+
+838
+00:39:26,730 --> 00:39:29,570
+Leakage of cell
+contents through
+
+839
+00:39:29,570 --> 00:39:31,310
+the membranes
+that are damaged
+
+840
+00:39:31,310 --> 00:39:33,450
+and that inflammation
+is elicited.
+
+841
+00:39:34,030 --> 00:39:37,430
+And of course
+enzymatic cell dies and
+
+842
+00:39:37,430 --> 00:39:39,530
+digest itself
+basically. Again that's
+
+843
+00:39:39,530 --> 00:39:41,650
+not autophagy. Autophagy
+is when it does
+
+844
+00:39:41,650 --> 00:39:43,890
+it on purpose. This
+is not on purpose.
+
+845
+00:39:45,690 --> 00:39:48,570
+when the cellular
+contents leak out they
+
+846
+00:39:48,570 --> 00:39:51,310
+do elicit an inflammatory
+response again
+
+847
+00:39:51,310 --> 00:39:53,690
+that will be the topic
+of the next lecture
+
+848
+00:39:53,690 --> 00:39:56,790
+okay so we have a
+picture here now we've
+
+849
+00:39:56,790 --> 00:39:59,230
+talked about what necrosis
+is we have a picture
+
+850
+00:39:59,230 --> 00:40:02,010
+here of necrosis
+okay but there's
+
+851
+00:40:02,010 --> 00:40:03,830
+different patterns
+in necrosis different
+
+852
+00:40:03,830 --> 00:40:07,170
+morphological patterns on
+the left here is normal
+
+853
+00:40:07,170 --> 00:40:09,070
+myocardium I don't
+expect you to necessarily
+
+854
+00:40:09,070 --> 00:40:10,510
+recognize it but
+But I hope you can
+
+855
+00:40:10,510 --> 00:40:13,010
+see left to right,
+they're very different.
+
+856
+00:40:13,010 --> 00:40:15,110
+Right is a lot different
+looking than the
+
+857
+00:40:15,110 --> 00:40:18,510
+left. And this is
+ischemia of myocardium.
+
+858
+00:40:18,970 --> 00:40:21,850
+Look how really
+bright pink-red the
+
+859
+00:40:21,850 --> 00:40:23,810
+cells are there on
+the bottom of the
+
+860
+00:40:23,810 --> 00:40:26,870
+right hand picture
+and the pycnosis
+
+861
+00:40:26,870 --> 00:40:29,210
+that's developing and
+all this other stuff
+
+862
+00:40:29,210 --> 00:40:31,110
+that's developing
+microscopically.
+
+863
+00:40:31,310 --> 00:40:33,870
+That is known as
+coagulative necrosis. That's
+
+864
+00:40:33,870 --> 00:40:35,990
+one of the main patterns
+of necrosis that
+
+865
+00:40:35,990 --> 00:40:38,190
+you should really
+know. and in coagulant
+
+866
+00:40:38,190 --> 00:40:40,690
+necrosis the cell outlines
+or the architecture
+
+867
+00:40:40,690 --> 00:40:44,450
+usually are preserved
+at least for a while
+
+868
+00:40:44,450 --> 00:40:47,610
+but the nucleus is
+gone it disappears.
+
+869
+00:40:47,610 --> 00:40:50,310
+There's also going to
+be initially some really
+
+870
+00:40:50,310 --> 00:40:53,370
+pink red looking
+cytoplasm because of the
+
+871
+00:40:53,370 --> 00:40:55,260
+denaturing of the
+protein so you get
+
+872
+00:40:55,260 --> 00:40:58,850
+eosinophilia and when we
+talk about a local area
+
+873
+00:40:58,850 --> 00:41:01,490
+of coagulant necrosis
+we call that an infarct
+
+874
+00:41:01,490 --> 00:41:04,390
+such as a myocardial
+effect this happens
+
+875
+00:41:04,390 --> 00:41:07,490
+in most organs that
+are solid by solid I
+
+876
+00:41:07,490 --> 00:41:09,770
+don't mean the organ
+has to be solid I mean
+
+877
+00:41:09,770 --> 00:41:12,830
+things like um you know
+the kidney the liver
+
+878
+00:41:12,830 --> 00:41:16,510
+even in in the bladder
+wall or you can have
+
+879
+00:41:16,510 --> 00:41:19,330
+ischemia in the intestines
+obviously they're
+
+880
+00:41:19,330 --> 00:41:23,090
+not solid but the
+the the wall is solid
+
+881
+00:41:23,570 --> 00:41:26,010
+so for the most part
+coagulant necrosis
+
+882
+00:41:26,010 --> 00:41:28,490
+happens the other pattern
+that can happen there's
+
+883
+00:41:28,490 --> 00:41:30,810
+four five patterns
+is this pattern and
+
+884
+00:41:30,810 --> 00:41:32,870
+hopefully you recognize
+in the top left this
+
+885
+00:41:32,870 --> 00:41:36,610
+is a what organ this is
+a brain and something's
+
+886
+00:41:36,610 --> 00:41:38,070
+a little bit weird
+with this brain
+
+887
+00:41:38,070 --> 00:41:40,690
+because it's got this
+cavity that looks like
+
+888
+00:41:40,690 --> 00:41:43,850
+there's liquid in it
+and it's all if you this
+
+889
+00:41:43,850 --> 00:41:45,650
+is mushy i know you
+can't tell that by the
+
+890
+00:41:45,650 --> 00:41:48,590
+picture normally you
+see what it looks like
+
+891
+00:41:48,590 --> 00:41:51,770
+on top those are you
+know neurons microglia
+
+892
+00:41:51,770 --> 00:41:55,110
+etc but microscopically
+what you're going
+
+893
+00:41:55,110 --> 00:41:58,790
+to see in the brain
+is this on the bottom
+
+894
+00:41:58,790 --> 00:42:01,250
+which is a lot of white
+space and a lot of
+
+895
+00:42:01,250 --> 00:42:04,930
+things eating up things
+and and again I don't
+
+896
+00:42:04,930 --> 00:42:06,710
+expect you to recognize
+but this is necrosis
+
+897
+00:42:06,710 --> 00:42:09,430
+this is not normal but
+it's not collagative
+
+898
+00:42:09,430 --> 00:42:11,770
+necrosis it's known
+as liquefactive
+
+899
+00:42:11,770 --> 00:42:14,890
+necrosis and really
+this only happens in the
+
+900
+00:42:14,890 --> 00:42:18,490
+brain sometimes pancreas
+in other places too
+
+901
+00:42:19,310 --> 00:42:21,650
+pancreas will talk
+about fat necrosis as
+
+902
+00:42:21,650 --> 00:42:24,990
+well abscesses are a big
+example of liquefactive
+
+903
+00:42:24,990 --> 00:42:27,260
+necrosis so you get
+dead cells that are
+
+904
+00:42:27,260 --> 00:42:29,430
+digested and it results
+in a very liquid
+
+905
+00:42:29,430 --> 00:42:34,070
+viscous mass neutrophils
+release lysosomal
+
+906
+00:42:34,070 --> 00:42:37,670
+enzyme and then they
+digest the tissue okay so
+
+907
+00:42:37,670 --> 00:42:39,630
+when you think of a
+brain when we talked
+
+908
+00:42:39,630 --> 00:42:44,000
+about ****** that's
+liquefactive necrosis this
+
+909
+00:42:44,000 --> 00:42:45,810
+is another type of
+necrosis that you should
+
+910
+00:42:45,810 --> 00:42:48,150
+keep in mind um on the
+bottom is the gross
+
+911
+00:42:48,150 --> 00:42:50,370
+picture on the top is
+microscopic and you
+
+912
+00:42:50,370 --> 00:42:53,730
+see a really bland
+pink middle area there
+
+913
+00:42:53,730 --> 00:42:55,590
+that doesn't look like
+much of anything and
+
+914
+00:42:55,590 --> 00:42:59,430
+some big round cells
+around it um and the
+
+915
+00:42:59,430 --> 00:43:02,190
+bottom i think i believe
+that's lung tissue
+
+916
+00:43:02,910 --> 00:43:05,510
+whatever tissue it is
+that big round nodule
+
+917
+00:43:05,510 --> 00:43:07,650
+is something known
+as it's a chronic
+
+918
+00:43:07,650 --> 00:43:10,170
+inflammatory thing
+known as a granuloma.
+
+919
+00:43:10,270 --> 00:43:13,010
+This is known as
+caceous necrosis. Not
+
+920
+00:43:13,010 --> 00:43:15,090
+all granulomas are
+caceous, but this
+
+921
+00:43:15,090 --> 00:43:18,350
+particular is caceous
+necrosis. Caceous comes
+
+922
+00:43:18,350 --> 00:43:20,230
+from the word cheese
+-like, because when
+
+923
+00:43:20,230 --> 00:43:22,050
+you looked at that
+module, it was kind
+
+924
+00:43:22,050 --> 00:43:24,690
+of white, friable,
+almost cheesy looking.
+
+925
+00:43:25,170 --> 00:43:27,150
+And when you see
+the area under the
+
+926
+00:43:27,150 --> 00:43:29,790
+microscope, the granuloma,
+you'll see basically
+
+927
+00:43:29,790 --> 00:43:32,870
+an amorphous area,
+structureless collection
+
+928
+00:43:33,150 --> 00:43:37,130
+and it's enclosed by
+a rim of macrophages
+
+929
+00:43:37,130 --> 00:43:38,950
+that are called
+epithelioid because
+
+930
+00:43:38,950 --> 00:43:41,390
+they look a little bit
+epithelial and a rim
+
+931
+00:43:41,390 --> 00:43:44,150
+of lymphocytes so it's
+a nodular collection
+
+932
+00:43:44,150 --> 00:43:46,650
+and you can see
+these as nodules when
+
+933
+00:43:46,670 --> 00:43:48,890
+they're big enough and
+usually with caixous
+
+934
+00:43:48,890 --> 00:43:51,530
+necrosis we talk
+about tuberculosis and
+
+935
+00:43:51,530 --> 00:43:53,590
+fungal infections
+those are the two big
+
+936
+00:43:53,590 --> 00:43:55,910
+things to remember
+about caixous necrosis
+
+937
+00:43:55,910 --> 00:43:57,950
+here's another picture
+of it with the labels
+
+938
+00:43:57,950 --> 00:44:01,530
+um the necrosis look
+you can't see anything
+
+939
+00:44:01,530 --> 00:44:03,910
+it's nothing it's
+just pink stuff uh
+
+940
+00:44:03,910 --> 00:44:06,490
+the giant cells around
+it and lymphocytes
+
+941
+00:44:08,590 --> 00:44:12,350
+okay another pattern 68
+year old male alcoholic
+
+942
+00:44:12,350 --> 00:44:14,390
+presents with mid
+-epigastric abdominal
+
+943
+00:44:14,390 --> 00:44:17,410
+pain and nausea he has
+elevated amylase and
+
+944
+00:44:17,410 --> 00:44:20,970
+lipase level this man
+is going through acute
+
+945
+00:44:20,970 --> 00:44:23,430
+pancreatitis and here
+we're going to talk
+
+946
+00:44:23,430 --> 00:44:27,070
+about fatty necrosis now
+in fatty necrosis you
+
+947
+00:44:27,070 --> 00:44:29,370
+have fat destruction
+so you have release
+
+948
+00:44:29,370 --> 00:44:32,390
+of lipase which is an
+enzyme that breaks down
+
+949
+00:44:32,390 --> 00:44:35,650
+fatty acids so the
+peripancreatic fat
+
+950
+00:44:35,650 --> 00:44:38,830
+especially is going to get
+dissolved basically and
+
+951
+00:44:38,830 --> 00:44:41,530
+that's fatty necrosis
+another way the fatty
+
+952
+00:44:41,530 --> 00:44:44,510
+necrosis can occur is
+trauma to the breast
+
+953
+00:44:44,510 --> 00:44:46,350
+for example trauma to
+anything where there's
+
+954
+00:44:46,350 --> 00:44:50,790
+adipose tissue okay
+um okay so the almost
+
+955
+00:44:50,790 --> 00:44:52,570
+the last type yeah
+this is the last type
+
+956
+00:44:52,570 --> 00:44:55,650
+fibrinoid necrosis is
+usually seen in vessel
+
+957
+00:44:55,650 --> 00:44:58,030
+damage that's caused by
+immune reaction so you
+
+958
+00:44:58,030 --> 00:45:00,750
+get antigen antibody
+deposits in the wall
+
+959
+00:45:00,750 --> 00:45:04,130
+as seen here and the
+immune complexes combine
+
+960
+00:45:04,130 --> 00:45:07,910
+with fibrin and you
+get this bright pink
+
+961
+00:45:07,910 --> 00:45:09,610
+uh you're going to notice
+a lot of things are
+
+962
+00:45:09,610 --> 00:45:12,070
+bright pink and amorphous
+looking and this
+
+963
+00:45:12,070 --> 00:45:13,970
+is usually a sign that
+there's been a vascular
+
+964
+00:45:13,970 --> 00:45:17,000
+damage vasculitis
+usually and we call this
+
+965
+00:45:17,000 --> 00:45:18,890
+fibrinoid necrosis
+because it looks like
+
+966
+00:45:18,890 --> 00:45:22,650
+fiber and the pink stuff
+i'm going to mention
+
+967
+00:45:22,650 --> 00:45:24,630
+gangrenous necrosis it's
+not really a specific
+
+968
+00:45:24,630 --> 00:45:26,530
+pattern but i think
+it should be mentioned
+
+969
+00:45:26,530 --> 00:45:28,590
+you guys have heard
+of gangrene you know
+
+970
+00:45:28,590 --> 00:45:31,430
+people who have a
+limb that's lost blood
+
+971
+00:45:31,430 --> 00:45:34,390
+supply and undergone
+necrosis the skin the
+
+972
+00:45:34,390 --> 00:45:38,450
+muscle whatever even
+the bone that's gangrene
+
+973
+00:45:38,450 --> 00:45:41,730
+but when you have bacterial
+infection superimposed
+
+974
+00:45:41,730 --> 00:45:43,300
+on gangrene you're
+going to get some
+
+975
+00:45:43,300 --> 00:45:45,110
+liquefactor necrosis
+and you can get what's
+
+976
+00:45:45,110 --> 00:45:47,250
+known as wet gangrene
+these are clinical terms
+
+977
+00:45:47,250 --> 00:45:51,670
+more rather than really
+pathological okay
+
+978
+00:45:51,670 --> 00:45:54,970
+I would like to turn
+to apoptosis which in
+
+979
+00:45:54,970 --> 00:45:57,150
+the past wasn't always
+given that much time
+
+980
+00:45:57,150 --> 00:45:59,270
+but it's important to
+know because apoptosis
+
+981
+00:45:59,270 --> 00:46:02,630
+is a different type of
+cell death this is a
+
+982
+00:46:02,630 --> 00:46:04,590
+program type of cell
+death it's tightly
+
+983
+00:46:04,590 --> 00:46:08,110
+regulated suicide program
+so that the cells that
+
+984
+00:46:08,110 --> 00:46:11,070
+are destined to die
+will activate intrinsic
+
+985
+00:46:11,070 --> 00:46:13,830
+enzymes known as
+caspases that's important
+
+986
+00:46:13,830 --> 00:46:17,290
+to remember that
+degrade cellular dna and
+
+987
+00:46:17,290 --> 00:46:22,030
+proteins so mechanism of
+death here is regulated
+
+988
+00:46:22,030 --> 00:46:27,110
+this is not autophagy
+because the cell
+
+989
+00:46:27,110 --> 00:46:31,510
+is destroying itself
+not to save necessarily
+
+990
+00:46:32,050 --> 00:46:35,910
+because it's starved
+okay this eliminates
+
+991
+00:46:35,910 --> 00:46:38,870
+cells that may be
+irreparably damaged
+
+992
+00:46:38,870 --> 00:46:42,070
+etc and the big thing
+are the caspases
+
+993
+00:46:42,070 --> 00:46:44,250
+the enzymes and you end
+up with these things
+
+994
+00:46:44,250 --> 00:46:47,130
+called apoptotic
+bodies that break up
+
+995
+00:46:47,130 --> 00:46:50,490
+into plasma membrane
+brown fragments and
+
+996
+00:46:50,490 --> 00:46:52,830
+those have parts of
+cytoplasma nucleus
+
+997
+00:46:52,830 --> 00:46:55,350
+in them. I want to
+make a point that
+
+998
+00:46:55,350 --> 00:46:59,010
+apoptosis can be normal
+or could be pathological
+
+999
+00:46:59,010 --> 00:47:02,150
+but necrosis is
+always pathologic.
+
+1000
+00:47:02,710 --> 00:47:06,490
+Let's talk about some
+examples of normal
+
+1001
+00:47:06,490 --> 00:47:09,230
+versus pathological
+apoptosis this is just a
+
+1002
+00:47:09,230 --> 00:47:13,050
+brief list here for
+example when the embryo
+
+1003
+00:47:13,050 --> 00:47:15,290
+is developing it has
+webbed fingers and
+
+1004
+00:47:15,290 --> 00:47:17,910
+webbed toes that area
+has to go away the
+
+1005
+00:47:17,910 --> 00:47:20,590
+webbed area so that's
+that's normal that's
+
+1006
+00:47:20,590 --> 00:47:23,230
+part of the normal uh
+function and apoptosis
+
+1007
+00:47:23,230 --> 00:47:26,310
+happens in the hormone
+withdrawal involution
+
+1008
+00:47:26,310 --> 00:47:28,890
+and menstruation and
+in a human inflammatory
+
+1009
+00:47:28,890 --> 00:47:32,210
+response pathological
+that's really
+
+1010
+00:47:32,210 --> 00:47:35,490
+important because when
+there's DNA damage
+
+1011
+00:47:35,490 --> 00:47:38,010
+you want to protect
+yourself because that DNA
+
+1012
+00:47:38,010 --> 00:47:41,970
+damage can lead to
+cancer so apoptosis
+
+1013
+00:47:41,970 --> 00:47:44,810
+occurs to get rid of
+those damaged cells and
+
+1014
+00:47:44,810 --> 00:47:47,550
+also in infections
+and misfolded proteins
+
+1015
+00:47:47,610 --> 00:47:50,450
+so this is just a little
+bit more and again
+
+1016
+00:47:50,450 --> 00:47:52,370
+it looks like a lot of
+words but this slide
+
+1017
+00:47:52,370 --> 00:47:53,990
+and the next this
+is on physiological
+
+1018
+00:47:54,170 --> 00:47:56,850
+apoptosis and the next
+one's on pathological
+
+1019
+00:47:57,440 --> 00:48:00,270
+I just want to emphasize
+that physiological
+
+1020
+00:48:00,270 --> 00:48:03,970
+apoptosis is normal
+to eliminate cells
+
+1021
+00:48:03,970 --> 00:48:07,490
+that aren't needed or
+to maintain a constant
+
+1022
+00:48:07,490 --> 00:48:09,550
+number of cells and
+tissues and there
+
+1023
+00:48:09,550 --> 00:48:11,130
+there are one two
+three four five six
+
+1024
+00:48:11,130 --> 00:48:14,410
+bullet points here
+of things that can be
+
+1025
+00:48:14,410 --> 00:48:17,050
+considered physiologic
+apoptosis I already
+
+1026
+00:48:17,050 --> 00:48:19,450
+talked about supernumerary
+cells too many
+
+1027
+00:48:19,450 --> 00:48:21,440
+that have to be removed
+during development
+
+1028
+00:48:21,710 --> 00:48:24,910
+the menstrual cycle,
+cell turnover,
+
+1029
+00:48:25,370 --> 00:48:27,690
+big things, elimination
+of lymphocytes
+
+1030
+00:48:27,690 --> 00:48:29,830
+that don't produce
+functional antigens.
+
+1031
+00:48:30,090 --> 00:48:31,950
+So for example,
+immature lymphocytes
+
+1032
+00:48:31,950 --> 00:48:33,470
+in the low marrow
+and pharma and
+
+1033
+00:48:33,470 --> 00:48:35,230
+general center B
+cells, they have to
+
+1034
+00:48:35,230 --> 00:48:38,550
+become apoptotic or
+things will go bad.
+
+1035
+00:48:38,970 --> 00:48:41,950
+And for elimination
+of harmful cell for
+
+1036
+00:48:41,950 --> 00:48:44,610
+reactive lymphocytes. So
+you know, autoimmunity,
+
+1037
+00:48:44,610 --> 00:48:47,090
+you don't want
+autoimmune diseases
+
+1038
+00:48:47,090 --> 00:48:49,780
+and that's why apoptosis
+can be important.
+
+1039
+00:48:50,530 --> 00:48:52,210
+it's also important
+for the death of
+
+1040
+00:48:52,210 --> 00:48:55,530
+host cells um that
+already did their job
+
+1041
+00:48:55,530 --> 00:48:57,380
+like neutrophils in
+the acute inflammatory
+
+1042
+00:48:57,380 --> 00:48:59,210
+response or
+lymphocytes in the
+
+1043
+00:48:59,210 --> 00:49:04,530
+immune response um
+the the thing with um
+
+1044
+00:49:05,010 --> 00:49:08,890
+the physiological
+apoptosis cancer and we'll
+
+1045
+00:49:08,890 --> 00:49:11,070
+learn about this in a
+couple more lectures
+
+1046
+00:49:11,070 --> 00:49:15,480
+it can happen when
+apoptosis is blocked
+
+1047
+00:49:15,480 --> 00:49:18,850
+because it cannot get
+rid of the damaged cell
+
+1048
+00:49:18,850 --> 00:49:20,750
+and so the damaged
+cell survives so that's
+
+1049
+00:49:20,750 --> 00:49:22,530
+something for the
+future to think about.
+
+1050
+00:49:22,990 --> 00:49:25,490
+Pathologically the
+apoptosis eliminates
+
+1051
+00:49:25,490 --> 00:49:27,570
+cells that are
+injured beyond repair
+
+1052
+00:49:27,570 --> 00:49:30,690
+again it's in a
+protective effect by
+
+1053
+00:49:30,690 --> 00:49:32,880
+preventing survival
+of cells with DNA
+
+1054
+00:49:32,880 --> 00:49:35,200
+mutations that can go
+on to be malignant.
+
+1055
+00:49:35,710 --> 00:49:38,430
+Other things like
+misfolded proteins
+
+1056
+00:49:38,430 --> 00:49:41,650
+certain infections
+um remember that
+
+1057
+00:49:41,650 --> 00:49:44,030
+immunologically
+speaking important host
+
+1058
+00:49:44,030 --> 00:49:46,030
+response to viruses
+are that the
+
+1059
+00:49:46,030 --> 00:49:49,250
+cytotactic key lymphocytes
+the ctls specific
+
+1060
+00:49:49,250 --> 00:49:52,170
+for viral proteins
+induce apoptosis
+
+1061
+00:49:52,230 --> 00:49:54,430
+of the infected
+cells because they
+
+1062
+00:49:54,430 --> 00:49:56,220
+want to get rid of
+the infection that
+
+1063
+00:49:56,220 --> 00:49:58,270
+happens also it
+is responsible for
+
+1064
+00:49:58,270 --> 00:50:01,670
+killing tumor so if
+you block apoptosis
+
+1065
+00:50:01,670 --> 00:50:03,190
+that's going to
+be a problem okay
+
+1066
+00:50:04,350 --> 00:50:07,010
+so what does it look
+like how is it different
+
+1067
+00:50:07,010 --> 00:50:09,550
+than necrosis well
+they both have pygnosis
+
+1068
+00:50:09,550 --> 00:50:13,510
+and cariexis but
+and and yes this the
+
+1069
+00:50:13,510 --> 00:50:16,190
+cytoplasm is pink but
+the cell it shrinks and
+
+1070
+00:50:16,190 --> 00:50:17,750
+there's membrane
+blubbing and I have a
+
+1071
+00:50:17,750 --> 00:50:22,310
+comparison picture coming
+up there is no elicited
+
+1072
+00:50:22,310 --> 00:50:24,270
+inflammation and
+that's very important
+
+1073
+00:50:24,270 --> 00:50:27,090
+because you want to
+limit damage in apoptosis
+
+1074
+00:50:27,090 --> 00:50:30,250
+so yes phagocytes
+come in and phagocytes
+
+1075
+00:50:30,250 --> 00:50:34,750
+the apoptotic bodies but
+there's no neutrophils
+
+1076
+00:50:34,750 --> 00:50:38,470
+this is an example
+of an apoptotic body
+
+1077
+00:50:38,470 --> 00:50:41,790
+it's very dark and
+dense and it could be
+
+1078
+00:50:41,790 --> 00:50:43,990
+in any place this
+happens to be in the skin
+
+1079
+00:50:44,970 --> 00:50:47,870
+and the mechanisms
+involved are very complex
+
+1080
+00:50:47,870 --> 00:50:49,750
+and I don't need you
+to know them in detail
+
+1081
+00:50:49,750 --> 00:50:52,310
+I do want you to
+remember that it's done
+
+1082
+00:50:52,310 --> 00:50:55,850
+by enzymes called
+caspases that initially
+
+1083
+00:50:56,000 --> 00:51:00,430
+caspases get activated
+and then cause a cascade
+
+1084
+00:51:00,430 --> 00:51:03,430
+of other caspases and
+then the execution
+
+1085
+00:51:03,430 --> 00:51:06,490
+phase is the terminal
+caspase the last one
+
+1086
+00:51:06,490 --> 00:51:09,650
+that will cause the
+cellular fragmentation.
+
+1087
+00:51:09,730 --> 00:51:13,270
+All of this is regulated
+by pro and anti
+
+1088
+00:51:13,270 --> 00:51:15,630
+-apoptotic proteins.
+There has to be a balance
+
+1089
+00:51:15,630 --> 00:51:18,090
+and we'll talk a little
+bit about that and
+
+1090
+00:51:18,090 --> 00:51:20,990
+there are two distinct
+pathways that converge
+
+1091
+00:51:20,990 --> 00:51:23,690
+on the caspase
+activation and I want to
+
+1092
+00:51:23,690 --> 00:51:25,810
+talk a little bit
+about those but again i
+
+1093
+00:51:25,810 --> 00:51:28,310
+don't need you to know
+them in exquisite detail
+
+1094
+00:51:28,310 --> 00:51:30,770
+although somebody else
+may the mitochondrial
+
+1095
+00:51:30,770 --> 00:51:32,510
+pathway and the death
+receptor pathway
+
+1096
+00:51:32,510 --> 00:51:35,610
+these pathways will
+intersect but generally
+
+1097
+00:51:36,110 --> 00:51:39,090
+they are induced by
+different conditions etc
+
+1098
+00:51:39,440 --> 00:51:42,590
+so in the intrinsic
+mitochondrial pathway
+
+1099
+00:51:42,590 --> 00:51:44,390
+here are a lot of words
+but what do i want
+
+1100
+00:51:44,390 --> 00:51:47,590
+you to know this
+results from increased
+
+1101
+00:51:47,590 --> 00:51:51,270
+permeability of the
+mitochondrial outer membrane
+
+1102
+00:51:51,270 --> 00:51:55,030
+and so what happens is
+pro-apoptotic molecules
+
+1103
+00:51:55,030 --> 00:51:58,010
+are released um one
+example they give
+
+1104
+00:51:58,010 --> 00:52:02,750
+is cytochrome c and so
+when apoptosis happens
+
+1105
+00:52:02,750 --> 00:52:04,990
+it leads to these pro
+-apoptotic proteins
+
+1106
+00:52:04,990 --> 00:52:09,670
+leaving um and caspase
+activation anti-apoptotic
+
+1107
+00:52:09,670 --> 00:52:12,290
+proteins include
+members of the bcl2
+
+1108
+00:52:12,290 --> 00:52:14,830
+family which we'll talk
+about at another time
+
+1109
+00:52:14,830 --> 00:52:18,170
+um and this change of
+proportion where you
+
+1110
+00:52:18,170 --> 00:52:21,610
+have more pro-apoptotic
+versus anti will lead
+
+1111
+00:52:21,610 --> 00:52:25,110
+to apoptosis again
+the important things
+
+1112
+00:52:25,110 --> 00:52:27,570
+here are mitochondrial
+permeability and cytochrome
+
+1113
+00:52:27,570 --> 00:52:30,450
+c release if you
+remember anything from
+
+1114
+00:52:30,450 --> 00:52:33,430
+the slide is that
+the um the intrinsic
+
+1115
+00:52:33,430 --> 00:52:36,610
+mitochondrial pathway
+is caspase 9 that's the
+
+1116
+00:52:36,610 --> 00:52:38,950
+enzyme it's the critical
+initiator you need
+
+1117
+00:52:38,950 --> 00:52:42,110
+that to be initiated
+it's initiated there's
+
+1118
+00:52:42,110 --> 00:52:46,470
+an apoptosome this
+form by interaction I
+
+1119
+00:52:46,470 --> 00:52:48,290
+mentioned cytochrome c
+and these other things
+
+1120
+00:52:48,290 --> 00:52:51,870
+that you do not need
+to memorize now the
+
+1121
+00:52:51,870 --> 00:52:54,250
+extrinsic or the death
+receptor which sounds
+
+1122
+00:52:54,250 --> 00:52:57,810
+like death star pathway
+is initiated by engaging
+
+1123
+00:52:57,810 --> 00:52:59,710
+the plasma membrane
+death receptors
+
+1124
+00:52:59,710 --> 00:53:04,490
+what's a death receptor
+they're members of the
+
+1125
+00:53:04,950 --> 00:53:09,070
+tumor necrosis factor
+receptor family they
+
+1126
+00:53:09,070 --> 00:53:12,170
+have a domain in the
+cytoplasm that involves
+
+1127
+00:53:12,170 --> 00:53:14,390
+protein protein
+interactions these are death
+
+1128
+00:53:14,390 --> 00:53:17,570
+domains that you need
+to deliver signals for
+
+1129
+00:53:17,570 --> 00:53:20,470
+apoptosis the best
+known one the best
+
+1130
+00:53:20,470 --> 00:53:26,910
+described is the FAS
+related protein FAS it's in
+
+1131
+00:53:26,910 --> 00:53:29,450
+the book in excruciating
+detail that I'm not
+
+1132
+00:53:29,450 --> 00:53:32,830
+going to go into the
+extrinsic apoptosis
+
+1133
+00:53:32,830 --> 00:53:35,890
+pathway can be inhibited
+as well by something
+
+1134
+00:53:35,890 --> 00:53:39,250
+called a flip protein
+the death receptor
+
+1135
+00:53:39,250 --> 00:53:42,210
+pathway really is
+is important because
+it eliminates
+
+1136
+00:53:42,210 --> 00:53:45,050
+self-reactive
+lymphocytes and is a
+
+1137
+00:53:45,050 --> 00:53:48,890
+mechanism for cell
+killing by cytotoxic
+t lymphocytes
+
+1138
+00:53:49,100 --> 00:53:51,570
+so now the intrinsic
+and the extrinsic
+
+1139
+00:53:51,570 --> 00:53:55,190
+pathways converge and
+you get activation of
+
+1140
+00:53:55,190 --> 00:53:58,010
+the of the executioner
+you know so you've got
+
+1141
+00:53:58,010 --> 00:54:01,270
+the caspase 9 but the
+extrinsic is caspase
+
+1142
+00:54:01,270 --> 00:54:07,030
+8 or 10 and that forms
+you know this uh the
+
+1143
+00:54:07,030 --> 00:54:09,510
+executioner caspases
+which are 3 and 6. again
+
+1144
+00:54:09,510 --> 00:54:12,150
+you don't need to know
+the numbers so nine
+
+1145
+00:54:12,150 --> 00:54:14,870
+just remember is the
+intrinsic but it's a
+
+1146
+00:54:14,870 --> 00:54:17,270
+whole cascade nine
+is important for the
+
+1147
+00:54:17,270 --> 00:54:20,210
+initiation and then finally
+we got a cascade and
+
+1148
+00:54:20,210 --> 00:54:22,370
+we become we need to
+get rid of all these
+
+1149
+00:54:22,370 --> 00:54:25,090
+enzymes are breaking
+these downs you need to
+
+1150
+00:54:25,090 --> 00:54:27,030
+get rid of the dead
+cells that you put into
+
+1151
+00:54:27,030 --> 00:54:30,050
+bite-sized fragments
+the apoptotic bodies and
+
+1152
+00:54:30,050 --> 00:54:32,050
+sometimes those bodies
+and we'll learn this
+
+1153
+00:54:32,050 --> 00:54:35,090
+in information as well
+they get coated with
+
+1154
+00:54:35,090 --> 00:54:39,310
+antibodies in this
+examples include some of
+
+1155
+00:54:39,310 --> 00:54:41,390
+the complement system
+and those antibodies
+
+1156
+00:54:41,390 --> 00:54:44,350
+make them more susceptible
+to being phagocytose
+
+1157
+00:54:44,350 --> 00:54:46,430
+so they're and I thought
+I made this up but
+
+1158
+00:54:46,430 --> 00:54:48,250
+there are eight me
+signals apparently the
+
+1159
+00:54:48,250 --> 00:54:50,810
+book uses this term too
+it's kind of like and
+
+1160
+00:54:50,810 --> 00:54:52,510
+I don't know why I saw
+we do this but it's
+
+1161
+00:54:52,510 --> 00:54:56,010
+like telling it here
+I am I'm going to you
+
+1162
+00:54:56,010 --> 00:54:57,750
+know I'm right here
+this is my signal and
+
+1163
+00:54:57,750 --> 00:55:02,630
+please phagocytose this
+again is a visual of
+
+1164
+00:55:02,630 --> 00:55:04,950
+everything I just said
+a little bit of detail
+
+1165
+00:55:04,950 --> 00:55:07,550
+more maybe but if you
+are more visual learner
+
+1166
+00:55:07,550 --> 00:55:10,950
+i think this is very
+nice this is also a
+
+1167
+00:55:10,950 --> 00:55:14,330
+visual of necrosis next
+to apoptosis and what's
+
+1168
+00:55:14,330 --> 00:55:16,830
+going on and the
+differences i would look
+
+1169
+00:55:16,830 --> 00:55:18,990
+at this slide again
+you don't have to know
+
+1170
+00:55:18,990 --> 00:55:21,770
+every single detail but
+it's a good overview
+
+1171
+00:55:21,990 --> 00:55:25,250
+and this i like because
+it's a cartoon form
+
+1172
+00:55:25,250 --> 00:55:27,870
+but it shows the
+differences between necrosis
+
+1173
+00:55:27,870 --> 00:55:31,490
+and apoptosis in the way
+it looks microscopically
+
+1174
+00:55:31,490 --> 00:55:35,150
+so there's cell
+shrinkage in apoptosis
+
+1175
+00:55:35,150 --> 00:55:37,650
+that does not happen
+in necrosis that's cell
+
+1176
+00:55:37,650 --> 00:55:40,670
+swelling there's
+chromatin condensation
+
+1177
+00:55:40,670 --> 00:55:44,010
+which is very characteristic
+of apoptosis where
+
+1178
+00:55:44,010 --> 00:55:46,450
+the chromatin aggregates
+peripherally under
+
+1179
+00:55:46,450 --> 00:55:48,310
+the nuclear membrane
+and get these dense
+
+1180
+00:55:48,310 --> 00:55:52,130
+masses and the formation
+of cytoplasmic blebs
+
+1181
+00:55:52,130 --> 00:55:55,330
+and apoptotic bodies
+that's under apoptosis
+
+1182
+00:55:55,330 --> 00:55:57,570
+and then all the way
+on the bottom is the
+
+1183
+00:55:57,570 --> 00:56:00,450
+phagocytosis by
+macrophages but there's no
+
+1184
+00:56:00,450 --> 00:56:02,970
+inflammatory response
+meaning there's
+no neutrophils
+
+1185
+00:56:02,970 --> 00:56:06,050
+coming in and that
+limits the damage to
+
+1186
+00:56:06,050 --> 00:56:08,870
+other tissue around
+okay so follow this look
+
+1187
+00:56:08,870 --> 00:56:11,390
+down the side these
+are the differences and
+
+1188
+00:56:11,390 --> 00:56:14,370
+the similarities I
+get this out this is
+
+1189
+00:56:14,370 --> 00:56:16,330
+another slide which I'm
+putting up for just for
+
+1190
+00:56:16,330 --> 00:56:19,270
+your benefit just for
+to put away back in
+
+1191
+00:56:19,270 --> 00:56:22,030
+your mind these are
+new mechanisms of cell
+
+1192
+00:56:22,030 --> 00:56:23,950
+death that have been
+described in the past five
+
+1193
+00:56:23,950 --> 00:56:26,870
+years they're still
+being worked out and
+
+1194
+00:56:26,870 --> 00:56:28,710
+they include things
+called necroptasis,
+
+1195
+00:56:29,640 --> 00:56:32,430
+pyroptasis, and phyroptasis.
+You can read this.
+
+1196
+00:56:32,430 --> 00:56:34,770
+I'm not going to hold
+you accountable to this
+
+1197
+00:56:34,770 --> 00:56:37,150
+myself. I don't know
+if anybody else would.
+
+1198
+00:56:37,530 --> 00:56:39,490
+Okay, finally, we
+got to cellular
+
+1199
+00:56:39,490 --> 00:56:42,810
+accumulations. Why do
+cells accumulate things?
+
+1200
+00:56:42,810 --> 00:56:46,490
+Why? And how is that
+pathology? Well, if
+
+1201
+00:56:46,490 --> 00:56:48,990
+you have inadequate
+removal of substances
+
+1202
+00:56:48,990 --> 00:56:51,770
+or accumulation of
+endogenous substances
+
+1203
+00:56:51,770 --> 00:56:55,470
+or failure to degrade
+substances etc or
+
+1204
+00:56:55,470 --> 00:56:59,470
+deposition of abnormal
+substances exogenously
+
+1205
+00:56:59,470 --> 00:57:00,960
+these will all
+cause cellular
+
+1206
+00:57:00,960 --> 00:57:03,270
+accumulations and there's
+a lot of them I want
+
+1207
+00:57:03,270 --> 00:57:05,570
+to mention lipid protein
+pigments and live
+
+1208
+00:57:05,570 --> 00:57:08,070
+diffusion and I've
+got pictures of them
+
+1209
+00:57:08,590 --> 00:57:11,730
+lipid an example
+would be steatosis
+
+1210
+00:57:11,730 --> 00:57:14,110
+of the liver or
+fatty liver this
+
+1211
+00:57:14,110 --> 00:57:16,470
+is a reversible
+cell injury but
+
+1212
+00:57:16,470 --> 00:57:21,490
+it is seen when
+fats accumulate.
+
+1213
+00:57:21,710 --> 00:57:23,410
+Protein accumulation, an
+
+1214
+00:57:23,410 --> 00:57:25,170
+example would be amyloid.
+
+1215
+00:57:25,610 --> 00:57:27,510
+Pigments, there's
+all different kinds.
+
+1216
+00:57:27,510 --> 00:57:30,970
+There's coal, there's
+melanin, I should say
+
+1217
+00:57:30,970 --> 00:57:33,710
+carbon, anthracosis,
+melanin, hemocytorin,
+
+1218
+00:57:33,710 --> 00:57:36,250
+lipofusion. What
+is lipofusion? It's
+
+1219
+00:57:36,250 --> 00:57:38,150
+known as a wear and
+tear pigment. If you
+
+1220
+00:57:38,150 --> 00:57:40,150
+look at a lot of,
+I've done autopsies on
+
+1221
+00:57:40,150 --> 00:57:42,870
+elderly people, a
+lot of their um their
+
+1222
+00:57:42,870 --> 00:57:45,170
+cells in the heart
+or the kidney or the
+
+1223
+00:57:45,170 --> 00:57:47,670
+liver will have this
+golden brown pigment
+
+1224
+00:57:47,810 --> 00:57:51,250
+and that is a wear and
+tear pigment it shows
+
+1225
+00:57:51,250 --> 00:57:54,190
+you that it's been
+around a while and um
+
+1226
+00:57:54,190 --> 00:57:58,610
+it's you know this is
+part of normal uh process
+
+1227
+00:57:58,610 --> 00:58:01,270
+of aging although it is
+a cellular accumulation
+
+1228
+00:58:01,270 --> 00:58:03,570
+that you have to look
+at as a pathologist
+
+1229
+00:58:03,570 --> 00:58:05,950
+because it could be
+mistaken for others
+
+1230
+00:58:05,950 --> 00:58:08,650
+and you'll see what i
+mean and the top is the
+
+1231
+00:58:08,650 --> 00:58:11,150
+liver with big holes
+in it those holes are
+
+1232
+00:58:11,150 --> 00:58:14,690
+fat that's fatty liver
+on the right is amyloid
+
+1233
+00:58:14,690 --> 00:58:17,570
+which is like a pink
+glassy looking um
+
+1234
+00:58:18,030 --> 00:58:20,690
+kind of look to it
+you have to do special
+
+1235
+00:58:20,690 --> 00:58:23,630
+stains to really diagnose
+that don't worry um
+
+1236
+00:58:23,630 --> 00:58:25,830
+on the bottom is the
+lipofusion if you see in
+
+1237
+00:58:25,830 --> 00:58:28,210
+the cardiac it's very
+very very light golden
+
+1238
+00:58:28,210 --> 00:58:30,450
+brown whereas in the
+liver it looks very
+
+1239
+00:58:30,450 --> 00:58:32,150
+dark and that's a
+problem because the liver
+
+1240
+00:58:32,150 --> 00:58:34,670
+also has bile it could
+have hemorrhage and all
+
+1241
+00:58:34,670 --> 00:58:36,390
+those things could
+look like that so you
+
+1242
+00:58:36,390 --> 00:58:40,490
+got to be aware of that
+anthracosis is carbon
+
+1243
+00:58:40,490 --> 00:58:42,950
+this happens to be a
+very close-up picture
+
+1244
+00:58:42,950 --> 00:58:45,430
+of a lung which shows
+black lines you probably
+
+1245
+00:58:45,430 --> 00:58:48,570
+saw this in your um
+in your cadavers the
+
+1246
+00:58:48,570 --> 00:58:51,090
+important part of this
+is that anybody who
+
+1247
+00:58:51,090 --> 00:58:54,690
+smokes or anybody living
+in a city would probably
+
+1248
+00:58:54,690 --> 00:58:57,590
+have some of this
+smokers even worse on
+
+1249
+00:58:57,590 --> 00:59:00,210
+the bottom we have melanin
+and then hemocytron
+
+1250
+00:59:00,210 --> 00:59:03,590
+is broken down blood
+so this happens to
+
+1251
+00:59:03,590 --> 00:59:07,350
+be in lung alveoli
+because this is somebody
+
+1252
+00:59:07,350 --> 00:59:10,510
+with congestive heart
+failure blood backed up
+
+1253
+00:59:10,510 --> 00:59:13,410
+into the lung and
+macrophages so there's all
+
+1254
+00:59:13,410 --> 00:59:15,510
+it's evidence of old
+hemorrhage or old blood
+
+1255
+00:59:15,510 --> 00:59:19,290
+okay a really quick
+thing about hyaline
+
+1256
+00:59:19,290 --> 00:59:21,750
+change you'll it's not
+hyaline cartilage again
+
+1257
+00:59:21,750 --> 00:59:25,530
+it's a pink glassy
+look and it's more of a
+
+1258
+00:59:25,530 --> 00:59:29,990
+of a descriptive
+thing there is finally
+
+1259
+00:59:29,990 --> 00:59:32,870
+pathological calcification
+meaning there are you
+
+1260
+00:59:32,870 --> 00:59:34,490
+can see calcification
+in certain tissues
+
+1261
+00:59:34,490 --> 00:59:37,830
+and that's not normal um
+it could be dystrophic
+
+1262
+00:59:37,830 --> 00:59:40,710
+or metastatic dystrophic
+means the person
+
+1263
+00:59:40,710 --> 00:59:44,610
+has a normal serum
+calcium but it's the area
+
+1264
+00:59:44,610 --> 00:59:46,870
+that's being calcified
+is damaged so what
+
+1265
+00:59:46,870 --> 00:59:52,160
+an example of that would
+be uh cardiac valves
+
+1266
+00:59:52,160 --> 00:59:55,190
+which get calcified
+sometimes is because of
+
+1267
+00:59:55,190 --> 00:59:59,150
+damage and so it's
+calcium deposition on
+
+1268
+00:59:59,150 --> 01:00:02,050
+abnormal tissue whereas
+metastatic calcification
+
+1269
+01:00:02,050 --> 01:00:05,190
+which has no specific
+relationship to
+
+1270
+01:00:05,190 --> 01:00:07,970
+malignancy i don't like
+the term the tissue is
+
+1271
+01:00:07,970 --> 01:00:11,660
+normal but the person
+has hypercalcemia four
+
+1272
+01:00:12,050 --> 01:00:14,650
+major causes include
+those mentioned there
+
+1273
+01:00:15,350 --> 01:00:17,270
+hyperparathyroidism
+vitamin d disorders
+
+1274
+01:00:17,270 --> 01:00:19,890
+etc and you can see
+this especially in the
+
+1275
+01:00:19,890 --> 01:00:23,070
+kidney and lung gastric
+mucosa so here's
+
+1276
+01:00:23,070 --> 01:00:26,350
+a picture of distrosive
+calcification up
+
+1277
+01:00:26,350 --> 01:00:29,710
+on top left it's very
+blue purple that's
+
+1278
+01:00:29,710 --> 01:00:32,020
+the color of
+calcification also it's
+
+1279
+01:00:32,020 --> 01:00:34,060
+crunchy if there's
+a lot of it and the
+
+1280
+01:00:34,060 --> 01:00:36,390
+metastatic one in the
+lung has not to do with
+
+1281
+01:00:36,390 --> 01:00:38,230
+cancer but the person
+had hypercalcemia
+
+1282
+01:00:38,690 --> 01:00:41,710
+so this is the
+summary slide and
+
+1283
+01:00:41,960 --> 01:00:43,630
+I know I went a
+little bit over
+
+1284
+01:00:43,630 --> 01:00:45,110
+I thank you for
+your attention
+
+1285
+01:00:45,810 --> 01:00:47,410
+and if you have
+any questions,
+
+1286
+01:00:47,410 --> 01:00:48,950
+please reach out
+to me. Thank you.

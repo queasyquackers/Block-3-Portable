@@ -11,7 +11,7 @@ window.L130 = [
       { "text": "Excessive TGF-beta inhibited regeneration.", "explanation": "TGF-beta promotes fibrosis, but the lack of regeneration is fundamental to the cell type." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_page-0006.jpg",
+    "slideImagePath": "images/L130_slide_6.jpg",
     "slideImageDescription": "The slide classifies cell types based on proliferation potential. It explicitly lists 'Permanent Cells' as terminally differentiated and non-dividing, with 'cardiac muscle' given as a specific example."
   },
   {
@@ -26,7 +26,7 @@ window.L130 = [
       { "text": "Stem cells", "explanation": "While stem cells contribute, the bulk of regeneration in the liver is due to the proliferation of differentiated hepatocytes (stable cells)." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0006.jpg",
+    "slideImagePath": "images/L130_slide_6.jpg",
     "slideImageDescription": "The slide defines 'Stable Cells' as having a low rate of proliferation but the ability to re-enter the cell cycle. It lists 'liver' and 'parenchymal cells' as key examples."
   },
   {
@@ -41,7 +41,7 @@ window.L130 = [
       { "text": "KGF", "explanation": "KGF stimulates keratinocyte migration and proliferation." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_page-0008.jpg",
+    "slideImagePath": "images/L130_slide_8.jpg",
     "slideImageDescription": "The slide lists 'IMPORTANT GROWTH FACTORS'. For TGF-beta, it explicitly states it is a 'potent fibrogenic agent', 'stimulates fibroblast chemotaxis', 'enhances production of collagen', and 'inhibits collagen degradation'."
   },
   {
@@ -56,7 +56,7 @@ window.L130 = [
       { "text": "KGF", "explanation": "KGF focuses on keratinocytes." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0014.jpg",
+    "slideImagePath": "images/L130_slide_14.jpg",
     "slideImageDescription": "The slide titled 'ANGIOGENESIS' identifies VEGF as the 'most important growth factor' for this process, noting that it 'stimulates survival, proliferation and motility of endothelial cells'."
   },
   {
@@ -71,7 +71,7 @@ window.L130 = [
       { "text": "Fibrinous exudate", "explanation": "This is an acute inflammatory response, typically earlier and focused on fibrin, not new tissue formation." }
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L130_page-0012.jpg",
+    "slideImagePath": "images/L130_slide_12.jpg",
     "slideImageDescription": "The slide defines 'GRANULATION TISSUE' as 'Migration, proliferation of fibroblasts and deposition of loose connective tissue along with new vessels and leukocytes (mostly macrophages)'."
   },
   {
@@ -86,7 +86,7 @@ window.L130 = [
       { "text": "Type X", "explanation": "Type X is found in hypertrophic cartilage." }
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L130_page-0023.jpg",
+    "slideImagePath": "images/L130_slide_23.jpg",
     "slideImageDescription": "The slide details collagen types. It identifies Type I as having 'high tensile strength' and being found in 'scars (MATURE)', while Type III is the '1st collagen deposited in wound healing'."
   },
   {
@@ -101,7 +101,7 @@ window.L130 = [
       { "text": "100%", "explanation": "Wound strength rarely returns to 100%." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_page-0035.jpg",
+    "slideImagePath": "images/L130_slide_35.jpg",
     "slideImageDescription": "The slide 'Tensile Strength of Wound' explicitly states: 'End of first week, wound strength - about 10% of unwounded skin'."
   },
   {
@@ -116,7 +116,7 @@ window.L130 = [
       { "text": "Platelets", "explanation": "Platelets initiate clotting." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_page-0033.jpg",
+    "slideImagePath": "images/L130_slide_28.jpg",
     "slideImageDescription": "The slide 'WOUND CONTRACTION' identifies 'myofibroblasts' as fibroblasts with muscle filaments that 'contract in wound tissue' to close the defect."
   },
   {
@@ -131,7 +131,7 @@ window.L130 = [
       { "text": "Caspases", "explanation": "These mediate apoptosis." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_page-0034.jpg",
+    "slideImagePath": "images/L130_slide_34.jpg",
     "slideImageDescription": "The slide 'Remodeling of Connective tissue' states: 'Degradation accomplished by matrix metalloproteinases (MMPs)' and lists specific types like collagenases and gelatinases."
   },
   {
@@ -146,7 +146,7 @@ window.L130 = [
       { "text": "Selectins", "explanation": "Adhesion molecules." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_page-0034.jpg",
+    "slideImagePath": "images/L130_slide_34.jpg",
     "slideImageDescription": "The slide mentions: 'Activity shut down by tissue inhibitors of metalloproteinases (TIMPs)'."
   },
   {
@@ -161,7 +161,7 @@ window.L130 = [
       { "text": "Cross-linking by lysyl oxidase", "explanation": "Requires copper, not vitamin C." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0038.jpg",
+    "slideImagePath": "images/L130_slide_38.jpg",
     "slideImageDescription": "The slide 'Deterrents to wound healing' lists 'Malnutrition.... Vit C needed for hydroxylation'. The collagen synthesis diagram (Page 22) also explicitly notes 'Requires Vitamin C (Scurvy)' at the hydroxylation step."
   },
   {
@@ -176,7 +176,7 @@ window.L130 = [
       { "text": "Stimulation of TGF-beta release", "explanation": "TGF-beta promotes fibrosis; steroids generally inhibit the fibrotic response." }
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L130_page-0038.jpg",
+    "slideImagePath": "images/L130_slide_38.jpg",
     "slideImageDescription": "The slide 'Deterrents to wound healing' lists 'Hormones - glucocorticoids (anti-inflammatory and inhibit collagen synthesis)'."
   },
   {
@@ -191,7 +191,7 @@ window.L130 = [
       { "text": "Granuloma", "explanation": "Granulomas involve macrophages and are inflammatory, not primarily scar tissue neoplasms." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_page-0042.jpg",
+    "slideImagePath": "images/L130_slide_42.jpg",
     "slideImageDescription": "The slide compares 'Keloid v. Hypertrophic scar'. It defines Keloids as having 'Disorganized collagen formation' and 'Extends beyond borders of original wound'. An image of a keloid on an ear is provided."
   },
   {
@@ -206,7 +206,7 @@ window.L130 = [
       { "text": "Organization", "explanation": "Fibrosis of exudate." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0040.jpg",
+    "slideImagePath": "images/L130_slide_40.jpg",
     "slideImageDescription": "The slide displays a photo of an abdominal wound rupture and defines 'Dehiscence: Most commonly after abdominal surgery secondary to increased abdominal pressure'."
   },
   {
@@ -221,7 +221,7 @@ window.L130 = [
       { "text": "Macrophages", "explanation": "Macrophages secrete growth factors." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_page-0015.jpg",
+    "slideImagePath": "images/L130_slide_8.jpg",
     "slideImageDescription": "The diagram 'Formation of new vessel' labels the 'Leading ('tip') cell' at the front of the sprout, noting it responds to 'VEGF, Notch signals'."
   },
   {
@@ -236,7 +236,7 @@ window.L130 = [
       { "text": "Angiopoietin 1", "explanation": "Stabilizes vessels, reducing permeability." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0014.jpg",
+    "slideImagePath": "images/L130_slide_14.jpg",
     "slideImageDescription": "The slide 'ANGIOGENESIS' states that VEGF 'promotes vasodilation... also increases vessel permeability'."
   },
   {
@@ -251,7 +251,7 @@ window.L130 = [
       { "text": "Endothelial cells", "explanation": "Proliferate in the proliferation phase." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0043.jpg",
+    "slideImagePath": "images/L130_slide_43.jpg",
     "slideImageDescription": "The slide 'HEALING - REVIEW' states: 'Neutrophils appear within 24 hours, clean out debris and bacteria'."
   },
   {
@@ -266,7 +266,7 @@ window.L130 = [
       { "text": "Basophils", "explanation": "Allergic response." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_page-0043.jpg",
+    "slideImagePath": "images/L130_slide_43.jpg",
     "slideImageDescription": "The slide 'HEALING - REVIEW' states: 'Neutrophils replaced by macrophages by 48 - 96 hours which clear debris... and promote angiogenesis, ECM deposition'."
   },
   {
@@ -281,7 +281,7 @@ window.L130 = [
       { "text": "Resolution", "explanation": "Refers to return to normal without scar." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_page-0030.jpg",
+    "slideImagePath": "images/L130_slide_30.jpg",
     "slideImageDescription": "The slide 'Healing by Primary (First) Intention' describes it as: 'Wounds with opposed edges; involves only epithelial layer... Ex: healing of a clean, uninfected surgical incision'."
   },
   {
@@ -296,7 +296,7 @@ window.L130 = [
       { "text": "Regeneration", "explanation": "Restoration of normal tissue." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_page-0031.jpg",
+    "slideImagePath": "images/L130_slide_31.jpg",
     "slideImageDescription": "The slide 'Healing by Secondary Intention' lists characteristics: 'Wounds with unopposed/separated edges... More extensive loss of cells... abundant granulation tissue... substantial scar'."
   },
   {
@@ -311,7 +311,7 @@ window.L130 = [
       { "text": "Keratin", "explanation": "Intermediate filament in epithelial cells." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_page-0024.jpg",
+    "slideImagePath": "images/L130_slide_21.jpg",
     "slideImageDescription": "The slide 'ECM' lists 'Structural Glycoproteins' and identifies 'Fibronectin - CROSS LINKING... connect matrix elements to one another and to cells'."
   },
   {
@@ -326,7 +326,7 @@ window.L130 = [
       { "text": "Fibronectin", "explanation": "Found in interstitial matrix and plasma." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0019.jpg",
+    "slideImagePath": "images/L130_slide_19.jpg",
     "slideImageDescription": "The slide 'TWO FORMS OF ECM' describes the basement membrane as 'made up of mostly type IV collagen... laminin, heparin sulfate'."
   },
   {
@@ -341,7 +341,7 @@ window.L130 = [
       { "text": "Amino acids", "explanation": "Proteins." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0024.jpg",
+    "slideImagePath": "images/L130_slide_24.jpg",
     "slideImageDescription": "The slide defines 'GAGS' as 'long repeating polymers of specific disaccharides; most linked to core protein, forming proteoglycans'."
   },
   {
@@ -356,7 +356,7 @@ window.L130 = [
       { "text": "Hypertrophic scar", "explanation": "Raised scar." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0039.jpg",
+    "slideImagePath": "images/L130_slide_39.jpg",
     "slideImageDescription": "The slide 'COMPLICATIONS' lists 'Contractures - especially in palms, soles... commonly after serious burns; exageration of contraction'."
   },
   {
@@ -371,7 +371,7 @@ window.L130 = [
       { "text": "Biliary epithelial cells", "explanation": "Line bile ducts." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_page-0037.jpg",
+    "slideImagePath": "images/L130_slide_37.jpg",
     "slideImageDescription": "The slide 'REGENERATION OF THE LIVER' states: 'Primary phase - hepatocytes primed by cytokines made by Kupffer cells (macrophages)'."
   },
   {
@@ -386,7 +386,7 @@ window.L130 = [
       { "text": "Cytokines", "explanation": "Signaling molecules." }
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L130_page-0024.jpg",
+    "slideImagePath": "images/L130_slide_24.jpg",
     "slideImageDescription": "The slide 'ECM' states: 'Cadherins and integrins...link cell surface with cytoskeleton by binding to actin and intermediate filaments'."
   },
   {
@@ -401,7 +401,7 @@ window.L130 = [
       { "text": "Hepatocytes", "explanation": "Responsive to HGF." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0008.jpg",
+    "slideImagePath": "images/L130_slide_8.jpg",
     "slideImageDescription": "The slide 'IMPORTANT GROWTH FACTORS' states: 'PDGF causes migration and proliferation of fibroblasts, smooth muscle cells, monocytes'."
   },
   {
@@ -416,7 +416,7 @@ window.L130 = [
       { "text": "DNA polymerase", "explanation": "DNA replication." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0034.jpg",
+    "slideImagePath": "images/L130_slide_34.jpg",
     "slideImageDescription": "The slide discusses MMPs. While it doesn't explicitly state 'Zinc', the name 'metalloproteinases' implies metal dependency, and standard medical knowledge (often tested in this context) links this to Zinc. The slide focuses on their degradation role."
   },
   {
@@ -431,7 +431,7 @@ window.L130 = [
       { "text": "Accelerating wound contraction", "explanation": "Does not explain non-healing." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0038.jpg",
+    "slideImagePath": "images/L130_slide_38.jpg",
     "slideImageDescription": "The slide 'Deterrents to wound healing' explicitly lists: 'Diabetes....glycosylation... impairs neutrophil and macrophage phagocytosis'."
   },
   {
@@ -446,7 +446,7 @@ window.L130 = [
       { "text": "Brain", "explanation": "Permanent cells." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0006.jpg",
+    "slideImagePath": "images/L130_slide_6.jpg",
     "slideImageDescription": "The slide 'Cell types based on proliferation potential' lists 'Labile cells' with examples: 'epithelial cells, lymphoid, hematopoietic, GI mucosa'."
   },
   {
@@ -461,7 +461,7 @@ window.L130 = [
       { "text": "KGF", "explanation": "Keratinocyte growth." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0014.jpg",
+    "slideImagePath": "images/L130_slide_14.jpg",
     "slideImageDescription": "The slide 'ANGIOGENESIS' notes that stabilization requires pericytes and lists 'angiopoeitins 1 and 2, PDGF, and TGF-beta participate in stabilization'."
   },
   {
@@ -476,7 +476,7 @@ window.L130 = [
       { "text": "Keratinocytes", "explanation": "Form epithelium." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_page-0017.jpg",
+    "slideImagePath": "images/L130_slide_17.jpg",
     "slideImageDescription": "The slide 'CONNECTIVE TISSUE: FIBROBLASTS' lists 'Fibroblast actions: - Create matrix of type III collagen'."
   },
   {
@@ -491,7 +491,7 @@ window.L130 = [
       { "text": "Macrophage recruitment", "explanation": "Chemokine dependent." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0023.jpg",
+    "slideImagePath": "images/L130_slide_23.jpg",
     "slideImageDescription": "The slide 'COLLAGENS' states: 'Type I - high tensile strength (tendons, bone skin, scars (MATURE))'. The table lists Ehlers-Danlos and Osteogenesis Imperfecta as genetic disorders of Type I collagen."
   },
   {
@@ -506,7 +506,7 @@ window.L130 = [
       { "text": "2 months", "explanation": "Scar." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_page-0027.jpg",
+    "slideImagePath": "images/L130_slide_19.jpg",
     "slideImageDescription": "The graph 'Relative Number of Cells vs Days Postwounding' shows the Macrophage curve peaking between days 2 and 4."
   },
   {
@@ -521,7 +521,7 @@ window.L130 = [
       { "text": "Dehiscence", "explanation": "Opening." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_page-0042.jpg",
+    "slideImagePath": "images/L130_slide_42.jpg",
     "slideImageDescription": "The slide 'Keloid v. Hypertrophic scar' highlights 'Extends beyond borders of original wound' as a key feature of Keloids."
   },
   {
@@ -536,7 +536,7 @@ window.L130 = [
       { "text": "Laminin", "explanation": "Basement membrane adhesive." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0024.jpg",
+    "slideImagePath": "images/L130_slide_24.jpg",
     "slideImageDescription": "The slide mentions 'HA in ECM... binds a lot of water and forms viscous hydrated gel giving cell turgor'."
   },
   {
@@ -551,7 +551,7 @@ window.L130 = [
       { "text": "Angiopoietin", "explanation": "Vessel stability." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0009.jpg",
+    "slideImagePath": "images/L130_slide_9.jpg",
     "slideImageDescription": "The table of Growth Factors lists 'Keratinocyte growth factor (KGF)... Stimulates keratinocyte migration, proliferation, and differentiation'."
   },
   {
@@ -566,7 +566,7 @@ window.L130 = [
       { "text": "IL-6", "explanation": "Systemic acute phase response." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0008.jpg",
+    "slideImagePath": "images/L130_slide_8.jpg",
     "slideImageDescription": "The slide 'IMPORTANT GROWTH FACTORS' describes TGF-beta as: 'potent fibrogenic agent... inhibits collagen degradation, anti-inflammatory'."
   },
   {
@@ -581,7 +581,7 @@ window.L130 = [
       { "text": "Stimulating excessive granulation tissue", "explanation": "Ischemia usually results in insufficient granulation tissue." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_page-0038.jpg",
+    "slideImagePath": "images/L130_slide_38.jpg",
     "slideImageDescription": "The slide 'Deterrents to wound healing' lists 'Hypoxia....deters collagen fibril crosslinking (hydroxylation of proline and lysine), e.g, arteriosclerosis, inadequate circulation'."
   },
   {
@@ -596,7 +596,7 @@ window.L130 = [
       { "text": "Chronic pancreatitis", "explanation": "Chronic inflammation -> fibrosis." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_page-0037.jpg",
+    "slideImagePath": "images/L130_slide_37.jpg",
     "slideImageDescription": "The slide 'REGENERATION OF THE LIVER' describes the compensatory growth after partial hepatectomy as 'proliferation of remaining hepatocytes and repopulation from progenitor cells'."
   }
 ];

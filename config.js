@@ -1,3 +1,4 @@
+
 const testsToLoad = [
     // Assumes L103 is defined in Test1.js
     { name: "13-H&N Anatomy", data: L103 },
@@ -26,6 +27,15 @@ const testsToLoad = [
     { name: "16-Healing and Repair", data: L130 },
     { name: "16-Neoplasia 1", data: L131 },
     { name: "16-Neoplasia 2", data: L132 },
-    { name: "16-Intro to Nervous System", data: L133 }
-    // Add your other test objects here
-];
+    { name: "16-Intro to Nervous System", data: L133 },
+    { name: "17-Epidemiology I", data: L134 },
+    { name: "17-Epidemiology II", data: L135 },
+    { name: "17-Gross Divisions CNS", data: L136 },
+    { name: "17-Neurons & Synapse", data: L137 },
+    { name: "17-Neurochemistry", data: window.Test32 },
+    { name: "Pharmacology-Pharmacodynamics", data: window.Test33 },
+    { name: "Pharmacology-Pharmacokinetics", data: window.Test34 },
+    { name: "Pharmacology-Clinical Pharmacokinetics", data: window.Test35 },
+    { name: "Pharmacology-Drug Interactions & Pharmacogenomics", data: window.Test36 },
+    { name: "Pharmacology-Antimicrobials and Beta Lactams Pt 2", data: window.Test37 }
+];    // Add your other test objects here

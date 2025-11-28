@@ -11,7 +11,7 @@ window.L107L108 = [
 {"text": "Competitive Antagonist; Zero Intrinsic Activity", "explanation": "A competitive antagonist would prevent the agonist from binding but would not reduce the basal constitutive activity of the receptor in this model."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L107L108_p_page-0051.jpg",
+"slideImagePath": "images/L107L108_slide_44.jpg",
 "slideImageDescription": "The slide 'Two-State Receptor Model: Inverse Agonist' depicts the equilibrium between the receptor's active ($R_a$) and inactive ($R_i$) states. It explains that an Inverse Agonist has a much stronger affinity for the $R_i$ state, which 'stabilizes the receptor in the inactive conformation'. This shifts the equilibrium to the left, thereby reducing the 'constitutive (basal) activity' of the receptor below its baseline level. This mechanism perfectly matches the description of Drug X."
 },
 {
@@ -26,7 +26,7 @@ window.L107L108 = [
 {"text": "Drug B is 10-fold more potent than Drug A and has a greater residency time at the receptor.", "explanation": "Drug B is 10-fold less potent and would have lower affinity/shorter residency time."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L107L108_p_page-0024.jpg",
+"slideImagePath": "images/L107L108_slide_53.jpg",
 "slideImageDescription": "The slide comparing 'Potency' displays dose-response curves for Drug A and Drug B. Drug A's curve is shifted to the left, indicating a lower $EC_{50}$ value compared to Drug B. The text defines potency as the concentration ($EC_{50}$) required to produce 50% of the maximal effect. Since Drug A requires a lower concentration (10 nM vs 100 nM), it is more potent. Furthermore, potency is strongly correlated with affinity ($K_d$), where a lower $K_d$ (higher affinity) corresponds to a lower $EC_{50}$ (higher potency)."
 },
 {
@@ -41,7 +41,7 @@ window.L107L108 = [
 {"text": "TI = 10; indicating a moderate margin of safety, but still requires clinical caution.", "explanation": "The therapeutic index is an estimate of drug safety, and a small TI indicates a narrow margin."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L107L108_p_page-0064.jpg",
+"slideImagePath": "images/L107L108_slide_65.jpg",
 "slideImageDescription": "The slide 'Therapeutic Index' presents the formula: $TI = TD_{50} / ED_{50}$ (or $LD_{50} / ED_{50}$). It visually represents this as the gap between the effective dose curve and the toxic/lethal dose curve. A smaller gap (smaller ratio) signifies a narrower margin of safety. Calculating 100 mg / 10 mg gives a TI of 10. The slide emphasizes that a low TI indicates a 'Small therapeutic window' and a 'Narrow margin of safety', directly supporting the interpretation."
 },
 {
@@ -56,7 +56,7 @@ window.L107L108 = [
 {"text": "Uncompetitive Antagonist (Binding only to the D-R complex)", "explanation": "Uncompetitive antagonists typically depress both Emax and potency."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L107L108_p_page-0053.jpg",
+"slideImagePath": "images/L107L108_slide_53.jpg",
 "slideImageDescription": "The slide 'Competitive Antagonist' illustrates the effect on the dose-response curve. It shows a parallel rightward shift of the agonist curve in the presence of the antagonist. The key features listed are: 'Rightward shift of the curve (Increased $EC_{50}$)' and 'No change in $E_{max}$'. This pattern is diagnostic of competitive antagonism, where the antagonist reversibly competes for the active site."
 },
 {
@@ -71,7 +71,7 @@ window.L107L108 = [
 {"text": "Pharmacokinetic Tolerance", "explanation": "Pharmacokinetic tolerance involves accelerated drug metabolism leading to lower plasma concentrations."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L107L108_p_page-0061.jpg",
+"slideImagePath": "images/L107L108_slide_46.jpg",
 "slideImageDescription": "The slide 'Receptor Downregulation' explains the mechanism of long-term tolerance. It states that 'Continuous or repeated exposure to an agonist' leads to internalization and degradation, resulting in a 'Decreased number of receptors' on the cell surface. This reduction in receptor density is specifically termed 'Downregulation', which directly explains the patient's diminished response over time."
 },
 {
@@ -86,7 +86,7 @@ window.L107L108 = [
 {"text": "The Kd remains unchanged regardless of the antagonist concentration.", "explanation": "Kd (affinity) is a constant property of the drug-receptor interaction and does not change based on antagonist presence."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L107L108_p_page-0028.jpg",
+"slideImagePath": "images/L107L108_slide_53.jpg",
 "slideImageDescription": "The slide 'Spare Receptors and Irreversible Antagonist' visually demonstrates this concept. It shows two phases of antagonism. In the first phase, despite the presence of an irreversible antagonist that removes receptors, the dose-response curve shifts to the right *without* a decrease in $E_{max}$. This preservation of maximal response indicates that the remaining unblocked receptors are sufficient to produce the full effect, proving the existence of 'spare' receptors."
 },
 {
@@ -101,7 +101,7 @@ window.L107L108 = [
 {"text": "The elimination rate equals the drug metabolism rate, ensuring steady state concentration.", "explanation": "This defines steady-state kinetics, a PK concept."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L107L108_p_page-0066.jpg",
+"slideImagePath": "images/L107L108_slide_71.jpg",
 "slideImageDescription": "The slide 'Therapeutic Window' displays a graph plotting drug concentration versus response. It highlights the 'Therapeutic Window' as the shaded area between the 'Minimum effective concentration' and the 'Minimum toxic concentration'. The text defines it as the range that provides 'safe and effective therapy', implying a high probability of benefit and low probability of harm."
 },
 {
@@ -116,7 +116,7 @@ window.L107L108 = [
 {"text": "A full agonist produces constitutive (basal) activity, whereas a partial agonist does not.", "explanation": "Constitutive activity is an intrinsic property of the receptor itself, present in the absence of a ligand."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L107L108_p_page-0051.jpg",
+"slideImagePath": "images/L107L108_slide_70.jpg",
 "slideImageDescription": "The slide 'Agonists' contrasts 'Full Agonist' and 'Partial Agonist'. It defines a Full Agonist as producing a 'Maximal response ($E_{max}$ = 100%)' and stabilizing the active conformation. In contrast, a Partial Agonist is defined as having 'Intrinsic activity > 0 but < 1', resulting in a 'Submaximal response'. This distinction in intrinsic activity and resulting efficacy is the key differentiator."
 },
 {
@@ -131,7 +131,7 @@ window.L107L108 = [
 {"text": "Negative Allosteric Modulation", "explanation": "NAM reduces efficacy/affinity by binding an an allosteric site on the *same* receptor."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L107L108_p_page-0055.jpg",
+"slideImagePath": "images/L107L108_slide_70.jpg",
 "slideImageDescription": "The slide 'Types of Antagonism' lists 'Physiological Antagonism'. It defines this as occurring when 'Two drugs have opposite effects through action on different receptors'. The classic example given is 'Histamine (vasodilation) vs Epinephrine (vasoconstriction)', but the principle perfectly applies to Insulin (hypoglycemia) vs Glucagon (hyperglycemia) acting on different receptors to produce opposing physiological outcomes."
 },
 {
@@ -146,7 +146,7 @@ window.L107L108 = [
 {"text": "Therapeutic Index", "explanation": "Therapeutic Index (TI) is a ratio of toxic dose to effective dose (TD50/ED50)."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L107L108_p_page-0019.jpg",
+"slideImagePath": "images/L107L108_slide_44.jpg",
 "slideImageDescription": "The slide 'Affinity' defines the concept mathematically. It presents the equation $K_d = k_{-1} / k_{+1}$. It explains that affinity is the 'Tendency of a drug to bind to the receptor'. A lower $K_d$ represents a tighter drug-receptor interaction (higher affinity). This definition directly connects the rate constants to the property of affinity."
 },
 {
@@ -161,7 +161,7 @@ window.L107L108 = [
 {"text": "It shifts the receptor's equilibrium toward the active state (Ra), regardless of the ligand's presence.", "explanation": "This is a characteristic of a full agonist in the two-state model."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L107L108_p_page-0050.jpg",
+"slideImagePath": "images/L107L108_slide_70.jpg",
 "slideImageDescription": "The slide 'Antagonists' defines them based on their properties. It states: 'Has affinity for the receptor' but 'Has no intrinsic activity'. It further explains that an antagonist 'Prevents the agonist from binding' or activation. This combination of affinity without intrinsic activity is the hallmark definition of an antagonist in the classical model."
 },
 {
@@ -176,7 +176,7 @@ window.L107L108 = [
 {"text": "The shift of the drug's dose-response curve to the right without a change in Emax.", "explanation": "Reduced efficacy is characterized by a *reduced Emax*."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L107L108_p_page-0032.jpg",
+"slideImagePath": "images/L107L108_slide_53.jpg",
 "slideImageDescription": "The slide 'Drug Binding' discusses the impact of protein binding. It states: 'Only free (unbound) drug can bind to the receptor and produce an effect'. It further explains that factors increasing metabolism (like enzyme induction) reduce the 'free drug concentration', leading to a 'decreased effect'. This chain of events confirms that efficacy depends on the concentration of free drug available at the receptor."
 },
 {
@@ -191,7 +191,7 @@ window.L107L108 = [
 {"text": "Negative Allosteric Modulation", "explanation": "NAM occurs at an allosteric site on a receptor."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L107L108_p_page-0056.jpg",
+"slideImagePath": "images/L107L108_slide_46.jpg",
 "slideImageDescription": "The slide 'Chemical Antagonism' defines this mechanism as a 'Chemical interaction between a drug and another molecule'. It lists 'Chelation of tetracycline by divalent cations' as a specific example. This direct interaction prevents the drug from acting, fitting the definition of chemical antagonism."
 },
 {
@@ -206,7 +206,7 @@ window.L107L108 = [
 {"text": "Pharmacokinetics -> Therapeutic Window -> Margin of Safety", "explanation": "Pharmacokinetics is only the first step; the Therapeutic Window and Margin of Safety are concepts of drug safety for the population, not the process in the individual."}
 ],
 "correctAnswerIndex": 0,
-"slideImagePath": "images/L107L108_p_page-0022.jpg",
+"slideImagePath": "images/L107L108_slide_11.jpg",
 "slideImageDescription": "The slide 'Dose-Response Relationship' depicts the sequential process. It shows the progression from 'Dose' -> 'Concentration in biological fluid' -> 'Concentration at effector site' -> 'Pharmacologic Effect'. This linear pathway illustrates how the initial dose determines the final response magnitude through pharmacokinetic and pharmacodynamic steps."
 },
 {
@@ -221,7 +221,7 @@ window.L107L108 = [
 {"text": "Stabilizes the receptor's inactive conformation (Ri complex).", "explanation": "Stabilizing Ri is the action of an inverse agonist."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L107L108_p_page-0061.jpg",
+"slideImagePath": "images/L107L108_slide_46.jpg",
 "slideImageDescription": "The slide 'Receptor Upregulation' explains the mechanism. It states: 'Continuous exposure to an antagonist... causes upregulation (increased number of receptors)'. It specifically notes the 'Clinical Consequence' of 'Supersensitivity' or 'Rebound effect' upon withdrawal, such as 'Rebound hypertension after stopping beta-blockers'. This directly links the clinical presentation to the cellular mechanism of upregulation."
 },
 {
@@ -236,7 +236,7 @@ window.L107L108 = [
 {"text": "The Allosteric Modulator Model", "explanation": "This describes modulation at a secondary site."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L107L108_p_page-0050.jpg",
+"slideImagePath": "images/L107L108_slide_45.jpg",
 "slideImageDescription": "The slide 'Classical Receptor Occupancy Model' defines the terms 'Affinity' and 'Intrinsic Activity'. It explicitly defines an 'Antagonist' as a drug that has 'Affinity for the receptor' but 'Zero intrinsic activity'. This definition forms the basis of the classical model's explanation for antagonism."
 },
 {
@@ -251,7 +251,7 @@ window.L107L108 = [
 {"text": "Drug A: Physiologic Antagonist; Drug B: Chemical Antagonist", "explanation": "Physiologic/chemical antagonists are non-receptor mechanisms."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L107L108_p_page-0053.jpg",
+"slideImagePath": "images/L107L108_slide_53.jpg",
 "slideImageDescription": "The slide 'Allosteric Modulators' distinguishes between two types. It defines a 'Positive Allosteric Modulator (PAM)' as one that 'increases affinity and/or efficacy' of the agonist. Conversely, it defines a 'Negative Allosteric Modulator (NAM)' as one that 'decreases affinity and/or efficacy'. The question describes exactly these two opposing effects mediated through an allosteric site."
 },
 {
@@ -266,7 +266,7 @@ window.L107L108 = [
 {"text": "Competitive Antagonism", "explanation": "Competitive antagonism shifts the EC50 to the right."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L107L108_p_page-0027.jpg",
+"slideImagePath": "images/L107L108_slide_27.jpg",
 "slideImageDescription": "The slide 'Spare Receptors' uses a graph to illustrate this discrepancy. It shows that '$50\\% E_{max}$ (the $EC_{50}$) occurs at a much lower concentration than '$50\\% B_{max}$ (the $K_d$)'. The text defines this as the 'Spare Receptor' concept, where maximal response is elicited by occupying only a small proportion of receptors ($EC_{50} < K_d$)."
 },
 {
@@ -281,7 +281,7 @@ window.L107L108 = [
 {"text": "Receptor Desensitization", "explanation": "Receptor desensitization is a mechanism of receptor regulation over time."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L107L108_p_page-0014.jpg",
+"slideImagePath": "images/L107L108_slide_33.jpg",
 "slideImageDescription": "The slide 'Structure-Activity Relationship (SAR)' defines this concept. It states: 'The chemical structure of a drug determines its biological activity'. It explains that 'modifying the chemical structure' can alter the drug's affinity, intrinsic activity, and selectivity, encapsulating the definition of SAR."
 },
 {
@@ -296,7 +296,7 @@ window.L107L108 = [
 {"text": "Downregulation", "explanation": "Receptor downregulation is the reduction in the total number of cell surface receptors due to internalization and degradation, diminishing the response."}
 ],
 "correctAnswerIndex": 4,
-"slideImagePath": "images/L107L108_p_page-0060.jpg",
+"slideImagePath": "images/L107L108_slide_46.jpg",
 "slideImageDescription": "The slide 'Receptor Regulation: Downregulation' defines it as the 'Loss of receptors from the cell surface' through internalization and degradation. It links this cellular mechanism to the clinical phenomenon of 'Tolerance', explaining why a higher dose is needed to achieve the same effect."
 },
 {
@@ -311,7 +311,7 @@ window.L107L108 = [
 {"text": "There is an increased risk of toxic response with a relatively small increase in dosage (small margin of safety).", "explanation": "The steep slope indicates that the dose range between the desired effect and toxicity is very narrow, increasing the risk of toxic response with small dose increases."}
 ],
 "correctAnswerIndex": 4,
-"slideImagePath": "images/L107L108_p_page-0025.jpg",
+"slideImagePath": "images/L107L108_slide_48.jpg",
 "slideImageDescription": "The slide 'Quantal Dose-Response Relationships' shows curves with different slopes. It notes that a 'Steep slope' implies that 'small increases in dose can lead to a large increase in the % of the population responding'. In the context of toxicity, this means a small dose escalation can rapidly recruit a large proportion of the population into the toxic range, implying a 'small margin of safety'."
 },
 {
@@ -326,7 +326,7 @@ window.L107L108 = [
 {"text": "Basal activity results from Ri-D stabilization; the neutral antagonist stabilizes Ra-D formation.", "explanation": "Inverse agonists stabilize Ri-D. Full agonists stabilize Ra-D formation."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L107L108_p_page-0051.jpg",
+"slideImagePath": "images/L107L108_slide_44.jpg",
 "slideImageDescription": "The slide 'Two-State Receptor Model' explains 'Neutral Antagonists'. It states they have 'Equal affinity for both $R_a$ and $R_i$'. Because they bind both forms equally, they 'Do not shift the equilibrium' and therefore 'Do not change the constitutive (basal) activity', matching the description."
 },
 {
@@ -341,7 +341,7 @@ window.L107L108 = [
 {"text": "Affinity -> Efficacy", "explanation": "Affinity and Efficacy are aspects of PD."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L107L108_p_page-0013.jpg",
+"slideImagePath": "images/L107L108_slide_13.jpg",
 "slideImageDescription": "The slide 'Physicochemical Properties' lists factors like 'Lipid Solubility', 'Ionization', and 'Size'. It states these determine the drug's 'ability to cross membranes' (PK) and 'interact with the receptor' (PD). It visually connects these properties to both the 'Pharmacokinetic phase' and 'Pharmacodynamic phase', demonstrating the link."
 },
 {
@@ -356,7 +356,7 @@ window.L107L108 = [
 {"text": "Chemical Antagonism", "explanation": "Chemical antagonism involves direct drug-drug interaction (sequestering or modifying the agonist)."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L107L108_p_page-0053.jpg",
+"slideImagePath": "images/L107L108_slide_53.jpg",
 "slideImageDescription": "The slide 'Allosteric Modulators' defines a 'Negative Allosteric Modulator (NAM)'. It states that it 'Binds to an allosteric site' (distinct from the active site) and 'Decreases the affinity and/or efficacy' of the agonist. This mechanism precisely matches the description of Maraviroc's action on the CCR5 receptor."
 },
 {
@@ -371,7 +371,7 @@ window.L107L108 = [
 {"text": "The antagonist stabilizes the Ri state, decreasing basal activity.", "explanation": "This is the action of an inverse agonist."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L107L108_p_page-0053.jpg",
+"slideImagePath": "images/L107L108_slide_53.jpg",
 "slideImageDescription": "The slide 'Irreversible Antagonist' (often grouped with Non-competitive) shows a graph where the agonist curve is flattened (reduced $E_{max}$). The text explains: 'Covalent binding... reduces the number of available receptors'. Since the total receptor pool is reduced, the maximal possible response ($E_{max}$) decreases, confirming the mechanism."
 },
 {
@@ -386,7 +386,7 @@ window.L107L108 = [
 {"text": "Resensitization", "explanation": "Resensitization is the *recovery* of the response after agonist withdrawal."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L107L108_p_page-0060.jpg",
+"slideImagePath": "images/L107L108_slide_46.jpg",
 "slideImageDescription": "The slide 'Receptor Desensitization' defines it as a 'Rapid decrease in responsiveness' occurring over 'minutes'. It explains the mechanism as 'uncoupling of the receptor from its G-protein' (often via phosphorylation). This acute loss of function without necessarily losing the receptor itself fits the definition of Desensitization."
 },
 {
@@ -401,7 +401,7 @@ window.L107L108 = [
 {"text": "TI is indefinable without the LD50 value.", "explanation": "The TI can be calculated using either TD50 or LD50."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L107L108_p_page-0064.jpg",
+"slideImagePath": "images/L107L108_slide_65.jpg",
 "slideImageDescription": "The slide 'Therapeutic Index' provides the formula $TI = TD_{50} / ED_{50}$. Applying the values: $160 / 5 = 32$. The slide text states that a 'Large TI = Safer Drug' and 'Small TI = Dangerous Drug'. A TI of 32 is relatively large, indicating a 'wide margin of safety', consistent with the correct option."
 },
 {
@@ -416,7 +416,7 @@ window.L107L108 = [
 {"text": "Drug P is an irreversible active site antagonist.", "explanation": "Antagonists inhibit response."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L107L108_p_page-0024.jpg",
+"slideImagePath": "images/L107L108_slide_44.jpg",
 "slideImageDescription": "The slide 'Efficacy' displays dose-response curves. It shows Drug A with a higher plateau than Drug B. The text defines Efficacy as the 'Maximal effect ($E_{max}$)' a drug can produce. It states this is determined by the drug's 'Intrinsic Activity'. Therefore, a greater $E_{max}$ for Drug P directly implies greater efficacy/intrinsic activity."
 },
 {
@@ -431,7 +431,7 @@ window.L107L108 = [
 {"text": "Voltage-gated ion channels", "explanation": "These respond to changes in membrane potential."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L107L108_p_page-0033.jpg",
+"slideImagePath": "images/L107L108_slide_46.jpg",
 "slideImageDescription": "The slide 'Transmembrane Signaling Mechanisms' lists 'Tyrosine Kinase Receptors'. It explicitly lists 'Insulin' as the ligand for this receptor type. The diagram shows dimerization and phosphorylation, characteristic of RTKs, confirming the classification."
 },
 {
@@ -446,7 +446,7 @@ window.L107L108 = [
 {"text": "The association rate (k+1) and the dissociation rate (k-1).", "explanation": "These rates define affinity (Kd)."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L107L108_p_page-0064.jpg",
+"slideImagePath": "images/L107L108_slide_48.jpg",
 "slideImageDescription": "The slide 'Therapeutic Index' clearly displays the formula: $TI = TD_{50} / ED_{50}$ (or $LD_{50}$). It explains that $ED_{50}$ is the 'Median Effective Dose' and $TD_{50}$ is the 'Median Toxic Dose' derived from population (quantal) studies. This confirms that these median doses are the specific data points used."
 },
 {
@@ -461,7 +461,7 @@ window.L107L108 = [
 {"text": "The unique ability to bind Ra and Ri but zero intrinsic activity.", "explanation": "Antagonists have zero intrinsic activity; partial agonists have some intrinsic activity."}
 ],
 "correctAnswerIndex": 0,
-"slideImagePath": "images/L107L108_p_page-0051.jpg",
+"slideImagePath": "images/L107L108_slide_44.jpg",
 "slideImageDescription": "The slide 'Two-State Receptor Model: Partial Agonist' states: 'Binds to both $R_a$ and $R_i$, but with slightly greater affinity for $R_a$'. This slight preference shifts the equilibrium only partially toward the active state, explaining the submaximal response characteristic of partial agonism."
 },
 {
@@ -476,7 +476,7 @@ window.L107L108 = [
 {"text": "The time required for 50% of the drug to be eliminated (t1/2).", "explanation": "This is a pharmacokinetic property."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L107L108_p_page-0035.jpg",
+"slideImagePath": "images/L107L108_slide_30.jpg",
 "slideImageDescription": "The slide 'Intrinsic Activity' defines it as: 'The ability of a drug, once bound to the receptor, to initiate changes... leading to an effect'. This definition aligns perfectly with the correct option, distinguishing it from affinity (binding) and efficacy (maximal outcome)."
 },
 {
@@ -491,7 +491,7 @@ window.L107L108 = [
 {"text": "Irreversible binding to the receptor, causing downregulation.", "explanation": "This describes irreversible antagonism (a receptor mechanism)."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L107L108_p_page-0056.jpg",
+"slideImagePath": "images/L107L108_slide_70.jpg",
 "slideImageDescription": "The slide 'Chemical Antagonism' defines it as 'Antagonism by direct chemical interaction'. It specifically cites 'Protamine (positive charge) binding to Heparin (negative charge)' as the classic example. This confirms the mechanism is a direct chemical neutralization, not a receptor-mediated event."
 },
 {
@@ -506,7 +506,7 @@ window.L107L108 = [
 {"text": "To definitively determine the therapeutic index (TI).", "explanation": "TI is calculated from quantal dose-response data."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L107L108_p_page-0020.jpg",
+"slideImagePath": "images/L107L108_slide_71.jpg",
 "slideImageDescription": "The slide comparing 'Linear vs Log Dose-Response Curves' shows the transformation from a hyperbola to a sigmoid. The text explains that the log scale 'expands the scale at low concentrations' and 'compresses at high concentrations', making it 'easier to analyze' and compare drugs (e.g., determining $EC_{50}$ in the linear portion). This highlights the utility of the transformation for data analysis."
 },
 {
@@ -521,7 +521,7 @@ window.L107L108 = [
 {"text": "Affects the drug's pharmacokinetics (distribution) by limiting the amount of free drug available to reach the target.", "explanation": "Binding to inert sites limits the free drug concentration, affecting distribution (PK) and reducing the pharmacological effect (PD)."}
 ],
 "correctAnswerIndex": 4,
-"slideImagePath": "images/L107L108_p_page-0032.jpg",
+"slideImagePath": "images/L107L108_slide_53.jpg",
 "slideImageDescription": "The slide 'Drug Binding' notes that drugs bind to 'inert binding sites' like albumin. It emphasizes that 'Only free (unbound) drug is available to bind receptors'. Therefore, high protein binding sequesters the drug, reducing the 'free fraction' available for distribution to the target site, directly impacting its pharmacokinetic profile and subsequent effect."
 },
 {
@@ -536,7 +536,7 @@ window.L107L108 = [
 {"text": "Drug X is 10-fold more potent than Drug Y.", "explanation": "Potency is primarily determined by affinity, which is the same in this scenario."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L107L108_p_page-0024.jpg",
+"slideImagePath": "images/L107L108_slide_53.jpg",
 "slideImageDescription": "The slide 'Potency vs Efficacy' displays curves for drugs with different properties. It visually demonstrates that efficacy corresponds to the height of the curve ($E_{max}$). Since Drug X is a full agonist, its curve reaches 100%, while Drug Y (partial) plateaus lower. However, since they have the 'same affinity', their curves would align horizontally (same $EC_{50}$), indicating equal potency. This visual confirms the correct relationship."
 },
 {
@@ -551,7 +551,7 @@ window.L107L108 = [
 {"text": "Plasma proteins to sequester the agonist.", "explanation": "This describes chemical antagonism."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L107L108_p_page-0055.jpg",
+"slideImagePath": "images/L107L108_slide_70.jpg",
 "slideImageDescription": "The slide 'Types of Antagonism: Physiological' defines it as 'Two drugs have opposite effects through action on *different* receptors'. It uses the example of 'Histamine vs Epinephrine' on bronchial smooth muscle. This parallels the Methacholine/Albuterol example, confirming the mechanism involves different receptors on the same tissue producing opposing effects."
 },
 {
@@ -566,7 +566,7 @@ window.L107L108 = [
 {"text": "It means the drug is a partial agonist and will never achieve Emax.", "explanation": "Spare receptors are a feature independent of whether an agonist is full or partial."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L107L108_p_page-0027.jpg",
+"slideImagePath": "images/L107L108_slide_27.jpg",
 "slideImageDescription": "The slide 'Spare Receptors' explains that $E_{max}$ can be achieved at low occupancy ($EC_{50} < K_d$). It states this 'Increases sensitivity to the agonist'. Increased sensitivity means a smaller dose is needed to achieve the effect, which is the definition of increased potency (lower $EC_{50}$), directly supporting the answer."
 },
 {
@@ -581,7 +581,7 @@ window.L107L108 = [
 {"text": "Irreversible Antagonism", "explanation": "This describes a binding mechanism, not a long-term regulatory process."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L107L108_p_page-0061.jpg",
+"slideImagePath": "images/L107L108_slide_46.jpg",
 "slideImageDescription": "The slide 'Receptor Upregulation' explicitly states: 'Continuous exposure to an antagonist... causes upregulation'. It defines this as an 'Increased number of receptors' synthesized and inserted into the membrane. This cellular mechanism is the direct answer to the question."
 },
 {
@@ -596,7 +596,7 @@ window.L107L108 = [
 {"text": "Chemical Antagonist", "explanation": "Chemical antagonists sequester the drug, they don't produce a receptor effect."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L107L108_p_page-0014.jpg",
+"slideImagePath": "images/L107L108_slide_44.jpg",
 "slideImageDescription": "The slide 'Agonists' defines a 'Full Agonist' as a drug that binds to a receptor and 'produces a maximal response'. Since the question states Phenylephrine produces 'maximal vasoconstriction', it fits the definition of a Full Agonist, distinct from partial agonists which would only produce a submaximal effect."
 },
 {
@@ -611,7 +611,7 @@ window.L107L108 = [
 {"text": "It is a neutral antagonist that eliminates the receptor's constitutive activity.", "explanation": "Neutral antagonists do not eliminate constitutive activity."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L107L108_p_page-0053.jpg",
+"slideImagePath": "images/L107L108_slide_53.jpg",
 "slideImageDescription": "The slide 'Competitive Antagonist' illustrates the effect of reversible active site binding. It shows the dose-response curve shifting to the right, which corresponds to an 'Increased $EC_{50}$' (decreased potency). It explicitly states this is 'Surmountable' by adding more agonist, perfectly matching the description of Inhibitor Z."
 },
 {
@@ -626,7 +626,7 @@ window.L107L108 = [
 {"text": "The agonist dissociates from the internalized receptor.", "explanation": "Dissociation occurs after internalization."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L107L108_p_page-0060.jpg",
+"slideImagePath": "images/L107L108_slide_60.jpg",
 "slideImageDescription": "The diagram 'Desensitization of Receptors' outlines the molecular pathway. Step 2 shows the 'Activated receptor' being phosphorylated by 'GRK'. Step 3 shows '$\beta$-Arrestin' binding to the phosphorylated receptor, which physically blocks G-protein coupling. This visual sequence confirms that phosphorylation and arrestin binding are the immediate steps preventing further signaling."
 },
 {
@@ -641,7 +641,7 @@ window.L107L108 = [
 {"text": "Neutral Antagonism", "explanation": "Neutral antagonism is a receptor-mediated concept."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L107L108_p_page-0056.jpg",
+"slideImagePath": "images/L107L108_slide_54.jpg",
 "slideImageDescription": "The slide 'Types of Antagonism: Chemical' defines it as 'Interaction between a drug and another molecule'. It provides the specific example: 'Protamine (positively charged) binds to Heparin (negatively charged)'. This direct chemical neutralization without receptor involvement is the definition of chemical antagonism."
 },
 {
@@ -656,7 +656,7 @@ window.L107L108 = [
 {"text": "An irreversible antagonist effect, requiring new receptor synthesis.", "explanation": "TI is a measure of population safety, not a mechanism of antagonism."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L107L108_p_page-0064.jpg",
+"slideImagePath": "images/L107L108_slide_65.jpg",
 "slideImageDescription": "The slide 'Therapeutic Index' defines $TI = TD_{50} / ED_{50}$. If $ED_{50}$ is close to $TD_{50}$, the ratio approaches 1, which is a 'Small TI'. The slide explicitly states 'Small TI = Dangerous Drug', confirming that this scenario represents a 'narrow margin of safety'."
 },
 {
@@ -671,7 +671,7 @@ window.L107L108 = [
 {"text": "The Ra-D complex binding to the coated pits.", "explanation": "This is a step in desensitization/downregulation."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L107L108_p_page-0060.jpg",
+"slideImagePath": "images/L107L108_slide_60.jpg",
 "slideImageDescription": "The diagram 'Desensitization and Resensitization' shows the receptor cycle. Step 5 depicts the receptor inside an endosome being 'Dephosphorylated' by a phosphatase ('P'ase'). Step 6 shows the receptor being returned to the cell surface. The text confirms this recycling and dephosphorylation allows the receptor to become responsive again ('Resensitization')."
 },
 {
@@ -686,7 +686,7 @@ window.L107L108 = [
 {"text": "Selectivity", "explanation": "Selectivity is the drug's ability to bind a single receptor type."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L107L108_p_page-0024.jpg",
+"slideImagePath": "images/L107L108_slide_53.jpg",
 "slideImageDescription": "The slide 'Potency vs Efficacy' compares drugs. It shows that drugs reaching the same $E_{max}$ (same efficacy) can have different positions on the X-axis. The drug further to the left (requiring lower concentration) has a lower $EC_{50}$ and is defined as more 'Potent'. This parameter ($EC_{50}$) is the specific measure distinguishing Drug M and N in this case."
 },
 {
@@ -701,7 +701,7 @@ window.L107L108 = [
 {"text": "The Therapeutic Window", "explanation": "The Therapeutic Window is a safety range for the population."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L107L108_p_page-0018.jpg",
+"slideImagePath": "images/L107L108_slide_12.jpg",
 "slideImageDescription": "The slide 'Drug-Receptor Interactions' introduces the theoretical basis. It explicitly states: 'Follows the Law of Mass Action'. This law describes the equilibrium binding ($D + R \leftrightarrow DR$) which underpins the assumption that effect is proportional to the complex $[DR]$ formed."
 },
 {
@@ -716,7 +716,7 @@ window.L107L108 = [
 {"text": "The antagonist stabilizes the Ri conformation, which is easily disrupted by the full agonist.", "explanation": "This describes an inverse agonist."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L107L108_p_page-0053.jpg",
+"slideImagePath": "images/L107L108_slide_53.jpg",
 "slideImageDescription": "The slide 'Competitive Antagonist' states that the antagonist 'Competes with agonist for the receptor binding site' in a 'Reversible' manner. It notes that the antagonism is 'Surmountable' because increasing the agonist concentration increases the probability of agonist binding over antagonist binding (Mass Action), shifting the curve right."
 },
 {
@@ -731,7 +731,7 @@ window.L107L108 = [
 {"text": "Pharmacogenetic variability", "explanation": "This is an innate difference in response among individuals, not an acquired dynamic change over time."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L107L108_p_page-0060.jpg",
+"slideImagePath": "images/L107L108_slide_46.jpg",
 "slideImageDescription": "The slide 'Pharmacodynamic Variability' defines 'Tachyphylaxis' as: 'Responsiveness diminishes rapidly after administration of a drug'. This rapid onset distinguishes it from general tolerance, matching the acute scenario described."
 },
 {
@@ -746,7 +746,7 @@ window.L107L108 = [
 {"text": "The Irreversible Antagonism Model", "explanation": "This describes a type of binding, not the receptor's basal state."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L107L108_p_page-0051.jpg",
+"slideImagePath": "images/L107L108_slide_44.jpg",
 "slideImageDescription": "The slide 'Two-State Receptor Model' introduces the concept. It shows the receptor existing in equilibrium between Inactive ($R_i$) and Active ($R_a$) forms *without* a ligand. The text states: 'In the absence of drug... a fraction of receptors [are] in the $R_a$ state... Constitutive activity'. This concept is central to the Two-State model, contrasting with the classical view."
 }
 ];

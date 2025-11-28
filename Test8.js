@@ -11,7 +11,7 @@ window.L112 = [
 {"text": "Jugular foramen of the occipital and temporal bones", "explanation": "The jugular foramen is an exit for CN IX, X, and XI, which are not involved in olfaction."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L112_p_page-0003.jpg",
+"slideImagePath": "images/L112_slide_3.jpg",
 "slideImageDescription": "The slide provides a detailed anatomical view of the olfactory nerve's path. It labels the 'cribriform plate' of the ethmoid bone and illustrates the olfactory nerve fibers passing through its perforations. The text explicitly states, '~10 nerves / bulb exit endocranium through the cribriform plate,' directly linking this bony structure to the pathway of the olfactory nerves implicated in the patient's anosmia."
 },
 {
@@ -26,7 +26,7 @@ window.L112 = [
 {"text": "Anterior two-thirds of the right side", "explanation": "The facial nerve (CN VII) carries taste information from the anterior two-thirds of the tongue via the chorda tympani on the ipsilateral side, and a proximal lesion would impair this function."}
 ],
 "correctAnswerIndex": 4,
-"slideImagePath": "images/L112_p_page-0014.jpg",
+"slideImagePath": "images/L112_slide_16.jpg",
 "slideImageDescription": "The slide titled 'Taste' features a color-coded diagram of the tongue's innervation. The anterior two-thirds of the tongue is colored blue and labeled 'CN VII' (Facial Nerve). This visual representation clearly demarcates the sensory territory of the facial nerve for taste, confirming that a lesion to the right facial nerve would affect taste on the anterior two-thirds of the right side of the tongue."
 },
 {
@@ -41,7 +41,7 @@ window.L112 = [
 {"text": "Chemoreceptors on the filiform papillae", "explanation": "Filiform papillae lack taste receptors and are primarily for gripping food; they are not the primary chemoreceptors for taste."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L112_p_page-0012.jpg",
+"slideImagePath": "images/L112_slide_12.jpg",
 "slideImageDescription": "The slide titled 'Taste' explains that 'Spicy is not a true taste but more of a neurological phenomenon.' It states that 'Nociception (pain) from spices like capsaicin are treated by the brain as a taste rather than normal pain.' The accompanying diagram shows 'Free nerve endings' as the receptor type involved, directly supporting the answer that nociceptors are responsible for the spicy sensation."
 },
 {
@@ -56,7 +56,7 @@ window.L112 = [
 {"text": "Reduced melanin production in the pigmented epithelium of the iris.", "explanation": "Melanin production determines eye color and is unrelated to the mechanical process of lens accommodation."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L112_p_page-0037.jpg",
+"slideImagePath": "images/L112_slide_37.jpg",
 "slideImageDescription": "The slide titled 'Accommodation' details the mechanism of near-point focus. It shows that 'Parasympathetic stimulation causes ciliary muscle to contract,' which in turn causes 'Zonular fibers relax.' The text explains that 'In the absence of stretching, internal tension causes lens to become more spherical (thicker) to refract light for near vision.' This confirms that active parasympathetic contraction is the driver for accommodation."
 },
 {
@@ -71,7 +71,7 @@ window.L112 = [
 {"text": "The arrangement must block all wavelengths of light to prevent retina damage.", "explanation": "The cornea only blocks high-energy photons like most UV light; its primary role is to transmit and refract visible light."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L112_p_page-0024.jpg",
+"slideImagePath": "images/L112_slide_24.jpg",
 "slideImageDescription": "The slide 'Fibrous Layer' contrasts the sclera and cornea. It states that 'Sclera and cornea have the same composition' but 'Collagen fibre orientation determines if light can pass through or not.' The accompanying diagram shows the parallel arrangement of collagen fibers in the cornea, which allows light transmission, as opposed to the random arrangement in the sclera."
 },
 {
@@ -86,7 +86,7 @@ window.L112 = [
 {"text": "All visual input from the right eye", "explanation": "The optic nerve carries all visual information from its respective eye, so a complete lesion before the chiasm results in total blindness in that eye."}
 ],
 "correctAnswerIndex": 4,
-"slideImagePath": "images/L112_p_page-0039.jpg",
+"slideImagePath": "images/L112_slide_39.jpg",
 "slideImageDescription": "The slide 'Visual Field' diagrams the visual pathway. It shows that the 'Optic nerve' carries all fibers from the ipsilateral eye before they reach the 'Optic chiasm.' Therefore, a lesion at the level of the right optic nerve (before the chiasm) would cut off all visual input from the right eye, resulting in total blindness in that eye, as opposed to field-specific losses seen with chiasmal or post-chiasmal lesions."
 },
 {
@@ -101,7 +101,7 @@ window.L112 = [
 {"text": "Damage to the choroid's vascular network causing hypoxia of the retina.", "explanation": "Choroid damage could lead to retinal hypoxia and detachment, but not directly to the lens opacification characteristic of cataracts."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L112_p_page-0041.jpg",
+"slideImagePath": "images/L112_slide_41.jpg",
 "slideImageDescription": "The slide 'Cataracts' explains the pathophysiology. It states that 'Protein breakdown exceeds repair rate as we age' and 'Denatured proteins build up in the lens thickening and clouding it.' It also lists risk factors such as 'Hypertension, poor nutrition & smoking,' directly supporting the mechanism of protein denaturation and accumulation as the cause."
 },
 {
@@ -116,7 +116,7 @@ window.L112 = [
 {"text": "Extracellular fluid surrounding the bony labyrinth", "explanation": "The bony labyrinth contains perilymph, which is similar to extracellular fluid, but the pathology specifically affects the endolymph within the membranous labyrinth."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L112_p_page-0047.jpg",
+"slideImagePath": "images/L112_slide_47.jpg",
 "slideImageDescription": "The slide 'Otic Capsule' details the fluids of the inner ear. It specifies that the 'membranous labyrinth' is 'Filled with endolymph' and includes the 'Semicircular duct' and 'ampulla.' BPPV pathology involves debris within these endolymph-filled spaces disrupting fluid mechanics, pointing to endolymph as the affected substance."
 },
 {
@@ -131,7 +131,7 @@ window.L112 = [
 {"text": "Control the flow of perilymph between the scala vestibuli and scala tympani.", "explanation": "The muscles act on the middle ear ossicles, not on the fluid dynamics of the bony labyrinth channels."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L112_p_page-0059.jpg",
+"slideImagePath": "images/L112_slide_59.jpg",
 "slideImageDescription": "The slide titled 'Sound Transmission' illustrates the middle ear. It states that 'Middle ear muscles reduce vibration of ear ossicles, dulling sound and protecting the inner ear.' It specifically labels the 'stapedius' and 'tensor tympani' muscles attached to the ossicles, confirming their role in dampening vibration."
 },
 {
@@ -146,7 +146,7 @@ window.L112 = [
 {"text": "Cochlear duct", "explanation": "The cochlear duct is the membranous labyrinth structure within the cochlea, filled with endolymph (similar to intracellular fluid), and it is where the Organ of Corti resides."}
 ],
 "correctAnswerIndex": 4,
-"slideImagePath": "images/L112_p_page-0058.jpg",
+"slideImagePath": "images/L112_slide_58.jpg",
 "slideImageDescription": "The slide 'Cochlea' clearly identifies the 'cochlear duct' as the central chamber. It states that the 'Organ of Corti' is the 'Sensory unit of the cochlea' located here. Furthermore, it notes that 'Stereocilia and endolymph composition are similar to rest of inner ear' (intracellular fluid-like), confirming the cochlear duct as the correct location."
 },
 {
@@ -161,7 +161,7 @@ window.L112 = [
 {"text": "Vestibulocochlear nerve (CN VIII) as it exits the brainstem", "explanation": "While damage here would cause sensorineural loss, the damage from loud sound is typically more peripheral at the sensory organ."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L112_p_page-0061.jpg",
+"slideImagePath": "images/L112_slide_61.jpg",
 "slideImageDescription": "The slide 'Hearing Loss' distinguishes between types. Under 'Sensorineural hearing loss,' it lists 'Result of damage to: stereocilia (\"hair cells\")'. The subsequent slide on headphones and hearing loss connects high volume (loud noise) to this type of damage, confirming that the stereocilia are the structures at risk."
 },
 {
@@ -176,7 +176,7 @@ window.L112 = [
 {"text": "Internal acoustic meatus", "explanation": "The internal acoustic meatus is the canal that the CN VII and CN VIII pass through, and it is not a part of the fluid-filled inner ear structures."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L112_p_page-0065.jpg",
+"slideImagePath": "images/L112_slide_47.jpg",
 "slideImageDescription": "The slide illustrating the 'Epley maneuver' shows a step-by-step process. The final step shows the 'Debris Deposited in Utricle; Patient Experiences Relief'. This explicitly identifies the Utricle (part of the vestibule) as the target destination for the displaced otoliths."
 },
 {
@@ -191,7 +191,7 @@ window.L112 = [
 {"text": "Inhibition of all vestibular nerve afferents due to endolymph stagnation.", "explanation": "Endolymph only stagnates if the movement stops; rotation causes fluid movement and asymmetric signaling."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L112_p_page-0054.jpg",
+"slideImagePath": "images/L112_slide_54.jpg",
 "slideImageDescription": "The slide 'Vestibular Organ' explains the mechanism of the semicircular canals. It states: 'Asymmetry of firing pattern determines which way the head is turning.' It explicitly lists the outcome: 'Depolarizing afferent neurons on turning side' and 'Hyperpolarizing afferent neurons on opposite side.' Thus, for a right turn, the right side depolarizes and the left hyperpolarizes."
 },
 {
@@ -206,7 +206,7 @@ window.L112 = [
 {"text": "Iris", "explanation": "The iris gives the eye its color and adjusts pupil diameter."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L112_p_page-0030.jpg",
+"slideImagePath": "images/L112_slide_30.jpg",
 "slideImageDescription": "The slide 'Vascular Layer: Choroid' describes this layer. It states: 'Feeds the internal structures of the eye', is 'Dark red in colour', and provides 'Blood supply to the retina'. This description perfectly matches the definition of the choroid."
 },
 {
@@ -221,7 +221,7 @@ window.L112 = [
 {"text": "Fovea centralis", "explanation": "The fovea is the center of the macula lutea where the non-photoreceptive cells slope away the most, leading to the sharpest vision."}
 ],
 "correctAnswerIndex": 4,
-"slideImagePath": "images/L112_p_page-0034.jpg",
+"slideImagePath": "images/L112_slide_34.jpg",
 "slideImageDescription": "The slide 'Neural Layer: Retina' describes the 'Macula lutea' and 'Fovea'. It defines the macula as a 'Pit... formed from non-photoreceptive cells angling away'. It explicitly states: 'The area of clearest vision is at the center of the macula lutea (= fovea)', confirming the fovea centralis as the site of maximal acuity."
 },
 {
@@ -236,7 +236,7 @@ window.L112 = [
 {"text": "Zonular fibers", "explanation": "Zonular fibers are under tension when the ciliary muscle is relaxed, maintaining the lens shape for distance vision."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L112_p_page-0043.jpg",
+"slideImagePath": "images/L112_slide_43.jpg",
 "slideImageDescription": "The slide 'Retinal detachment' explains the mechanics of attachment. It states: 'Neural layer of retina requires ocular pressure to maintain attachment to choroid'. It further notes that 'Injuries that reduce intraocular pressure put the retina at risk of detachment', directly answering the question."
 },
 {
@@ -251,7 +251,7 @@ window.L112 = [
 {"text": "Oval window", "explanation": "The oval window is where the stapes transfers energy *into* the inner ear, it is the entry point."}
 ],
 "correctAnswerIndex": 0,
-"slideImagePath": "images/L112_p_page-0057.jpg",
+"slideImagePath": "images/L112_slide_56.jpg",
 "slideImageDescription": "The slide 'Sound Transmission' diagrams the path of sound. It shows the wave traveling from the oval window through the cochlea and explicitly labels the release point as the 'round window' (secondary tympanic membrane). The text confirms: 'The remaining energy is released at the round window'."
 },
 {
@@ -266,7 +266,7 @@ window.L112 = [
 {"text": "Scleral venous sinus (Canal of Schlemm)", "explanation": "Closed-angle glaucoma occurs when the iris closes the drainage angle, obstructing the outflow of aqueous humor into the scleral venous sinus (Canal of Schlemm)."}
 ],
 "correctAnswerIndex": 4,
-"slideImagePath": "images/L112_p_page-0042.jpg",
+"slideImagePath": "images/L112_slide_42.jpg",
 "slideImageDescription": "The slide 'Glaucoma' illustrates the drainage pathway. It shows aqueous humor draining through the 'scleral venous sinus (canal of Schlemm)'. It defines 'Closed-angle glaucoma' as occurring when the 'iris closes drainage angle and obstructs outflow of aqueous', pinpointing the scleral venous sinus as the obstructed drainage site."
 },
 {
@@ -281,7 +281,7 @@ window.L112 = [
 {"text": "They skip the optic chiasm and travel through the optic canal to the midbrain.", "explanation": "All optic neurons pass through the optic chiasm, and the optic canal is where the nerve exits the skull."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L112_p_page-0039.jpg",
+"slideImagePath": "images/L112_slide_39.jpg",
 "slideImageDescription": "The slide 'Visual Field' provides a diagram of the optic pathway. It clearly shows the 'nasal hemiretina' fibers (in red) crossing over at the 'optic chiasm' to the contralateral side. The text reinforces this: 'Only nasal hemiretina neurons cross over (decussate) at the optic chiasm'."
 },
 {
@@ -296,7 +296,7 @@ window.L112 = [
 {"text": "Requiring cochlear implants for sound restoration.", "explanation": "Cochlear implants are used for sensorineural hearing loss; conductive loss is often treated with hearing aids or surgery."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L112_p_page-0060.jpg",
+"slideImagePath": "images/L112_slide_60.jpg",
 "slideImageDescription": "The slide 'Hearing Loss' lists symptoms of 'Conductive hearing loss'. It specifically notes that 'People speak softly thinking they are loud' due to the altered perception of their own voice via bone conduction, which contrasts with sensorineural loss."
 },
 {
@@ -311,7 +311,7 @@ window.L112 = [
 {"text": "Maintaining the internal pressure of the anterior compartment.", "explanation": "Aqueous humor maintains intraocular pressure."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L112_p_page-0028.jpg",
+"slideImagePath": "images/L112_slide_28.jpg",
 "slideImageDescription": "The slide 'Vascular Layer: Iris' states: 'Melanocytes in pigmented layer produce melanin' and 'Trapped melanin granules produce eye colour'. It concludes with 'More melanin = darker eyes', confirming that melanin is the determinant of eye color."
 },
 {
@@ -326,7 +326,7 @@ window.L112 = [
 {"text": "Trigeminal nerve (CN V₁)", "explanation": "CN V₁ is sensory to the upper face and is not involved in tongue innervation."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L112_p_page-0015.jpg",
+"slideImagePath": "images/L112_slide_15.jpg",
 "slideImageDescription": "The slide 'Taste' diagrams the nerve pathways. It states that the 'Chorda tympani... \"Hitches a ride\" with the lingual nerve (CN V3) to enter the tongue'. It clarifies that although bundled, the fibers remain separate, confirming the anatomical relationship."
 },
 {
@@ -341,7 +341,7 @@ window.L112 = [
 {"text": "Endolymphatic sac", "explanation": "The endolymphatic sac is involved in endolymph volume and pressure regulation."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L112_p_page-0050.jpg",
+"slideImagePath": "images/L112_slide_50.jpg",
 "slideImageDescription": "The slide 'Vestibular Organ' describes the 'Utricle'. It lists features: 'Horizontally aligned in the inner ear', 'Sensory neurons lie on the floor', and 'Senses horizontal acceleration'. This detailed description matches the question's criteria for the Utricle."
 },
 {
@@ -356,7 +356,7 @@ window.L112 = [
 {"text": "The cochlea detects frequency based on fluid composition, not wave distance.", "explanation": "Frequency detection relies on how far the mechanical pressure wave travels before maximally distorting the cochlear duct."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L112_p_page-0058.jpg",
+"slideImagePath": "images/L112_slide_58.jpg",
 "slideImageDescription": "The slide 'Cochlea' explains the mechanics of hearing. It states: 'Neuron activation occurs at different frequencies along the cochlea' and explicitly adds: 'Lower frequencies travel further up the spiral'. This confirms the tonotopic mapping where low tones reach the apex."
 },
 {
@@ -371,7 +371,7 @@ window.L112 = [
 {"text": "The vagus nerve (CN X) extending its coverage to the entire anterior tongue during fetal growth.", "explanation": "The vagus nerve (CN X) only innervates small regions of the tongue/pharynx."}
 ],
 "correctAnswerIndex": 0,
-"slideImagePath": "images/L112_p_page-0016.jpg",
+"slideImagePath": "images/L112_slide_16.jpg",
 "slideImageDescription": "The slide 'Taste' discusses embryology. It explains: 'Primordial tongue had proto facial nerve fibres that migrated from arch II to arch I and were dragged into the anterior tongue as it developed'. This developmental migration explains why the anterior tongue (Arch 1 derivative) is supplied by the nerve of Arch 2 (CN VII) for taste."
 },
 {
@@ -386,7 +386,7 @@ window.L112 = [
 {"text": "Cochlear and Vestibular System; Endolymph pressure changes.", "explanation": "These systems affect hearing and balance, not food flavor."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L112_p_page-0018.jpg",
+"slideImagePath": "images/L112_slide_18.jpg",
 "slideImageDescription": "The slide 'Coupled Senses: Flavour' explains that 'Smell and taste are deeply intwined' and '80% of flavour is smell'. It specifically notes: 'Lower air density in planes means these [foods] taste sweeter on the ground than in the air', attributing the blandness to the environmental effect on olfaction."
 },
 {
@@ -401,7 +401,7 @@ window.L112 = [
 {"text": "It exits the endocranium through the foramen magnum.", "explanation": "CN I exits through the cribriform plate."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L112_p_page-0007.jpg",
+"slideImagePath": "images/L112_slide_7.jpg",
 "slideImageDescription": "The slide 'Olfactory' shows the pathway. It states: 'Olfactory is the only cranial nerve to directly enter the cerebrum'. The diagram visually confirms the nerve connecting to the olfactory bulb/tract, which are extensions of the forebrain, bypassing the brainstem entirely."
 },
 {
@@ -416,7 +416,7 @@ window.L112 = [
 {"text": "Increased production of aqueous humor to flatten the lens against the cornea.", "explanation": "Aqueous humor maintains pressure; it doesn't actively shape the lens."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L112_p_page-0037.jpg",
+"slideImagePath": "images/L112_slide_38.jpg",
 "slideImageDescription": "The slide 'Accommodation' contrasts near and far vision. For 'Distant vision', it states: 'In the absence of nerve stimulation, the ciliary muscle is relaxed'. This relaxation puts 'Zonular fibers under tension', which 'stretches [the lens] thin', confirming the passive nature of distance focus."
 },
 {
@@ -431,7 +431,7 @@ window.L112 = [
 {"text": "Fluid movement within the semicircular canals.", "explanation": "The ampullary crests within the semicircular canals sense fluid movement."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L112_p_page-0051.jpg",
+"slideImagePath": "images/L112_slide_51.jpg",
 "slideImageDescription": "The slide 'Vestibular Organ: Otolith Organs' describes the 'Saccule'. It notes that neurons lie on the 'medial wall' (vertical orientation). It states its function is to 'Senses vertical acceleration' and acts as our 'gravity sensor', distinguishing it from the horizontal utricle."
 },
 {
@@ -446,7 +446,7 @@ window.L112 = [
 {"textm": "The brain constantly 'checking' the lost senses, leading to a constant phantom sensation.", "explanation": "This 'checking' behavior describes tinnitus, not anosmia/ageusia related appetite loss."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L112_p_page-0018.jpg",
+"slideImagePath": "images/L112_slide_18.jpg",
 "slideImageDescription": "The slide 'Coupled Senses: Flavour' highlights that 'Taste requires smell to bring out flavour'. It notes '80% of flavour is smell'. The loss of this coupled sensation makes food bland, which the lecture links to 'poor nutrition' (Slide 17) as patients lose interest in eating or use unhealthy additives."
 },
 {
@@ -461,7 +461,7 @@ window.L112 = [
 {"text": "Tensor tympani muscle of the middle ear.", "explanation": "The tensor tympani is in the ear and protects against loud sounds, unrelated to eye focus."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L112_p_page-0038.jpg",
+"slideImagePath": "images/L112_slide_38.jpg",
 "slideImageDescription": "The slide 'Accommodation' states: 'Relaxing the lens requires active contraction of the ciliary muscle'. It explicitly concludes: 'Eye strain is the result of an exhausted ciliary muscle', directly identifying the muscle responsible for the fatigue associated with near-work."
 },
 {
@@ -476,7 +476,7 @@ window.L112 = [
 {"text": "CN VII and CN XII", "explanation": "CN VII is motor to the face; CN XII is motor to the tongue."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L112_p_page-0066.jpg",
+"slideImagePath": "images/L112_slide_66.jpg",
 "slideImageDescription": "The diagram of the 'Vestibulo-ocular reflex' shows the pathway. It identifies the 'Afferent limb: vestibulocochlear'. The 'Efferent limb' is explicitly labeled as 'CNs III, IV, VI', which connect to the 'Lateral rectus' and 'Medial rectus' to control eye movement."
 },
 {
@@ -491,7 +491,7 @@ window.L112 = [
 {"text": "Perilymph", "explanation": "Perilymph fills the bony labyrinth of the inner ear, similar to extracellular fluid."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L112_p_page-0029.jpg",
+"slideImagePath": "images/L112_slide_29.jpg",
 "slideImageDescription": "The slide 'Vascular Layer: Ciliary Body' lists its functions. It states it is a 'ring of smooth muscle' that 'Produces aqueous humour'. This directly answers the question regarding its secretory function."
 },
 {
@@ -506,7 +506,7 @@ window.L112 = [
 {"text": "Vestibulo-ocular reflex (VOR)", "explanation": "Nystagmus is an involuntary eye movement (saccade) caused by a delay in the VOR, which is the reflex that couples the vestibular system with the eyes for gaze stabilization."}
 ],
 "correctAnswerIndex": 4,
-"slideImagePath": "images/L112_p_page-0068.jpg",
+"slideImagePath": "images/L112_slide_68.jpg",
 "slideImageDescription": "The slide 'Nystagmus' defines it as the 'Result of a delay in the vestibulo-ocular reflex'. It lists 'Acquired nystagmus' causes such as 'alcohol' and 'drug use', confirming that this specific reflex dysfunction underpins the condition."
 },
 {
@@ -521,7 +521,7 @@ window.L112 = [
 {"text": "Salivation and Swallowing", "explanation": "CN VII, IX, and X are involved in salivation and swallowing (motor/autonomic components)."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L112_p_page-0046.jpg",
+"slideImagePath": "images/L112_slide_46.jpg",
 "slideImageDescription": "The slide 'CN VIII - Vestibulocochlear' explains the nerve split. It lists '1. Vestibular nerve' serving the 'vestibular system (balance)' and '2. Cochlear nerve' serving the 'cochlea (hearing)'. This explicitly defines the two functional components."
 },
 {
@@ -536,7 +536,7 @@ window.L112 = [
 {"text": "It is found in the endolymphatic sac and is similar to cerebrospinal fluid.", "explanation": "It is found in the endolymphatic sac, but is chemically similar to intracellular fluid, not CSF."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L112_p_page-0047.jpg",
+"slideImagePath": "images/L112_slide_47.jpg",
 "slideImageDescription": "The slide 'Otic Capsule' differentiates the labyrinths. It states the 'membranous labyrinth' is 'Filled with endolymph', which has the 'Same constituency as intracellular fluid'. It lists the 'Cochlear duct' as a component of this system, confirming the answer."
 },
 {
@@ -551,7 +551,7 @@ window.L112 = [
 {"text": "Along the nasal septum and inferior concha.", "explanation": "The inferior concha is not part of the olfactory area."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L112_p_page-0005.jpg",
+"slideImagePath": "images/L112_slide_5.jpg",
 "slideImageDescription": "The slide 'Olfactory' shows the nasal conchae. It states: 'Only the superior concha and adjacent walls house olfactory epithelia'. This confirms the restricted localization of the sense of smell."
 },
 {
@@ -566,7 +566,7 @@ window.L112 = [
 {"text": "All neurons originating in the left visual cortex.", "explanation": "This would cause complex, high-level processing deficits, not a simple field cut."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L112_p_page-0039.jpg",
+"slideImagePath": "images/L112_slide_39.jpg",
 "slideImageDescription": "The slide 'Visual Field' illustrates the crossing at the chiasm. It shows that 'Only nasal hemiretina neurons cross over (decussate) at the optic chiasm'. Since nasal hemiretina neurons receive input from the 'temporal visual field' (outer edge), damage at the chiasm affects these crossing fibers, leading to bitemporal hemianopia."
 },
 {
@@ -581,7 +581,7 @@ window.L112 = [
 {"text": "Left saccule and right utricle.", "explanation": "The saccule and utricle are otolith organs and do not form an opposing pair for rotational movement sensing."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L112_p_page-0053.jpg",
+"slideImagePath": "images/L112_slide_53.jpg",
 "slideImageDescription": "The slide 'Vestibular Organ: Semicircular Canals' lists the '3 pairs of SCCs'. Pair 2 is 'right anterior & left posterior'. This pairing ensures that head movement activates one and inhibits the other, allowing precise directional sensing."
 },
 {
@@ -596,7 +596,7 @@ window.L112 = [
 {"text" : "Pupil aperture by the sphincter pupillae", "explanation": "The pupil and iris muscles are involved in closed-angle glaucoma, where the angle closes and obstructs outflow."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L112_p_page-0042.jpg",
+"slideImagePath": "images/L112_slide_42.jpg",
 "slideImageDescription": "The slide 'Glaucoma' describes 'Open-angle glaucoma'. It states: 'drainage angle is open; outflow of aqueous is blocked at trabeculae or scleral venous sinus'. This specific localization of the blockage distinguishes it from closed-angle forms."
 }
 ];

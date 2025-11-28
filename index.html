@@ -461,74 +461,316 @@
                             <div id="detailed-review-view" class="hidden">
                                 <button id="back-to-summary-btn"
                                     class="mb-8 flex items-center gap-2 text-secondary hover:text-primary transition font-medium">
-                                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <div class="h-8 w-px bg-gray-300 dark:bg-gray-700 hidden md:block"></div>
+
+                                    <div id="test-selector-nav"
+                                        class="flex flex-wrap justify-center md:justify-start gap-2"></div>
+                            </div>
+
+                            <div class="flex items-center gap-4">
+                                <button id="master-review-btn" class="btn-primary flex items-center gap-2">
+                                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                            d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+                                            d="M19.428 15.428a2 2 0 00-1.022-.547l-2.384-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z">
+                                        </path>
                                     </svg>
-                                    Back to Summary
+                                    Master Review
                                 </button>
-                                <div id="detailed-questions-container" class="space-y-8"></div>
+                                <button id="dark-mode-toggle"
+                                    class="p-2 rounded-full hover:bg-gray-200 dark:hover:bg-gray-700 transition text-secondary">
+                                    <svg id="theme-icon-light" class="w-6 h-6" fill="none" stroke="currentColor"
+                                        viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z">
+                                        </path>
+                                    </svg>
+                                    <svg id="theme-icon-dark" class="w-6 h-6 hidden" fill="none" stroke="currentColor"
+                                        viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z">
+                                        </path>
+                                    </svg>
+                                </button>
+                            </div>
+                            </nav>
+
+                            <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
+
+                                <aside class="lg:col-span-3 space-y-6">
+                                    <div class="card p-6 sticky top-28 glass-panel rounded-2xl">
+                                        <div class="flex justify-between items-center mb-6">
+                                            <h2
+                                                class="text-lg font-bold text-secondary uppercase tracking-wider text-xs">
+                                                Control Center
+                                            </h2>
+                                            <div class="flex items-center gap-2">
+                                                <span class="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
+                                                <span
+                                                    class="text-xs font-medium text-green-600 dark:text-green-400">Active</span>
+                                            </div>
+                                        </div>
+
+                                        <div class="subtle-card text-center p-6 mb-6">
+                                            <div class="text-xs font-semibold text-secondary uppercase mb-2">Time
+                                                Elapsed</div>
+                                            <div id="timer-display"
+                                                class="text-4xl font-mono font-bold tracking-tighter"
+                                                style="color: var(--accent-color)">00:00</div>
+                                            <div class="flex justify-center space-x-3 mt-4">
+                                                <button id="timer-start-btn"
+                                                    class="btn-primary py-1 px-4 text-sm">Start</button>
+                                                <button id="timer-pause-btn"
+                                                    class="hidden bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-1 px-4 rounded-lg text-sm transition">Pause</button>
+                                            </div>
+                                        </div>
+
+                                        <h3 class="font-semibold mb-3 text-sm text-secondary">Question Navigator</h3>
+                                        <div id="question-grid" class="grid grid-cols-5 gap-2 mb-6"></div>
+
+                                        <div class="space-y-2 text-xs text-secondary mb-6 subtle-card p-3">
+                                            <div class="flex items-center"><span
+                                                    class="w-2 h-2 rounded-full bg-gray-300 mr-2"></span>Unanswered
+                                            </div>
+                                            <div class="flex items-center"><span
+                                                    class="w-2 h-2 rounded-full bg-green-500 mr-2"></span>Correct</div>
+                                            <div class="flex items-center"><span
+                                                    class="w-2 h-2 rounded-full bg-red-500 mr-2"></span>Incorrect</div>
+                                            <div class="flex items-center"><span
+                                                    class="w-2 h-2 rounded-full bg-orange-500 mr-2"></span>Flagged</div>
+                                        </div>
+
+                                        <button id="finish-test-btn"
+                                            class="w-full bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-4 rounded-xl shadow-md transition transform hover:scale-[1.02] disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none">
+                                            Finish & Grade
+                                        </button>
+                                        <button id="reset-progress-btn"
+                                            class="w-full mt-3 text-sm text-center text-secondary hover:text-red-500 transition">
+                                            Reset Progress
+                                        </button>
+                                    </div>
+                                </aside>
+
+                                <main class="lg:col-span-9">
+                                    <div class="card shadow-lg min-h-[600px] flex flex-col glass-panel rounded-2xl">
+                                        <header
+                                            class="p-6 border-b border-default bg-opacity-50 backdrop-blur-sm rounded-t-2xl">
+                                            <div class="flex justify-between items-start">
+                                                <div>
+                                                    <h1 id="exam-title" class="text-3xl font-bold tracking-tight mb-2">
+                                                        Practice Exam</h1>
+                                                    <p class="text-secondary text-sm">Block 3 • Medical Sciences</p>
+                                                </div>
+                                            </div>
+                                            <div class="flex gap-6 mt-6">
+                                                <button id="tab-test" class="tab-btn tab-active pb-2 px-1">Practice
+                                                    Test</button>
+                                                <button id="tab-summary" class="tab-btn pb-2 px-1 disabled:opacity-30"
+                                                    disabled>Performance
+                                                    Summary</button>
+                                            </div>
+                                        </header>
+
+                                        <div id="main-content-area" class="p-6 lg:p-10 flex-grow">
+                                            <div id="test-view" class="animate-fade-in">
+                                                <div id="question-header"
+                                                    class="flex justify-between items-center mb-8">
+                                                    <span id="question-counter"
+                                                        class="text-sm font-bold uppercase tracking-wider text-secondary px-3 py-1 rounded-full"
+                                                        style="background-color: var(--bg-card-subtle)">Question
+                                                        1</span>
+                                                    <button id="flag-question-btn"
+                                                        class="flex items-center gap-2 text-secondary hover:text-orange-500 transition font-medium text-sm">
+                                                        <svg class="w-5 h-5" fill="none" stroke="currentColor"
+                                                            viewBox="0 0 24 24">
+                                                            <path stroke-linecap="round" stroke-linejoin="round"
+                                                                stroke-width="2"
+                                                                d="M3 21v-4m0 0V5a2 2 0 012-2h6.5l1 1H21l-3 6 3 6H8.5l-1-1H5a2 2 0 00-2 2zm9-13.5V9">
+                                                            </path>
+                                                        </svg>
+                                                        <span id="flag-btn-text">Flag</span>
+                                                    </button>
+                                                </div>
+
+                                                <div id="question-container" class="max-w-3xl mx-auto"></div>
+
+                                                <div id="slide-display-container"
+                                                    class="mt-8 p-6 rounded-xl subtle-card hidden border-l-4"
+                                                    style="border-color: var(--accent-color)">
+                                                    <h3 class="text-lg font-bold mb-4 flex items-center gap-2">
+                                                        <svg class="w-5 h-5" fill="none" stroke="currentColor"
+                                                            viewBox="0 0 24 24">
+                                                            <path stroke-linecap="round" stroke-linejoin="round"
+                                                                stroke-width="2"
+                                                                d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z">
+                                                            </path>
+                                                        </svg>
+                                                        Visual Aid
+                                                    </h3>
+                                                    <div id="slide-image-placeholder"></div>
+                                                </div>
+
+                                                <div id="navigation-container"
+                                                    class="mt-12 flex justify-between items-center pt-8 border-t border-default">
+                                                </div>
+                                            </div>
+
+                                            <div id="summary-view" class="hidden animate-fade-in">
+                                                <div id="summary-dashboard">
+                                                    <div class="text-center mb-10">
+                                                        <div
+                                                            class="inline-block p-3 rounded-full bg-green-100 dark:bg-green-900 text-green-600 dark:text-green-400 mb-4">
+                                                            <svg class="w-8 h-8" fill="none" stroke="currentColor"
+                                                                viewBox="0 0 24 24">
+                                                                <path stroke-linecap="round" stroke-linejoin="round"
+                                                                    stroke-width="2"
+                                                                    d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z">
+                                                                </path>
+                                                            </svg>
+                                                        </div>
+                                                        <h2 class="text-3xl font-bold">Exam Completed</h2>
+                                                        <p class="text-secondary mt-2">Here is how you performed</p>
+                                                    </div>
+
+                                                    <div
+                                                        class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center mb-12">
+                                                        <div
+                                                            class="flex flex-col items-center justify-center p-6 subtle-card rounded-2xl">
+                                                            <div class="w-48 h-48"><canvas
+                                                                    id="performance-chart"></canvas></div>
+                                                        </div>
+                                                        <div class="space-y-6">
+                                                            <div>
+                                                                <h3
+                                                                    class="text-sm font-bold text-secondary uppercase tracking-wider">
+                                                                    Total
+                                                                    Score</h3>
+                                                                <div class="flex items-baseline gap-3">
+                                                                    <p id="final-score" class="text-6xl font-bold"
+                                                                        style="color: var(--accent-color)"></p>
+                                                                    <p id="final-percentage"
+                                                                        class="text-2xl font-semibold text-secondary">
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                            <div id="performance-overview" class="space-y-4"></div>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="flex flex-col sm:flex-row gap-4 justify-center mb-12">
+                                                        <button id="view-all-btn" class="btn-secondary py-3 px-8">Review
+                                                            All
+                                                            Questions</button>
+                                                        <button id="view-incorrect-btn"
+                                                            class="btn-primary py-3 px-8 bg-red-500 hover:bg-red-600 border-none">Review
+                                                            Incorrect Only</button>
+                                                    </div>
+
+                                                    <div class="border-t border-default pt-8">
+                                                        <div class="flex justify-between items-center mb-6">
+                                                            <h3 class="text-lg font-bold">AI Study Assistant</h3>
+                                                            <button id="generate-prompt-btn"
+                                                                class="text-sm font-bold text-indigo-600 hover:text-indigo-700 flex items-center gap-1">
+                                                                <svg class="w-4 h-4" fill="none" stroke="currentColor"
+                                                                    viewBox="0 0 24 24">
+                                                                    <path stroke-linecap="round" stroke-linejoin="round"
+                                                                        stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z">
+                                                                    </path>
+                                                                </svg>
+                                                                Generate Study Plan
+                                                            </button>
+                                                        </div>
+                                                        <textarea id="prompt-output-area"
+                                                            class="w-full h-32 p-4 border border-default rounded-xl subtle-card text-sm focus:ring-2 focus:ring-indigo-500 focus:border-transparent outline-none transition"
+                                                            readonly
+                                                            placeholder="Click 'Generate Study Plan' to get a personalized study prompt based on your weak areas..."></textarea>
+                                                    </div>
+                                                </div>
+
+                                                <div id="detailed-review-view" class="hidden">
+                                                    <button id="back-to-summary-btn"
+                                                        class="mb-8 flex items-center gap-2 text-secondary hover:text-primary transition font-medium">
+                                                        <svg class="w-4 h-4" fill="none" stroke="currentColor"
+                                                            viewBox="0 0 24 24">
+                                                            <path stroke-linecap="round" stroke-linejoin="round"
+                                                                stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+                                                        </svg>
+                                                        Back to Summary
+                                                    </button>
+                                                    <div id="detailed-questions-container" class="space-y-8"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </main>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </main>
-        </div>
-    </div>
 
-    <div id="finish-modal" class="hidden fixed inset-0 z-50 flex items-center justify-center p-4">
-        <div id="modal-backdrop" class="absolute inset-0 bg-slate-900/50 backdrop-blur-sm transition-opacity"></div>
-        <div id="modal-content" class="card shadow-2xl p-8 w-full max-w-md z-10 transform transition-all scale-100">
-            <div class="text-center mb-6">
-                <div class="inline-block p-3 rounded-full bg-red-100 text-red-500 mb-4">
-                    <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                            d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z">
-                        </path>
-                    </svg>
-                </div>
-                <h3 class="text-2xl font-bold">Finish Exam?</h3>
-                <p id="modal-text" class="text-secondary mt-2">Are you sure you want to finish?</p>
-            </div>
-            <div class="flex gap-3">
-                <button id="modal-cancel-btn" class="flex-1 btn-secondary py-3">Cancel</button>
-                <button id="modal-confirm-btn"
-                    class="flex-1 bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-4 rounded-xl shadow-md transition">Finish
-                    Exam</button>
-            </div>
-        </div>
-    </div>
+                        <div id="finish-modal" class="hidden fixed inset-0 z-50 flex items-center justify-center p-4">
+                            <div id="modal-backdrop"
+                                class="absolute inset-0 bg-slate-900/50 backdrop-blur-sm transition-opacity"></div>
+                            <div id="modal-content"
+                                class="card shadow-2xl p-8 w-full max-w-md z-10 transform transition-all scale-100">
+                                <div class="text-center mb-6">
+                                    <div class="inline-block p-3 rounded-full bg-red-100 text-red-500 mb-4">
+                                        <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z">
+                                            </path>
+                                        </svg>
+                                    </div>
+                                    <h3 class="text-2xl font-bold">Finish Exam?</h3>
+                                    <p id="modal-text" class="text-secondary mt-2">Are you sure you want to finish?</p>
+                                </div>
+                                <div class="flex gap-3">
+                                    <button id="modal-cancel-btn" class="flex-1 btn-secondary py-3">Cancel</button>
+                                    <button id="modal-confirm-btn"
+                                        class="flex-1 bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-4 rounded-xl shadow-md transition">Finish
+                                        Exam</button>
+                                </div>
+                            </div>
+                        </div>
 
-    <script src="Test1.js"></script>
-    <script src="Test2.js"></script>
-    <script src="Test3.js"></script>
-    <script src="Test4.js"></script>
-    <script src="Test5.js"></script>
-    <script src="Test6.js"></script>
-    <script src="Test7.js"></script>
-    <script src="Test8.js"></script>
-    <script src="Test9.js"></script>
-    <script src="Test10.js"></script>
-    <script src="Test11.js"></script>
-    <script src="Test12.js"></script>
-    <script src="Test13.js"></script>
-    <script src="Test14.js"></script>
-    <script src="Test15.js"></script>
-    <script src="Test16.js"></script>
-    <script src="Test17.js"></script>
-    <script src="Test18.js"></script>
-    <script src="Test19.js"></script>
-    <script src="Test20.js"></script>
-    <script src="Test21.js"></script>
-    <script src="Test22.js"></script>
-    <script src="Test23.js"></script>
-    <script src="Test24.js"></script>
-    <script src="Test25.js"></script>
-    <script src="Test26.js"></script>
-    <script src="Test27.js"></script>
+                        <script src="Test1.js"></script>
+                        <script src="Test2.js"></script>
+                        <script src="Test3.js"></script>
+                        <script src="Test4.js"></script>
+                        <script src="Test5.js"></script>
+                        <script src="Test6.js"></script>
+                        <script src="Test7.js"></script>
+                        <script src="Test8.js"></script>
+                        <script src="Test9.js"></script>
+                        <script src="Test10.js"></script>
+                        <script src="Test11.js"></script>
+                        <script src="Test12.js"></script>
+                        <script src="Test13.js"></script>
+                        <script src="Test14.js"></script>
+                        <script src="Test15.js"></script>
+                        <script src="Test16.js"></script>
+                        <script src="Test17.js"></script>
+                        <script src="Test18.js"></script>
+                        <script src="Test19.js"></script>
+                        <script src="Test20.js"></script>
+                        <script src="Test21.js"></script>
+                        <script src="Test22.js"></script>
+                        <script src="Test23.js"></script>
+                        <script src="Test24.js"></script>
+                        <script src="Test25.js"></script>
+                        <script src="Test26.js"></script>
+                        <script src="Test27.js"></script>
+                        <script src="Test28.js"></script>
+                        <script src="Test29.js"></script>
+                        <script src="Test30.js"></script>
+                        <script src="Test31.js"></script>
+                        <script src="Test32.js"></script>
 
-    <script src="config.js"></script>
-    <script src="app.js"></script>
+                        <script src="Test33.js"></script>
+                        <script src="Test34.js"></script>
+                        <script src="Test35.js"></script>
+                        <script src="Test36.js"></script>
+                        <script src="Test37.js"></script>
+
+                        <script src="config.js"></script>
+                        <script src="app.js"></script>
 </body>
 
 </html>

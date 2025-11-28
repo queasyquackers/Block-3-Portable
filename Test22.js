@@ -11,7 +11,7 @@ window.L128 = [
 {"text": "Accumulation of water within the cytoplasm (cellular swelling)", "explanation": "Cellular swelling is a sign of reversible injury, not a physiologic adaptation like hypertrophy."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0010.jpg",
+"slideImagePath": "images/L128_slide_9.jpg",
 "slideImageDescription": "The diagram illustrates the biochemical mechanisms of hypertrophy. It shows mechanical stretch and agonists activating signal transduction pathways, which lead to the activation of transcription factors (GATA4, NFAT, MEF2). These factors induce the synthesis of contractile proteins and the production of growth factors, resulting in increased mechanical performance and cell size."
 },
 {
@@ -26,7 +26,7 @@ window.L128 = [
 {"text": "Infiltration of the myocardium by neutrophils", "explanation": "This would suggest acute inflammation or recent infarction, not adaptation."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L128_page-0008.jpg",
+"slideImagePath": "images/L128_slide_17.jpg",
 "slideImageDescription": "The slide displays a histological comparison between normal cardiac muscle and cardiac hypertrophy. The image labeled 'cardiac hypertrophy' shows significantly thickened muscle fibers and enlarged, hyperchromatic nuclei compared to the 'normal' tissue, visually confirming the cellular changes associated with hypertrophy."
 },
 {
@@ -41,7 +41,7 @@ window.L128 = [
 {"text": "Atrophy", "explanation": "Atrophy is a decrease in cell size or number."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L128_page-0021.jpg",
+"slideImagePath": "images/L128_slide_18.jpg",
 "slideImageDescription": "The slide shows a histological image of the endometrium. The text prompts the viewer to identify the cellular adaptation. The image on the right shows 'Normal' endometrium with spaced glands, while the image on the left shows crowded, numerous glands, illustrating hyperplasia."
 },
 {
@@ -56,7 +56,7 @@ window.L128 = [
 {"text": "Collagen synthesis", "explanation": "While fibrosis can occur in chronic injury, the primary intracellular mechanism for the reduction in muscle cell size is protein degradation."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0023.jpg",
+"slideImagePath": "images/L128_slide_23.jpg",
 "slideImageDescription": "The slide outlines the mechanisms of atrophy. It explicitly states: 'Degradation of cellular proteins occurs mainly by the ubiquitin-proteasome pathway' and 'Ligases attach ubiquitin to proteins targeting them for degradation in proteasomes'."
 },
 {
@@ -71,7 +71,7 @@ window.L128 = [
 {"text": "Carcinoma in situ", "explanation": "This represents full-thickness dysplasia and is a precursor to invasive cancer, not the adaptive change described."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0025.jpg",
+"slideImagePath": "images/L128_slide_31.jpg",
 "slideImageDescription": "The slide shows a histological image of the gastroesophageal junction. The labels point to the transition from normal squamous epithelium to abnormal glandular (columnar) epithelium with goblet cells. The text references 'Barrett's metaplasia,' confirming the diagnosis."
 },
 {
@@ -86,7 +86,7 @@ window.L128 = [
 {"text": "Apoptosis of all epithelial cells", "explanation": "While some cells die, the primary adaptive response is a change in cell type (metaplasia), not total tissue death."}
 ],
 "correctAnswerIndex": 0,
-"slideImagePath": "images/L128_page-0027.jpg",
+"slideImagePath": "images/L128_slide_31.jpg",
 "slideImageDescription": "The slide shows a histological image of 'Metaplastic bronchial epithelium.' It depicts the loss of the normal pseudostratified columnar architecture and its replacement by layers of squamous cells, visually demonstrating squamous metaplasia."
 },
 {
@@ -101,7 +101,7 @@ window.L128 = [
 {"text": "Detachment of ribosomes", "explanation": "This is a consequence of swelling and ATP depletion but is not the direct cause of the water influx."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0036.jpg",
+"slideImagePath": "images/L128_slide_36.jpg",
 "slideImageDescription": "The slide text states: 'Ischemia causes decreased oxidative phosphorylation and decreased ATP which then leads to decreased function of Na+ pump and subsequent influx of Ca, H2O and Na: resulting in cell swelling'. This directly links ATP depletion and pump failure to the morphological change."
 },
 {
@@ -116,7 +116,7 @@ window.L128 = [
 {"text": "Clumping of nuclear chromatin", "explanation": "This is an early change due to pH decrease and is often reversible."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L128_page-0048.jpg",
+"slideImagePath": "images/L128_slide_48.jpg",
 "slideImageDescription": "The slide titled 'Reversible v irreversible cell injury' lists 'inability to reverse mitochondrial dysfunction' and 'profound disturbances in membrane function' as the two phenomena characterizing irreversibility. This supports mitochondrial damage as a key indicator."
 },
 {
@@ -131,7 +131,7 @@ window.L128 = [
 {"text": "Metaplasia", "explanation": "Metaplasia is a change in cell type, not a nuclear change in necrosis."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L128_page-0038.jpg",
+"slideImagePath": "images/L128_slide_38.jpg",
 "slideImageDescription": "The slide describes nuclear changes in necrosis. It defines pyknosis as 'characterized by nuclear shrinkage and increased basophilia'. It also defines karyolysis and karyorrhexis, allowing differentiation between the terms."
 },
 {
@@ -146,7 +146,7 @@ window.L128 = [
 {"text": "Fibrinoid necrosis", "explanation": "This is seen in blood vessels involving immune complexes."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L128_page-0051.jpg",
+"slideImagePath": "images/L128_slide_51.jpg",
 "slideImageDescription": "The slide titled 'Coagulative necrosis' states: 'Architecture (cell outlines) preserved, nucleus disappears'. It also lists 'Heart, kidney, solid organs' as typical sites, directly matching the vignette."
 },
 {
@@ -161,7 +161,7 @@ window.L128 = [
 {"text": "Fat necrosis", "explanation": "This involves destruction of fat tissue."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0053.jpg",
+"slideImagePath": "images/L128_slide_53.jpg",
 "slideImageDescription": "The slide titled 'Liquefactive necrosis' describes it as 'Digestion of dead cells resulting in liquid, viscous mass' and cites 'Brain, abscess (bacteria)' as examples. This matches the description of the lung abscess."
 },
 {
@@ -176,7 +176,7 @@ window.L128 = [
 {"text": "Fat necrosis", "explanation": "Seen in pancreatitis/breast trauma."}
 ],
 "correctAnswerIndex": 3,
-"slideImagePath": "images/L128_page-0055.jpg",
+"slideImagePath": "images/L128_slide_55.jpg",
 "slideImageDescription": "The slide 'Caseous Necrosis' describes the 'Caseous (cheeselike) - friable white appearance' and links it to 'Tuberculosis, fungal infections' and 'granuloma'. The microscopic description matches the vignette perfectly."
 },
 {
@@ -191,7 +191,7 @@ window.L128 = [
 {"text": "Caspace-mediated apoptosis", "explanation": "This is programmed cell death, not the enzymatic necrosis seen here."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0057.jpg",
+"slideImagePath": "images/L128_slide_57.jpg",
 "slideImageDescription": "The slide describes the case of an alcoholic male with pancreatitis. It defines 'Fatty necrosis' as 'Areas of fat destruction, release of lipase enzyme which breaks down fatty acids in cell membranes'. The image shows the gross appearance of these lesions."
 },
 {
@@ -206,7 +206,7 @@ window.L128 = [
 {"text": "Liquefactive necrosis", "explanation": "Seen in brain/abscess."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0058.jpg",
+"slideImagePath": "images/L128_slide_58.jpg",
 "slideImageDescription": "The slide 'Fibrinoid necrosis' explains it is 'usually seen in vascular damage caused by immune reactions; Ag-Ab deposits in blood wall'. It describes the 'bright pink, amorphous appearance' called fibrinoid."
 },
 {
@@ -221,7 +221,7 @@ window.L128 = [
 {"text": "Random DNA degradation", "explanation": "Apoptosis involves orderly internucleosomal DNA cleavage (laddering), whereas necrosis involves random degradation."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L128_page-0072.jpg",
+"slideImagePath": "images/L128_slide_72.jpg",
 "slideImageDescription": "The comparison slide 'Necrotic Stimuli' vs 'Apoptotic Stimuli' lists 'Phagocytosis with no inflammatory response' under Apoptosis, contrasting it with Necrosis which 'Initiates inflammatory response'."
 },
 {
@@ -236,7 +236,7 @@ window.L128 = [
 {"text": "Selectins", "explanation": "These mediate leukocyte rolling in inflammation."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0067.jpg",
+"slideImagePath": "images/L128_slide_67.jpg",
 "slideImageDescription": "The slide 'Apoptosis - Intrinsic (Mitochondrial) pathway' states it is 'Inhibited by anti-apoptotic members of the BCL2 family' and that 'Changes in proportions of anti... and pro-apoptotic... factors lead to increased mitochondrial permeability'."
 },
 {
@@ -251,7 +251,7 @@ window.L128 = [
 {"text": "BCL2", "explanation": "Intracellular protein, not a surface receptor."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0068.jpg",
+"slideImagePath": "images/L128_slide_68.jpg",
 "slideImageDescription": "The slide 'Apoptosis - Extrinsic... Pathway' identifies 'Best-known death receptors are... Fas (CD95)'. It also mentions the pathway 'eliminates self-reactive lymphocytes and is a mechanism of cell killing by cytotoxic T lymphocytes'."
 },
 {
@@ -266,7 +266,7 @@ window.L128 = [
 {"text": "Caspase 10", "explanation": "Initiator caspase (Extrinsic)."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L128_page-0069.jpg",
+"slideImagePath": "images/L128_slide_69.jpg",
 "slideImageDescription": "The slide states: 'active forms of these caspases trigger rapid and sequential activation of executioner caspases, e.g., caspase-3 and caspase-6'."
 },
 {
@@ -281,7 +281,7 @@ window.L128 = [
 {"text": "Metaplasia", "explanation": "Change in cell type."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0062.jpg",
+"slideImagePath": "images/L128_slide_62.jpg",
 "slideImageDescription": "The slide 'Apoptosis: Physiological' lists 'Removal of supernumerary cells (excess of required number) during development' as a key example of physiologic apoptosis."
 },
 {
@@ -296,7 +296,7 @@ window.L128 = [
 {"text": "Fibrinoid necrosis", "explanation": "Vascular/immune."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0063.jpg",
+"slideImagePath": "images/L128_slide_63.jpg",
 "slideImageDescription": "The slide 'Apoptosis: pathological' lists 'Accumulation of misfolded proteins' as a cause, noting that 'cell death triggered by improperly folded intracellular proteins and the subsequent ER stress response'."
 },
 {
@@ -311,7 +311,7 @@ window.L128 = [
 {"text": "Apoptosis", "explanation": "Programmed cell death."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0034.jpg",
+"slideImagePath": "images/L128_slide_34.jpg",
 "slideImageDescription": "The slide defines Autophagy as: 'Process in which a cell eats its own contents... Nucleation and formation of an isolation membrane... Formation of a vesicle, the autophagosome'."
 },
 {
@@ -326,7 +326,7 @@ window.L128 = [
 {"text": "Zinc", "explanation": "Trace element, not a primary Fenton catalyst."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0044.jpg",
+"slideImagePath": "images/L128_slide_44.jpg",
 "slideImageDescription": "The slide states: 'Free iron and copper can catalyze formation of ROS. Normally, reactivity of these metals is minimized by binding to storage and transport proteins'."
 },
 {
@@ -341,7 +341,7 @@ window.L128 = [
 {"text": "Endonuclease", "explanation": "Degrades DNA."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0044.jpg",
+"slideImagePath": "images/L128_slide_44.jpg",
 "slideImageDescription": "The slide lists enzymes acting as free radical-scavenging systems: '1. Catalase, present in peroxisomes, decomposes H2O2 (2H2O2 -> O2 + 2H2O)'."
 },
 {
@@ -356,7 +356,7 @@ window.L128 = [
 {"text": "Hemosiderin", "explanation": "Brown granular pigment (iron)."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0075.jpg",
+"slideImagePath": "images/L128_slide_74.jpg",
 "slideImageDescription": "The slide 'Cellular accumulations' includes an image labeled 'Steatosis LIVER' showing hepatocytes full of large clear vacuoles (fat). The text notes: 'Inadequate removal... e.g., fatty change (steatosis) in the liver'."
 },
 {
@@ -371,7 +371,7 @@ window.L128 = [
 {"text": "Bilirubin", "explanation": "Bile pigment."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L128_page-0075.jpg",
+"slideImagePath": "images/L128_slide_74.jpg",
 "slideImageDescription": "The slide displays a microscopic image labeled 'Lipofuscin - Striated Muscle'. The text describes Lipofuscin as: ''wear and tear' pigment: polymer of lipids and phospholipids... may derive from lipid peroxidations'."
 },
 {
@@ -386,7 +386,7 @@ window.L128 = [
 {"text": "Amyloid", "explanation": "Extracellular protein, stains with Congo Red."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L128_page-0076.jpg",
+"slideImagePath": "images/L128_slide_74.jpg",
 "slideImageDescription": "The slide shows an image labeled 'Hemosiderin - Lung Alveoli'. It depicts macrophages containing brown pigment. The context connects this to 'broken down blood' and 'congestive heart failure'."
 },
 {
@@ -401,7 +401,7 @@ window.L128 = [
 {"text": "Jaundice", "explanation": "Bilirubin accumulation."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0076.jpg",
+"slideImagePath": "images/L128_slide_74.jpg",
 "slideImageDescription": "The slide displays a gross image of a lung with black pigment streaks and a microscopic image labeled 'Anthracosis'. It illustrates the black carbon deposits."
 },
 {
@@ -416,7 +416,7 @@ window.L128 = [
 {"text": "Gout", "explanation": "Uric acid crystals."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0078.jpg",
+"slideImagePath": "images/L128_slide_78.jpg",
 "slideImageDescription": "The slide defines Dystrophic Calcification: 'Normal serum calcium, areas of necrosis, damage... Calcium deposition on abnormal tissue'. It contrasts this with Metastatic calcification which involves hypercalcemia."
 },
 {
@@ -431,7 +431,7 @@ window.L128 = [
 {"text": "Apoptosis", "explanation": "Cell death."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0078.jpg",
+"slideImagePath": "images/L128_slide_78.jpg",
 "slideImageDescription": "The slide defines Metastatic Calcification: 'Normal tissue, hypercalcemia is usually present... Four major causes... bone destruction (e.g. tumors)'. It lists 'kidney, lung' as common sites."
 },
 {
@@ -446,7 +446,7 @@ window.L128 = [
 {"text": "Autophagy", "explanation": "Lysosomal degradation."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0073.jpg",
+"slideImagePath": "images/L128_slide_73.jpg",
 "slideImageDescription": "The slide 'Other mechanisms of cell death' describes Necroptosis: 'Caspase independent and depends on RIPK1-RIPK3 complex... Release of cellular contents evokes an inflammatory reaction'."
 },
 {
@@ -461,7 +461,7 @@ window.L128 = [
 {"text": "Necroptosis", "explanation": "RIPK dependent."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L128_page-0073.jpg",
+"slideImagePath": "images/L128_slide_73.jpg",
 "slideImageDescription": "The slide defines Pyroptosis: 'occurs in cells infected by microbes... Involves activation of caspases... resulting in lytic death of infected cell and release of inflammatory mediators'."
 },
 {
@@ -476,7 +476,7 @@ window.L128 = [
 {"text": "Autophagy", "explanation": "Lysosomal degradation."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L128_page-0073.jpg",
+"slideImagePath": "images/L128_slide_73.jpg",
 "slideImageDescription": "The slide defines Ferroptosis as: 'iron-dependent pathway of cell death induced by lipid peroxidation'."
 },
 {
@@ -491,7 +491,7 @@ window.L128 = [
 {"text": "Infiltration by inflammatory cells", "explanation": "Prostatitis."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0017.jpg",
+"slideImagePath": "images/L128_slide_17.jpg",
 "slideImageDescription": "The slide 'Hyperplasia' lists 'Pathological - e.g, inappropriate or excessive hormonal (endometrial hyperplasia, BPH)' as an example of increased cell number in response to stimulus."
 },
 {
@@ -506,7 +506,7 @@ window.L128 = [
 {"text": "Edema", "explanation": "Not the primary cause of growth."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L128_page-0017.jpg",
+"slideImagePath": "images/L128_slide_17.jpg",
 "slideImageDescription": "The slide 'Hyperplasia' states: 'Hyperplasia and hypertrophy may occur together in some tissue types... Physiologic... (breast at puberty/pregnancy...)'. The lecture notes on slide 7 also mention uterine growth during pregnancy as an example of physiologic hypertrophy."
 },
 {
@@ -521,7 +521,7 @@ window.L128 = [
 {"text": "Vitamin D deficiency", "explanation": "Affects bone/calcium."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L128_page-0031.jpg",
+"slideImagePath": "images/L128_slide_31.jpg",
 "slideImageDescription": "The table on the slide lists 'Urinary bladder' converting from 'Transitional epithelium' to 'Squamous epithelium' with the stimulus being 'Bladder stone'."
 },
 {
@@ -536,7 +536,7 @@ window.L128 = [
 {"text": "Black pigment", "explanation": "Describes carbon."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0077.jpg",
+"slideImagePath": "images/L128_slide_77.jpg",
 "slideImageDescription": "The slide 'Hyaline change' defines it as: 'alteration within cells or in extracellular space that gives a homogeneous, glassy, pink appearance in routine histologic sections stained with H&E'."
 },
 {
@@ -551,7 +551,7 @@ window.L128 = [
 {"text": "Endocrine atrophy", "explanation": "Due to loss of hormonal support."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L128_page-0022.jpg",
+"slideImagePath": "images/L128_slide_22.jpg",
 "slideImageDescription": "The slide 'Atrophy' lists 'Loss of innervation (denervation atrophy)' as a common cause."
 },
 {
@@ -566,7 +566,7 @@ window.L128 = [
 {"text": "Magnesium", "explanation": "Not the trigger."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L128_page-0047.jpg",
+"slideImagePath": "images/L128_slide_41.jpg",
 "slideImageDescription": "The diagram shows 'Increased cytosolic Ca2+' leading to 'Activation of cellular enzymes' (Phospholipase, Protease, Endonuclease, ATPase) which leads to 'Membrane Damage', 'Nuclear Damage', and decreased ATP. This cascade represents irreversible damage."
 },
 {
@@ -581,7 +581,7 @@ window.L128 = [
 {"text": "Epidermis", "explanation": "High turnover/hyperplasia."}
 ],
 "correctAnswerIndex": 2,
-"slideImagePath": "images/L128_page-0019.jpg",
+"slideImagePath": "images/L128_slide_19.jpg",
 "slideImageDescription": "The slide 'PERMANENT TISSUE' lists: 'Cardiac muscle, skeletal muscle, nervous tissue'. It notes they 'Generally does not regenerate'."
 },
 {
@@ -596,7 +596,7 @@ window.L128 = [
 {"text": "Desmoplasia", "explanation": "Fibrous tissue growth in tumors."}
 ],
 "correctAnswerIndex": 1,
-"slideImagePath": "images/L128_page-0031.jpg",
+"slideImagePath": "images/L128_slide_31.jpg",
 "slideImageDescription": "The table on the slide lists 'Cervix' converting from 'Glandular epithelium' to 'Squamous epithelium' due to the 'Low pH of vagina'."
 }
 ];

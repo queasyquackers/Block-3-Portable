@@ -11,7 +11,7 @@ window.L126 = [
       {"text": "Glucose-6-phosphate dehydrogenase (G6PD)", "explanation": "This is incorrect. G6PD is a host enzyme relevant to sulfonamide toxicity, not its antibacterial mechanism."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0013.jpg",
+    "slideImagePath": "images/L126_slide_5.jpg",
     "slideImageDescription": "The slide titled 'Inhibition of Folate Synthesis' displays a biochemical pathway diagram. Step 1 shows PABA being converted to Dihydrofolic acid by the enzyme 'Dihydropteroate synthase'. A red inhibitor arrow labeled 'Sulfonamides (PABA analogs)' points directly to this enzyme, illustrating the competitive inhibition mechanism."
   },
   {
@@ -26,7 +26,7 @@ window.L126 = [
       {"text": "Beta-lactamase", "explanation": "This is incorrect. This is a bacterial resistance enzyme."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L126_page-0013.jpg",
+    "slideImagePath": "images/L126_slide_7.jpg",
     "slideImageDescription": "The diagram on the 'Inhibition of Folate Synthesis' slide shows the sequential pathway. Step 2 depicts Dihydrofolic acid being converted to Tetrahydrofolic acid by the enzyme 'Dihydrofolate reductase'. A red inhibitor arrow labeled 'Trimethoprim' points to this specific enzymatic step, confirming it as the drug's target."
   },
   {
@@ -41,7 +41,7 @@ window.L126 = [
       {"text": "Treponema pallidum", "explanation": "This is incorrect. Sulfonamides are not effective against syphilis."}
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L126_page-0016.jpg",
+    "slideImagePath": "images/L126_slide_26.jpg",
     "slideImageDescription": "The slide 'Sulfonamides: Antimicrobial Activity' lists the spectrum of activity. Under 'Gram-negative bacteria', it explicitly lists 'Enterobacterales' including 'Escherichia coli, Klebsiella, Proteus, Salmonella, Shigella, Enterobacter', supporting this as the correct answer."
   },
   {
@@ -56,7 +56,7 @@ window.L126 = [
       {"text": "Production of a drug-destroying enzyme", "explanation": "This is incorrect. This is not the primary resistance mechanism for sulfonamides."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L126_page-0019.jpg",
+    "slideImagePath": "images/L126_slide_26.jpg",
     "slideImageDescription": "The slide 'Sulfonamides: Bacterial Resistance' lists mechanisms of acquired resistance. It explicitly includes 'Altered dihydropteroate synthase (encoded by folP gene) -> decreased affinity for sulfonamides', which matches the description in the question."
   },
   {
@@ -71,7 +71,7 @@ window.L126 = [
       {"text": "They displace bilirubin from albumin.", "explanation": "This is incorrect. The parent drug displaces bilirubin; the metabolites cause crystalluria."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L126_page-0020.jpg",
+    "slideImagePath": "images/L126_slide_27.jpg",
     "slideImageDescription": "The slide 'Sulfonamides: Pharmacokinetics' discusses metabolism. It states: 'Acetylated metabolites are inactive and less soluble than the parent drug' and 'Can precipitate in the urine -> crystalluria'. This directly links the metabolic process to the specific adverse effect."
   },
   {
@@ -86,7 +86,7 @@ window.L126 = [
       {"text": "Agranulocytosis", "explanation": "This is incorrect. This is a rare idiosyncratic reaction."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L126_page-0024.jpg",
+    "slideImagePath": "images/L126_slide_6.jpg",
     "slideImageDescription": "The slide 'Sulfonamides: Adverse Effects' lists Hematologic effects. It specifically highlights 'Acute hemolytic anemia' and notes in parentheses '(associated with glucose-6-phosphate dehydrogenase deficiency)', establishing the direct causal link."
   },
   {
@@ -101,7 +101,7 @@ window.L126 = [
       {"text": "Reye syndrome", "explanation": "This is incorrect. Associated with aspirin in children."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L126_page-0025.jpg",
+    "slideImagePath": "images/L126_slide_17.jpg",
     "slideImageDescription": "The slide 'Sulfonamides: Contraindications' lists 'Newborns and infants < 2 months'. The explanation provided is: 'Displace bilirubin from albumin -> kernicterus (bilirubin encephalopathy)', which explicitly answers the question."
   },
   {
@@ -116,7 +116,7 @@ window.L126 = [
       {"text": "Contact dermatitis", "explanation": "This is incorrect. This is a localized reaction."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L126_page-0023.jpg",
+    "slideImagePath": "images/L126_slide_6.jpg",
     "slideImageDescription": "The slide 'Sulfonamides: Adverse Effects' lists 'Hypersensitivity reactions'. Under this heading, it specifically lists 'Stevens-Johnson syndrome' and 'toxic epidermal necrolysis' as severe, potentially fatal skin reactions associated with these drugs."
   },
   {
@@ -131,7 +131,7 @@ window.L126 = [
       {"text": "Intrinsic factor secretion", "explanation": "This is incorrect. Related to B12."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L126_page-0029.jpg",
+    "slideImagePath": "images/L126_slide_7.jpg",
     "slideImageDescription": "The slide 'Trimethoprim: Adverse Effects' lists 'Megaloblastic anemia, leukopenia, and granulocytopenia'. The text explains that these effects occur 'especially in patients with folate deficiency' and can be 'reversed by simultaneous administration of folinic acid (leucovorin)', confirming the mechanism involves folate pathway inhibition in the host."
   },
   {
@@ -146,7 +146,7 @@ window.L126 = [
       {"text": "Altered membrane permeability", "explanation": "This is incorrect. Not the mechanism."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L126_page-0030.jpg",
+    "slideImagePath": "images/L126_slide_8.jpg",
     "slideImageDescription": "The slide titled 'Cotrimoxazole (TMP-SMX)' features a diagram showing the folate pathway. It visually demonstrates Sulfamethoxazole blocking the first enzyme and Trimethoprim blocking the second. The text states: 'Synergistic interaction... Sequential blockade of folate synthesis', confirming the mechanism of the bactericidal effect."
   },
   {
@@ -161,7 +161,7 @@ window.L126 = [
       {"text": "Histoplasma capsulatum", "explanation": "This is incorrect. Treated with itraconazole/amphotericin B."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0032.jpg",
+    "slideImagePath": "images/L126_slide_7.jpg",
     "slideImageDescription": "The slide 'Cotrimoxazole: Therapeutic Uses' lists specific indications. It prominently features '*Pneumocystis jirovecii* pneumonia (PCP)' as a key use for both 'Treatment and prophylaxis', identifying it as the drug of choice."
   },
   {
@@ -176,7 +176,7 @@ window.L126 = [
       {"text": "Clindamycin", "explanation": "This is incorrect. Not first-line."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L126_page-0032.jpg",
+    "slideImagePath": "images/L126_slide_8.jpg",
     "slideImageDescription": "The slide 'Cotrimoxazole: Therapeutic Uses' includes a list of specific organisms. It explicitly lists 'Nocardiosis' as an indication for TMP-SMX, supporting it as the drug of choice."
   },
   {
@@ -191,7 +191,7 @@ window.L126 = [
       {"text": "Primase", "explanation": "This is incorrect. Primase synthesizes RNA primers."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0042.jpg",
+    "slideImagePath": "images/L126_slide_38.jpg",
     "slideImageDescription": "The slide titled 'Fluoroquinolones: Mechanism of Action' states: 'Inhibit: DNA gyrase (topoisomerase II)'. It explains that this enzyme 'relieves DNA supercoiling', identifying it as the specific target involved in topological management of DNA."
   },
   {
@@ -206,7 +206,7 @@ window.L126 = [
       {"text": "RNA polymerase", "explanation": "This is incorrect. Transcription enzyme."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L126_page-0042.jpg",
+    "slideImagePath": "images/L126_slide_38.jpg",
     "slideImageDescription": "The 'Fluoroquinolones: Mechanism of Action' slide distinguishes targets by bacterial type. It states: 'Topoisomerase IV... Primary target in gram-positive bacteria' and notes its function is 'required for separation of daughter DNA molecules', confirming the answer."
   },
   {
@@ -221,7 +221,7 @@ window.L126 = [
       {"text": "Clostridioides difficile", "explanation": "This is incorrect. FQs can actually promote C. diff."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L126_page-0043.jpg",
+    "slideImagePath": "images/L126_slide_26.jpg",
     "slideImageDescription": "The slide 'Fluoroquinolones Classification' lists the 2nd generation agents. Under 'Ciprofloxacin', it highlights 'Very good activity against gram-negative bacilli' and specifically lists 'P. aeruginosa' as a key target within its spectrum."
   },
   {
@@ -236,7 +236,7 @@ window.L126 = [
       {"text": "Bacteroides fragilis", "explanation": "This is incorrect. Only Moxifloxacin has significant anaerobic activity, but the 'Respiratory' label comes from the Strep coverage."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L126_page-0044.jpg",
+    "slideImagePath": "images/L126_slide_54.jpg",
     "slideImageDescription": "The slide on '3rd Generation Levofloxacin' states it has 'Improved activity against gram-positive cocci' and specifically names 'S. pneumoniae'. It labels these as 'Respiratory fluoroquinolones', directly linking the name to the expanded gram-positive coverage."
   },
   {
@@ -251,7 +251,7 @@ window.L126 = [
       {"text": "Potentiates the risk of QT prolongation.", "explanation": "This is incorrect."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0045.jpg",
+    "slideImagePath": "images/L126_slide_39.jpg",
     "slideImageDescription": "The 'Fluoroquinolones Pharmacokinetics' slide has a section on 'Absorption'. It states: 'Chelation with cations (Al3+, Mg2+, Ca2+, Fe2+, Zn2+)... reduced absorption', providing the specific mechanism for this drug interaction."
   },
   {
@@ -266,7 +266,7 @@ window.L126 = [
       {"text": "Diabetic", "explanation": "This is incorrect. Diabetes is a risk for dysglycemia."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0047.jpg",
+    "slideImagePath": "images/L126_slide_55.jpg",
     "slideImageDescription": "The slide details the 'FDA Boxed Warning' for 'Tendinitis and Tendon Rupture'. It lists specific risk factors: 'all ages', but emphasizes risk is 'further increased in people > 60 years old' and 'taking corticosteroid drugs', confirming the correct patient demographic."
   },
   {
@@ -281,7 +281,7 @@ window.L126 = [
       {"text": "Myocardial infarction", "explanation": "This is incorrect."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L126_page-0048.jpg",
+    "slideImagePath": "images/L126_slide_39.jpg",
     "slideImageDescription": "The slide 'Fluoroquinolones: Adverse Effects' lists 'QT interval prolongation' as a cardiovascular effect. It explicitly states this 'can lead to Torsades de pointes', directly linking the EKG finding to the specific arrhythmia."
   },
   {
@@ -296,7 +296,7 @@ window.L126 = [
       {"text": "Liver (hepatotoxicity)", "explanation": "This is incorrect."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0053.jpg",
+    "slideImagePath": "images/L126_slide_34.jpg",
     "slideImageDescription": "The 'Fluoroquinolones: Cautions/Contraindications' slide lists 'Pregnancy' and 'Children < 18 years' as categories to avoid. The explanation given is 'Articular cartilage erosion (arthropathy)', identifying the specific tissue at risk."
   },
   {
@@ -311,7 +311,7 @@ window.L126 = [
       {"text": "Alteration of D-Ala-D-Ala", "explanation": "This is incorrect. Vancomycin resistance."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0054.jpg",
+    "slideImagePath": "images/L126_slide_45.jpg",
     "slideImageDescription": "The slide 'Fluoroquinolones: Resistance' lists mechanisms including 'Mutations in the genes encoding DNA gyrase and topoisomerase IV'. It also explicitly lists 'Active transport out of the bacteria (efflux pumps)' as a key mechanism of resistance."
   },
   {
@@ -326,7 +326,7 @@ window.L126 = [
       {"text": "Myocardial infarction", "explanation": "This is incorrect."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L126_page-0052.jpg",
+    "slideImagePath": "images/L126_slide_39.jpg",
     "slideImageDescription": "The slide 'FDA Warnings' explicitly states: 'Fluoroquinolones can increase the occurrence of aortic aneurysm rupture or dissection'. It advises avoiding them in patients at risk for this condition."
   },
   {
@@ -341,7 +341,7 @@ window.L126 = [
       {"text": "Lithium", "explanation": "This is incorrect. Renal excretion."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0056.jpg",
+    "slideImagePath": "images/L126_slide_39.jpg",
     "slideImageDescription": "The slide 'Fluoroquinolones: Drug Interactions' lists 'Inhibition of CYP1A2' by Ciprofloxacin. It lists 'Theophylline' as a specific drug whose metabolism is inhibited, leading to increased levels and toxicity."
   },
   {
@@ -356,7 +356,7 @@ window.L126 = [
       {"text": "Alanine", "explanation": "This is incorrect."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L126_page-0008.jpg",
+    "slideImagePath": "images/L126_slide_9.jpg",
     "slideImageDescription": "The slide displays the 'Chemical Structure of Sulfonamides'. It shows a side-by-side comparison of the Sulfanilamide structure and the 'Para-aminobenzoic acid (PABA)' structure, visually demonstrating their similarity. The text confirms they are 'Structural analogs'."
   },
   {
@@ -371,7 +371,7 @@ window.L126 = [
       {"text": "Gonorrhea", "explanation": "This is incorrect."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0017.jpg",
+    "slideImagePath": "images/L126_slide_15.jpg",
     "slideImageDescription": "The slide 'Sulfonamides: Therapeutic Uses' lists 'Sulfadiazine' and explicitly states its primary use: 'First-line therapy for acute toxoplasmosis (in combination with pyrimethamine)'."
   },
   {
@@ -386,7 +386,7 @@ window.L126 = [
       {"text": "Pneumonia", "explanation": "This is incorrect."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L126_page-0017.jpg",
+    "slideImagePath": "images/L126_slide_15.jpg",
     "slideImageDescription": "The slide 'Sulfonamides: Therapeutic Uses' lists 'Sulfasalazine'. It notes that it is 'Poorly absorbed' and used for 'Ulcerative colitis, enteritis, inflammatory bowel disease' due to the release of the anti-inflammatory 5-ASA."
   },
   {
@@ -401,7 +401,7 @@ window.L126 = [
       {"text": "They have equal affinity", "explanation": "This is incorrect. This would be fatally toxic."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L126_page-0028.jpg",
+    "slideImagePath": "images/L126_slide_26.jpg",
     "slideImageDescription": "The slide 'Trimethoprim' states its Mechanism of Action is inhibition of bacterial dihydrofolic acid reductase. It specifically notes the selectivity: '20,000 to 50,000 times more potent... for bacterial enzyme than... mammalian enzyme'."
   },
   {
@@ -416,7 +416,7 @@ window.L126 = [
       {"text": "Lactobacillus", "explanation": "This is incorrect."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0032.jpg",
+    "slideImagePath": "images/L126_slide_8.jpg",
     "slideImageDescription": "The 'Cotrimoxazole: Therapeutic Uses' slide lists 'Listeriosis' as an indication. It specifies it is used for 'Ampicillin-resistant strains or penicillin-allergic patients', confirming its role as an alternative for Listeria."
   },
   {
@@ -431,7 +431,7 @@ window.L126 = [
       {"text": "Ofloxacin", "explanation": "This is incorrect. Similar to Cipro."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0044.jpg",
+    "slideImagePath": "images/L126_slide_26.jpg",
     "slideImageDescription": "The slide '4th Generation: Moxifloxacin' lists its spectrum. It includes 'Anaerobes' and specifies 'Bacteroides fragilis (moderate activity)', contrasting it with the lack of anaerobic coverage in earlier generations."
   },
   {
@@ -446,7 +446,7 @@ window.L126 = [
       {"text": "Bile", "explanation": "This is incorrect."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0045.jpg",
+    "slideImagePath": "images/L126_slide_39.jpg",
     "slideImageDescription": "The 'Fluoroquinolones: Pharmacokinetics' slide mentions 'Distribution' is wide. It specifically notes 'High concentrations in... Lung', which aligns with the indication for respiratory infections."
   },
   {
@@ -461,7 +461,7 @@ window.L126 = [
       {"text": "Dysglycemia", "explanation": "This is incorrect. Insulin channel effect."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0048.jpg",
+    "slideImagePath": "images/L126_slide_48.jpg",
     "slideImageDescription": "The slide 'Fluoroquinolones: Adverse Effects' lists 'Central Nervous System' effects. It mentions 'GABA antagonists' and lists symptoms like 'insomnia, anxiety... seizures', linking the mechanism to the CNS toxicity."
   },
   {
@@ -476,7 +476,7 @@ window.L126 = [
       {"text": "Is prevented by taking B vitamins.", "explanation": "This is incorrect."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L126_page-0050.jpg",
+    "slideImagePath": "images/L126_slide_48.jpg",
     "slideImageDescription": "The slide 'FDA Warnings' addresses 'Peripheral Neuropathy'. It states the nerve damage 'may occur soon after these drugs are taken' and 'may be permanent', requiring discontinuation of the drug."
   },
   {
@@ -491,7 +491,7 @@ window.L126 = [
       {"text": "Gout", "explanation": "This is incorrect."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0051.jpg",
+    "slideImagePath": "images/L126_slide_39.jpg",
     "slideImageDescription": "The slide 'FDA Warnings' lists 'Dysglycemia'. It warns of 'Low blood sugar levels' which can result in coma, specifically mentioning the risk in 'older people and those with diabetes', confirming the need for monitoring."
   },
   {
@@ -506,7 +506,7 @@ window.L126 = [
       {"text": "Fibromyalgia", "explanation": "This is incorrect."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0053.jpg",
+    "slideImagePath": "images/L126_slide_39.jpg",
     "slideImageDescription": "The slide 'Fluoroquinolones: Cautions/Contraindications' has a Boxed Warning for 'Myasthenia gravis'. It states FQs 'may exacerbate muscle weakness' in these patients, supporting the contraindication."
   },
   {
@@ -521,7 +521,7 @@ window.L126 = [
       {"text": "Acetazolamide", "explanation": "This is incorrect. Carbonic anhydrase inhibitor."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0029.jpg",
+    "slideImagePath": "images/L126_slide_7.jpg",
     "slideImageDescription": "The slide 'Trimethoprim: Adverse Effects' lists 'Hyperkalemia'. It explains the mechanism: 'inhibition of the renal potassium excretion primarily via apical sodium channel inhibition... in the distal tubule (amiloride-like effect)'. This direct comparison confirms the answer."
   },
   {
@@ -536,7 +536,7 @@ window.L126 = [
       {"text": "Thymidine", "explanation": "This is incorrect."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L126_page-0019.jpg",
+    "slideImagePath": "images/L126_slide_26.jpg",
     "slideImageDescription": "The 'Sulfonamides: Bacterial Resistance' slide lists 'Overproduction of PABA' as a specific resistance mechanism. It explains that this 'overwhelms the competitive inhibition' of the drug."
   },
   {
@@ -551,7 +551,7 @@ window.L126 = [
       {"text": "Cholera", "explanation": "This is incorrect. Though used, Anthrax is the classic 'bioterror' indication."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0044.jpg",
+    "slideImagePath": "images/L126_slide_8.jpg",
     "slideImageDescription": "The slide describing '2nd Generation: Ciprofloxacin' lists its therapeutic uses. It explicitly includes 'Anthrax (Bacillus anthracis) - drug of choice for prophylaxis and treatment'."
   },
   {
@@ -566,7 +566,7 @@ window.L126 = [
       {"text": "Saliva", "explanation": "This is incorrect."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0045.jpg",
+    "slideImagePath": "images/L126_slide_39.jpg",
     "slideImageDescription": "The 'Fluoroquinolones: Pharmacokinetics' slide discusses excretion. It contrasts most FQs (renal) with 'Moxifloxacin', stating it is 'eliminated mainly by hepatic metabolism and biliary excretion'. It adds 'Do not use moxifloxacin for urinary tract infections', reinforcing this PK difference."
   },
   {
@@ -581,7 +581,7 @@ window.L126 = [
       {"text": "Facilitation of cellular entry", "explanation": "This is incorrect."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L126_page-0030.jpg",
+    "slideImagePath": "images/L126_slide_26.jpg",
     "slideImageDescription": "The diagram for 'Cotrimoxazole' illustrates the folate pathway with 'Sulfamethoxazole' blocking step 1 and 'Trimethoprim' blocking step 2. The text emphasizes 'Sequential blockade of folate synthesis' as the mechanism for 'Synergistic interaction'."
   },
   {
@@ -596,7 +596,7 @@ window.L126 = [
       {"text": "FQs are only used for pharyngeal gonorrhea infections.", "explanation": "This is incorrect. FQs are generally not recommended for any gonorrheal infections."}
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L126_page-0054.jpg",
+    "slideImagePath": "images/L126_slide_49.jpg",
     "slideImageDescription": "The slide 'Fluoroquinolones: Resistance' has a note regarding *Neisseria gonorrhoeae*. It states: 'Resistance is now common', implying that FQs are no longer first-line agents for this infection due to the high prevalence of resistant strains."
   }
 ];

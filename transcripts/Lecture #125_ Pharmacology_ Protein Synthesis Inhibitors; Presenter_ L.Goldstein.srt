@@ -1,0 +1,4710 @@
+1
+00:00:00,000 --> 00:00:01,850
+Welcome students
+to the Pharmacology
+
+2
+00:00:01,850 --> 00:00:04,590
+of Antibiotics. In
+this lecture we will
+
+3
+00:00:04,590 --> 00:00:07,310
+describe the
+protein synthesis
+
+4
+00:00:07,310 --> 00:00:09,950
+inhibitors. This is
+Dr. Goldstein speaking.
+
+5
+00:00:17,000 --> 00:00:18,640
+Here are the
+learning objectives.
+
+6
+00:00:18,680 --> 00:00:20,780
+On the right hand
+side I'm trying
+
+7
+00:00:20,780 --> 00:00:23,220
+to help you
+understand what these
+
+8
+00:00:23,220 --> 00:00:25,640
+learning objectives
+are eliciting.
+
+9
+00:00:26,140 --> 00:00:28,320
+Mechanisms,
+mechanisms, mechanisms.
+
+10
+00:00:28,980 --> 00:00:31,180
+I suggest you
+chunk concepts
+
+11
+00:00:31,180 --> 00:00:32,960
+together because
+it's a lot
+
+12
+00:00:32,960 --> 00:00:35,720
+easier to remember
+a few things
+
+13
+00:00:36,700 --> 00:00:41,120
+that include
+related ideas than
+
+14
+00:00:41,120 --> 00:00:43,970
+a bunch of
+individual details.
+
+15
+00:00:44,380 --> 00:00:47,500
+And I invite you to
+apply your knowledge,
+
+16
+00:00:53,530 --> 00:00:55,590
+preparation
+materials and links,
+
+17
+00:00:55,990 --> 00:00:59,530
+and key points. This
+is the same slide as
+
+18
+00:00:59,530 --> 00:01:02,610
+in the aminoglycosides
+lecture. I have a
+
+19
+00:01:02,610 --> 00:01:05,790
+picture in the upper
+right-hand corner of a
+
+20
+00:01:05,790 --> 00:01:10,650
+ribosome, bacterial
+ribosome, with the protein
+
+21
+00:01:10,650 --> 00:01:15,550
+synthesis machinery
+indicated in colors
+
+22
+00:01:17,270 --> 00:01:19,410
+and here are key points
+that you're going
+
+23
+00:01:19,410 --> 00:01:22,410
+to need you can use
+this as a summary you
+
+24
+00:01:22,410 --> 00:01:24,930
+can use it as an overview
+you can use it to
+
+25
+00:01:24,930 --> 00:01:28,250
+help you in your
+review any any way you
+
+26
+00:01:28,250 --> 00:01:32,710
+like to use it it's up
+to you as you can see
+
+27
+00:01:32,710 --> 00:01:37,210
+there are numerous
+drugs in this protein
+
+28
+00:01:37,210 --> 00:01:40,650
+synthesis group, protein
+synthesis inhibitor
+
+29
+00:01:40,650 --> 00:01:48,490
+group, and here we
+have a little mind map
+
+30
+00:01:48,490 --> 00:01:52,290
+of the groups. We have
+our broad spectrum,
+
+31
+00:01:53,240 --> 00:01:54,170
+chloramphenicol and the
+
+32
+00:01:54,170 --> 00:01:56,290
+tetracycline, the
+moderate spectrum,
+
+33
+00:01:56,450 --> 00:01:58,910
+just the macrolides,
+the other
+
+34
+00:01:58,910 --> 00:02:00,810
+group is ketolides
+have been
+
+35
+00:02:00,810 --> 00:02:03,370
+discontinued, and
+the narrow spectrum,
+
+36
+00:02:03,490 --> 00:02:05,730
+lincosamides
+and linezolid.
+
+37
+00:02:06,350 --> 00:02:09,190
+This is a newer group.
+
+38
+00:02:09,310 --> 00:02:11,650
+I'm not going to
+be giving you the
+
+39
+00:02:11,650 --> 00:02:14,070
+pharmacology on
+that because I doubt
+
+40
+00:02:14,070 --> 00:02:16,250
+that it will be
+on the boards. You
+
+41
+00:02:16,250 --> 00:02:18,070
+might see it in
+clinical practice and
+
+42
+00:02:18,070 --> 00:02:19,940
+you'll be able to
+pick it up easily.
+
+43
+00:02:23,190 --> 00:02:27,220
+this is a little scheme
+a little pictorial
+
+44
+00:02:27,290 --> 00:02:32,230
+to help you visualize
+the different
+
+45
+00:02:32,230 --> 00:02:34,970
+mechanisms I'll go into
+them in more detail this
+
+46
+00:02:34,970 --> 00:02:37,010
+might be something
+that helps you in your
+
+47
+00:02:37,010 --> 00:02:40,610
+review and you can
+draw it out maybe copy
+
+48
+00:02:40,610 --> 00:02:43,850
+the drawings and see
+how the drugs work
+
+49
+00:02:44,850 --> 00:02:48,430
+antibiotic resistance
+mechanisms we have
+
+50
+00:02:48,430 --> 00:02:52,030
+gone over before that
+the concepts are the
+
+51
+00:02:52,030 --> 00:02:56,410
+same you can apply them
+to the protein synthesis
+
+52
+00:02:56,410 --> 00:02:59,860
+inhibitors as you did
+for other antibiotics
+
+53
+00:03:00,150 --> 00:03:04,590
+intrinsic resistance
+microorganism just
+
+54
+00:03:04,590 --> 00:03:07,550
+will not be responsive
+to a drug no matter
+
+55
+00:03:07,550 --> 00:03:10,890
+what and acquired
+resistance in which an
+
+56
+00:03:10,890 --> 00:03:14,750
+organism was initially
+responsive but then
+
+57
+00:03:14,750 --> 00:03:18,570
+has acquired various
+mechanisms that allow
+
+58
+00:03:18,570 --> 00:03:21,750
+it to survive in the
+presence of the drug.
+
+59
+00:03:24,670 --> 00:03:27,830
+Frequent or long-term
+use of a particular
+
+60
+00:03:27,830 --> 00:03:31,330
+drug increases the
+risk of microbial
+
+61
+00:03:31,330 --> 00:03:35,690
+mutations that produce
+resistance. It is up
+
+62
+00:03:35,690 --> 00:03:40,630
+to all of us, on a
+patient-to-patient basis,
+
+63
+00:03:40,630 --> 00:03:43,110
+to combat resistance
+by following
+
+64
+00:03:43,110 --> 00:03:50,130
+stewardship guidelines
+and educating patients,
+
+65
+00:03:50,130 --> 00:03:54,290
+encouraging patients
+through knowledge
+
+66
+00:03:54,290 --> 00:03:58,130
+to help us out with
+combating resistance.
+
+67
+00:04:01,150 --> 00:04:03,930
+we'll begin with the
+tetracyclines this is
+
+68
+00:04:03,930 --> 00:04:07,410
+an old group it's in
+fact the third group
+
+69
+00:04:07,410 --> 00:04:09,890
+of antibiotics to have
+been commercialized
+
+70
+00:04:09,890 --> 00:04:13,510
+in the 20th century
+sulfanilamide was
+
+71
+00:04:13,510 --> 00:04:18,070
+first and then came
+penicillin and then the
+
+72
+00:04:18,070 --> 00:04:21,470
+tetracyclines erythromycin
+followed maybe
+
+73
+00:04:21,470 --> 00:04:24,840
+five years later in
+1952, and then the
+
+74
+00:04:24,840 --> 00:04:28,310
+cephalosporins about
+10 or 12 years later.
+
+75
+00:04:29,190 --> 00:04:33,350
+I put STARS on the
+important drugs to know.
+
+76
+00:04:34,120 --> 00:04:35,870
+Well, they're all
+important to know
+
+77
+00:04:35,870 --> 00:04:38,510
+eventually, but for now,
+this is all you need
+
+78
+00:04:38,510 --> 00:04:41,590
+to know. They are
+likely to be tested
+
+79
+00:04:41,590 --> 00:04:43,670
+on the boards. You're
+likely to see them
+
+80
+00:04:43,670 --> 00:04:46,810
+in clinical practice,
+And they demonstrate
+
+81
+00:04:46,810 --> 00:04:48,760
+the concepts of
+the tetracyclines.
+
+82
+00:04:51,290 --> 00:04:53,910
+Class pharmacokinetic
+properties.
+
+83
+00:04:53,950 --> 00:04:58,130
+A few things I want
+to point out is the
+
+84
+00:04:58,130 --> 00:05:02,030
+bioavailability of
+tetracycline is good.
+
+85
+00:05:02,190 --> 00:05:05,100
+Doxycycline and
+minocycline, about 100%.
+
+86
+00:05:07,930 --> 00:05:09,930
+Doxycycline and
+minocycline are
+
+87
+00:05:09,930 --> 00:05:11,650
+not, sorry,
+tetracycline are
+
+88
+00:05:11,650 --> 00:05:14,470
+not metabolized.
+The others are.
+
+89
+00:05:15,610 --> 00:05:17,330
+Toxycycline is excreted
+
+90
+00:05:17,330 --> 00:05:18,990
+in feces, not urine.
+
+91
+00:05:22,470 --> 00:05:25,690
+No renal adjustment
+and dosing is needed.
+
+92
+00:05:27,010 --> 00:05:29,790
+The half-lives
+vary, actually,
+
+93
+00:05:29,790 --> 00:05:31,070
+according to the drug.
+
+94
+00:05:31,460 --> 00:05:33,070
+Tigacycline's
+got a long half
+
+95
+00:05:33,070 --> 00:05:36,490
+-life. This is in
+IV only, and it's
+
+96
+00:05:36,490 --> 00:05:38,870
+for serious
+infections only.
+
+97
+00:05:39,790 --> 00:05:42,290
+Protein binding,
+pretty high,
+
+98
+00:05:42,290 --> 00:05:44,290
+widely distributed
+in body fluids.
+
+99
+00:05:44,290 --> 00:05:45,840
+That's what we
+would expect.
+
+100
+00:05:46,230 --> 00:05:49,730
+Deposits in growing
+bones and tooth enamel.
+
+101
+00:05:50,170 --> 00:05:54,030
+Hence, tetracyclines
+have traditionally been
+
+102
+00:05:54,470 --> 00:05:57,210
+contraindicated in the
+pregnant individual
+
+103
+00:05:57,210 --> 00:06:00,390
+and young children.
+Children less than eight
+
+104
+00:06:00,390 --> 00:06:03,420
+years old. This will
+be on the boards or
+
+105
+00:06:03,420 --> 00:06:05,710
+potentially be on the
+boards. I don't know if
+
+106
+00:06:05,710 --> 00:06:09,250
+it would be on your
+exam, but it could be.
+
+107
+00:06:09,550 --> 00:06:12,570
+Now, I've put a circle
+around this part.
+
+108
+00:06:14,430 --> 00:06:16,630
+Doxycycline has
+a relatively
+
+109
+00:06:16,630 --> 00:06:18,510
+low affinity for calcium.
+
+110
+00:06:19,250 --> 00:06:22,150
+The American College
+of Pediatrics now
+
+111
+00:06:22,150 --> 00:06:25,610
+recommends that
+doxycycline can be used
+
+112
+00:06:25,610 --> 00:06:29,350
+in young children and
+pregnant people if
+
+113
+00:06:29,350 --> 00:06:33,350
+it is for 21 days or
+less. And doxycycline
+
+114
+00:06:33,350 --> 00:06:38,530
+is usually less.
+It's 7, 10, 14 days.
+
+115
+00:06:40,600 --> 00:06:42,590
+Tetracyclines that
+remain in the gut
+
+116
+00:06:42,590 --> 00:06:46,130
+lumen, like
+tetracycline, which
+
+117
+00:06:46,130 --> 00:06:51,910
+has 25%, could stay
+in the gut lumen,
+
+118
+00:06:51,910 --> 00:06:54,730
+will modify the
+intestinal flora.
+
+119
+00:06:54,730 --> 00:06:57,290
+And that said,
+all antibiotics
+
+120
+00:06:57,290 --> 00:06:58,770
+actually can do that.
+
+121
+00:06:59,230 --> 00:07:01,330
+Getting back
+to the calcium
+
+122
+00:07:01,330 --> 00:07:04,510
+issue, chelation
+in the GI tract by
+
+123
+00:07:04,510 --> 00:07:06,690
+the dye and
+trivalent cations
+
+124
+00:07:07,070 --> 00:07:11,010
+will prevent the
+drug from being
+
+125
+00:07:11,010 --> 00:07:13,030
+absorbed, reduce the
+
+126
+00:07:13,030 --> 00:07:15,870
+bioavailability,
+reduce the efficacy.
+
+127
+00:07:17,910 --> 00:07:21,230
+Antacids, mineral
+supplements given at the
+
+128
+00:07:21,230 --> 00:07:24,610
+same time, so they have
+to be separated. it.
+
+129
+00:07:26,810 --> 00:07:30,350
+These drugs can cause
+nausea, vomiting,
+
+130
+00:07:30,350 --> 00:07:33,590
+so taking them with
+food would be nice,
+
+131
+00:07:33,590 --> 00:07:36,230
+wouldn't it? That can
+help, but you can't
+
+132
+00:07:36,230 --> 00:07:40,010
+take tetracycline, the
+original dameclacycline,
+
+133
+00:07:40,010 --> 00:07:43,650
+or this newer one,
+with food. But
+
+134
+00:07:43,650 --> 00:07:48,090
+you can doxycycline,
+menocycline, and this
+
+135
+00:07:48,090 --> 00:07:50,590
+newer one. They can
+be taken with food
+
+136
+00:07:50,590 --> 00:07:54,070
+and that can ease up
+the nausea problem.
+
+137
+00:07:56,090 --> 00:08:00,910
+Picture of teeth
+stained by tetracycline
+
+138
+00:08:00,910 --> 00:08:04,450
+when this individual's
+mother took it
+
+139
+00:08:04,450 --> 00:08:07,030
+during pregnancy or
+possibly the child
+
+140
+00:08:07,030 --> 00:08:10,170
+was given it and
+so the tetracycline
+
+141
+00:08:10,190 --> 00:08:15,470
+chelated with the
+calcium, complexed
+
+142
+00:08:15,470 --> 00:08:19,490
+with the calcium in
+the growing permanent
+
+143
+00:08:19,490 --> 00:08:22,870
+teeth. And that's
+what it looks like.
+
+144
+00:08:24,450 --> 00:08:26,290
+Mechanism of action.
+
+145
+00:08:26,890 --> 00:08:28,170
+Down here.
+
+146
+00:08:30,230 --> 00:08:34,330
+So think tetracycline,
+the small ribosome,
+
+147
+00:08:34,330 --> 00:08:38,810
+the 30S ribosome, and
+the first spot. Small
+
+148
+00:08:38,810 --> 00:08:42,550
+and first, tetracycline.
+So tetracycline
+
+149
+00:08:42,550 --> 00:08:47,170
+binds to the 30S
+ribosome at the acceptor
+
+150
+00:08:47,170 --> 00:08:53,630
+site, the A site, and
+that will block the
+
+151
+00:08:53,630 --> 00:08:57,410
+incoming tRNA from
+binding. So it doesn't bind
+
+152
+00:08:57,410 --> 00:09:00,230
+here, and if it doesn't
+bind, it therefore
+
+153
+00:09:00,230 --> 00:09:03,450
+cannot add any amino
+acids to the growing
+
+154
+00:09:03,450 --> 00:09:06,550
+chain, and protein
+synthesis is stopped.
+
+155
+00:09:06,550 --> 00:09:10,170
+These are irreversible.
+Sorry, reversible.
+
+156
+00:09:10,930 --> 00:09:12,030
+reversible
+
+157
+00:09:19,630 --> 00:09:24,570
+resistance we have some
+important mechanisms
+
+158
+00:09:24,570 --> 00:09:28,870
+of resistance this is
+mnemonics i made up
+
+159
+00:09:28,870 --> 00:09:32,150
+maybe you can think
+of something better so
+
+160
+00:09:32,290 --> 00:09:36,090
+tech k k looks like an
+e like an x stands for
+
+161
+00:09:36,090 --> 00:09:41,350
+efflux tet k staphylococcus
+resistance to
+
+162
+00:09:41,360 --> 00:09:43,250
+tetracycline what are
+we thinking about with
+
+163
+00:09:43,250 --> 00:09:45,130
+staphylococcus. We're
+thinking about MRSA.
+
+164
+00:09:45,350 --> 00:09:49,750
+Okay, we know MRSA
+is resistant to a
+
+165
+00:09:49,750 --> 00:09:51,470
+lot of things and
+now we have TETK
+
+166
+00:09:51,470 --> 00:09:53,910
+making it resistant
+to tetracycline.
+
+167
+00:09:55,310 --> 00:10:00,130
+We have TETAE, so
+think about aerobic
+
+168
+00:10:00,130 --> 00:10:02,690
+enteric, that would
+be gram negative,
+
+169
+00:10:03,470 --> 00:10:05,370
+efflux pump,
+
+170
+00:10:06,230 --> 00:10:09,770
+tetracycline,
+doxycycline, minocycline,
+
+171
+00:10:09,770 --> 00:10:12,190
+but not the newer
+ones. Now we
+
+172
+00:10:12,190 --> 00:10:14,010
+have something
+called ribosomal
+
+173
+00:10:14,390 --> 00:10:18,430
+protection proteins.
+So a protein is placed
+
+174
+00:10:18,430 --> 00:10:20,810
+on the ribosome
+or the ribosome.
+
+175
+00:10:22,610 --> 00:10:27,470
+So the ribosome will
+now not bind to the
+
+176
+00:10:27,470 --> 00:10:30,770
+drug. It's a ribosomal
+protection protein.
+
+177
+00:10:30,890 --> 00:10:34,810
+So resistance occurs
+through this TET
+
+178
+00:10:34,810 --> 00:10:37,530
+-M. I'm suggesting
+M is in ribosome
+
+179
+00:10:37,530 --> 00:10:39,170
+and maybe that'll
+help you remember.
+
+180
+00:10:39,850 --> 00:10:42,330
+Strep, staph,
+enterococcus,
+
+181
+00:10:42,330 --> 00:10:43,610
+you notice gram positive,
+
+182
+00:10:44,090 --> 00:10:46,390
+tetracycline,
+doxycycline,
+
+183
+00:10:46,390 --> 00:10:48,590
+menacycline, but not
+the newer agents.
+
+184
+00:10:53,970 --> 00:10:55,770
+Intrinsic resistance,
+
+185
+00:10:55,930 --> 00:10:58,590
+pseudomonas, here
+we go again, and
+
+186
+00:10:58,590 --> 00:11:02,970
+also proteus,
+because they express
+
+187
+00:11:02,970 --> 00:11:06,030
+multi-drug resistant
+efflux pumps.
+
+188
+00:11:06,150 --> 00:11:09,210
+You notice the MDR
+multidrug resistance
+
+189
+00:11:09,210 --> 00:11:13,190
+these organisms
+are resistant to
+
+190
+00:11:13,190 --> 00:11:15,770
+a number of different
+antibiotics.
+
+191
+00:11:21,010 --> 00:11:24,940
+So what is it good
+for if the common
+
+192
+00:11:25,050 --> 00:11:27,530
+infections are not
+responsive to the
+
+193
+00:11:27,810 --> 00:11:30,070
+tetracyclines? Well it
+would be a lot easier
+
+194
+00:11:30,070 --> 00:11:31,970
+to remember what
+it's good for than
+
+195
+00:11:31,970 --> 00:11:35,430
+going down a litany of
+all of the resistance.
+
+196
+00:11:35,430 --> 00:11:36,650
+We went through
+the resistance
+
+197
+00:11:36,650 --> 00:11:39,830
+mechanisms, we talked
+about the gram positive
+
+198
+00:11:39,830 --> 00:11:41,950
+and gram negative
+that are resistant.
+
+199
+00:11:43,450 --> 00:11:48,510
+Doxycycline is the
+most commonly used drug
+
+200
+00:11:48,510 --> 00:11:53,010
+in the group by far.
+So zoonotic infections,
+
+201
+00:11:53,010 --> 00:11:55,810
+doxycycline,
+zoonotic, doxycycline,
+
+202
+00:11:55,810 --> 00:11:58,870
+zoonotic. I bolded some
+that you really should
+
+203
+00:11:58,870 --> 00:12:01,870
+know for this
+course, Lyme disease,
+
+204
+00:12:01,870 --> 00:12:04,950
+which is caused by the
+spirochete borrelia,
+
+205
+00:12:04,950 --> 00:12:09,250
+because Lyme's disease
+is endemic in this
+
+206
+00:12:09,250 --> 00:12:12,010
+area of the Northeast,
+and it's spreading.
+
+207
+00:12:13,470 --> 00:12:14,850
+Plague,
+
+208
+00:12:15,490 --> 00:12:20,850
+30% to 50% of
+the population in
+
+209
+00:12:20,850 --> 00:12:26,170
+Europe in 1348
+was decimated by
+
+210
+00:12:26,170 --> 00:12:28,430
+plague in a short
+amount of time.
+
+211
+00:12:29,470 --> 00:12:33,790
+It's deadly, caused
+by Yersinia pestis.
+
+212
+00:12:33,790 --> 00:12:38,290
+And FYI, five people
+have died of plague
+
+213
+00:12:38,290 --> 00:12:42,370
+in the United States
+in the 21st century.
+
+214
+00:12:42,470 --> 00:12:45,310
+So it hasn't gone
+away. But it can
+
+215
+00:12:45,310 --> 00:12:47,990
+be treated with
+doxycycline. The
+
+216
+00:12:47,990 --> 00:12:51,550
+idea is to recognize
+it and treat
+
+217
+00:12:51,550 --> 00:12:53,970
+early, and people
+will recover.
+
+218
+00:12:54,030 --> 00:12:56,890
+Rocky Mountain spotted
+fever is caused by
+
+219
+00:12:56,890 --> 00:13:00,610
+this obligate
+intracellular rickettsia.
+
+220
+00:13:00,610 --> 00:13:02,310
+It is deadly.
+
+221
+00:13:02,770 --> 00:13:06,290
+Doxycycline is
+first line, and it's
+
+222
+00:13:06,290 --> 00:13:09,390
+only one of two drugs
+that's effective.
+
+223
+00:13:11,950 --> 00:13:14,390
+Tularemia. This is
+rabbit fever. It's
+
+224
+00:13:14,390 --> 00:13:16,430
+got a bunch of
+different names as well.
+
+225
+00:13:17,870 --> 00:13:21,350
+And doxycycline is
+one of the treatments
+
+226
+00:13:21,350 --> 00:13:23,450
+we saw before that
+aminoglycosides
+
+227
+00:13:23,450 --> 00:13:25,850
+are also treatments
+for tularemia.
+
+228
+00:13:28,330 --> 00:13:31,030
+Respiratory infections.
+Community-acquired
+
+229
+00:13:31,030 --> 00:13:34,230
+pneumonia. rhinosinusitis.
+So here are the
+
+230
+00:13:34,230 --> 00:13:37,190
+respiratory bugs that
+we've gone over before.
+
+231
+00:13:37,490 --> 00:13:39,450
+Haemophilus influenzae,
+
+232
+00:13:39,630 --> 00:13:41,410
+Marcella catarralis,
+
+233
+00:13:41,610 --> 00:13:45,590
+Mycoplasma pneumoniae,
+and Chlamytophilin
+
+234
+00:13:45,860 --> 00:13:49,210
+pneumoniae. And these
+are the atypical.
+
+235
+00:13:54,770 --> 00:13:56,710
+So zoonotic, respiratory,
+
+236
+00:13:57,570 --> 00:13:59,310
+skin GI.
+
+237
+00:13:59,750 --> 00:14:02,850
+So think about
+the organ systems.
+
+238
+00:14:08,790 --> 00:14:11,630
+You have to make
+sure that the
+
+239
+00:14:11,630 --> 00:14:14,550
+organisms are
+sensitive, MSSA and
+
+240
+00:14:14,550 --> 00:14:17,190
+MRSA, we remember
+the potential
+
+241
+00:14:17,190 --> 00:14:19,530
+resistance there to
+common infections,
+
+242
+00:14:20,230 --> 00:14:21,570
+cholera,
+
+243
+00:14:22,810 --> 00:14:24,730
+peptic ulcer disease.
+
+244
+00:14:24,890 --> 00:14:27,110
+Now let's talk
+about the STDs,
+
+245
+00:14:27,110 --> 00:14:28,950
+******** transmitted
+diseases.
+
+246
+00:14:30,510 --> 00:14:31,690
+I'm going to bring your
+
+247
+00:14:31,690 --> 00:14:33,070
+attention here
+to ********.
+
+248
+00:14:36,050 --> 00:14:39,070
+******** caused
+by the spirochete
+
+249
+00:14:39,070 --> 00:14:41,790
+treponema pallidum is
+
+250
+00:14:41,790 --> 00:14:44,210
+normally treated
+with penicillin.
+
+251
+00:14:45,350 --> 00:14:49,590
+Recall that there is
+a penicillin G form
+
+252
+00:14:49,590 --> 00:14:52,130
+called benzothine penicillin
+which can be given
+
+253
+00:14:52,130 --> 00:14:55,730
+as one shot and it
+will produce an effect
+
+254
+00:14:55,730 --> 00:14:59,700
+for 14 to 28 days and
+that's certainly convenient
+
+255
+00:14:59,700 --> 00:15:03,650
+for treating ********,
+one shot. Well,
+
+256
+00:15:03,650 --> 00:15:09,110
+look at doxycycline
+now. It has to be given
+
+257
+00:15:11,430 --> 00:15:15,890
+twice a day for
+14 to 28 days.
+
+258
+00:15:16,830 --> 00:15:20,490
+And what is the
+chances of a
+
+259
+00:15:20,490 --> 00:15:22,250
+person sticking
+to that therapy?
+
+260
+00:15:22,250 --> 00:15:24,990
+So that's why besides
+penicillin being
+
+261
+00:15:24,990 --> 00:15:28,950
+highly active, it's
+also much more likely to
+
+262
+00:15:28,950 --> 00:15:31,690
+be effective because
+of that time frame.
+
+263
+00:15:31,850 --> 00:15:33,850
+And then malaria.
+
+264
+00:15:34,400 --> 00:15:36,310
+What else do we
+want to talk about?
+
+265
+00:15:37,410 --> 00:15:38,410
+Chlamydia.
+
+266
+00:15:39,430 --> 00:15:43,190
+So all of these various
+******** transmitted
+
+267
+00:15:43,190 --> 00:15:45,350
+diseases are caused
+by chlamydia.
+
+268
+00:15:45,840 --> 00:15:48,310
+So it's only two.
+I don't have any
+
+269
+00:15:48,310 --> 00:15:51,230
+of them bolded,
+but you should know
+
+270
+00:15:51,230 --> 00:15:53,670
+trepidema causes
+******** and the
+
+271
+00:15:53,670 --> 00:15:56,630
+chlamydia causes
+various infections.
+
+272
+00:15:57,190 --> 00:15:58,370
+Remember, this is an
+
+273
+00:15:58,370 --> 00:16:00,210
+atypical. It's
+a chlamydia.
+
+274
+00:16:05,800 --> 00:16:08,580
+Tigacycline now.
+So this is for
+
+275
+00:16:08,580 --> 00:16:11,800
+complicated infections,
+serious infections.
+
+276
+00:16:11,800 --> 00:16:14,040
+The big story
+with tigacycline
+
+277
+00:16:14,040 --> 00:16:17,020
+is it's broad
+spectrum and it's got
+
+278
+00:16:17,020 --> 00:16:20,440
+some important
+contraindications.
+
+279
+00:16:20,920 --> 00:16:22,920
+So I'll let you
+look at all of these
+
+280
+00:16:22,920 --> 00:16:25,200
+different therapeutic
+uses. I want to draw
+
+281
+00:16:25,200 --> 00:16:28,370
+your attention to the
+contraindications.
+
+282
+00:16:29,300 --> 00:16:32,900
+Do not use for
+hospital-acquired
+
+283
+00:16:32,900 --> 00:16:35,360
+pneumonia.
+Healthcare-acquired
+
+284
+00:16:35,360 --> 00:16:37,520
+pneumonia, like in
+the nursing home,
+
+285
+00:16:37,620 --> 00:16:40,080
+ventilator
+-associated pneumonia.
+
+286
+00:16:43,200 --> 00:16:48,000
+Because there's
+lower efficacy, lower
+
+287
+00:16:48,000 --> 00:16:54,600
+cure rates, and
+increased mortality.
+
+288
+00:16:57,300 --> 00:17:00,440
+With regard to
+demeclocycline, and this
+
+289
+00:17:00,440 --> 00:17:02,760
+is the only takeaway
+with this drug,
+
+290
+00:17:03,800 --> 00:17:06,820
+It's rarely, if ever,
+used anymore. It
+
+291
+00:17:06,820 --> 00:17:08,580
+never was used
+for its antibiotic
+
+292
+00:17:08,580 --> 00:17:10,540
+properties because
+it causes something
+
+293
+00:17:10,540 --> 00:17:14,900
+called nephrogenic
+diabetes insipidus.
+
+294
+00:17:14,900 --> 00:17:17,640
+Diabetes insipidus
+is a water-losing
+
+295
+00:17:17,640 --> 00:17:26,250
+problem because the
+kidneys are not reabsorbing
+
+296
+00:17:26,250 --> 00:17:28,760
+free water in the
+collecting tubules.
+
+297
+00:17:28,760 --> 00:17:30,600
+It's just going out
+when it should be
+
+298
+00:17:30,600 --> 00:17:35,440
+reabsorbed. And this
+is because the kidneys
+
+299
+00:17:35,440 --> 00:17:40,420
+now are insensitive
+to the hormone that
+
+300
+00:17:40,420 --> 00:17:42,840
+puts the water channels
+into the collecting
+
+301
+00:17:42,840 --> 00:17:45,440
+tubules to reabsorb
+that free water.
+
+302
+00:17:48,400 --> 00:17:51,460
+And it has, and
+that hormone, by the
+
+303
+00:17:51,460 --> 00:17:56,630
+way, is called
+antidiuretic hormone.
+
+304
+00:17:57,780 --> 00:17:59,540
+Antidiuretic
+hormone. and that's
+
+305
+00:17:59,540 --> 00:18:02,400
+stored in the
+posterior pituitary.
+
+306
+00:18:04,800 --> 00:18:09,060
+Therefore, demeclocycline
+historically was
+
+307
+00:18:09,060 --> 00:18:12,240
+used for syndrome of
+inappropriate anti
+
+308
+00:18:12,240 --> 00:18:16,300
+-diuretic hormone. But
+we have selective drugs
+
+309
+00:18:16,300 --> 00:18:20,430
+now that are used instead
+of demeclocycline.
+
+310
+00:18:21,120 --> 00:18:23,780
+It's all about
+this nephrogenic,
+
+311
+00:18:23,780 --> 00:18:24,960
+meaning in the kidney,
+
+312
+00:18:25,100 --> 00:18:28,880
+diabetes insipidus,
+which is a water-losing
+
+313
+00:18:29,120 --> 00:18:35,200
+problem because of
+insensitivity to ADH.
+
+314
+00:18:40,520 --> 00:18:42,540
+Secondary infections,
+naturally,
+
+315
+00:18:42,540 --> 00:18:44,700
+we have some things
+going on in the
+
+316
+00:18:44,700 --> 00:18:46,500
+kidney with
+increased blood urea
+
+317
+00:18:46,500 --> 00:18:48,980
+nitrogen, which is
+called azotemia.
+
+318
+00:18:51,480 --> 00:18:55,100
+Interestingly, about
+outdated tetracycline,
+
+319
+00:18:55,380 --> 00:18:58,440
+Something called
+Fanconi syndrome,
+
+320
+00:18:58,440 --> 00:19:06,120
+which is a renal
+acidosis, can occur when
+
+321
+00:19:06,120 --> 00:19:10,820
+outdated tetracycline
+is consumed.
+
+322
+00:19:11,880 --> 00:19:14,280
+We should not be
+taking outdated
+
+323
+00:19:14,280 --> 00:19:16,420
+drugs to begin
+with. We think of
+
+324
+00:19:16,420 --> 00:19:18,860
+them as being likely
+to be ineffective,
+
+325
+00:19:18,860 --> 00:19:21,400
+and that's
+usually the case.
+
+326
+00:19:21,760 --> 00:19:23,620
+However,
+tetracycline became
+
+327
+00:19:23,620 --> 00:19:27,460
+toxic when it
+became outdated, and
+
+328
+00:19:27,460 --> 00:19:29,360
+it caused this
+renal acidosis.
+
+329
+00:19:29,580 --> 00:19:33,220
+This is not likely to
+be much of a problem
+
+330
+00:19:33,220 --> 00:19:35,800
+anymore since tetracycline
+itself is hardly
+
+331
+00:19:35,800 --> 00:19:39,400
+ever used, but it's
+an important idea to
+
+332
+00:19:39,400 --> 00:19:44,820
+remember, and the boards
+are likely to test it.
+
+333
+00:19:45,360 --> 00:19:48,240
+We talked about bones
+and teeth, chelation
+
+334
+00:19:48,240 --> 00:19:51,500
+of calcium. We
+talked a little about
+
+335
+00:19:51,500 --> 00:19:53,980
+GI, the nausea,
+vomiting, secondary
+
+336
+00:19:53,980 --> 00:19:57,540
+infection. Also, the
+non-C. diff diarrhea.
+
+337
+00:19:59,020 --> 00:20:03,880
+Photosensitivity.
+Here is a problem that
+
+338
+00:20:04,200 --> 00:20:07,140
+patients need to be
+cautioned about because
+
+339
+00:20:07,140 --> 00:20:14,180
+it can cause this
+sunburn-like burn that
+
+340
+00:20:14,180 --> 00:20:17,100
+can even be third
+degree, can be severe.
+
+341
+00:20:19,430 --> 00:20:21,460
+And here's some rare but
+
+342
+00:20:21,460 --> 00:20:24,020
+serious adverse effects.
+
+343
+00:20:24,240 --> 00:20:26,640
+Hypersensitivity,
+anything can
+
+344
+00:20:26,640 --> 00:20:29,360
+cause hypersensitivity
+in the
+
+345
+00:20:29,360 --> 00:20:30,880
+sensitive
+individual. well.
+
+346
+00:20:33,080 --> 00:20:34,900
+Drug specific.
+
+347
+00:20:35,260 --> 00:20:37,060
+Metacycline
+can cause this
+
+348
+00:20:37,060 --> 00:20:40,160
+ototoxicity in the
+vestibular region
+
+349
+00:20:41,320 --> 00:20:46,820
+and it can discolor
+the skin with long
+
+350
+00:20:46,820 --> 00:20:49,100
+-term use. And
+metacycline is frequently
+
+351
+00:20:49,100 --> 00:20:51,900
+used to treat acne,
+which means long-term
+
+352
+00:20:51,900 --> 00:20:55,260
+use, and therefore
+patients can develop
+
+353
+00:20:55,260 --> 00:20:58,400
+these patches, these
+discolored patches.
+
+354
+00:20:59,060 --> 00:21:00,840
+Demeclocycline
+we talked about,
+
+355
+00:21:00,840 --> 00:21:02,560
+tigocycline we
+talked about.
+
+356
+00:21:03,760 --> 00:21:06,780
+Decreased absorption
+by taking antacids
+
+357
+00:21:06,780 --> 00:21:10,260
+or mineral
+supplements. Also bile
+
+358
+00:21:10,260 --> 00:21:12,860
+acid resins, which
+is not minerals,
+
+359
+00:21:12,860 --> 00:21:16,260
+but it's a resin
+that binds things.
+
+360
+00:21:16,800 --> 00:21:20,860
+So that's another way
+to prevent absorption.
+
+361
+00:21:20,860 --> 00:21:24,300
+That means separating
+these drugs from the
+
+362
+00:21:24,300 --> 00:21:28,960
+antibiotics. We talked
+about warfarin and
+
+363
+00:21:28,960 --> 00:21:33,260
+oral contraceptives and
+injury to the gut bacteria
+
+364
+00:21:33,260 --> 00:21:36,500
+that can cause
+bleeding in the case of
+
+365
+00:21:36,500 --> 00:21:40,260
+warfarin and reduced
+efficacy of oral
+
+366
+00:21:40,260 --> 00:21:44,340
+contraceptives in the case
+of oral contraceptives.
+
+367
+00:21:45,010 --> 00:21:46,940
+And then other drugs
+
+368
+00:21:46,940 --> 00:21:48,780
+with similar toxicities.
+
+369
+00:21:49,940 --> 00:21:52,260
+Let's talk about
+macrolides now.
+
+370
+00:21:52,260 --> 00:21:53,620
+There are three
+in this group,
+
+371
+00:21:54,020 --> 00:21:55,940
+three important
+drugs in this
+
+372
+00:21:55,940 --> 00:21:58,060
+group, erythromycin,
+clarithromycin,
+
+373
+00:21:59,320 --> 00:22:03,840
+isythromycin, and
+here is a big ring, a
+
+374
+00:22:03,840 --> 00:22:06,960
+lactone ring that
+macrolides are known for.
+
+375
+00:22:09,400 --> 00:22:12,640
+I'll just hit the
+important parts here.
+
+376
+00:22:13,040 --> 00:22:15,480
+They are widely
+distributed. They do
+
+377
+00:22:15,480 --> 00:22:17,740
+accumulate in pulmonary
+tissue, middle
+
+378
+00:22:17,740 --> 00:22:21,260
+air fluid, phagocytic
+cells. This should
+
+379
+00:22:21,260 --> 00:22:23,960
+be pointing to the
+respiratory system.
+
+380
+00:22:24,460 --> 00:22:27,600
+Erythromycin and
+clarithromycin, high
+
+381
+00:22:27,600 --> 00:22:29,660
+potential for drug
+interactions because
+
+382
+00:22:29,660 --> 00:22:33,200
+of CYP3A4 and p
+-glycoprotein inhibition.
+
+383
+00:22:34,820 --> 00:22:37,260
+Anazithromycin, not,
+
+384
+00:22:37,540 --> 00:22:40,140
+does inhibit p
+-glycoprotein,
+
+385
+00:22:40,140 --> 00:22:45,300
+but not CYP3A4,
+so much lower
+
+386
+00:22:45,300 --> 00:22:47,820
+potential for
+drug interactions.
+
+387
+00:22:49,380 --> 00:22:53,120
+Azithromycin has a
+70-hour half-life.
+
+388
+00:22:53,400 --> 00:22:56,380
+Erycerol and chlorhycerol,
+much shorter.
+
+389
+00:22:59,920 --> 00:23:04,760
+The azithromycin
+will sequester
+
+390
+00:23:04,760 --> 00:23:07,670
+within the tissues,
+which is why
+
+391
+00:23:07,670 --> 00:23:10,000
+it has such a
+long half-life.
+
+392
+00:23:10,000 --> 00:23:12,800
+It can be taken once
+a day, and it can be
+
+393
+00:23:12,800 --> 00:23:15,780
+taken for common
+infections for five days
+
+394
+00:23:15,780 --> 00:23:22,180
+and produce a 10-day
+course of blood levels.
+
+395
+00:23:30,330 --> 00:23:31,090
+What else?
+
+396
+00:23:32,890 --> 00:23:35,410
+This is what I
+want to point out.
+
+397
+00:23:35,410 --> 00:23:38,110
+Erythromycin and
+azithromycin, no dose
+
+398
+00:23:38,110 --> 00:23:40,750
+adjustment necessary
+for renal impairment.
+
+399
+00:23:41,550 --> 00:23:45,310
+Those are the
+high points of the
+
+400
+00:23:45,310 --> 00:23:47,470
+pharmacokinetics
+of macrolides.
+
+401
+00:23:49,050 --> 00:23:52,890
+Mechanism. So imagine
+in your mind the
+
+402
+00:23:52,890 --> 00:23:56,590
+big ribosome and right
+in the middle at the
+
+403
+00:23:56,590 --> 00:24:00,430
+P site is the macrolide
+site of action.
+
+404
+00:24:02,110 --> 00:24:06,650
+P site right here.
+So these macrolides
+
+405
+00:24:06,650 --> 00:24:09,490
+have been identified
+as working
+
+406
+00:24:09,490 --> 00:24:14,150
+according to this
+following description.
+
+407
+00:24:15,360 --> 00:24:19,990
+They block elongation,
+so they block the
+
+408
+00:24:19,990 --> 00:24:24,770
+transpeptidation step
+by blocking the exit
+
+409
+00:24:24,770 --> 00:24:27,370
+tunnel. Let's pretend
+this is an exit
+
+410
+00:24:27,370 --> 00:24:31,990
+tunnel, protein is being
+synthesized, reaches
+
+411
+00:24:31,990 --> 00:24:34,570
+out into the cytoplasm
+through this tunnel,
+
+412
+00:24:34,570 --> 00:24:38,890
+and this exit tunnel
+gets blocked, and
+
+413
+00:24:38,890 --> 00:24:44,890
+that causes the
+peptide bond formation
+
+414
+00:24:44,890 --> 00:24:49,230
+here to stop, and
+protein synthesis stops.
+
+415
+00:24:53,970 --> 00:24:55,850
+Well, lots of
+intrinsic resistance
+
+416
+00:24:56,450 --> 00:24:58,650
+here to the
+macrolides, so
+
+417
+00:24:58,650 --> 00:25:00,230
+let's talk about
+the acquired.
+
+418
+00:25:00,230 --> 00:25:04,250
+E-flux with
+these MRS genes,
+
+419
+00:25:04,730 --> 00:25:08,770
+MRS, MEF, MEF.
+I don't know
+
+420
+00:25:08,770 --> 00:25:10,830
+what those
+letters stand for.
+
+421
+00:25:12,330 --> 00:25:14,330
+So, staph,
+
+422
+00:25:15,010 --> 00:25:17,750
+strep, streptococcus
+pneumoniae, this
+
+423
+00:25:17,750 --> 00:25:21,970
+group A streptococcus,
+strep pyogenes,
+
+424
+00:25:22,430 --> 00:25:25,130
+and ribosomal
+modification. I want
+
+425
+00:25:25,130 --> 00:25:26,470
+to talk about
+this for a minute.
+
+426
+00:25:29,210 --> 00:25:32,690
+something called the
+ERM gene or the group
+
+427
+00:25:32,690 --> 00:25:37,650
+of genes it's a group
+will express a protein
+
+428
+00:25:37,650 --> 00:25:42,250
+methylase and that
+methylase will transfer
+
+429
+00:25:42,250 --> 00:25:47,300
+a methyl group to
+the binding site and
+
+430
+00:25:47,530 --> 00:25:51,730
+therefore the drug will
+not be able to bind.
+
+431
+00:25:53,930 --> 00:25:58,810
+This methylase can be
+produced in a constitutive
+
+432
+00:25:58,810 --> 00:26:03,290
+fashion where it's
+continuously there.
+
+433
+00:26:03,290 --> 00:26:06,670
+The mRNA is
+continuously present
+
+434
+00:26:06,670 --> 00:26:08,750
+producing this methylase.
+
+435
+00:26:09,280 --> 00:26:11,460
+Or it can be inducible,
+
+436
+00:26:11,880 --> 00:26:19,590
+which means it's on
+the DNA But there needs
+
+437
+00:26:19,590 --> 00:26:24,210
+to be a product around,
+such as erythromycin,
+
+438
+00:26:24,210 --> 00:26:28,190
+that will cause it
+to start expressing
+
+439
+00:26:28,190 --> 00:26:32,210
+this methylase. So
+constitutive or inducible.
+
+440
+00:26:34,170 --> 00:26:37,630
+That's the
+characteristics of the ERM
+
+441
+00:26:37,630 --> 00:26:43,550
+gene. And we see it
+expressed by streptococcus
+
+442
+00:26:43,550 --> 00:26:46,370
+pneumoniae,
+staphylococcus aureus,
+
+443
+00:26:46,610 --> 00:26:52,830
+strep pyogenes,
+and there is cross
+
+444
+00:26:52,830 --> 00:26:55,630
+-resistance among all
+the macrolides, but
+
+445
+00:26:55,630 --> 00:26:59,150
+that's not all. There's
+cross resistance
+
+446
+00:26:59,150 --> 00:27:02,850
+with clindamycin and
+streptogrammet B.
+
+447
+00:27:03,310 --> 00:27:07,050
+Streptogrammet B
+is another protein
+
+448
+00:27:07,050 --> 00:27:10,130
+synthesis inhibitor
+that I'm not going to
+
+449
+00:27:10,130 --> 00:27:14,450
+go into in this
+lecture. It is in the
+
+450
+00:27:14,450 --> 00:27:16,570
+handout if you'd like
+to read about it.
+
+451
+00:27:18,770 --> 00:27:21,150
+So, what's it called?
+
+452
+00:27:22,550 --> 00:27:25,670
+MLSB resistance
+mechanism.
+
+453
+00:27:27,550 --> 00:27:29,470
+macrolide,
+lynchosamide, which is
+
+454
+00:27:29,470 --> 00:27:32,730
+clindamycin, and
+streptogrammin B.
+
+455
+00:27:33,910 --> 00:27:36,930
+So once the
+methylase is present,
+
+456
+00:27:36,930 --> 00:27:39,650
+the organism
+can be resistant
+
+457
+00:27:39,650 --> 00:27:42,110
+to that whole
+group of drugs.
+
+458
+00:27:45,810 --> 00:27:48,170
+And clindamycin
+and streptogrammin
+
+459
+00:27:48,170 --> 00:27:50,270
+B have the same
+binding sites, so
+
+460
+00:27:50,270 --> 00:27:52,130
+that makes sense.
+So what are we
+
+461
+00:27:52,130 --> 00:27:54,190
+using them for?
+Well, respiratory.
+
+462
+00:27:54,370 --> 00:27:56,370
+Respiratory,
+respiratory, respiratory,
+
+463
+00:27:56,370 --> 00:27:59,310
+that's really
+the main thing.
+
+464
+00:27:59,310 --> 00:28:02,750
+There are others,
+yes, but as you can
+
+465
+00:28:02,750 --> 00:28:06,550
+see, it's effective
+against all of
+
+466
+00:28:06,550 --> 00:28:09,990
+these various
+respiratory infections.
+
+467
+00:28:10,650 --> 00:28:12,610
+I also would like
+you to remember
+
+468
+00:28:12,610 --> 00:28:15,690
+whooping cough caused
+by Bartotella pertussis.
+
+469
+00:28:15,690 --> 00:28:18,070
+Pertussis means
+coughing, cough.
+
+470
+00:28:18,470 --> 00:28:23,710
+I invite you to
+go on the internet
+
+471
+00:28:23,710 --> 00:28:27,820
+and look for a video
+that's going to
+
+472
+00:28:27,820 --> 00:28:30,690
+produce that
+whooping cough sound
+
+473
+00:28:30,690 --> 00:28:32,690
+for you so you can
+actually hear it.
+
+474
+00:28:32,690 --> 00:28:34,610
+It'll help you remember.
+
+475
+00:28:35,270 --> 00:28:37,570
+Whooping cough pertussis.
+
+476
+00:28:37,780 --> 00:28:39,310
+And ******** transmitted
+
+477
+00:28:39,310 --> 00:28:41,490
+diseases, not
+so much anymore.
+
+478
+00:28:43,190 --> 00:28:45,050
+Chlamydia, it's an
+
+479
+00:28:45,050 --> 00:28:46,550
+alternative to
+doxycycline.
+
+480
+00:28:48,610 --> 00:28:52,290
+Azithromycin used to
+be recommended together
+
+481
+00:28:52,290 --> 00:28:57,550
+with ceftriaxone as
+a one-dose deal for
+
+482
+00:28:57,550 --> 00:29:01,510
+the treatment of
+gonorrhea. Not anymore,
+
+483
+00:29:01,510 --> 00:29:05,210
+because gonorrhea has
+developed resistance.
+
+484
+00:29:05,420 --> 00:29:07,770
+So azithromycin
+is no longer
+
+485
+00:29:07,770 --> 00:29:11,290
+recommended with
+ceftriaxone. If
+
+486
+00:29:11,290 --> 00:29:13,150
+there is suspicion
+of chlamydia,
+
+487
+00:29:13,830 --> 00:29:17,290
+then doxy.
+
+488
+00:29:20,440 --> 00:29:22,270
+Toxic can be
+given together
+
+489
+00:29:22,270 --> 00:29:23,450
+with the ceftriaxone.
+
+490
+00:29:25,130 --> 00:29:28,370
+Skin-skin structure,
+widespread resistance.
+
+491
+00:29:28,370 --> 00:29:30,870
+If it works, it
+works great, but
+
+492
+00:29:30,870 --> 00:29:34,050
+susceptibility must
+be confirmed first.
+
+493
+00:29:35,450 --> 00:29:37,070
+Peptic ulcer,
+
+494
+00:29:37,430 --> 00:29:40,390
+gastroenteritis,
+relapsing fever.
+
+495
+00:29:40,390 --> 00:29:44,130
+big story here
+is respiratory
+
+496
+00:29:44,130 --> 00:29:48,390
+infections and
+gonorrhea. No more.
+
+497
+00:29:53,180 --> 00:29:56,020
+Abdominal cramps,
+nausea, vomiting.
+
+498
+00:29:56,400 --> 00:30:03,180
+Erythromycin is the
+most likely to cause
+
+499
+00:30:03,180 --> 00:30:05,660
+it. It acts on
+something called motilin
+
+500
+00:30:05,660 --> 00:30:08,020
+receptors, which are
+in the upper GI tract,
+
+501
+00:30:08,020 --> 00:30:12,040
+and they cause movement,
+motilin motion,
+
+502
+00:30:12,260 --> 00:30:15,540
+motility, and
+that can give
+
+503
+00:30:15,540 --> 00:30:17,580
+that nausea and vomiting.
+
+504
+00:30:18,260 --> 00:30:20,680
+Azithromycin and
+chlorithromycin can do it
+
+505
+00:30:20,680 --> 00:30:24,080
+at high doses, but
+at the doses they're
+
+506
+00:30:24,080 --> 00:30:27,180
+usually given in, they're
+much more tolerable.
+
+507
+00:30:28,840 --> 00:30:32,640
+Another reason why
+these drugs have
+
+508
+00:30:32,640 --> 00:30:35,600
+taken over instead
+of erithromycin.
+
+509
+00:30:36,740 --> 00:30:40,760
+Diarrhea, it can be
+just antibiotic and
+
+510
+00:30:40,760 --> 00:30:43,140
+cause diarrhea, or it
+could be C. difficile.
+
+511
+00:30:43,760 --> 00:30:47,340
+So QT interval
+prolongation, it can
+
+512
+00:30:47,340 --> 00:30:50,060
+cause the ventricular
+arrhythmias that
+
+513
+00:30:50,060 --> 00:30:53,240
+are known as tracide
+de pointe, which
+
+514
+00:30:53,240 --> 00:30:57,620
+is a drug-induced
+cardiac problem.
+
+515
+00:30:57,720 --> 00:31:01,120
+Many, many, many drugs
+can cause QT interval
+
+516
+00:31:01,120 --> 00:31:03,200
+prolongation.
+Putting them together
+
+517
+00:31:03,200 --> 00:31:08,060
+increases the risk.
+giving drugs that inhibit
+
+518
+00:31:08,060 --> 00:31:13,540
+the metabolism of QT
+interval prolongers
+
+519
+00:31:13,540 --> 00:31:17,820
+can increase the risk
+of trisodipant. I know
+
+520
+00:31:17,820 --> 00:31:20,620
+that you understand
+these concepts now.
+
+521
+00:31:22,920 --> 00:31:26,460
+Hepatotoxicity is
+potential. It's not
+
+522
+00:31:26,460 --> 00:31:29,960
+all that common, but
+hepatitis has occurred
+
+523
+00:31:29,960 --> 00:31:34,680
+with azithromycin
+and clarithromycin.
+
+524
+00:31:35,160 --> 00:31:36,460
+Hypersensitivity,
+we expect
+
+525
+00:31:36,460 --> 00:31:39,220
+that potential
+with all drugs.
+
+526
+00:31:39,560 --> 00:31:42,610
+And azithromycin can
+be given in pregnancy.
+
+527
+00:31:45,500 --> 00:31:46,800
+Clarithromycin, no.
+
+528
+00:31:47,980 --> 00:31:49,760
+Erythromycin,
+estalate, no. But
+
+529
+00:31:49,760 --> 00:31:52,160
+other types of
+erithromycin, yes.
+
+530
+00:31:56,160 --> 00:31:57,600
+Drug interactions.
+
+531
+00:31:57,600 --> 00:31:59,340
+So anything that
+acts at the same
+
+532
+00:31:59,340 --> 00:32:02,120
+site, so clindamycin
+and erithromycin,
+
+533
+00:32:02,120 --> 00:32:03,400
+you're not going
+to give together.
+
+534
+00:32:03,400 --> 00:32:06,020
+Other drugs at
+prolonged QT interval,
+
+535
+00:32:06,140 --> 00:32:08,060
+warfarin, we
+saw that because
+
+536
+00:32:08,060 --> 00:32:11,660
+of the damage to
+the microbiome.
+
+537
+00:32:12,760 --> 00:32:13,820
+Pharmacokinetics, the
+
+538
+00:32:13,820 --> 00:32:16,280
+CYP3A4 and P
+-glycoprotein.
+
+539
+00:32:16,280 --> 00:32:19,500
+I would like you to
+remember statin, the
+
+540
+00:32:19,500 --> 00:32:22,250
+word statin, anything
+that ends in statin.
+
+541
+00:32:22,400 --> 00:32:25,260
+This is, the
+boards love this.
+
+542
+00:32:25,700 --> 00:32:30,260
+These are CYP3A4
+substrates. they can
+
+543
+00:32:30,260 --> 00:32:34,040
+cause toxicity and
+it's called muscle
+
+544
+00:32:34,040 --> 00:32:36,080
+toxicity so that's why
+I want you to remember
+
+545
+00:32:36,080 --> 00:32:42,320
+those now
+clindamycin mentioned
+
+546
+00:32:42,320 --> 00:32:49,060
+before same site can
+be administered by a
+
+547
+00:32:49,060 --> 00:32:54,940
+lot of different routes
+and it has activity
+
+548
+00:32:54,940 --> 00:32:57,300
+against the gram
+-positive aerobes,
+
+549
+00:32:57,540 --> 00:33:01,080
+MRSA, community-acquired
+MRSA, gram-positive
+
+550
+00:33:01,080 --> 00:33:04,300
+and gram-negative
+anaerobes, as long as
+
+551
+00:33:04,300 --> 00:33:06,320
+they're susceptible and,
+of course, resistance
+
+552
+00:33:06,320 --> 00:33:09,280
+is increasing, and
+some parasites, which
+
+553
+00:33:09,280 --> 00:33:11,980
+I'll get to when we
+talk about parasites.
+
+554
+00:33:13,000 --> 00:33:16,140
+This, as you may
+recall from that little
+
+555
+00:33:16,140 --> 00:33:18,320
+mind map in the
+beginning, is a narrow
+
+556
+00:33:18,320 --> 00:33:21,700
+-spectrum drug. So it's
+easy just really to
+
+557
+00:33:21,700 --> 00:33:25,800
+remember gram-positive
+aerobes and anaerobes
+
+558
+00:33:25,800 --> 00:33:30,240
+gram negative
+anaerobes that's it you
+
+559
+00:33:30,240 --> 00:33:34,660
+can do it and virtually
+three ideas talk
+
+560
+00:33:34,660 --> 00:33:37,110
+about resistance on
+the next slide lung
+
+561
+00:33:37,200 --> 00:33:42,220
+abscess pelvic inflammatory
+disease skin skin
+
+562
+00:33:42,220 --> 00:33:46,940
+structure all these
+various types of gram
+
+563
+00:33:46,940 --> 00:33:50,440
+positive and anaerobic
+type infections
+
+564
+00:33:50,440 --> 00:33:54,120
+that's that's the
+takeaway. And abscess,
+
+565
+00:33:54,120 --> 00:33:57,280
+abscess, abscess,
+above the waist, long
+
+566
+00:33:57,280 --> 00:34:00,960
+abscess, although
+resistance is increasing.
+
+567
+00:34:02,270 --> 00:34:03,760
+I'm afraid I have to
+
+568
+00:34:03,760 --> 00:34:05,120
+say that after everyone.
+
+569
+00:34:06,060 --> 00:34:08,260
+Clindamycin has
+long been associated
+
+570
+00:34:08,260 --> 00:34:10,360
+with C. difficile,
+causing C.
+
+571
+00:34:10,360 --> 00:34:12,140
+difficile infection.
+Of course, it's not
+
+572
+00:34:12,140 --> 00:34:15,460
+the only one. And
+it can be severe.
+
+573
+00:34:17,990 --> 00:34:20,320
+Pregnancy, safe. So
+now we have a couple of
+
+574
+00:34:20,320 --> 00:34:22,960
+drugs that we know
+are safe in pregnancy.
+
+575
+00:34:23,500 --> 00:34:26,320
+And then drug
+interactions,
+
+576
+00:34:26,440 --> 00:34:28,800
+basically anything that
+
+577
+00:34:28,800 --> 00:34:31,540
+hits it at the
+same target.
+
+578
+00:34:31,800 --> 00:34:36,200
+But also here's something
+interesting that
+
+579
+00:34:36,200 --> 00:34:38,600
+you won't see with
+any of these others.
+
+580
+00:34:38,880 --> 00:34:42,100
+The clindamycin vaginal
+cream is in an oily
+
+581
+00:34:42,100 --> 00:34:44,700
+base, and that oily
+base can weaken condoms
+
+582
+00:34:44,700 --> 00:34:48,200
+and the diaphragms,
+contraceptive diaphragms.
+
+583
+00:34:48,200 --> 00:34:53,380
+So individuals who
+practice contraception
+
+584
+00:34:53,380 --> 00:34:57,080
+using either of these
+devices should be
+
+585
+00:34:57,860 --> 00:35:02,320
+cautioned when
+they receive a
+
+586
+00:35:02,320 --> 00:35:04,220
+prescription for
+vaginal cream,
+
+587
+00:35:04,340 --> 00:35:06,140
+clindamycin
+vaginal cream.
+
+588
+00:35:07,870 --> 00:35:10,000
+Resistance. Okay,
+let's talk about this
+
+589
+00:35:10,000 --> 00:35:16,180
+again. We mentioned
+that the MLSB ERM
+
+590
+00:35:16,180 --> 00:35:20,210
+genes are either
+constitutive or inducible.
+
+591
+00:35:20,860 --> 00:35:25,580
+Now, we worry about
+inducible with
+
+592
+00:35:25,580 --> 00:35:28,320
+staphylococci and
+streptococcus pneumoniae,
+
+593
+00:35:28,320 --> 00:35:30,020
+which, as you know,
+are serious, hard
+
+594
+00:35:30,020 --> 00:35:32,260
+-to-treat infections,
+especially MRSA.
+
+595
+00:35:33,560 --> 00:35:38,840
+So if the IRM
+gene is present,
+
+596
+00:35:38,840 --> 00:35:43,820
+the infection may
+seem to respond
+
+597
+00:35:43,820 --> 00:35:45,680
+to clindamycin
+in the beginning,
+
+598
+00:35:45,820 --> 00:35:50,100
+but there can be
+therapy failure because
+
+599
+00:35:50,100 --> 00:35:55,380
+the resistance can
+emerge during therapy.
+
+600
+00:35:55,620 --> 00:35:58,400
+Well, the potential
+for this can
+
+601
+00:35:58,400 --> 00:36:02,160
+be tested by
+something called AD
+
+602
+00:36:02,160 --> 00:36:04,960
+test. So let's see
+what that is. We
+
+603
+00:36:10,830 --> 00:36:12,690
+have four panels here.
+
+604
+00:36:14,010 --> 00:36:15,850
+I draw your attention to
+
+605
+00:36:15,850 --> 00:36:17,450
+C. Let's begin with C.
+
+606
+00:36:18,750 --> 00:36:22,930
+This is an
+erythromycin disc.
+
+607
+00:36:23,750 --> 00:36:25,750
+Here's a clindamycin
+disc. They're
+
+608
+00:36:25,750 --> 00:36:27,930
+impregnated with
+the antibiotics.
+
+609
+00:36:28,690 --> 00:36:34,550
+We see a zone of
+no growth around
+
+610
+00:36:34,550 --> 00:36:37,510
+both of these
+discs, which
+
+611
+00:36:37,510 --> 00:36:40,850
+means the drugs
+are effective.
+
+612
+00:36:41,550 --> 00:36:46,410
+Looking at D now, here
+are the discs, and
+
+613
+00:36:46,890 --> 00:36:51,890
+the bacteria are growing
+around both of them,
+
+614
+00:36:52,570 --> 00:36:55,410
+showing that
+the drugs, both
+
+615
+00:36:55,410 --> 00:36:57,690
+the drugs, are resistant.
+
+616
+00:36:58,810 --> 00:37:01,870
+I mean to say the isolate
+
+617
+00:37:01,870 --> 00:37:04,610
+is resistant
+to both drugs.
+
+618
+00:37:05,610 --> 00:37:13,370
+On B, the organism
+is growing around
+
+619
+00:37:13,370 --> 00:37:15,970
+the erythromycin,
+but not the
+
+620
+00:37:15,970 --> 00:37:19,450
+clindamycin. So
+clindamycin is effective,
+
+621
+00:37:19,450 --> 00:37:22,150
+but erythromycin
+is not. Now, that
+
+622
+00:37:22,150 --> 00:37:29,950
+brings us to panel
+A and our D zone.
+
+623
+00:37:32,270 --> 00:37:35,810
+So, I've drawn a line
+around the D zone.
+
+624
+00:37:37,290 --> 00:37:43,650
+This means that the
+isolate possesses
+
+625
+00:37:43,650 --> 00:37:49,510
+the ERM gene and that
+the erythromycin has
+
+626
+00:37:49,580 --> 00:37:56,650
+induced it to start
+producing the mRNA
+
+627
+00:37:56,650 --> 00:38:01,590
+which will make the
+protein methylase.
+
+628
+00:38:03,250 --> 00:38:06,750
+we know that because
+the organism is starting
+
+629
+00:38:06,750 --> 00:38:12,950
+to grow into the
+clindamycin area so the
+
+630
+00:38:13,930 --> 00:38:16,890
+clindamycin area now
+looks like a d because
+
+631
+00:38:16,890 --> 00:38:18,850
+of the staphylococcus
+i guess it's
+
+632
+00:38:18,850 --> 00:38:25,070
+staphylococcus growing
+into the clindamycin
+
+633
+00:38:25,070 --> 00:38:29,670
+zone so this is now
+going to be reported
+
+634
+00:38:29,670 --> 00:38:34,330
+as resistance clindamycin
+resistance the
+
+635
+00:38:34,330 --> 00:38:38,430
+organism is resistant
+to clindamycin the
+
+636
+00:38:38,430 --> 00:38:42,130
+d test the reason
+it's being reported as
+
+637
+00:38:42,130 --> 00:38:45,290
+resistant is because
+of the possibility
+
+638
+00:38:45,290 --> 00:38:52,810
+of therapeutic failure
+as the staphylococcus
+
+639
+00:38:52,810 --> 00:38:56,410
+or streptococcus
+or the pneumococcus
+
+640
+00:38:56,410 --> 00:39:04,930
+start to produce
+constitutive methylase,
+
+641
+00:39:04,930 --> 00:39:10,230
+constitutively active
+ERM gene methylase.
+
+642
+00:39:11,490 --> 00:39:13,170
+D-test.
+
+643
+00:39:15,020 --> 00:39:17,600
+That brings us now
+to chloramphenicol.
+
+644
+00:39:18,810 --> 00:39:21,630
+Chloramphenicol
+binds reversibly, all
+
+645
+00:39:21,630 --> 00:39:24,710
+of these in this
+lecture are reversible,
+
+646
+00:39:24,870 --> 00:39:32,070
+to the 23S RNA in
+the 50S ribosome. I'm
+
+647
+00:39:32,070 --> 00:39:35,050
+sure that sounds familiar
+by now, macrolides
+
+648
+00:39:35,050 --> 00:39:38,590
+and clindamycin also.
+But chloramphenicol
+
+649
+00:39:38,590 --> 00:39:41,550
+is in a slightly
+different spot. So
+
+650
+00:39:41,550 --> 00:39:44,090
+it has a different
+mechanism of action.
+
+651
+00:39:44,110 --> 00:39:47,470
+It seems to interfere
+with the binding
+
+652
+00:39:47,470 --> 00:39:51,950
+of the tRNA to
+the acceptor site.
+
+653
+00:39:51,950 --> 00:39:53,790
+So even though the
+clindamycin is in
+
+654
+00:39:53,790 --> 00:39:57,350
+here, it's preventing
+the binding of
+
+655
+00:39:57,350 --> 00:40:00,930
+the tRNA with the
+amino acid on it.
+
+656
+00:40:01,110 --> 00:40:04,090
+And that's going to
+prevent an interaction
+
+657
+00:40:04,090 --> 00:40:06,830
+between the
+peptidyl transferase
+
+658
+00:40:06,830 --> 00:40:13,750
+in the P-site and
+the amino acid on the
+
+659
+00:40:13,750 --> 00:40:16,350
+tRNA in the A-site.
+And that's going
+
+660
+00:40:16,350 --> 00:40:19,610
+to prevent the peptide
+bond formation.
+
+661
+00:40:20,070 --> 00:40:22,390
+So chloramphenicol is
+slightly different.
+
+662
+00:40:22,830 --> 00:40:24,550
+Chloramphenicol is highly
+
+663
+00:40:24,550 --> 00:40:28,170
+lipophilic, poorly
+soluble in water.
+
+664
+00:40:28,510 --> 00:40:32,810
+It is formulated in
+a salt, it's called
+
+665
+00:40:32,810 --> 00:40:35,930
+succinate sodium
+salt, so that it can
+
+666
+00:40:35,930 --> 00:40:40,810
+dissolve in the
+solution in the IV bag.
+
+667
+00:40:43,030 --> 00:40:45,790
+The pharmacokinetics
+of chloramphenicol
+
+668
+00:40:45,790 --> 00:40:47,850
+are very important for
+
+669
+00:40:47,850 --> 00:40:50,210
+optimization of
+therapy. That's why I'm
+
+670
+00:40:50,210 --> 00:40:51,970
+going through all
+of this for you.
+
+671
+00:40:52,010 --> 00:40:55,310
+It is given only IV
+in the United States.
+
+672
+00:40:55,310 --> 00:40:57,780
+Of course, it's got
+great oral absorption,
+
+673
+00:40:59,740 --> 00:41:02,550
+but we don't use it
+that way because of
+
+674
+00:41:02,550 --> 00:41:04,850
+the toxicities of
+this drug. We barely
+
+675
+00:41:04,850 --> 00:41:07,090
+use chloramphenicol
+for anything anymore.
+
+676
+00:41:11,770 --> 00:41:12,830
+So let's talk about those
+
+677
+00:41:12,830 --> 00:41:14,210
+pharmacokinetics again.
+
+678
+00:41:14,370 --> 00:41:18,990
+Succinate salt is
+rapidly converted by
+
+679
+00:41:18,990 --> 00:41:24,470
+esterases in the
+plasma to the active
+chloramphenicol.
+
+680
+00:41:24,470 --> 00:41:26,170
+The chloramphenicol
+is not in the
+
+681
+00:41:26,170 --> 00:41:29,990
+salt. it's got pretty
+high protein binding
+
+682
+00:41:31,270 --> 00:41:35,750
+it is widely distributed
+with good ***********
+
+683
+00:41:35,750 --> 00:41:38,930
+into the CSF remember
+it is lipophilic
+
+684
+00:41:38,930 --> 00:41:43,670
+good *********** into
+ocular tissues and it
+
+685
+00:41:43,670 --> 00:41:46,230
+used to be available
+in the US and eye drops
+
+686
+00:41:46,230 --> 00:41:51,610
+good *********** into
+the prostate fluids
+
+687
+00:41:51,610 --> 00:41:55,610
+and tissues it
+undergoes glucuronide
+
+688
+00:41:55,610 --> 00:42:01,010
+conjugation so it's it's
+metabolized in the liver
+
+689
+00:42:01,010 --> 00:42:07,110
+by UDP glucuronyl
+transferase and two
+
+690
+00:42:07,110 --> 00:42:10,530
+inactive metabolites and
+excreted in the urine
+
+691
+00:42:10,910 --> 00:42:14,450
+so active drug goes
+into the urine also.
+
+692
+00:42:19,330 --> 00:42:20,690
+Broad spectrum,
+
+693
+00:42:21,670 --> 00:42:24,610
+bacteriostatic,
+pia region
+
+694
+00:42:24,610 --> 00:42:26,270
+also again is resistant.
+
+695
+00:42:28,510 --> 00:42:33,450
+Drug inactivation
+by acetylation of
+
+696
+00:42:33,450 --> 00:42:36,570
+the drug, bacterial
+acetyltransferase.
+
+697
+00:42:36,570 --> 00:42:39,490
+So the drug itself
+is inactivated.
+
+698
+00:42:41,890 --> 00:42:46,010
+it has been used
+traditionally to treat
+
+699
+00:42:46,010 --> 00:42:49,470
+rocky mountain
+spotted fever with a
+
+700
+00:42:49,470 --> 00:42:52,070
+kethial infection
+which i mentioned is
+
+701
+00:42:52,070 --> 00:42:56,390
+deadly if left
+untreated in children
+
+702
+00:42:56,390 --> 00:42:58,890
+less than eight years
+old and pregnant
+
+703
+00:42:58,890 --> 00:43:02,390
+people why because
+doxycycline and other
+
+704
+00:43:02,390 --> 00:43:05,750
+tetracyclines have
+traditionally been
+
+705
+00:43:06,150 --> 00:43:08,390
+contraindicated
+in this group.
+
+706
+00:43:08,410 --> 00:43:10,890
+Well now, as I mentioned,
+
+707
+00:43:11,470 --> 00:43:16,870
+the American Academy
+of Pediatrics
+
+708
+00:43:19,190 --> 00:43:22,350
+allows, recommends
+doxycycline to be
+
+709
+00:43:22,350 --> 00:43:25,050
+used, especially
+for Rocky Mountain
+
+710
+00:43:25,050 --> 00:43:29,450
+spotted fever in young
+children and pregnant
+
+711
+00:43:29,450 --> 00:43:31,310
+people as well as
+everybody else.
+
+712
+00:43:36,700 --> 00:43:38,940
+It's also been used
+for meningococcal
+
+713
+00:43:39,010 --> 00:43:41,840
+meningitis remember it
+is bacteriostatic but it
+
+714
+00:43:41,840 --> 00:43:45,540
+does produce excellent
+CSF levels it's
+
+715
+00:43:45,540 --> 00:43:48,620
+only used when nothing
+else will work and it
+
+716
+00:43:48,620 --> 00:43:51,880
+would not be used alone
+so adverse effects
+
+717
+00:43:51,880 --> 00:43:55,350
+mitochondrial toxicity
+it is lipophilic
+
+718
+00:43:55,350 --> 00:43:59,300
+it can get into the
+mitochondria and it will
+
+719
+00:43:59,300 --> 00:44:01,840
+inhibit mitochondrial
+protein synthesis.
+
+720
+00:44:03,440 --> 00:44:08,600
+So it can cause
+quite an array of
+
+721
+00:44:08,600 --> 00:44:10,920
+toxicities, bone
+marrow toxicity,
+
+722
+00:44:11,200 --> 00:44:12,760
+Gray syndrome,
+which I'll talk
+
+723
+00:44:12,760 --> 00:44:15,180
+about on the next
+slide. This one is
+
+724
+00:44:15,180 --> 00:44:18,240
+called idiopathic
+aplastic anemia.
+
+725
+00:44:18,240 --> 00:44:21,320
+Not sure exactly
+the mechanism.
+
+726
+00:44:22,680 --> 00:44:25,300
+It doesn't occur in
+very many people,
+
+727
+00:44:25,300 --> 00:44:27,680
+so it's likely
+happening to people
+
+728
+00:44:27,680 --> 00:44:30,800
+who are sensitive for
+an unknown reason.
+
+729
+00:44:30,800 --> 00:44:33,780
+It is irreversible
+and deadly.
+
+730
+00:44:33,780 --> 00:44:36,720
+Aplastic anemia means
+that the bone marrow
+
+731
+00:44:36,720 --> 00:44:39,520
+is not producing
+any blood cells.
+
+732
+00:44:43,660 --> 00:44:46,240
+Plus your normal run
+-of-the-mill, which
+
+733
+00:44:46,240 --> 00:44:50,220
+is also very serious
+bone marrow toxicity.
+
+734
+00:44:50,560 --> 00:44:53,080
+The drug can also
+cause nausea,
+
+735
+00:44:53,080 --> 00:44:54,720
+vomiting, diarrhea.
+You would expect
+
+736
+00:44:54,720 --> 00:44:56,840
+these with lots
+of antibiotics.
+
+737
+00:44:57,480 --> 00:44:59,720
+Stomatitis, which
+is an inflammation
+
+738
+00:44:59,720 --> 00:45:02,280
+in the mucous
+membranes of the mouse.
+
+739
+00:45:02,980 --> 00:45:04,300
+Glossitis, which is an
+
+740
+00:45:04,300 --> 00:45:05,840
+inflammation
+of the tongue.
+
+741
+00:45:06,780 --> 00:45:10,000
+Optic neuritis, these
+are neuropathies,
+
+742
+00:45:10,000 --> 00:45:13,040
+peripheral neuritis,
+headache and confusion.
+
+743
+00:45:14,180 --> 00:45:16,720
+Pregnancy, it is a
+recommended alternative
+
+744
+00:45:16,720 --> 00:45:19,840
+for Rocky Mountain
+Spotted Fever and Plague.
+
+745
+00:45:20,740 --> 00:45:22,040
+But of course, we know
+
+746
+00:45:22,040 --> 00:45:24,060
+we can use doxycycline.
+
+747
+00:45:25,220 --> 00:45:29,660
+We have to be
+cautious about the
+
+748
+00:45:29,660 --> 00:45:31,480
+third trimester
+because of this gray
+
+749
+00:45:31,480 --> 00:45:34,740
+syndrome. And we
+have a CYP2C9.
+
+750
+00:45:36,000 --> 00:45:37,940
+Okay, gray syndrome.
+
+751
+00:45:38,780 --> 00:45:41,960
+High risk in pediatric
+patients, and we're
+
+752
+00:45:41,960 --> 00:45:44,560
+thinking really of
+neonates, especially
+
+753
+00:45:44,560 --> 00:45:48,700
+********* and full
+-term newborns, as well
+
+754
+00:45:48,700 --> 00:45:53,080
+as infants that are
+a bit older, all who
+
+755
+00:45:53,080 --> 00:45:56,140
+have immature hepatic
+and renal functions.
+
+756
+00:45:57,010 --> 00:45:58,660
+That's the key here, the
+
+757
+00:45:58,660 --> 00:46:01,700
+immaturity of the
+functions of these
+
+758
+00:46:01,700 --> 00:46:05,240
+newborns. They
+have immature
+
+759
+00:46:06,560 --> 00:46:10,640
+UGT, so they have
+reduced ability to
+
+760
+00:46:10,710 --> 00:46:14,280
+metabolize the chloramphenicol,
+so there will be
+
+761
+00:46:14,280 --> 00:46:17,780
+more drug in the blood
+for a given dose.
+
+762
+00:46:18,860 --> 00:46:21,980
+They have reduced
+levels of plasma
+
+763
+00:46:21,980 --> 00:46:25,420
+proteins, so a higher
+fraction of free drug.
+
+764
+00:46:28,540 --> 00:46:33,280
+They have immature
+kidney function, so
+
+765
+00:46:33,280 --> 00:46:36,260
+increased plasma
+concentrations of the drug.
+
+766
+00:46:36,260 --> 00:46:39,780
+All of these are
+pointing to the fact
+
+767
+00:46:39,780 --> 00:46:42,870
+that but there will
+be significantly
+
+768
+00:46:43,000 --> 00:46:46,520
+increased levels in
+the blood. So when
+
+769
+00:46:46,520 --> 00:46:49,420
+chloramphalicol is given
+to these little tykes,
+
+770
+00:46:50,040 --> 00:46:54,920
+the levels need to be
+carefully monitored.
+
+771
+00:46:55,220 --> 00:46:57,600
+The doses need
+to be carefully
+
+772
+00:46:57,600 --> 00:47:01,140
+monitored because increased
+drug concentration
+
+773
+00:47:01,210 --> 00:47:03,120
+increases the
+risk of these
+
+774
+00:47:03,120 --> 00:47:05,520
+concentration
+-dependent toxicities I
+
+775
+00:47:05,520 --> 00:47:08,360
+talked about in
+the previous slide.
+
+776
+00:47:09,420 --> 00:47:13,120
+drug accumulation in
+the neonate causes these
+
+777
+00:47:13,120 --> 00:47:17,460
+toxic levels gray
+syndrome it's now called
+
+778
+00:47:17,460 --> 00:47:19,500
+used to be called
+gray baby syndrome but
+
+779
+00:47:19,500 --> 00:47:24,820
+now it's gray syndrome
+vomiting flaccid muscles
+
+780
+00:47:24,820 --> 00:47:29,120
+abdominal distension
+hypothermia and
+
+781
+00:47:29,120 --> 00:47:32,620
+cyanosis and it's the
+cyanosis that causes that
+
+782
+00:47:32,620 --> 00:47:37,100
+gray collar It can
+progress to vasomotor
+
+783
+00:47:37,100 --> 00:47:42,020
+collapse, irregular
+respirations, and death.
+
+784
+00:47:44,190 --> 00:47:46,860
+Onset is two to nine
+days after starting
+
+785
+00:47:46,860 --> 00:47:51,760
+the therapy, but the
+progression is rapid.
+
+786
+00:47:51,760 --> 00:47:54,960
+The drug has to be
+removed immediately.
+
+787
+00:47:56,660 --> 00:48:00,670
+Now, it's now called
+gray syndrome because
+
+788
+00:48:00,670 --> 00:48:03,920
+other people, the
+newborns, but people,
+
+789
+00:48:03,920 --> 00:48:08,500
+especially the elderly
+people, who may have
+
+790
+00:48:08,500 --> 00:48:12,540
+reduced kidney function,
+reduced liver function,
+
+791
+00:48:12,540 --> 00:48:16,520
+may also be susceptible
+to gray syndrome.
+
+792
+00:48:19,900 --> 00:48:22,740
+That takes us to
+the oxazolidinones.
+
+793
+00:48:23,200 --> 00:48:28,000
+Lonezolid is the
+prototype of this group,
+
+794
+00:48:28,000 --> 00:48:30,920
+still the one that's
+widely used. This
+
+795
+00:48:30,920 --> 00:48:34,340
+has a different action
+than we saw with
+
+796
+00:48:34,340 --> 00:48:38,270
+the other ones. It
+binds again to the 23s
+
+797
+00:48:38,270 --> 00:48:42,720
+RNA at a point that's
+near that A site.
+
+798
+00:48:43,440 --> 00:48:46,500
+It's in the 50S
+ribosome, but it binds at
+
+799
+00:48:46,500 --> 00:48:49,600
+the site A site near
+the 30S, and that will
+
+800
+00:48:49,600 --> 00:48:53,320
+prevent the formation
+of that initial complex
+
+801
+00:48:53,320 --> 00:48:56,820
+that initiates protein
+synthesis. So the
+
+802
+00:48:56,820 --> 00:48:59,620
+protein synthesis never
+gets off the ground.
+
+803
+00:49:03,500 --> 00:49:07,680
+IV and oral, 100%
+bioavailability, widely
+
+804
+00:49:07,680 --> 00:49:10,740
+distributed in all
+the various tissues
+
+805
+00:49:10,740 --> 00:49:14,560
+including the CSF,
+minimal metabolism,
+
+806
+00:49:14,860 --> 00:49:16,880
+inactive metabolites, non
+
+807
+00:49:16,880 --> 00:49:18,540
+-renal renal excretion,
+
+808
+00:49:18,980 --> 00:49:20,820
+five-hour half-life
+
+809
+00:49:21,960 --> 00:49:25,740
+in adults okay all
+this sounds great
+
+810
+00:49:25,740 --> 00:49:29,030
+right you can do an
+IV to oral switch
+
+811
+00:49:29,030 --> 00:49:32,380
+don't it can be exactly
+the same dose it's
+
+812
+00:49:32,380 --> 00:49:34,600
+going to get where
+it needs to go how
+
+813
+00:49:34,600 --> 00:49:36,160
+great is that well
+let's see what the
+
+814
+00:49:36,160 --> 00:49:39,660
+problems are gram
+positive only only
+
+815
+00:49:39,660 --> 00:49:42,240
+only only gram
+positive only only only
+
+816
+00:49:44,740 --> 00:49:48,600
+bactericidal against
+the streptococci but
+
+817
+00:49:48,600 --> 00:49:50,420
+it's bacteriostatic
+against everything
+
+818
+00:49:50,420 --> 00:49:53,360
+else well that's okay
+it can still effective
+
+819
+00:49:53,360 --> 00:49:58,400
+MRSA enterococcus
+including VRE
+
+820
+00:50:00,010 --> 00:50:07,120
+tuberculosis MDR and XDR
+extensive drug resistance
+
+821
+00:50:07,120 --> 00:50:09,860
+as if MDR is not
+enough we now have
+
+822
+00:50:09,860 --> 00:50:15,360
+XDR and there's really
+very little resistance
+
+823
+00:50:15,360 --> 00:50:18,000
+and no cross
+resistance all of these
+
+824
+00:50:18,000 --> 00:50:22,960
+really favorable
+features well the
+
+825
+00:50:22,960 --> 00:50:25,220
+resistance can occur
+with point mutations at
+
+826
+00:50:25,220 --> 00:50:27,520
+the binding site you
+could predict that.
+
+827
+00:50:32,300 --> 00:50:34,260
+Intrinsic resistance,
+
+828
+00:50:34,460 --> 00:50:38,720
+aerobic gram negative
+bacteria and all
+
+829
+00:50:38,720 --> 00:50:42,120
+anaerobic bacteria. So
+what's it useful for?
+
+830
+00:50:42,240 --> 00:50:44,520
+Gram positive,
+
+831
+00:50:44,680 --> 00:50:48,700
+aerobic gram positive
+organisms. Strep,
+
+832
+00:50:48,700 --> 00:50:53,680
+staph, enterococcus.
+step strep enterococcus
+
+833
+00:50:55,060 --> 00:50:58,300
+skin skin structure
+nosocomial and
+
+834
+00:50:58,300 --> 00:51:00,920
+community acquired
+pneumonia cns infections
+
+835
+00:51:00,920 --> 00:51:03,900
+bone joint drug
+resistant tuberculosis
+
+836
+00:51:03,980 --> 00:51:08,340
+and more well let's
+take a look at the
+
+837
+00:51:08,340 --> 00:51:10,860
+adverse effects
+thrombocytopenia that
+
+838
+00:51:10,860 --> 00:51:15,060
+usually only occurs
+after a longer duration
+
+839
+00:51:15,060 --> 00:51:18,060
+thrombocytopenia is
+low platelet count
+
+840
+00:51:19,320 --> 00:51:23,340
+and but sometimes
+the lenezolid has to
+
+841
+00:51:23,340 --> 00:51:26,050
+be used for a longer
+period for difficult
+
+842
+00:51:26,590 --> 00:51:30,390
+infections oh here it
+is again mitochondrial
+
+843
+00:51:30,390 --> 00:51:33,460
+toxicities
+peripheral neuropathy
+
+844
+00:51:33,460 --> 00:51:38,040
+optic neuritis lactic
+acidosis again with
+
+845
+00:51:38,040 --> 00:51:40,860
+the longer duration
+of therapy even longer
+
+846
+00:51:40,860 --> 00:51:42,630
+than we see with the
+thrombocytopenia.
+
+847
+00:51:52,300 --> 00:51:54,000
+So how does it work?
+
+848
+00:51:54,000 --> 00:51:56,400
+Sorry, the
+adverse effects.
+
+849
+00:51:56,940 --> 00:52:00,260
+Linazolid is a weak
+monoamine oxidase
+
+850
+00:52:00,260 --> 00:52:05,040
+inhibitor. Monoamine
+oxidase is an
+
+851
+00:52:05,040 --> 00:52:10,260
+intracellular enzyme,
+highly expressed in
+
+852
+00:52:10,260 --> 00:52:12,200
+many, many tissues,
+including the liver
+
+853
+00:52:12,200 --> 00:52:18,300
+and in neurons. And
+it is important for
+
+854
+00:52:18,300 --> 00:52:22,600
+inactivating serotonin
+and norepinephrine
+
+855
+00:52:22,600 --> 00:52:26,200
+and also dopamine.
+We're talking
+
+856
+00:52:26,200 --> 00:52:28,560
+about serotonin and
+norepinephrine here.
+
+857
+00:52:28,780 --> 00:52:33,020
+By inhibiting monoamine
+oxidase, that will
+
+858
+00:52:33,020 --> 00:52:35,510
+increase the levels
+of serotonin and
+
+859
+00:52:35,510 --> 00:52:37,680
+norepinephrine in the
+brain and periphery,
+
+860
+00:52:37,680 --> 00:52:39,560
+obviously, because
+it's not being broken
+
+861
+00:52:39,560 --> 00:52:44,280
+down, and that
+increase in serotonin
+
+862
+00:52:44,280 --> 00:52:46,360
+levels is going to
+increase the risk of
+
+863
+00:52:46,360 --> 00:52:49,180
+serotonin syndrome
+in patients taking
+
+864
+00:52:49,180 --> 00:52:53,660
+serotonergic drugs.
+All right, what
+are serotonergic
+
+865
+00:52:53,660 --> 00:52:55,540
+drugs? I have a
+list of them here.
+
+866
+00:52:58,320 --> 00:53:01,160
+Serotonin reuptake
+inhibitors, those are
+
+867
+00:53:01,160 --> 00:53:05,180
+antidepressants,
+tricyclic antidepressants,
+
+868
+00:53:08,680 --> 00:53:12,480
+And, therefore, if
+we give lonezolid,
+
+869
+00:53:12,480 --> 00:53:15,660
+which is an MAO
+inhibitor, that can
+
+870
+00:53:15,660 --> 00:53:18,420
+increase the levels
+of all of these drugs,
+
+871
+00:53:18,420 --> 00:53:22,280
+which could lead to
+serotonin syndrome.
+
+872
+00:53:23,700 --> 00:53:25,720
+Serotonin syndrome is
+
+873
+00:53:25,720 --> 00:53:27,540
+often mild and
+reversible.
+
+874
+00:53:27,760 --> 00:53:29,480
+Patient is uncomfortable,
+
+875
+00:53:29,500 --> 00:53:31,820
+headache maybe,
+some confusions,
+
+876
+00:53:32,480 --> 00:53:33,680
+palpitations.
+
+877
+00:53:34,050 --> 00:53:36,660
+But it can be severe,
+it can lead to
+
+878
+00:53:36,660 --> 00:53:39,400
+hyperthermia and
+hypertensive crisis.
+
+879
+00:53:41,560 --> 00:53:45,600
+So patients, first of
+all, the literature
+
+880
+00:53:45,600 --> 00:53:48,730
+recommends that
+linezolid be avoided
+
+881
+00:53:48,730 --> 00:53:52,140
+in patients who are
+taking these drugs,
+
+882
+00:53:53,970 --> 00:53:56,180
+sometimes zolanezolid
+is the only
+
+883
+00:53:56,180 --> 00:53:57,940
+drug that can be
+given, so the patient
+
+884
+00:53:57,940 --> 00:54:00,600
+must be carefully,
+carefully monitored.
+
+885
+00:54:01,100 --> 00:54:04,900
+So drug disease
+interactions. Uncontrolled
+
+886
+00:54:04,900 --> 00:54:07,420
+hypertension because
+norepinephrine
+
+887
+00:54:07,420 --> 00:54:13,520
+increases blood
+pressure and heart rate.
+
+888
+00:54:13,840 --> 00:54:16,620
+So uncontrolled
+hypertension.
+
+889
+00:54:17,400 --> 00:54:18,980
+Pheochromocytoma,
+which is a tumor
+
+890
+00:54:18,980 --> 00:54:23,840
+that increases
+norepinephrine levels.
+
+891
+00:54:24,540 --> 00:54:27,080
+Thyrotoxicosis,
+it's already causing
+
+892
+00:54:27,080 --> 00:54:29,080
+increased blood
+pressure and heart rate.
+
+893
+00:54:30,000 --> 00:54:33,540
+Then, going down here
+to sympathomimetic
+
+894
+00:54:33,540 --> 00:54:36,500
+agents and vasopressive
+agents, because they
+
+895
+00:54:36,500 --> 00:54:40,220
+can, they do, this is
+their job, increase
+
+896
+00:54:40,220 --> 00:54:43,520
+blood pressure and or
+increase heart rate.
+
+897
+00:54:45,250 --> 00:54:47,740
+see how it's all
+connected you see the
+
+898
+00:54:47,740 --> 00:54:50,940
+mechanisms there
+miperidine is an opioid
+
+899
+00:54:51,680 --> 00:54:55,660
+analgesic and it
+also has serotonin
+
+900
+00:54:55,660 --> 00:54:57,740
+increasing
+increasing effects
+
+901
+00:54:57,740 --> 00:55:01,460
+now tyramine
+tyramine is found
+
+902
+00:55:02,000 --> 00:55:06,800
+in certain foods like
+aged cheese and wine
+
+903
+00:55:06,800 --> 00:55:10,880
+beer and pickles
+and salami and other
+
+904
+00:55:10,880 --> 00:55:14,960
+yummy stuff Well,
+tyramine is inactivated
+
+905
+00:55:14,960 --> 00:55:18,900
+by monoamine oxidase,
+too, and if that
+
+906
+00:55:18,900 --> 00:55:21,620
+is inhibited, tyramine
+levels can increase,
+
+907
+00:55:21,620 --> 00:55:25,860
+displace norepinephrine,
+and lead to
+
+908
+00:55:25,860 --> 00:55:27,820
+increased blood
+pressure and heart rate.
+
+909
+00:55:29,880 --> 00:55:35,100
+So linezolid has
+some serious adverse
+
+910
+00:55:35,100 --> 00:55:37,960
+effects that must be
+considered when thinking
+
+911
+00:55:37,960 --> 00:55:41,680
+about choosing
+linezolid as a therapy,
+
+912
+00:55:41,680 --> 00:55:44,740
+which requires
+monitoring if the
+
+913
+00:55:44,740 --> 00:55:47,620
+patient must get it.
+Plus, you need to know
+
+914
+00:55:47,620 --> 00:55:50,340
+linezolid is really,
+really expensive.
+
+915
+00:55:51,640 --> 00:55:53,360
+Okay, here are
+some questions.
+
+916
+00:55:53,660 --> 00:55:58,240
+I I would suggest you
+pause the video, but
+
+917
+00:55:58,240 --> 00:56:00,440
+I'm not going to go
+over these questions.
+
+918
+00:56:00,440 --> 00:56:03,240
+The answers are at the
+
+919
+00:56:03,240 --> 00:56:06,180
+end of this PowerPoint.
+
+920
+00:56:06,780 --> 00:56:11,580
+And I really encourage
+you to try and
+
+921
+00:56:12,530 --> 00:56:15,180
+think of the answers
+before you look at
+
+922
+00:56:15,180 --> 00:56:18,080
+the answers. And
+by all means, talk
+
+923
+00:56:18,080 --> 00:56:19,940
+to people in your
+group. Talk to each
+
+924
+00:56:19,940 --> 00:56:21,860
+other. You don't have
+to do this alone.
+
+925
+00:56:22,620 --> 00:56:26,860
+it's important to
+learn together to work
+
+926
+00:56:26,860 --> 00:56:29,360
+together you're not
+going to be working
+
+927
+00:56:29,360 --> 00:56:34,980
+in clinical practice
+by yourself and I
+
+928
+00:56:34,980 --> 00:56:38,700
+have two pages of them
+and a really brief
+
+929
+00:56:38,700 --> 00:56:42,060
+summary it's actually
+a synopsis because
+
+930
+00:56:42,060 --> 00:56:45,820
+the summary of all
+the individual drugs
+
+931
+00:56:45,820 --> 00:56:47,840
+is really in the
+beginning under key
+
+932
+00:56:47,840 --> 00:56:50,520
+points I'm not going
+to read this to you.
+
+933
+00:56:51,780 --> 00:56:57,760
+And I put the same
+mind map here and
+
+934
+00:56:57,760 --> 00:57:01,640
+I indicated underneath
+in the ideal
+
+935
+00:57:01,640 --> 00:57:05,080
+world if bacterial
+resistance is absent
+
+936
+00:57:05,700 --> 00:57:09,080
+all of the different
+organisms that
+
+937
+00:57:09,080 --> 00:57:11,640
+would be susceptible
+to these drugs.
+
+938
+00:57:12,630 --> 00:57:14,840
+Tetracyclines is
+a big list as you
+
+939
+00:57:14,840 --> 00:57:17,160
+can see they are
+broad spectrum.
+
+940
+00:57:18,120 --> 00:57:20,200
+Chloramphenicol I've
+just grouped them
+
+941
+00:57:20,200 --> 00:57:22,720
+according to what they
+are aerobic gram positive
+
+942
+00:57:22,720 --> 00:57:25,360
+aerobic gram negative
+anaerobic and atypical
+
+943
+00:57:25,360 --> 00:57:27,140
+that just covers
+just about everybody
+
+944
+00:57:27,140 --> 00:57:35,440
+macrolides the we see
+a lot of respiratory
+
+945
+00:57:35,440 --> 00:57:38,360
+organisms strep and staph
+which are pretty much
+
+946
+00:57:38,360 --> 00:57:43,360
+resistant now the
+atypicals spirochetes,
+
+947
+00:57:43,560 --> 00:57:48,560
+and this
+mycobacterium species.
+
+948
+00:57:49,080 --> 00:57:51,560
+Lynchosamide
+narrow spectrum,
+
+949
+00:57:52,300 --> 00:57:54,660
+aerobic gram
+-positive, MRSA,
+
+950
+00:57:54,660 --> 00:57:56,800
+and anaerobic bacteria.
+
+951
+00:57:57,180 --> 00:57:59,280
+Easy to remember.
+
+952
+00:58:00,680 --> 00:58:02,980
+Streptogrammins
+I put here.
+
+953
+00:58:02,980 --> 00:58:05,180
+I'm not testing
+you on these.
+
+954
+00:58:05,560 --> 00:58:07,540
+It's gram-positive only.
+
+955
+00:58:11,180 --> 00:58:16,420
+and linezolid, which
+is gram-positive only.
+
+956
+00:58:19,580 --> 00:58:21,020
+That's it.
+
+957
+00:58:24,000 --> 00:58:26,660
+And here we have
+the answers to the
+
+958
+00:58:26,660 --> 00:58:29,360
+questions. That
+concludes this lecture
+
+959
+00:58:29,360 --> 00:58:31,640
+on the protein
+synthesis inhibitors.

@@ -1,0 +1,4114 @@
+1
+00:00:01,340 --> 00:00:01,840
+Hi!
+
+2
+00:00:01,980 --> 00:00:04,000
+So welcome to the
+third part of the
+
+3
+00:00:04,000 --> 00:00:06,540
+autonomic series.
+We're now covering
+
+4
+00:00:06,540 --> 00:00:08,460
+the head and neck.
+If you have any
+
+5
+00:00:08,460 --> 00:00:10,480
+questions always feel
+free to reach out.
+
+6
+00:00:10,620 --> 00:00:12,360
+My email is on there.
+
+7
+00:00:13,140 --> 00:00:15,420
+So after this session
+you should be able
+
+8
+00:00:15,420 --> 00:00:18,190
+to compare and contrast
+sympathetic and
+
+9
+00:00:18,190 --> 00:00:19,940
+parasympathetic
+innervation to the head
+
+10
+00:00:19,940 --> 00:00:21,920
+and neck. You should
+be able to list the
+
+11
+00:00:21,920 --> 00:00:23,680
+four parasympathetic
+ganglia of the head
+
+12
+00:00:23,680 --> 00:00:26,220
+and their pre-ganglia
+input and output.
+
+13
+00:00:27,980 --> 00:00:29,480
+Understand the
+innervation and
+
+14
+00:00:29,480 --> 00:00:31,360
+function of the
+glands on the head.
+
+15
+00:00:31,760 --> 00:00:34,400
+explain Horner's
+syndrome and explain
+
+16
+00:00:34,400 --> 00:00:38,060
+accommodation
+convergence reflex so do
+
+17
+00:00:38,060 --> 00:00:40,560
+a little bit of repeat
+you've seen this
+
+18
+00:00:40,560 --> 00:00:43,000
+before a couple of
+times now so we're
+
+19
+00:00:43,000 --> 00:00:45,220
+covering the peripheral
+nervous system
+
+20
+00:00:45,220 --> 00:00:47,740
+there's also central
+nervous system which
+
+21
+00:00:47,740 --> 00:00:49,820
+is the brain and
+spinal cord which
+
+22
+00:00:49,820 --> 00:00:51,680
+you'll learn more
+about in your anatomy
+
+23
+00:00:52,140 --> 00:00:54,420
+but now we're focusing
+on the peripheral
+
+24
+00:00:54,420 --> 00:00:56,780
+nervous system and we
+had somatic innervation
+
+25
+00:00:56,780 --> 00:00:59,740
+and visceral innervation
+so we're focusing
+
+26
+00:00:59,740 --> 00:01:02,020
+only on the visceral
+innervation now it's
+
+27
+00:01:02,020 --> 00:01:05,100
+cardiac muscles muscle
+and glands and then
+
+28
+00:01:05,100 --> 00:01:07,480
+we have sensory and
+motor for that remember
+
+29
+00:01:09,680 --> 00:01:13,120
+that they are the two
+different neuron types
+
+30
+00:01:13,120 --> 00:01:15,300
+so we have those
+visceral motor neurons
+
+31
+00:01:15,300 --> 00:01:17,980
+which is a two-neuron system
+with the preganglionic
+
+32
+00:01:17,980 --> 00:01:20,400
+and postganglionic
+neuron and you have
+
+33
+00:01:20,400 --> 00:01:23,620
+the preganglionic
+neuron that starts out
+
+34
+00:01:23,620 --> 00:01:25,740
+in the central nervous
+system so in the brain
+
+35
+00:01:25,740 --> 00:01:28,680
+or spinal cord and
+then synapses outside
+
+36
+00:01:28,680 --> 00:01:30,980
+of the central nervous
+system in certain
+
+37
+00:01:30,980 --> 00:01:32,840
+autonomic ganglia
+and then you have a
+
+38
+00:01:32,840 --> 00:01:37,000
+postganglionic or postsynaptic
+axon that synapses
+
+39
+00:01:37,000 --> 00:01:40,980
+on the target organ
+itself for the wristful
+
+40
+00:01:40,980 --> 00:01:44,270
+sensory neurons those
+are bipolar neurons
+
+41
+00:01:44,270 --> 00:01:46,340
+so you have a cell body
+kind of in the center
+
+42
+00:01:46,340 --> 00:01:48,700
+that sits outside of
+the central nervous
+
+43
+00:01:48,700 --> 00:01:50,980
+system you have a
+signal that's coming in
+
+44
+00:01:50,980 --> 00:01:54,970
+from an organ or from
+the body ball and then
+
+45
+00:01:54,970 --> 00:01:58,070
+synapses in the central
+nervous system we
+
+46
+00:01:59,860 --> 00:02:02,060
+might just to contrast
+sympathetics and
+
+47
+00:02:02,060 --> 00:02:04,740
+parasympathetics both are
+those two neuron system
+
+48
+00:02:04,740 --> 00:02:07,680
+those motor systems
+the pre-gagnionic cell
+
+49
+00:02:07,680 --> 00:02:09,320
+bodies for sympathetics
+can be found
+
+50
+00:02:09,320 --> 00:02:13,220
+between t1 and l2 versus
+the parasympathetics
+
+51
+00:02:13,220 --> 00:02:16,030
+are either in the
+brain stem or s3s4
+
+52
+00:02:16,030 --> 00:02:19,500
+postganglionic cell
+bodies for sympathetic and
+
+53
+00:02:19,500 --> 00:02:22,400
+pervertible ganglia or
+subdiaphragmatic ganglia
+
+54
+00:02:22,400 --> 00:02:26,140
+and those for the
+parasympathetics are in
+
+55
+00:02:26,140 --> 00:02:29,880
+the walls of the organ
+or in my new pelvic
+
+56
+00:02:29,880 --> 00:02:32,140
+ganglia or in those
+four ganglia in the head
+
+57
+00:02:32,140 --> 00:02:34,900
+and neck which we'll
+finally get to today
+
+58
+00:02:36,750 --> 00:02:38,940
+so what are those
+types of structures
+
+59
+00:02:38,940 --> 00:02:40,300
+with those structures
+in the head
+
+60
+00:02:40,300 --> 00:02:42,880
+that we want to
+innovate Also, we
+
+61
+00:02:42,880 --> 00:02:46,700
+have the lacrimal
+gland, mucus gland,
+
+62
+00:02:47,160 --> 00:02:50,420
+salivary gland, we
+have sweat glands on
+
+63
+00:02:50,420 --> 00:02:52,820
+the face, we have
+sebaceous glands, like
+
+64
+00:02:52,820 --> 00:02:55,200
+the tarsal glands,
+or myelbium glands.
+
+65
+00:02:55,690 --> 00:02:57,580
+And then there's
+smooth muscle
+
+66
+00:02:57,580 --> 00:02:59,680
+structures, like
+blood vessels, we
+
+67
+00:02:59,680 --> 00:03:02,700
+have very small
+muscles in the eye,
+
+68
+00:03:02,860 --> 00:03:05,480
+superior tarsal,
+constrictor pupillae,
+
+69
+00:03:05,480 --> 00:03:08,260
+dilated pupillae, or
+ciliary muscle. so for
+
+70
+00:03:08,260 --> 00:03:10,070
+those structures we
+want to get innervation
+
+71
+00:03:10,210 --> 00:03:16,100
+to the head okay now
+talking a little bit
+
+72
+00:03:16,100 --> 00:03:18,460
+about the functions
+of the autonomic
+
+73
+00:03:18,460 --> 00:03:21,500
+nervous system so for
+the head and neck it's
+
+74
+00:03:21,500 --> 00:03:24,440
+often that only one
+of them is really
+
+75
+00:03:24,440 --> 00:03:28,860
+having an effect so it's
+either the sympathetics
+
+76
+00:03:28,860 --> 00:03:31,560
+or it's the
+parasympathetics so that
+
+77
+00:03:31,560 --> 00:03:33,860
+you can see this in
+lachman gland it's not
+
+78
+00:03:33,860 --> 00:03:35,780
+quite clear what the
+sympathetics are doing
+
+79
+00:03:35,780 --> 00:03:37,320
+there, they're going
+there, but it's not
+
+80
+00:03:37,320 --> 00:03:39,460
+quite sure what
+they're actually doing.
+
+81
+00:03:39,740 --> 00:03:41,700
+The secretion
+is really done
+
+82
+00:03:41,700 --> 00:03:42,670
+by the parasympathetics.
+
+83
+00:03:43,400 --> 00:03:45,480
+For sweat glands,
+that's only done
+
+84
+00:03:45,480 --> 00:03:47,260
+by sympathetics.
+Parasympathetics
+
+85
+00:03:47,260 --> 00:03:48,820
+have nothing to
+do with that.
+
+86
+00:03:49,460 --> 00:03:52,120
+Superior tarsal muscle
+and dilator pupillae,
+
+87
+00:03:52,120 --> 00:03:53,980
+they're both done
+by the sympathetics,
+
+88
+00:03:53,980 --> 00:03:56,300
+versus constrictor
+pupillae and ciliary
+
+89
+00:03:56,300 --> 00:03:59,220
+muscle are done by
+the parasympathetics.
+
+90
+00:04:00,380 --> 00:04:02,840
+now there are a couple
+of things that have
+
+91
+00:04:02,840 --> 00:04:05,840
+this dual innovations
+so the salivary glands
+
+92
+00:04:05,840 --> 00:04:08,300
+for example but their
+effect is a little
+
+93
+00:04:08,300 --> 00:04:11,560
+different so the
+sympathetics when they
+
+94
+00:04:11,560 --> 00:04:13,760
+are active for salivary
+glands they actually
+
+95
+00:04:13,760 --> 00:04:18,000
+secrete like a really
+dense saliva so think
+
+96
+00:04:18,000 --> 00:04:19,780
+of when you're very
+nervous and your mouth
+
+97
+00:04:19,780 --> 00:04:23,500
+gets like dry that
+dense saliva that's
+
+98
+00:04:23,500 --> 00:04:26,020
+the sympathetic effect
+versus parasympathetics
+
+99
+00:04:26,020 --> 00:04:29,020
+when you're hungry
+and you're salivating
+
+100
+00:04:29,020 --> 00:04:33,020
+to put like get food
+down right that's
+
+101
+00:04:33,020 --> 00:04:35,180
+the effect of the
+parasympathetics it's much
+
+102
+00:04:35,180 --> 00:04:38,680
+more liquid saliva
+and then for blood
+
+103
+00:04:38,680 --> 00:04:41,200
+vessels it's also a
+little different it kind
+
+104
+00:04:41,200 --> 00:04:43,240
+of depends on where
+those blood vessels are
+
+105
+00:04:43,240 --> 00:04:47,740
+so a sympathetic effect
+of facial arteries
+
+106
+00:04:47,740 --> 00:04:49,800
+is actually dilation
+like think of when
+
+107
+00:04:49,800 --> 00:04:52,180
+someone is blushing like
+that's a very that's
+
+108
+00:04:52,180 --> 00:04:55,200
+a sympathetic effect
+um that you can see
+
+109
+00:04:57,480 --> 00:05:02,580
+now let's focus on
+sympathetics um after
+
+110
+00:05:02,580 --> 00:05:07,340
+this little intro so
+here's our overview slide
+
+111
+00:05:07,340 --> 00:05:09,880
+of the sympathetics
+remember pre-ganglionics
+
+112
+00:05:09,880 --> 00:05:13,020
+like all good
+sympathetics start in the
+
+113
+00:05:13,020 --> 00:05:14,880
+lateral horn and for
+the head and neck
+
+114
+00:05:14,880 --> 00:05:18,620
+specifically we start
+between t1 and t2 then we
+
+115
+00:05:18,620 --> 00:05:21,520
+have the are preganglionic
+axons that take
+
+116
+00:05:21,520 --> 00:05:23,580
+their regular pathway
+into the sympathetic
+
+117
+00:05:23,580 --> 00:05:26,300
+chain through the
+ventral root, the spinal
+
+118
+00:05:26,300 --> 00:05:28,920
+nerve, ventral rami,
+right rami, communicants,
+
+119
+00:05:28,920 --> 00:05:31,700
+and then into the
+parative ganglion. And
+
+120
+00:05:31,700 --> 00:05:34,180
+then they ascent in
+the sympathetic chain.
+
+121
+00:05:34,180 --> 00:05:37,360
+And for the head specifically,
+they will synapse
+
+122
+00:05:37,360 --> 00:05:39,820
+in the superior
+cervical ganglion. For
+
+123
+00:05:39,820 --> 00:05:41,500
+the neck, they might
+also synapse in the
+
+124
+00:05:41,500 --> 00:05:43,800
+middle cervical or
+inferior cervical ganglion.
+
+125
+00:05:44,100 --> 00:05:46,240
+And then for the head
+specifically, you
+
+126
+00:05:46,240 --> 00:05:48,140
+have the postganglionics
+that pass with
+
+127
+00:05:48,140 --> 00:05:50,260
+the internal and
+external carotid plexus
+
+128
+00:05:51,050 --> 00:05:53,360
+so what does this
+look like um if you're
+
+129
+00:05:53,360 --> 00:05:55,880
+looking at the anatomy
+here you can see this
+
+130
+00:05:55,880 --> 00:05:59,030
+is like kind of a
+pathway dissected neck
+
+131
+00:05:59,350 --> 00:06:02,260
+you're looking at the
+right side and you
+
+132
+00:06:02,260 --> 00:06:05,340
+can see the sympathetic
+chain here so you
+
+133
+00:06:05,340 --> 00:06:08,180
+have the inferior
+cervical ganglion middle
+
+134
+00:06:08,180 --> 00:06:10,640
+cervical ganglion
+and superior cervical
+
+135
+00:06:10,640 --> 00:06:15,120
+ganglion, remember
+that those ganglia, a
+
+136
+00:06:15,120 --> 00:06:19,800
+couple of ganglia fused
+of the cervical levels,
+
+137
+00:06:19,800 --> 00:06:21,320
+like in particular
+superior cervical
+
+138
+00:06:21,320 --> 00:06:26,360
+ganglion fused C1 to
+C4 parvotibic ganglia.
+
+139
+00:06:26,880 --> 00:06:30,600
+So most of those
+preganglionic sympathetics
+
+140
+00:06:30,600 --> 00:06:32,480
+will just ascent
+all the way up to
+
+141
+00:06:32,480 --> 00:06:35,020
+the superior cervical
+ganglion and synapse
+
+142
+00:06:35,020 --> 00:06:37,470
+there. That's where
+most of the post
+
+143
+00:06:37,700 --> 00:06:40,900
+-kingleonic sympathetic
+cell bodies are.
+
+144
+00:06:40,900 --> 00:06:43,000
+And you can see the
+size is really big.
+
+145
+00:06:46,140 --> 00:06:50,780
+So now this is a
+kind of bisected
+
+146
+00:06:50,780 --> 00:06:53,020
+view, and you're
+looking at the
+
+147
+00:06:53,020 --> 00:06:55,880
+medial aspect of
+the left side.
+
+148
+00:06:59,460 --> 00:07:03,420
+and you can see in
+there the superior
+
+149
+00:07:03,420 --> 00:07:05,440
+cervical ganglion and
+then you can see the
+
+150
+00:07:05,440 --> 00:07:08,140
+external carotid plexus
+so you just have those
+
+151
+00:07:08,140 --> 00:07:10,500
+post ganglionics passing
+with the external
+
+152
+00:07:10,500 --> 00:07:13,240
+carotid artery to
+the places where the
+
+153
+00:07:13,240 --> 00:07:15,320
+external carotid artery
+goes and then you
+
+154
+00:07:15,320 --> 00:07:17,820
+also have the internal
+carotid nerve that
+
+155
+00:07:17,820 --> 00:07:20,420
+just kind of looks like
+the continuation of
+
+156
+00:07:20,420 --> 00:07:22,840
+the sympathetic chain
+but really important
+
+157
+00:07:22,840 --> 00:07:25,640
+sympathetic chain are
+preganglionics the
+
+158
+00:07:25,640 --> 00:07:28,240
+internal carotid nerve
+those are postganglionics
+
+159
+00:07:28,240 --> 00:07:30,100
+right so the
+sympathetic chain kind
+
+160
+00:07:30,100 --> 00:07:32,240
+of stops at the superior
+cervical ganglion
+
+161
+00:07:32,240 --> 00:07:34,440
+and then it just
+continues as those
+
+162
+00:07:34,440 --> 00:07:36,870
+postganglionics in the
+internal carotid nerve
+
+163
+00:07:36,870 --> 00:07:39,520
+that forms a little
+plexus around the internal
+
+164
+00:07:39,520 --> 00:07:43,480
+carotid artery and
+then it branches into
+
+165
+00:07:43,670 --> 00:07:48,380
+the orbit and part
+of the nasal cavity
+
+166
+00:07:49,510 --> 00:07:53,140
+like more specifically
+here this is kind of
+
+167
+00:07:53,140 --> 00:07:55,420
+what the internal
+carotid plexus all does
+
+168
+00:07:55,780 --> 00:07:57,480
+so i'm not going to
+go through all of
+
+169
+00:07:57,480 --> 00:08:00,340
+them but just to
+to point out a few
+
+170
+00:08:00,340 --> 00:08:02,600
+so this is like
+vasoconstriction of the
+
+171
+00:08:02,600 --> 00:08:07,400
+ocular arteries we
+have the dilator
+
+172
+00:08:07,400 --> 00:08:09,940
+pupillae and superior
+tarsal muscles
+
+173
+00:08:10,140 --> 00:08:12,720
+and then the
+vasodilation of facial
+
+174
+00:08:12,720 --> 00:08:15,000
+arterials covering
+the forehead
+
+175
+00:08:17,560 --> 00:08:19,600
+For the ones
+that are passing
+
+176
+00:08:19,600 --> 00:08:21,020
+with the depetrosal
+nerves, they're
+
+177
+00:08:21,020 --> 00:08:22,380
+going to the
+lacronal gland,
+
+178
+00:08:22,660 --> 00:08:25,740
+and then also
+vasoconstriction of blood
+
+179
+00:08:25,740 --> 00:08:28,820
+vessels in the nasal
+cavity, palate, pharynx.
+
+180
+00:08:28,820 --> 00:08:30,780
+So think of
+everything that is
+
+181
+00:08:30,780 --> 00:08:34,440
+kind of passing
+with that depetrosal
+
+182
+00:08:34,440 --> 00:08:36,480
+nerve into the
+nasal cavity.
+
+183
+00:08:40,480 --> 00:08:44,860
+so for the external
+carotid plexus um you
+
+184
+00:08:44,860 --> 00:08:46,640
+can think of anywhere
+where the external
+
+185
+00:08:46,640 --> 00:08:49,720
+carotid artery goes
+that is where you
+
+186
+00:08:49,720 --> 00:08:52,840
+get the innervation
+tube so like with
+
+187
+00:08:52,840 --> 00:08:55,020
+the maxillary artery
+it's kind of going to
+
+188
+00:08:55,020 --> 00:08:57,220
+the parietic gland
+the lingual artery
+
+189
+00:08:57,220 --> 00:08:59,320
+it's going to sublingual
+and submandibular
+
+190
+00:08:59,320 --> 00:09:02,120
+gland but branches
+of the facial artery
+
+191
+00:09:02,120 --> 00:09:04,320
+might pass to the
+submandibular gland
+
+192
+00:09:04,860 --> 00:09:06,760
+and then with all
+of those branches
+
+193
+00:09:06,760 --> 00:09:12,540
+you know it's going
+to arteries well
+
+194
+00:09:12,540 --> 00:09:14,560
+it's innervating
+the arteries that
+
+195
+00:09:14,560 --> 00:09:16,000
+it's passing with
+and it will go
+
+196
+00:09:16,000 --> 00:09:18,780
+through to facial
+sweat glands as well
+
+197
+00:09:21,840 --> 00:09:23,920
+so that was already
+the pattern for the
+
+198
+00:09:23,920 --> 00:09:26,260
+sympathetics it's actually
+um now we're finally
+
+199
+00:09:26,260 --> 00:09:27,840
+getting to the point
+where the sympathetics
+
+200
+00:09:27,840 --> 00:09:29,820
+are actually not that
+complicated anymore
+
+201
+00:09:29,820 --> 00:09:32,140
+um i feel like where
+the parasympathetics
+
+202
+00:09:32,140 --> 00:09:33,600
+are going to be a little
+bit more complicated
+
+203
+00:09:33,600 --> 00:09:36,500
+But one of the important
+clinical considerations
+
+204
+00:09:36,500 --> 00:09:39,680
+here that you
+probably see for your
+
+205
+00:09:39,680 --> 00:09:42,860
+broad studies as well
+is Horner's syndrome.
+
+206
+00:09:43,660 --> 00:09:47,040
+So what is that?
+So here is two
+
+207
+00:09:47,040 --> 00:09:48,500
+images of
+Horner's syndrome.
+
+208
+00:09:48,500 --> 00:09:51,140
+Horner's syndrome
+is a blockage of
+
+209
+00:09:51,140 --> 00:09:53,460
+the sympathetic
+pathway to the head.
+
+210
+00:09:53,970 --> 00:09:58,060
+And you can see here,
+in this case on Bose,
+
+211
+00:09:58,500 --> 00:10:01,840
+it's the left side
+that is impacted.
+
+212
+00:10:02,320 --> 00:10:06,760
+and often you hear of
+a triad of symptoms
+
+213
+00:10:06,950 --> 00:10:08,860
+but there are other
+symptoms that you
+
+214
+00:10:08,860 --> 00:10:11,160
+can actually see really
+well here as well
+
+215
+00:10:11,160 --> 00:10:14,000
+but the the kind of
+big symptoms that
+
+216
+00:10:14,000 --> 00:10:17,680
+you're looking out for
+is a constricted pupil
+
+217
+00:10:17,730 --> 00:10:20,660
+dropping of the
+upper eyelid and lack
+
+218
+00:10:20,660 --> 00:10:23,080
+of sweating and so you
+can see that little
+
+219
+00:10:23,080 --> 00:10:25,180
+drop of the eyelid
+pretty well here
+
+220
+00:10:25,180 --> 00:10:28,940
+that is lack of the
+superior tarsal muscle
+
+221
+00:10:29,600 --> 00:10:32,460
+that is causing
+that wall drop. You
+
+222
+00:10:32,460 --> 00:10:34,740
+have the constricted
+pupil because your
+
+223
+00:10:34,740 --> 00:10:37,320
+dilator pupillae is
+not working anymore.
+
+224
+00:10:37,320 --> 00:10:39,220
+It's all, you know,
+done by sympathetics.
+
+225
+00:10:39,240 --> 00:10:41,700
+And you have a
+lack of sweating.
+
+226
+00:10:41,700 --> 00:10:43,200
+Remember, sweat
+glands are all
+
+227
+00:10:43,200 --> 00:10:45,060
+done by the
+sympathetics. So
+
+228
+00:10:45,060 --> 00:10:46,500
+you have this
+lack of sweating.
+
+229
+00:10:47,140 --> 00:10:51,440
+But what you can also
+see very nicely here
+
+230
+00:10:51,440 --> 00:10:55,420
+is that you lose
+vasodilation in the face. So
+
+231
+00:10:55,420 --> 00:10:57,320
+you cannot blush
+anymore so in particular
+
+232
+00:10:57,320 --> 00:10:59,320
+in the lower image you
+can see that really
+
+233
+00:10:59,320 --> 00:11:03,420
+well that one side that
+is affected the skin
+
+234
+00:11:03,420 --> 00:11:06,700
+is like not red at all
+and often you see that
+
+235
+00:11:06,700 --> 00:11:09,340
+compensatory effect on
+the other side where
+
+236
+00:11:09,340 --> 00:11:13,140
+you see like a lot of
+blushing on that side
+
+237
+00:11:13,490 --> 00:11:16,360
+and then sometimes
+you also see loss of
+
+238
+00:11:16,360 --> 00:11:20,160
+ocular vasoconstriction
+so like your your
+
+239
+00:11:20,160 --> 00:11:22,180
+vessels and your eye
+cannot constrict anymore
+
+240
+00:11:22,180 --> 00:11:24,480
+they're kind of dilated
+and they might look
+
+241
+00:11:24,480 --> 00:11:26,640
+what's called blood shots
+so a little bit more
+
+242
+00:11:26,640 --> 00:11:29,320
+red i think that's a
+little bit better seen
+
+243
+00:11:29,320 --> 00:11:31,980
+in the upper image
+it's slightly more red
+
+244
+00:11:32,240 --> 00:11:35,980
+so it's not as easy
+to see but i think
+
+245
+00:11:35,980 --> 00:11:39,140
+like the the vasodilation
+is the kind of
+
+246
+00:11:39,140 --> 00:11:43,100
+blush is pretty easy
+to see in those images
+
+247
+00:11:45,560 --> 00:11:48,860
+now for the horner
+syndrome you
+
+248
+00:11:48,860 --> 00:11:51,040
+typically think
+of this as the
+
+249
+00:11:51,040 --> 00:11:53,560
+whole you know
+neural pathway
+
+250
+00:11:54,580 --> 00:11:57,520
+i in the lectures
+that we've covered so
+
+251
+00:11:57,520 --> 00:11:59,840
+far will always have
+always just talked
+
+252
+00:11:59,840 --> 00:12:01,990
+about the preganglionic
+and postganglionic
+
+253
+00:12:01,990 --> 00:12:04,800
+axons so the
+preganglionic here
+
+254
+00:12:04,800 --> 00:12:08,920
+that's the red axon
+or a red neuron that
+
+255
+00:12:08,920 --> 00:12:11,140
+is referred to as a
+second-order neuron.
+
+256
+00:12:11,480 --> 00:12:15,220
+And then the
+postganglionic coming from
+
+257
+00:12:15,220 --> 00:12:17,440
+the superior cervical
+ganglion and then
+
+258
+00:12:17,440 --> 00:12:18,920
+passing with the
+internal and external
+
+259
+00:12:18,920 --> 00:12:21,540
+carotid, this is
+called the third-order
+
+260
+00:12:21,540 --> 00:12:24,240
+neuron. So there's
+also a neuron that
+
+261
+00:12:24,240 --> 00:12:26,480
+is in the central
+nervous system itself.
+
+262
+00:12:26,480 --> 00:12:28,200
+So I haven't
+covered that. You
+
+263
+00:12:28,200 --> 00:12:29,640
+will cover that
+in neuroanatomy.
+
+264
+00:12:29,880 --> 00:12:32,600
+But there is a
+pathway right from the
+
+265
+00:12:32,600 --> 00:12:34,930
+brain, actually,
+into the spinal cord
+
+266
+00:12:34,930 --> 00:12:37,740
+synapsing on that
+prekanglionic axon. So,
+
+267
+00:12:37,760 --> 00:12:39,980
+in fact, there's
+really three neurons
+
+268
+00:12:39,980 --> 00:12:42,360
+involved in that
+sympathetic pathway, one
+
+269
+00:12:42,360 --> 00:12:45,540
+central one and then
+two peripheral one.
+
+270
+00:12:47,640 --> 00:12:54,540
+Now, different parts
+can be here affected.
+
+271
+00:12:54,740 --> 00:12:57,400
+So you can have a
+first-order neuron
+
+272
+00:12:57,400 --> 00:13:00,800
+disorder that's like
+****** or tumor or spinal
+
+273
+00:13:00,800 --> 00:13:03,460
+cord trauma. trauma,
+so anything that is
+
+274
+00:13:03,460 --> 00:13:05,000
+actually happening in
+the central nervous
+
+275
+00:13:05,000 --> 00:13:07,040
+system that impacts
+that whole pathway.
+
+276
+00:13:07,600 --> 00:13:09,400
+You can also
+have a second
+
+277
+00:13:09,400 --> 00:13:11,340
+-order neuron disorder.
+
+278
+00:13:11,760 --> 00:13:14,580
+Often you see this
+with tumors in the
+
+279
+00:13:14,580 --> 00:13:16,500
+lung that are compressing
+the sympathetic
+
+280
+00:13:16,500 --> 00:13:19,580
+chain or compressing
+the inferior,
+
+281
+00:13:20,800 --> 00:13:22,700
+the parvotary ganglion.
+
+282
+00:13:23,080 --> 00:13:27,900
+Those tumors are all
+called pancos tumors,
+
+283
+00:13:27,900 --> 00:13:30,660
+so that's the kind of
+tumor that does that.
+
+284
+00:13:31,200 --> 00:13:34,740
+And then we also
+have a third order
+
+285
+00:13:34,740 --> 00:13:37,320
+neuron disorder.
+So that would be a
+
+286
+00:13:37,320 --> 00:13:39,800
+neuron disorder of
+the postganglionic
+
+287
+00:13:40,340 --> 00:13:42,800
+pathways, like a
+lesion to the internal
+
+288
+00:13:42,800 --> 00:13:44,580
+acquired artery or
+external acquired
+
+289
+00:13:44,580 --> 00:13:47,140
+artery or injury
+to the skull base.
+
+290
+00:13:48,160 --> 00:13:51,120
+So you will see
+different patterns with
+
+291
+00:13:51,120 --> 00:13:54,080
+those neuron disorders.
+So the first and
+
+292
+00:13:54,080 --> 00:13:56,020
+second order neuron
+disorder, they will look
+
+293
+00:13:56,020 --> 00:13:58,140
+the same, like
+everything is impacted
+
+294
+00:13:58,140 --> 00:14:00,740
+right so you're impacting
+the whole pathway
+
+295
+00:14:00,760 --> 00:14:05,600
+so that means like
+both you you see your
+
+296
+00:14:05,600 --> 00:14:09,040
+whole side of the
+face where you can see
+
+297
+00:14:09,040 --> 00:14:12,440
+the lack of sweating
+and the lack of blushing
+
+298
+00:14:13,590 --> 00:14:16,220
+the third order
+neuron disorder is the
+
+299
+00:14:16,220 --> 00:14:18,360
+one that's a little
+different so there you
+
+300
+00:14:18,360 --> 00:14:21,320
+either have the internal
+credit or external
+
+301
+00:14:21,320 --> 00:14:24,160
+credit impacted so
+half of it would
+
+302
+00:14:24,160 --> 00:14:26,460
+still be working In
+most cases, this is
+
+303
+00:14:26,460 --> 00:14:29,160
+actually internal
+carotid, much more common.
+
+304
+00:14:29,540 --> 00:14:32,140
+So in that case, for
+the internal carotid,
+
+305
+00:14:32,140 --> 00:14:36,040
+you do see the
+impacts on the eye.
+
+306
+00:14:36,040 --> 00:14:38,260
+So you see that mild
+drop of the eyelid.
+
+307
+00:14:38,260 --> 00:14:41,880
+You see the constriction
+of the pupil.
+
+308
+00:14:42,160 --> 00:14:45,880
+You also see then
+that you cannot blush
+
+309
+00:14:45,880 --> 00:14:48,480
+on the forehead and
+that you cannot sweat
+
+310
+00:14:48,480 --> 00:14:50,520
+on the forehead.
+But for the rest of
+
+311
+00:14:50,520 --> 00:14:52,380
+the face, which is
+done by the external
+
+312
+00:14:52,380 --> 00:14:55,840
+crowded artery and then
+the external crowded
+
+313
+00:14:55,840 --> 00:14:58,500
+plexus, that is
+still functional. So
+
+314
+00:14:58,500 --> 00:15:03,060
+that blushing or
+like sweating on that
+
+315
+00:15:03,060 --> 00:15:05,020
+side of the face would
+still be working.
+
+316
+00:15:07,160 --> 00:15:09,480
+But again, first
+order, second order,
+
+317
+00:15:09,480 --> 00:15:11,760
+neuron disorder,
+they would look the
+
+318
+00:15:11,760 --> 00:15:13,500
+same. You're impacting
+both internal
+
+319
+00:15:13,500 --> 00:15:14,760
+and external
+crowded, so you have
+
+320
+00:15:14,760 --> 00:15:17,380
+the whole half of
+the face impacted.
+
+321
+00:15:19,340 --> 00:15:22,100
+Okay, now wrapping
+this up into a clinical
+
+322
+00:15:22,100 --> 00:15:23,660
+scenario, like
+something that you
+
+323
+00:15:23,660 --> 00:15:26,880
+might see on the exam,
+right? So here we
+
+324
+00:15:26,880 --> 00:15:29,960
+have a 25-year-old
+male presence to your
+
+325
+00:15:29,960 --> 00:15:34,540
+practice with left
+-sided mild pitosis in
+
+326
+00:15:34,540 --> 00:15:36,980
+a constricted pupil.
+You had a CT scan,
+
+327
+00:15:36,980 --> 00:15:39,180
+which shows a tumor
+in the superior lobe
+
+328
+00:15:39,180 --> 00:15:41,320
+of the left lung.
+You suspect the tumor
+
+329
+00:15:41,320 --> 00:15:42,960
+is compressing the
+sympathetic chain.
+
+330
+00:15:43,000 --> 00:15:45,220
+Which other symptoms
+would you expect to
+
+331
+00:15:45,220 --> 00:15:47,940
+see? Okay, so you
+already know from this,
+
+332
+00:15:47,940 --> 00:15:51,020
+there's a tumor,
+probably a Panko's tumor
+
+333
+00:15:51,020 --> 00:15:54,180
+in the left lung, and
+it's compressing the
+
+334
+00:15:54,180 --> 00:15:56,360
+sympathetic chain.
+So you know this is a
+
+335
+00:15:56,360 --> 00:16:01,100
+second-order neural
+disorder that will
+
+336
+00:16:01,100 --> 00:16:04,440
+impact the whole
+sympathetic pathway to that
+
+337
+00:16:04,440 --> 00:16:08,060
+site. We know it's
+left-sided, and I've
+
+338
+00:16:08,060 --> 00:16:09,980
+already given you
+two of the symptoms,
+
+339
+00:16:09,980 --> 00:16:13,760
+which is mild pitosis
+because your superior
+
+340
+00:16:13,760 --> 00:16:16,070
+tassel muscle is
+not working and also
+
+341
+00:16:16,070 --> 00:16:19,100
+constricted pupil because
+your dilator pupillary
+
+342
+00:16:19,100 --> 00:16:21,920
+is not working now
+the other symptoms
+
+343
+00:16:21,920 --> 00:16:23,980
+that you will see is
+lack of sweating right
+
+344
+00:16:23,980 --> 00:16:26,460
+so losing innervation
+to the sweat glands
+
+345
+00:16:26,460 --> 00:16:28,760
+you'll see that on
+the whole half side
+
+346
+00:16:29,650 --> 00:16:31,480
+cannot blush on
+the left side
+
+347
+00:16:31,480 --> 00:16:33,000
+that would also
+be correct so
+
+348
+00:16:33,000 --> 00:16:35,060
+two answers correct
+a and b here
+
+349
+00:16:35,620 --> 00:16:38,000
+You cannot blush
+because you are losing
+
+350
+00:16:38,000 --> 00:16:41,260
+the dilation of
+facial arterials.
+
+351
+00:16:42,480 --> 00:16:44,640
+Bloodshot right
+eye, that would be
+
+352
+00:16:44,640 --> 00:16:46,340
+incorrect. It
+would be bloodshot
+
+353
+00:16:46,340 --> 00:16:48,480
+on the left side
+because you're losing
+
+354
+00:16:48,480 --> 00:16:51,660
+constriction of
+ocular vessels.
+
+355
+00:16:53,000 --> 00:16:55,820
+Redness of the left
+face, that is also
+
+356
+00:16:55,820 --> 00:16:57,800
+incorrect. If you see
+redness, that would be
+
+357
+00:16:57,800 --> 00:16:59,780
+on the right side,
+right? So the right side
+
+358
+00:16:59,780 --> 00:17:01,640
+would be overcompensating.
+you would see
+
+359
+00:17:01,640 --> 00:17:03,540
+redness on the right
+side but not on the
+
+360
+00:17:03,540 --> 00:17:05,600
+left side where you
+cannot blush anymore.
+
+361
+00:17:06,480 --> 00:17:09,640
+Dry mouth you wouldn't
+see that either
+
+362
+00:17:09,640 --> 00:17:11,420
+that is caused by
+sympathetic and
+
+363
+00:17:11,420 --> 00:17:13,380
+right now sympathetics
+are not working.
+
+364
+00:17:15,880 --> 00:17:18,600
+Okay now that we
+covered the sympathetic
+
+365
+00:17:18,600 --> 00:17:21,320
+labs move on to the
+parasympathetics
+
+366
+00:17:21,630 --> 00:17:23,560
+and they are a
+little bit more
+
+367
+00:17:23,560 --> 00:17:25,980
+complicated for
+the head and neck.
+
+368
+00:17:27,360 --> 00:17:30,500
+okay so for parasympathetic
+innovation big
+
+369
+00:17:30,500 --> 00:17:33,540
+picture right now um as
+we're finally getting
+
+370
+00:17:33,540 --> 00:17:37,820
+to those four ganglia
+in the um head
+
+371
+00:17:37,820 --> 00:17:40,400
+that we've mentioned all
+through those lectures
+
+372
+00:17:40,400 --> 00:17:44,280
+this is the ciliary
+ganglion tercopalatine
+
+373
+00:17:44,280 --> 00:17:46,640
+ganglion submandibial
+ganglion and otic
+
+374
+00:17:46,640 --> 00:17:49,600
+ganglion and in the
+rest of the lecture i
+
+375
+00:17:49,600 --> 00:17:51,460
+will go through this
+ganglion by ganglion
+
+376
+00:17:51,460 --> 00:17:54,040
+and what is their
+preganglionic input, and
+
+377
+00:17:54,040 --> 00:17:56,240
+how do postganglionic
+travels from there.
+
+378
+00:17:56,440 --> 00:17:59,500
+So just big picture
+generally, right,
+
+379
+00:17:59,500 --> 00:18:01,640
+there are a couple of
+cranial nerves that
+
+380
+00:18:01,640 --> 00:18:04,740
+bring preganglionic
+axons to those ganglia.
+
+381
+00:18:04,740 --> 00:18:07,320
+So for the ciliary
+ganglion, that's
+
+382
+00:18:07,320 --> 00:18:10,220
+the oculomotor nerve.
+For the pterogopelotide
+
+383
+00:18:10,220 --> 00:18:12,060
+ganglion, that's
+the facial nerve.
+
+384
+00:18:12,060 --> 00:18:13,880
+For the submantibular
+ganglion, that's
+
+385
+00:18:13,880 --> 00:18:15,980
+the facial nerve.
+And for the otic
+
+386
+00:18:15,980 --> 00:18:17,980
+ganglion, that's the
+glossopharyngeal nerve.
+
+387
+00:18:18,260 --> 00:18:21,380
+then they synapse in
+those ganglia and then
+
+388
+00:18:21,380 --> 00:18:23,920
+they pass with branches
+of the trigeminal
+
+389
+00:18:23,920 --> 00:18:27,240
+nerve to actually get
+to the structures that
+
+390
+00:18:27,240 --> 00:18:29,350
+they need to go to so
+the postganglionics
+
+391
+00:18:29,350 --> 00:18:33,380
+will pass with the
+trigeminal nerve this
+
+392
+00:18:33,940 --> 00:18:36,770
+is just a different
+way of showing this and
+
+393
+00:18:36,800 --> 00:18:40,320
+showing like other
+branches as well so here
+
+394
+00:18:40,320 --> 00:18:43,400
+in red is the
+parasympathetics so you can
+
+395
+00:18:43,400 --> 00:18:45,600
+see those preganglionic
+axons that are
+
+396
+00:18:45,600 --> 00:18:47,960
+passing with the
+oculomotor, the facial,
+
+397
+00:18:48,110 --> 00:18:50,840
+glossopharyngeal. Then
+when you're getting into
+
+398
+00:18:53,780 --> 00:18:56,400
+the rest of the
+parasympathetics for
+
+399
+00:18:56,400 --> 00:18:57,960
+the neck, there's
+also the vagus
+
+400
+00:18:57,960 --> 00:19:00,780
+nerve, but that's
+not covered here.
+
+401
+00:19:01,960 --> 00:19:05,020
+But so they're passing
+with those cranial
+
+402
+00:19:05,020 --> 00:19:07,960
+nerves to the ganglia,
+here's here ganglion,
+
+403
+00:19:07,980 --> 00:19:10,700
+ciliary ganglion,
+tergopalatine ganglion,
+
+404
+00:19:11,400 --> 00:19:13,380
+submittibial ganglion,
+and otic ganglion.
+
+405
+00:19:13,380 --> 00:19:16,620
+And then the post
+-ganglionics will pass with
+
+406
+00:19:16,620 --> 00:19:18,680
+the branches of the
+trigeminal nerve to
+
+407
+00:19:18,680 --> 00:19:20,680
+the structures that
+they need to innervate.
+
+408
+00:19:21,040 --> 00:19:23,700
+You also see here
+the sympathetics
+
+409
+00:19:23,700 --> 00:19:25,680
+in blue. And keep
+in mind, when you're
+
+410
+00:19:25,680 --> 00:19:27,780
+in the head,
+the sympathetics
+
+411
+00:19:27,780 --> 00:19:30,540
+that you see are
+all post-ganglionic.
+
+412
+00:19:30,540 --> 00:19:32,920
+Because all the pre
+-ganglionics have all
+
+413
+00:19:32,920 --> 00:19:34,610
+synapsed in the
+superior cervical
+
+414
+00:19:34,610 --> 00:19:37,120
+ganglion. So any
+sympathetics that you see
+
+415
+00:19:37,120 --> 00:19:39,100
+in the head are post
+-ganglionic. versus
+
+416
+00:19:39,100 --> 00:19:41,140
+you can see the
+preganglionic and
+
+417
+00:19:41,200 --> 00:19:43,760
+postganglionic
+parasympathetics in the head.
+
+418
+00:19:45,000 --> 00:19:48,120
+So there are other
+neurons that pass through
+
+419
+00:19:48,120 --> 00:19:51,080
+those ganglia, but the
+ganglia exist because
+
+420
+00:19:51,090 --> 00:19:53,660
+those are the locations
+of the cell bodies
+
+421
+00:19:53,660 --> 00:19:55,940
+of the postganglionic
+parasympathetics.
+
+422
+00:19:56,820 --> 00:19:58,820
+So now I'll start
+with the first
+
+423
+00:19:58,820 --> 00:20:00,600
+one, that's the
+ciliary ganglion.
+
+424
+00:20:00,760 --> 00:20:03,850
+So for the ciliary
+ganglion, preganglionic
+
+425
+00:20:03,850 --> 00:20:05,540
+cell bodies are
+found in the brain.
+
+426
+00:20:05,540 --> 00:20:07,660
+I've added the nucleus
+here as well. you
+
+427
+00:20:07,660 --> 00:20:09,860
+will cover that in
+your anatomy. I will
+
+428
+00:20:10,400 --> 00:20:13,180
+not ask you about this
+from this lecture.
+
+429
+00:20:14,620 --> 00:20:16,460
+The preganglionic
+axon pass
+
+430
+00:20:16,460 --> 00:20:18,840
+with the
+oculomotor nerve.
+
+431
+00:20:19,640 --> 00:20:22,140
+Then the postganglionic
+cell bodies are
+
+432
+00:20:22,140 --> 00:20:24,840
+found in the ciliary
+ganglion and postganglionic
+
+433
+00:20:24,840 --> 00:20:27,780
+axons pass with the
+short ciliary to the
+
+434
+00:20:27,780 --> 00:20:30,770
+ciliary muscle and
+constrictor pupillae.
+
+435
+00:20:31,680 --> 00:20:34,500
+This is just a visual
+of that so you can see
+
+436
+00:20:34,500 --> 00:20:37,110
+that oculomotor nerve
+with the preganglionics.
+
+437
+00:20:37,110 --> 00:20:39,780
+You can see the
+ciliary ganglion and
+
+438
+00:20:39,780 --> 00:20:42,830
+then the synapse there
+on the postganglionics
+
+439
+00:20:42,830 --> 00:20:47,160
+which are the kind of
+dotted lines here and
+
+440
+00:20:47,160 --> 00:20:49,740
+that going to those
+little ocular muscles.
+
+441
+00:20:50,360 --> 00:20:53,280
+You can also see
+added here again the
+
+442
+00:20:53,280 --> 00:20:57,680
+sympathetic postganglionic
+pathway to the eye
+
+443
+00:20:57,680 --> 00:21:04,360
+as well and general
+sensory back now what
+
+444
+00:21:04,360 --> 00:21:06,600
+do they do there right
+so we said that's
+
+445
+00:21:06,600 --> 00:21:08,900
+the ciliary muscle
+and the constrictor
+
+446
+00:21:08,900 --> 00:21:10,920
+pupillae and they
+are responsible for
+
+447
+00:21:10,920 --> 00:21:13,240
+constriction and
+accommodation what does this
+
+448
+00:21:13,240 --> 00:21:15,880
+mean so pupillary
+constriction is when too
+
+449
+00:21:15,880 --> 00:21:19,620
+much light is shown
+into your eyes and
+
+450
+00:21:19,620 --> 00:21:22,900
+your pupils constrict
+that's a consensual
+
+451
+00:21:22,900 --> 00:21:25,540
+reflex so this means
+if you shine light
+
+452
+00:21:25,540 --> 00:21:29,440
+into one eye both
+pupils should construct.
+
+453
+00:21:29,770 --> 00:21:31,900
+You also do this
+when you're focusing
+
+454
+00:21:31,900 --> 00:21:34,460
+on objects that are
+kind of close by.
+
+455
+00:21:36,120 --> 00:21:39,820
+Accommodation is
+when the lens of
+
+456
+00:21:39,820 --> 00:21:42,180
+the eye assumes a
+rounded shape or
+
+457
+00:21:44,510 --> 00:21:47,160
+when the shape of
+the lens changes.
+
+458
+00:21:48,620 --> 00:21:51,160
+So you also put
+them both together.
+
+459
+00:21:51,160 --> 00:21:52,860
+Accommodation and
+convergence they often
+
+460
+00:21:52,860 --> 00:21:55,280
+happen together and
+that is when you're
+
+461
+00:21:55,280 --> 00:21:57,960
+focusing on something
+that's close by it's
+
+462
+00:21:57,960 --> 00:21:59,700
+like when I'm bringing
+up my finger and
+
+463
+00:21:59,700 --> 00:22:02,100
+I'm focusing on it I'm
+actually using both
+
+464
+00:22:02,100 --> 00:22:05,760
+the constrictor
+pupillae and the ciliary
+
+465
+00:22:05,760 --> 00:22:10,060
+muscle to constrict
+the pupil and to
+
+466
+00:22:10,860 --> 00:22:14,800
+change the shape of the
+lens so that you can
+
+467
+00:22:14,800 --> 00:22:18,780
+focus on that object
+okay let's go through
+
+468
+00:22:18,780 --> 00:22:21,360
+this in a little bit
+more detail so this is
+
+469
+00:22:21,360 --> 00:22:24,000
+what accommodation
+looks like so again this
+
+470
+00:22:24,000 --> 00:22:28,880
+is when the lens changes
+its shape so in a
+
+471
+00:22:28,880 --> 00:22:31,960
+relaxed state when the
+ciliary muscle is relaxed
+
+472
+00:22:31,960 --> 00:22:34,960
+you have the lens
+that is kind of very
+
+473
+00:22:34,960 --> 00:22:39,500
+flat and long and it's
+suspended by the suspensory
+
+474
+00:22:39,500 --> 00:22:43,380
+ligaments which attach
+onto the ciliary
+
+475
+00:22:43,380 --> 00:22:46,140
+muscle and so when the
+ciliary muscles relax
+
+476
+00:22:46,140 --> 00:22:48,240
+those sense suspensory
+ligaments are kind
+
+477
+00:22:48,240 --> 00:22:52,680
+of taut and they kind
+of drag out the the
+
+478
+00:22:52,680 --> 00:22:56,460
+lens to be like longer
+then when the ciliary
+
+479
+00:22:56,460 --> 00:22:59,960
+muscle contracts it
+actually bulges into the
+
+480
+00:22:59,960 --> 00:23:03,420
+eye like think of this
+as um when you have
+
+481
+00:23:03,420 --> 00:23:06,420
+your biceps brachii and
+you're contracting it
+
+482
+00:23:06,420 --> 00:23:08,900
+and then it like bulges
+well not not in my
+
+483
+00:23:08,900 --> 00:23:11,460
+case but like and some
+people have like really
+
+484
+00:23:11,460 --> 00:23:14,260
+big biceps brachii
+they kind of bulge out
+
+485
+00:23:14,960 --> 00:23:18,200
+right um but that's
+that's basically what
+
+486
+00:23:18,200 --> 00:23:20,420
+the ciliary muscle
+does as well so you
+
+487
+00:23:20,420 --> 00:23:22,240
+have that ciliary
+muscle and you contract
+
+488
+00:23:22,240 --> 00:23:24,300
+it and it kind of
+gets rounder and
+
+489
+00:23:24,300 --> 00:23:26,140
+that releases that
+tension from the
+
+490
+00:23:26,140 --> 00:23:28,480
+suspensory ligaments
+so those suspensory
+
+491
+00:23:28,480 --> 00:23:31,220
+ligaments then are not
+as taut they kind of
+
+492
+00:23:31,600 --> 00:23:35,380
+flop back and the
+lens becomes rounder
+
+493
+00:23:35,380 --> 00:23:38,260
+so the lens wants
+to be round but it's
+
+494
+00:23:38,260 --> 00:23:39,440
+kind of getting
+stretched by the
+
+495
+00:23:39,440 --> 00:23:41,720
+suspensory ligaments
+when the ciliary muscle
+
+496
+00:23:41,720 --> 00:23:44,160
+is relaxed when the
+ciliary muscle is
+
+497
+00:23:44,160 --> 00:23:46,660
+contracted that
+tension is gone and the
+
+498
+00:23:46,660 --> 00:23:48,920
+lens jumps back to
+its rounded shape
+
+499
+00:23:50,270 --> 00:23:52,900
+and so that will
+change the angle
+
+500
+00:23:52,900 --> 00:23:57,420
+of the light rays
+into the retina
+
+501
+00:23:59,510 --> 00:24:01,860
+so now when we're
+looking at accommodation
+
+502
+00:24:01,860 --> 00:24:05,460
+and convergence together
+so here on the left
+
+503
+00:24:05,460 --> 00:24:08,700
+side you can see the
+ciliary muscle is
+
+504
+00:24:08,700 --> 00:24:11,340
+relaxed and those suspensory
+ligaments are taut
+
+505
+00:24:11,340 --> 00:24:13,720
+and the lens is really
+flat and you can
+
+506
+00:24:13,720 --> 00:24:19,700
+also see the pupil is
+um like open or dilated
+
+507
+00:24:21,240 --> 00:24:24,040
+now if the accommodation
+and convergence
+
+508
+00:24:24,040 --> 00:24:28,060
+reflex is active what
+you see is that the
+
+509
+00:24:28,060 --> 00:24:31,500
+ciliary muscle is
+contracted so the
+
+510
+00:24:31,500 --> 00:24:34,620
+suspensory ligaments
+are not as taut the lens
+
+511
+00:24:34,620 --> 00:24:37,120
+assumes this rounder
+shape and then you
+
+512
+00:24:37,120 --> 00:24:39,680
+also have the constrictor
+pupillae which
+
+513
+00:24:39,680 --> 00:24:43,040
+will constrict and
+then close off and
+
+514
+00:24:43,710 --> 00:24:48,960
+constrict the pupil
+now keep in mind right
+
+515
+00:24:48,960 --> 00:24:50,460
+constriction that
+is done by the
+
+516
+00:24:50,460 --> 00:24:53,560
+parasympathetics and that
+is to allow less light
+
+517
+00:24:53,560 --> 00:24:56,500
+in so it's a reaction
+to a lot of light
+
+518
+00:24:56,500 --> 00:24:58,420
+and then you're
+constricting the pupil
+
+519
+00:24:59,340 --> 00:25:02,560
+dilation is done by
+sympathetics so i think
+
+520
+00:25:02,560 --> 00:25:04,760
+about like fight and
+flight when you want
+
+521
+00:25:04,760 --> 00:25:06,740
+to have like all the
+light into your eyes
+
+522
+00:25:06,740 --> 00:25:09,140
+you want to see as much
+as possible or when
+
+523
+00:25:09,140 --> 00:25:11,760
+you see someone who's
+very nervous um like
+
+524
+00:25:11,760 --> 00:25:15,240
+their pupils dilate
+um so that is done by
+
+525
+00:25:15,240 --> 00:25:17,780
+sympathetics so you
+can see that big uh
+
+526
+00:25:17,780 --> 00:25:23,120
+pupil here to allow more
+light in okay so moving
+
+527
+00:25:23,120 --> 00:25:24,700
+on to the next
+ganglion so we covered
+
+528
+00:25:24,700 --> 00:25:26,980
+ciliary ganglion now
+we're heading into the
+
+529
+00:25:26,980 --> 00:25:30,240
+tergopalatine ganglion
+so for that by starting
+
+530
+00:25:30,240 --> 00:25:32,420
+out with preganglionic
+cell bodies in
+
+531
+00:25:32,420 --> 00:25:34,840
+the brain again i'm
+adding the nucleus here
+
+532
+00:25:34,840 --> 00:25:37,940
+you'll see that in
+neuroanatomy but don't
+
+533
+00:25:37,940 --> 00:25:40,700
+have to be worried about
+this now then we're
+
+534
+00:25:40,700 --> 00:25:42,800
+going with the
+preganglionic axons with
+
+535
+00:25:42,800 --> 00:25:45,860
+the facial nerve
+passing with the great
+
+536
+00:25:45,860 --> 00:25:48,340
+epitrosal and the nerve
+of the terrogate canal
+
+537
+00:25:48,580 --> 00:25:51,480
+then the postganglionic
+cell bodies are in
+
+538
+00:25:51,480 --> 00:25:54,800
+the terropelatine genome
+and the postganglionic
+
+539
+00:25:54,800 --> 00:25:57,340
+axons will pass with
+direct branches to
+
+540
+00:25:57,340 --> 00:26:00,720
+the lacronal gland or
+to with branches of v2
+
+541
+00:26:00,720 --> 00:26:02,940
+to the mucous glands
+in the nasal cavity
+
+542
+00:26:02,940 --> 00:26:08,000
+pellet sinus pharynx so
+here's what this looks
+
+543
+00:26:08,000 --> 00:26:10,420
+like right you have
+your facial nerve coming
+
+544
+00:26:10,420 --> 00:26:14,540
+in it will give up
+the greater petrosal
+
+545
+00:26:14,540 --> 00:26:18,940
+nerve here then pass
+into the pterygoid canal
+
+546
+00:26:19,180 --> 00:26:21,380
+where it's the nerve
+of the pterygoid canal
+
+547
+00:26:21,380 --> 00:26:23,860
+synapse on the pterygo
+palatine ganglion
+
+548
+00:26:23,860 --> 00:26:28,680
+and then we'll pass to
+the lacron gland with
+
+549
+00:26:28,680 --> 00:26:31,140
+direct branches or
+into the nasal cavity
+
+550
+00:26:31,140 --> 00:26:37,240
+and pellet with branches
+of v2 so here's a
+
+551
+00:26:37,240 --> 00:26:39,440
+little more anatomical
+view of this right so
+
+552
+00:26:39,440 --> 00:26:42,640
+you have your teregopelatine
+ganglion here in
+
+553
+00:26:42,640 --> 00:26:45,140
+the teregopelatine
+fossa you have your
+
+554
+00:26:45,140 --> 00:26:48,100
+greater petrosal nerve
+teregorete the nerve of
+
+555
+00:26:48,100 --> 00:26:50,920
+the teregorete canal
+coming in as your
+
+556
+00:26:50,920 --> 00:26:54,060
+teregopelatine ganglion,
+and then just all the
+
+557
+00:26:54,060 --> 00:26:56,400
+branches of B2 that are
+passing through, like
+
+558
+00:26:56,400 --> 00:26:58,560
+your lesser palatine,
+greater palatine, and
+
+559
+00:26:58,560 --> 00:27:00,860
+all of the branches
+in the nasal cavity
+
+560
+00:27:00,860 --> 00:27:05,100
+that are providing
+innervation to the mucosa.
+
+561
+00:27:08,180 --> 00:27:11,100
+Okay, next one. So
+now we're moving on to
+
+562
+00:27:11,100 --> 00:27:13,120
+submandibular
+ganglion, and we have
+
+563
+00:27:13,120 --> 00:27:15,980
+preganglionic cell
+bodies in the
+brain, preganglionic
+
+564
+00:27:15,980 --> 00:27:17,680
+axons passing with
+the facial nerve,
+
+565
+00:27:17,680 --> 00:27:19,640
+but this time we're
+going to take the chorda
+
+566
+00:27:19,640 --> 00:27:23,000
+tympani to the lingual
+nerve then we're
+
+567
+00:27:23,000 --> 00:27:25,600
+going with postgagnionic
+cell bodies in
+
+568
+00:27:25,600 --> 00:27:28,520
+the submandibial ganglion
+and synapsing there
+
+569
+00:27:28,890 --> 00:27:31,940
+on those cell bodies
+and the postgangionic
+
+570
+00:27:31,940 --> 00:27:35,000
+axons we'll just go
+direct branches to
+
+571
+00:27:35,000 --> 00:27:37,660
+the submandibial gland
+or we'll hop onto
+
+572
+00:27:37,660 --> 00:27:40,300
+the lingual nerve again
+and then go to the
+
+573
+00:27:40,300 --> 00:27:44,700
+sublingual gland and
+there's a more diagrammatic
+
+574
+00:27:44,700 --> 00:27:47,280
+view of the anatomy
+here so So you
+
+575
+00:27:47,280 --> 00:27:49,880
+see that facial
+nerve, we can see the
+
+576
+00:27:49,880 --> 00:27:52,760
+caudatympani coming up,
+we saw that caudatympani
+
+577
+00:27:52,760 --> 00:27:55,560
+join the lingual nerve
+and the infratemporal
+
+578
+00:27:55,560 --> 00:28:00,320
+fossa, and then going
+to the submandibular
+
+579
+00:28:00,320 --> 00:28:02,700
+ganglion, synapse
+there, and then go
+
+580
+00:28:02,700 --> 00:28:05,200
+to the sublingual and
+submandibular gland.
+
+581
+00:28:05,960 --> 00:28:09,840
+So here's this really
+more anatomical
+
+582
+00:28:09,840 --> 00:28:12,680
+view of the
+infratemporal fossa and
+
+583
+00:28:12,680 --> 00:28:14,680
+all cavities, so
+you can see those
+
+584
+00:28:14,680 --> 00:28:20,840
+nice branches of the
+lingual nerve and
+
+585
+00:28:20,840 --> 00:28:23,320
+overall of the
+mandibular division
+
+586
+00:28:23,580 --> 00:28:25,360
+of the trigeminal
+nerve you can see
+
+587
+00:28:25,360 --> 00:28:27,520
+quadratympani joining
+the lingual nerve
+
+588
+00:28:27,520 --> 00:28:29,860
+then the
+submandibular ganglion
+
+589
+00:28:30,130 --> 00:28:32,960
+being suspended from
+the lingual nerve
+
+590
+00:28:33,300 --> 00:28:35,880
+and you can see those
+direct branches to
+
+591
+00:28:35,880 --> 00:28:38,100
+the submandibular
+gland or again it's
+
+592
+00:28:38,100 --> 00:28:40,670
+going to hop back on
+those post ganglionics
+
+593
+00:28:40,670 --> 00:28:43,080
+onto the lingual nerve
+and then go to the
+
+594
+00:28:43,080 --> 00:28:45,240
+sublingual gland to
+innervate it here.
+
+595
+00:28:47,900 --> 00:28:51,280
+Okay last ganglion
+is the otic ganglion.
+
+596
+00:28:51,280 --> 00:28:53,580
+Again we start in
+the brain now this
+
+597
+00:28:53,580 --> 00:28:55,460
+time we're passing with
+the glossopharyngeal
+
+598
+00:28:55,460 --> 00:28:58,540
+nerve that turns
+into topenic nerve,
+
+599
+00:28:58,540 --> 00:29:00,700
+topenic plexus,
+lesser patrols nerve.
+
+600
+00:29:01,840 --> 00:29:05,100
+We're hitting the otic
+ganglion where the
+
+601
+00:29:05,100 --> 00:29:07,400
+post ganglionic cell
+bodies are and then
+
+602
+00:29:07,400 --> 00:29:10,540
+passing with the
+auriculotemporal nerve to
+
+603
+00:29:10,540 --> 00:29:14,640
+the parotid gland a
+bit of a diagrammatic
+
+604
+00:29:14,640 --> 00:29:17,180
+view here but that's
+your glossopharyngeal
+
+605
+00:29:17,180 --> 00:29:19,340
+nerve passing through
+the jugular foramen
+
+606
+00:29:19,660 --> 00:29:22,540
+kind of scratching
+by the ear with the
+
+607
+00:29:22,540 --> 00:29:26,060
+tympanic plexus through
+the lesser petrosal nerve
+
+608
+00:29:26,060 --> 00:29:29,600
+where getting to the
+otic ganglion synapsing
+
+609
+00:29:29,600 --> 00:29:31,520
+there then with the
+auriculotemporal
+
+610
+00:29:31,520 --> 00:29:34,230
+nerve that will pass
+those branches, those
+
+611
+00:29:34,230 --> 00:29:36,400
+postganglionic branches
+to the parotid gland.
+
+612
+00:29:38,080 --> 00:29:40,760
+So that's just a
+different view of that,
+
+613
+00:29:40,760 --> 00:29:43,740
+where you can see the
+parasympathetic pathway,
+
+614
+00:29:43,920 --> 00:29:45,680
+preganglionic and
+postganglionic,
+
+615
+00:29:45,680 --> 00:29:47,540
+and also those
+postganglionic
+
+616
+00:29:47,540 --> 00:29:49,420
+sympathetics that
+will pass with the
+
+617
+00:29:49,420 --> 00:29:51,780
+external carotid to
+the parotid gland.
+
+618
+00:29:53,700 --> 00:29:56,660
+So that's kind of what
+you're seeing here.
+
+619
+00:29:59,760 --> 00:30:02,880
+okay now not what he
+mentioned with those
+
+620
+00:30:02,880 --> 00:30:06,300
+uh four ganglia in the
+head but other structures
+
+621
+00:30:06,300 --> 00:30:07,940
+in the neck that
+you want to innovate
+
+622
+00:30:07,940 --> 00:30:11,000
+and um that are
+parasympathetic and that's
+
+623
+00:30:11,000 --> 00:30:13,440
+done by the vagus nerve
+so remember the vagus
+
+624
+00:30:13,440 --> 00:30:15,440
+nerve was that was
+the big nerve that was
+
+625
+00:30:15,440 --> 00:30:18,340
+providing parasympathetics
+to the thorax and
+
+626
+00:30:18,340 --> 00:30:20,330
+most of the abdomen
+it also provides
+
+627
+00:30:20,330 --> 00:30:23,560
+parasympathetic to the
+neck so for that we're
+
+628
+00:30:23,560 --> 00:30:25,740
+just starting off with
+the brain pregame leonics
+
+629
+00:30:25,740 --> 00:30:27,760
+going with the vagus
+nerve you're synapsing
+
+630
+00:30:27,760 --> 00:30:29,520
+close to the target
+organ it's kind of
+
+631
+00:30:29,520 --> 00:30:31,540
+the same as with the
+thorax and abdomen right
+
+632
+00:30:31,540 --> 00:30:32,960
+you saw the same
+pattern with the
+
+633
+00:30:32,960 --> 00:30:35,360
+parasympathetics there
+and then it just goes to
+
+634
+00:30:35,360 --> 00:30:37,620
+glands and blood vessels
+in the pharynx and
+
+635
+00:30:37,620 --> 00:30:39,920
+mucus glands and blood
+vessels in the larynx
+
+636
+00:30:42,720 --> 00:30:45,800
+so that's pretty simple
+pattern right we have
+
+637
+00:30:45,800 --> 00:30:48,500
+those branches of the
+vagus nerve we have
+
+638
+00:30:48,500 --> 00:30:51,100
+the pharyngeal branches
+that go to pharyngeal
+
+639
+00:30:51,100 --> 00:30:53,580
+glands we have the
+superior laryngeal nerve
+
+640
+00:30:53,580 --> 00:30:55,660
+and the recurrent
+laryngeal nerve that will
+
+641
+00:30:55,660 --> 00:31:00,920
+then innervate the
+larynx itself superior
+
+642
+00:31:00,920 --> 00:31:03,340
+laryngeal will provide
+parasympathetics above
+
+643
+00:31:03,340 --> 00:31:06,660
+the vocal fold and the
+recurrent laryngeal
+
+644
+00:31:06,660 --> 00:31:09,080
+will provide
+parasympathetics below the
+
+645
+00:31:09,080 --> 00:31:15,160
+vocal fold so yeah just
+that side view of the
+
+646
+00:31:15,160 --> 00:31:17,080
+larynx you can see
+that superior laryngeal
+
+647
+00:31:17,080 --> 00:31:24,360
+nerve branching from
+the vagus nerve and then
+
+648
+00:31:24,360 --> 00:31:26,500
+you see the internal
+branch that will pass
+
+649
+00:31:26,500 --> 00:31:28,940
+into the larynx that's
+that parasympathetic
+
+650
+00:31:28,940 --> 00:31:30,980
+innovation and you can
+also see that recurrent
+
+651
+00:31:30,980 --> 00:31:33,240
+laryngeal nerve
+looping back up again
+
+652
+00:31:33,240 --> 00:31:36,040
+between the trachea and
+the esophagus and then
+
+653
+00:31:36,040 --> 00:31:38,400
+moving into the
+larynx as the inferior
+
+654
+00:31:38,400 --> 00:31:42,040
+laryngeal nerve that
+provides the motor innovation
+
+655
+00:31:42,040 --> 00:31:43,940
+to all those muscles
+in the larynx, but
+
+656
+00:31:43,940 --> 00:31:47,000
+also parasympathetics
+to those mucous glands
+
+657
+00:31:47,260 --> 00:31:49,600
+below the vocal
+folds. And it's
+
+658
+00:31:49,600 --> 00:31:50,500
+also going to
+innovate this
+
+659
+00:31:50,500 --> 00:31:52,060
+thyroid and
+parathyroid gland.
+
+660
+00:31:53,120 --> 00:31:55,400
+So here's that cut-up
+section. So you can
+
+661
+00:31:55,400 --> 00:31:57,800
+see that once it
+passes into the larynx,
+
+662
+00:31:57,800 --> 00:32:00,600
+it's called inferior
+laryngeal to match the
+
+663
+00:32:00,600 --> 00:32:03,000
+superior laryngeal.
+So we have like nice
+
+664
+00:32:03,620 --> 00:32:06,920
+convergence here of
+those nerves. Remember,
+
+665
+00:32:06,920 --> 00:32:09,040
+this is all vagus
+nerve, like big picture,
+
+666
+00:32:09,620 --> 00:32:12,320
+parasympathetics to
+the neck is done by the
+
+667
+00:32:12,320 --> 00:32:16,740
+vagus nerve now this is
+a really nice summary
+
+668
+00:32:16,740 --> 00:32:19,540
+of the parasympathetics
+so if you like
+
+669
+00:32:19,540 --> 00:32:23,000
+really understand this
+diagram like you understand
+
+670
+00:32:23,190 --> 00:32:25,300
+parasympathetics
+this is listing all
+
+671
+00:32:25,300 --> 00:32:28,200
+the parasympathetics
+that are done by cranial
+
+672
+00:32:28,200 --> 00:32:31,640
+nerves so everything
+to the head and then
+
+673
+00:32:31,640 --> 00:32:34,260
+also everything that
+the vagus nerve does so
+
+674
+00:32:34,260 --> 00:32:36,640
+I think this is a really
+nice summary to look
+
+675
+00:32:36,640 --> 00:32:42,340
+into okay now that we've
+covered parasympathetic
+
+676
+00:32:42,340 --> 00:32:44,220
+and sympathetic
+innovation to the
+
+677
+00:32:44,220 --> 00:32:47,740
+head let's think about some
+clinical considerations
+
+678
+00:32:47,740 --> 00:32:51,940
+here so I want to
+let's start with
+
+679
+00:32:51,940 --> 00:32:54,980
+damage to ocular motor
+nerve here what might
+
+680
+00:32:54,980 --> 00:32:57,620
+be causes for ocular
+motor nerve damage to
+
+681
+00:32:57,620 --> 00:33:02,240
+motor nerve palsy
+pituitary gland tumor which
+
+682
+00:33:02,240 --> 00:33:05,420
+the pituitary gland
+sits right at the base
+
+683
+00:33:05,420 --> 00:33:08,740
+of the oculomotor nerve
+or aneurysms and some
+
+684
+00:33:08,740 --> 00:33:12,480
+of the cerebral arteries
+that are passing
+
+685
+00:33:12,480 --> 00:33:14,480
+very close to the
+oculomotor nerve as well.
+
+686
+00:33:15,160 --> 00:33:16,980
+And some of the
+symptoms that you would
+
+687
+00:33:16,980 --> 00:33:19,120
+see, I remember
+that the oculomotor
+
+688
+00:33:19,120 --> 00:33:20,890
+nerve is bringing
+the preganglionic
+
+689
+00:33:21,640 --> 00:33:24,920
+parasympathetics to
+the eye and they are
+
+690
+00:33:24,920 --> 00:33:28,200
+doing the constrictor
+pupillae and also
+
+691
+00:33:28,200 --> 00:33:32,660
+the ciliary muscle
+so you would lose the
+
+692
+00:33:32,660 --> 00:33:35,500
+accommodation and
+convergence reflex and
+
+693
+00:33:35,500 --> 00:33:38,520
+typically the pupil
+will be dilated on their
+
+694
+00:33:38,520 --> 00:33:42,420
+side so there's no
+there's only the
+
+695
+00:33:42,420 --> 00:33:44,380
+sympathetics that would
+dilate the pupil but
+
+696
+00:33:44,380 --> 00:33:47,220
+there's no effect of
+the parasympathetics
+
+697
+00:33:47,220 --> 00:33:49,340
+anymore that would
+constrict the pupil
+
+698
+00:33:49,900 --> 00:33:52,260
+You will also
+see, of course,
+
+699
+00:33:52,880 --> 00:33:57,860
+somatic motor loss
+to the ocular muscles
+
+700
+00:33:57,860 --> 00:34:01,420
+as well as to the
+upper eyelid. So your
+
+701
+00:34:01,420 --> 00:34:04,400
+upper eyelid will drop
+on the affected side,
+
+702
+00:34:04,400 --> 00:34:07,210
+more so even than
+with the sympathetic
+
+703
+00:34:07,210 --> 00:34:09,760
+innervation, what
+we've seen with Horner
+
+704
+00:34:09,760 --> 00:34:13,580
+syndromes. And then
+you will see impairment
+
+705
+00:34:13,580 --> 00:34:17,240
+of certain eye movements
+that you will go
+
+706
+00:34:17,240 --> 00:34:22,000
+over in the ocular
+muscle lecture as well.
+
+707
+00:34:24,800 --> 00:34:27,020
+Now just to show
+you something
+
+708
+00:34:27,020 --> 00:34:28,700
+that's a little bit
+out of the ordinary
+
+709
+00:34:28,700 --> 00:34:31,280
+here which is
+Frey's syndrome.
+
+710
+00:34:31,640 --> 00:34:35,440
+So this is just nuts
+what nerves can do.
+
+711
+00:34:35,580 --> 00:34:39,320
+This is pretty common
+syndrome after a
+
+712
+00:34:39,320 --> 00:34:44,100
+parotid gland surgery
+or trauma to that
+
+713
+00:34:44,100 --> 00:34:46,740
+region but commonly
+if you have the
+
+714
+00:34:46,740 --> 00:34:48,660
+parotid gland removed,
+like some studies
+
+715
+00:34:48,660 --> 00:34:52,420
+say between 30 and
+50% of the cases, it
+
+716
+00:34:52,780 --> 00:34:55,300
+happens that you
+get Frey's syndrome,
+
+717
+00:34:55,300 --> 00:34:57,640
+which is also called
+gustatory sweating.
+
+718
+00:34:57,780 --> 00:35:00,100
+So in this case,
+what is happening is
+
+719
+00:35:00,100 --> 00:35:02,690
+that the auricular
+motor, which is, you
+
+720
+00:35:02,820 --> 00:35:04,730
+know, getting all
+those parasympathetics
+
+721
+00:35:05,720 --> 00:35:07,660
+or carrying all
+those post-gagnionic
+
+722
+00:35:07,660 --> 00:35:10,500
+parasympathetics responsible
+for innervating the
+
+723
+00:35:10,500 --> 00:35:13,640
+parotid gland will
+actually grow back to
+
+724
+00:35:13,640 --> 00:35:17,720
+innervate sweat glands
+and vessels so stuff
+
+725
+00:35:17,720 --> 00:35:20,940
+that is actually
+taken on by that that
+
+726
+00:35:20,940 --> 00:35:23,420
+should be taken on by
+sympathetics are suddenly
+
+727
+00:35:23,420 --> 00:35:26,840
+innervated by the
+oricotemporal from
+
+728
+00:35:26,840 --> 00:35:29,520
+parasympathetics and the
+effect of that is that
+
+729
+00:35:29,520 --> 00:35:33,300
+if you like when you're
+a parasympathetic
+
+730
+00:35:33,300 --> 00:35:35,270
+gland when your
+parotid gland should be
+
+731
+00:35:35,270 --> 00:35:39,140
+stimulated for you know
+you see food or you
+
+732
+00:35:39,140 --> 00:35:42,100
+smell food and you
+should have saliva
+
+733
+00:35:42,100 --> 00:35:44,760
+secretion what instead
+happens on that side is
+
+734
+00:35:44,760 --> 00:35:46,760
+that you're sweating
+and it becomes very
+
+735
+00:35:46,760 --> 00:35:49,560
+red so you can see
+that here in the image
+
+736
+00:35:49,560 --> 00:35:52,120
+you can see that scar
+of the product gland
+
+737
+00:35:52,160 --> 00:35:55,470
+surgery and you can see
+the sweating and the
+
+738
+00:35:55,470 --> 00:35:57,660
+redness on that size
+and it kind of goes
+
+739
+00:35:57,660 --> 00:35:59,820
+up all the way to the
+temples like all the
+
+740
+00:35:59,820 --> 00:36:03,080
+way the innervation
+of your ericotemporal.
+
+741
+00:36:04,340 --> 00:36:08,780
+So this is kind
+of a bizarre thing
+
+742
+00:36:08,780 --> 00:36:11,400
+that can happen when
+neurons can regrow
+
+743
+00:36:11,400 --> 00:36:14,100
+but in this case
+taking over a
+
+744
+00:36:14,100 --> 00:36:17,000
+completely different
+function than it
+
+745
+00:36:17,000 --> 00:36:20,240
+had before and it
+would still work.
+
+746
+00:36:22,780 --> 00:36:24,720
+Okay let's finish
+this off with
+
+747
+00:36:24,720 --> 00:36:26,460
+another clinical
+scenario where we can
+
+748
+00:36:26,460 --> 00:36:28,440
+bring in all of
+this innovation.
+
+749
+00:36:28,580 --> 00:36:31,740
+So this is 35-year
+-old female presents to
+
+750
+00:36:31,740 --> 00:36:33,440
+the office with the
+following symptoms,
+
+751
+00:36:33,440 --> 00:36:35,660
+pitosis and constrictor
+pupil on the right
+
+752
+00:36:35,660 --> 00:36:37,760
+side. Which nerve is
+most likely damaged?
+
+753
+00:36:37,860 --> 00:36:39,860
+First option is
+optic nerve and
+
+754
+00:36:39,860 --> 00:36:41,500
+that would be
+incorrect. So what
+
+755
+00:36:41,500 --> 00:36:42,780
+wouldn't be working
+with the optic
+
+756
+00:36:42,780 --> 00:36:46,920
+nerve is, with
+regards to the pupil,
+
+757
+00:36:47,520 --> 00:36:49,800
+is that the pupillary
+light reflex wouldn't
+
+758
+00:36:49,800 --> 00:36:51,660
+work. What does
+this mean? So if you
+
+759
+00:36:51,660 --> 00:36:54,880
+shine a light into one
+eye and that the optic
+
+760
+00:36:54,880 --> 00:36:57,040
+nerve is not working
+on that side it
+
+761
+00:36:57,040 --> 00:36:59,220
+cannot really receive
+that there's light shown
+
+762
+00:36:59,220 --> 00:37:01,240
+into the eye so it
+wouldn't trigger
+
+763
+00:37:01,240 --> 00:37:04,160
+constriction of the
+pupil if you then move
+
+764
+00:37:04,160 --> 00:37:06,370
+over to the other side
+that is not affected
+
+765
+00:37:06,760 --> 00:37:09,700
+it would you would
+see you would see the
+
+766
+00:37:09,700 --> 00:37:12,340
+light and it would trigger
+constriction of both
+
+767
+00:37:12,340 --> 00:37:15,000
+pupils so construction
+of the pupil would
+
+768
+00:37:15,000 --> 00:37:20,720
+work on the side that
+is not on both sides
+
+769
+00:37:21,500 --> 00:37:23,820
+if you shine in the
+light that is in the
+
+770
+00:37:23,820 --> 00:37:27,610
+eye that is not
+affected for trigeminal
+
+771
+00:37:27,610 --> 00:37:30,260
+nerve injury you would
+lose sensory particular
+
+772
+00:37:30,260 --> 00:37:32,460
+for the eye now you
+would lose sensory
+
+773
+00:37:32,460 --> 00:37:35,700
+to the cornea so in
+this case you wouldn't
+
+774
+00:37:35,700 --> 00:37:37,820
+blink on that side
+because there's nothing
+
+775
+00:37:37,820 --> 00:37:39,660
+that stimulates that
+reflex when you're
+
+776
+00:37:39,660 --> 00:37:43,510
+touching the cornea
+facial nerve is also
+
+777
+00:37:43,510 --> 00:37:45,300
+incorrect that's not
+the symptoms that you
+
+778
+00:37:45,300 --> 00:37:47,040
+would see for the
+facial nerve. Remember,
+
+779
+00:37:47,040 --> 00:37:49,680
+facial nerve, if that
+is damaged, what you
+
+780
+00:37:49,680 --> 00:37:52,940
+would see for the eye
+or orbit region is
+
+781
+00:37:52,940 --> 00:37:55,040
+that you wouldn't be
+able to blink. So you
+
+782
+00:37:55,040 --> 00:37:57,620
+would lose orbicularis
+ocular, but you also
+
+783
+00:37:57,620 --> 00:37:59,360
+have all those other
+symptoms of Bell's
+
+784
+00:37:59,360 --> 00:38:02,440
+palsy, like dropping
+corner of your mouth,
+
+785
+00:38:02,440 --> 00:38:04,860
+drooling, difficulty
+smiling, and so on.
+
+786
+00:38:05,980 --> 00:38:07,960
+For oculomotor nerve,
+that's the one that
+
+787
+00:38:07,960 --> 00:38:10,660
+we just discussed. So
+what you would see there
+
+788
+00:38:10,660 --> 00:38:14,080
+from the parasympathetic
+side is that you
+
+789
+00:38:14,080 --> 00:38:22,240
+would lose the constrictor
+pupillae and the
+
+790
+00:38:22,240 --> 00:38:24,660
+ciliary muscle, so
+you wouldn't have the
+
+791
+00:38:24,660 --> 00:38:27,180
+accommodation and
+convergence reflex anymore.
+
+792
+00:38:27,180 --> 00:38:30,580
+your pupil would be
+dilated so not constricted
+
+793
+00:38:30,580 --> 00:38:32,660
+but dilated because
+you cannot constrict
+
+794
+00:38:32,660 --> 00:38:36,520
+anymore you would
+see pitosis because
+
+795
+00:38:36,520 --> 00:38:40,560
+you're losing innervation
+to ocular muscles you
+
+796
+00:38:40,560 --> 00:38:43,020
+would also see all the
+other ocular muscle
+
+797
+00:38:43,020 --> 00:38:46,940
+impacts so like limited
+adduction elevation
+
+798
+00:38:46,940 --> 00:38:49,840
+and depression of the
+eye so typically your
+
+799
+00:38:49,840 --> 00:38:54,540
+eye assumes this um
+out abducted position
+
+800
+00:38:56,820 --> 00:38:59,900
+now what is left here
+is internal quadriplexus
+
+801
+00:38:59,900 --> 00:39:01,720
+so this is horner
+syndrome right you
+
+802
+00:39:01,720 --> 00:39:04,280
+might have caught that
+pitosis constrictor pupil
+
+803
+00:39:04,280 --> 00:39:11,440
+on that side okay now
+wrapping up sympathetics
+
+804
+00:39:11,440 --> 00:39:13,700
+are really simple
+right now pre
+
+805
+00:39:13,700 --> 00:39:16,720
+-ganglionic axons for the
+head and neck are from
+
+806
+00:39:16,720 --> 00:39:19,380
+t1 to t2 lateral horn
+they synapse in the
+
+807
+00:39:19,380 --> 00:39:21,260
+superior cervical ganglion
+and then they will
+
+808
+00:39:21,260 --> 00:39:23,720
+pass with the internal
+and external carotid
+
+809
+00:39:23,720 --> 00:39:27,000
+plexus parasympathetics
+pre-ganglionics are
+
+810
+00:39:27,000 --> 00:39:30,460
+from four cranial
+nerves as ocular motor
+
+811
+00:39:30,460 --> 00:39:33,240
+facial glossopharyngeal
+and vagus nerve they
+
+812
+00:39:33,240 --> 00:39:35,720
+synapse in four ganglia
+and then the post
+
+813
+00:39:35,720 --> 00:39:39,240
+-scanionics travel with
+the trigeminal nerve.
+
+814
+00:39:39,420 --> 00:39:42,620
+The best references
+for this from my
+
+815
+00:39:42,620 --> 00:39:46,840
+perspective are Jack
+Stern's core concept.
+
+816
+00:39:48,810 --> 00:39:50,620
+But you can also, if you
+
+817
+00:39:50,620 --> 00:39:52,680
+want to really
+dive into it,
+
+818
+00:39:52,880 --> 00:39:55,620
+Yannick 2006 is
+a good reference.
+
+819
+00:39:57,520 --> 00:40:00,840
+I would always
+appreciate your feedback.
+
+820
+00:40:01,720 --> 00:40:05,060
+Positive, negative
+please let me know how
+
+821
+00:40:05,060 --> 00:40:06,840
+you're feeling about
+this lecture and
+
+822
+00:40:06,840 --> 00:40:09,800
+what you would like
+to see more or less of
+
+823
+00:40:10,930 --> 00:40:14,900
+that thank you and
+please always feel free
+
+824
+00:40:14,900 --> 00:40:16,780
+to reach out if you
+have any questions

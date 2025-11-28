@@ -11,7 +11,7 @@ window.L131 = [
       { "text": "These are benign tumors of fat cells.", "explanation": "This describes a lipoma." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_page-0033.jpg",
+    "slideImagePath": "images/L131_slide_2.jpg",
     "slideImageDescription": "The slide defines 'adenoma' as a 'Benign tumor of glandular cells' in the section on benign tumor nomenclature. This directly supports the explanation that an adenoma is a benign glandular tumor."
   },
   {
@@ -26,7 +26,7 @@ window.L131 = [
       { "text": "Anaplasia", "explanation": "Anaplasia is a lack of differentiation, a hallmark of malignancy." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0015.jpg",
+    "slideImagePath": "images/L131_slide_5.jpg",
     "slideImageDescription": "The slide describes Barrett esophagus, where 'esophageal squamous epithelium is replaced by columnar epithelium' as a compensatory measure. This is explicitly identified as a classic example of metaplasia."
   },
   {
@@ -41,7 +41,7 @@ window.L131 = [
       { "text": "Hyperplastic", "explanation": "Hyperplasia is an increase in cell number with normal morphology." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0008.jpg",
+    "slideImagePath": "images/L131_slide_3.jpg",
     "slideImageDescription": "The slide shows 'Figure 2', which displays a 'poorly differentiated squamous cell carcinoma'. The text highlights 'Large cells with open chromatin' and 'Pleomorphism', illustrating the features of poor differentiation."
   },
   {
@@ -56,7 +56,7 @@ window.L131 = [
       { "text": "Osteoblastoma", "explanation": "Osteoblastoma is a benign bone tumor." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0033.jpg",
+    "slideImagePath": "images/L131_slide_2.jpg",
     "slideImageDescription": "The slide explains benign nomenclature (osteo + oma = osteoma). By applying the rule for malignant mesenchymal tumors described on page 37 ('sarcoma' added to tissue origin), one can deduce 'osteosarcoma'."
   },
   {
@@ -71,7 +71,7 @@ window.L131 = [
       { "text": "Patient age", "explanation": "Age affects overall survival but stage is the primary cancer-related prognostic factor." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0056.jpg",
+    "slideImagePath": "images/L131_slide_1.jpg",
     "slideImageDescription": "The slide states: 'Metastasis describes a cancer's spread to other organs... It is the most important of these three prognostic factors.'"
   },
   {
@@ -101,7 +101,7 @@ window.L131 = [
       { "text": "Identifying the genetic mutations in the tumor", "explanation": "This requires molecular testing." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0061.jpg",
+    "slideImagePath": "images/L131_slide_1.jpg",
     "slideImageDescription": "The slide 'Tumor Markers' states: 'after a cancer diagnosis is established, tumor markers can be very useful... track the changes over time... monitor patients after treatment... increasing tumor marker level later might suggest cancer recurrence'."
   },
   {
@@ -131,7 +131,7 @@ window.L131 = [
       { "text": "Fibroma", "explanation": "Benign fibrous tumor." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0038.jpg",
+    "slideImagePath": "images/L131_slide_2.jpg",
     "slideImageDescription": "The slide 'Exceptions to the Rule' lists 'Melanoma: malignant tumor of melanocytes' as a malignant tumor with a name that sounds benign."
   },
   {
@@ -176,7 +176,7 @@ window.L131 = [
       { "text": "Sarcoma", "explanation": "Malignant mesenchymal tumor." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_page-0038.jpg",
+    "slideImagePath": "images/L131_slide_2.jpg",
     "slideImageDescription": "The slide 'Names That Sound Like Tumors But Aren't' defines Hamartomas as 'non-neoplastic regions of disorganized tissue that are indigenous to the site'. It gives 'pulmonary hamartoma' as a specific example."
   },
   {
@@ -191,7 +191,7 @@ window.L131 = [
       { "text": "Atrophy", "explanation": "Decrease in size/function." }
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L131_page-0017.jpg",
+    "slideImagePath": "images/L131_slide_7.jpg",
     "slideImageDescription": "The slide 'What Is Dysplasia?' explicitly states: 'Why do we pay attention to dysplastic changes...? Because dysplasia often precedes cancer'."
   },
   {
@@ -206,7 +206,7 @@ window.L131 = [
       { "text": "Benign", "explanation": "Benign tumors are usually not graded on this scale (1-3)." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0059.jpg",
+    "slideImagePath": "images/L131_slide_1.jpg",
     "slideImageDescription": "The slide describes grading of breast cancer: 'Grade 3, poorly differentiated tumors have nests of neoplastic cells with no evidence of gland formation... marked nuclear atypia'."
   },
   {
@@ -221,7 +221,7 @@ window.L131 = [
       { "text": "Contact inhibition", "explanation": "Cancer cells lose contact inhibition." }
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L131_page-0011.jpg",
+    "slideImagePath": "images/L131_slide_2.jpg",
     "slideImageDescription": "The slide describes 'Anaplastic tumors' as having cells that are 'very strange looking' and mentions 'gigantic, contain multiple nuclei'. While atypical mitoses isn't explicitly in the bullet list on this specific page, it's a standard feature associated with the described 'bizarre' morphology and high grade discussed in the context."
   },
   {
@@ -236,7 +236,7 @@ window.L131 = [
       { "text": "L (Lymphatic invasion)", "explanation": "Related to N." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0056.jpg",
+    "slideImagePath": "images/L131_slide_1.jpg",
     "slideImageDescription": "The slide states: 'Metastasis describes a cancer's spread to other organs... It is the most important of these three prognostic factors.'"
   },
   {
@@ -251,7 +251,7 @@ window.L131 = [
       { "text": "Adenoma", "explanation": "Benign glandular tumor." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0033.jpg",
+    "slideImagePath": "images/L131_slide_2.jpg",
     "slideImageDescription": "The slide lists examples of benign tumors: 'Benign tumor of smooth muscle = leiomyo (smooth muscle) + oma = leiomyoma'."
   },
   {
@@ -266,7 +266,7 @@ window.L131 = [
       { "text": "Bladder cancer", "explanation": "Less common than prostate." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0060.jpg",
+    "slideImagePath": "images/L131_slide_1.jpg",
     "slideImageDescription": "The 'CLINICAL CORRELATION' box states: 'Prostate cancer is the most common cancer in men'."
   },
   {
@@ -296,7 +296,7 @@ window.L131 = [
       { "text": "Fibrosarcoma", "explanation": "Malignant fibrous tissue." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_page-0033.jpg",
+    "slideImagePath": "images/L131_slide_2.jpg",
     "slideImageDescription": "The slide defines the prefix 'Rhabdomyo- refers to skeletal muscle cells'. Applying the malignant naming rule from page 37 (sarcoma for mesenchymal), the answer is Rhabdomyosarcoma."
   },
   {
@@ -326,7 +326,7 @@ window.L131 = [
       { "text": "Dietary modifications", "explanation": "Minor role." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0075.jpg",
+    "slideImagePath": "images/L131_slide_1.jpg",
     "slideImageDescription": "The slide 'Cervical Cancer' states: 'From 1955 to 1992... incidence and mortality... have decreased more than 60%!' attributing this to the introduction of the Pap smear."
   },
   {
@@ -341,7 +341,7 @@ window.L131 = [
       { "text": "It is synonymous with metaplasia.", "explanation": "They are distinct processes." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0016.jpg",
+    "slideImagePath": "images/L131_slide_7.jpg",
     "slideImageDescription": "The slide 'What Is Dysplasia?' lists morphologic changes including 'Pleomorphism' and 'Loss of polarity'."
   },
   {
@@ -356,7 +356,7 @@ window.L131 = [
       { "text": "Diesel exhaust", "explanation": "Minor contributor." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0082.jpg",
+    "slideImagePath": "images/L131_slide_1.jpg",
     "slideImageDescription": "The slide 'Smoking' states: 'Smoking, particularly cigarette smoking, causes more premature deaths... than any other environmental factor' and lists 'lung cancer' as a major risk."
   },
   {
@@ -371,7 +371,7 @@ window.L131 = [
       { "text": "Hematoma", "explanation": "Blood clot (not a neoplasm)." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_page-0033.jpg",
+    "slideImagePath": "images/L131_slide_2.jpg",
     "slideImageDescription": "The slide lists prefixes: 'Hemangio- refers to blood vessels'. Applying the benign suffix '-oma' gives Hemangioma."
   },
   {
@@ -401,7 +401,7 @@ window.L131 = [
       { "text": "Anaplasia", "explanation": "Feature of malignancy." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0031.jpg",
+    "slideImagePath": "images/L131_slide_2.jpg",
     "slideImageDescription": "The slide states benign tumors 'are often surrounded by a capsule of fibrous tissue'."
   },
   {
@@ -416,7 +416,7 @@ window.L131 = [
       { "text": "Low BMI", "explanation": "Obesity increases risk (peripheral aromatization)." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0079.jpg",
+    "slideImagePath": "images/L131_slide_1.jpg",
     "slideImageDescription": "The slide 'Breast Cancer' explains: 'women began having fewer children and also began delaying childbearing... Both of these practices increase a woman's exposure to estrogen'."
   },
   {
@@ -446,7 +446,7 @@ window.L131 = [
       { "text": "Extent of local invasion", "explanation": "Part of T." }
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L131_page-0055.jpg",
+    "slideImagePath": "images/L131_slide_3.jpg",
     "slideImageDescription": "The slide 'What Is Cancer Staging?' defines TNM as 'Tumor', 'Node', and 'Metastasis'. Grade is discussed separately on slide 58."
   },
   {
@@ -461,7 +461,7 @@ window.L131 = [
       { "text": "Is restricted to the ovary", "explanation": "Can occur in testis/mediastinum." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_page-0038.jpg",
+    "slideImagePath": "images/L131_slide_2.jpg",
     "slideImageDescription": "While Teratoma isn't explicitly defined on the slides provided, it fits the context of nomenclature and germ cell tumors (Seminoma is mentioned). It's a standard high-yield concept often paired with these."
   },
   {
@@ -491,7 +491,7 @@ window.L131 = [
       { "text": "Metastasis", "explanation": "Late stage." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_page-0017.jpg",
+    "slideImagePath": "images/L131_slide_7.jpg",
     "slideImageDescription": "The slide 'What Is Dysplasia?' states 'dysplasia often precedes cancer' and notes that 'In cancers of epithelial tissue... cells often show dysplastic changes long before they turn into cancer cells'."
   },
   {
@@ -536,7 +536,7 @@ window.L131 = [
       { "text": "CA19-9", "explanation": "Pancreatic." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0060.jpg",
+    "slideImagePath": "images/L131_slide_1.jpg",
     "slideImageDescription": "The slide lists: 'CA-125, a marker for ovarian cancer'."
   },
   {
@@ -551,7 +551,7 @@ window.L131 = [
       { "text": "Dysplasia", "explanation": "Pre-cancerous." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_page-0019.jpg",
+    "slideImagePath": "images/L131_slide_1.jpg",
     "slideImageDescription": "The slide 'Carcinoma in situ (CIS)' states: 'CIS is the very earliest stage of cancer, also referred to as stage 0'."
   },
   {
@@ -566,7 +566,7 @@ window.L131 = [
       { "text": "Carcinoma", "explanation": "Malignant." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0038.jpg",
+    "slideImagePath": "images/L131_slide_2.jpg",
     "slideImageDescription": "The slide 'Names That Sound Like Tumors But Aren't' defines Hamartomas and gives 'pulmonary hamartoma' as an example."
   },
   {
@@ -596,7 +596,7 @@ window.L131 = [
       { "text": "Metastatic potential", "explanation": "While linked, differentiation defines Grade." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_page-0058.jpg",
+    "slideImagePath": "images/L131_slide_3.jpg",
     "slideImageDescription": "The slide 'What Is Cancer Grading?' states: 'The grade of a tumor describes its histologic appearance... Cancers can range from well-differentiated... to undifferentiated'."
   }
 ];

@@ -11,7 +11,7 @@ window.L109L110 = [
       {"text": "Increase glomerular filtration rate (GFR) without altering pH.", "explanation": "Increasing GFR alone is insufficient; the drug will be reabsorbed if it remains lipid soluble (unionized)."}
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L109L110_p_page-0030.jpg",
+    "slideImagePath": "images/L109L110_slide_78.jpg",
     "slideImageDescription": "The slide 'Clinical Application: Ion Trapping' details the management of drug overdose based on pH manipulation. It specifically uses the example of 'Weak acid (Aspirin)' overdose. The text instructs to 'Alkalinize the urine' using 'Sodium Bicarbonate (NaHCO3)'. The mechanism is explained: increasing the pH drives the equilibrium toward the ionized form (A-), which is 'Lipid insoluble' and 'cannot be reabsorbed', thus causing it to be 'excreted in urine'. This directly supports the use of sodium bicarbonate for aspirin overdose."
   },
   {
@@ -26,7 +26,7 @@ window.L109L110 = [
       {"text": "No change in pharmacokinetics.", "explanation": "Hypoalbuminemia significantly alters the kinetics of highly bound drugs."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L109L110_p_page-0048.jpg",
+    "slideImagePath": "images/L109L110_slide_57.jpg",
     "slideImageDescription": "The slide 'Clinical Relevance of Protein Binding' lists factors affecting the free fraction of drugs. It explicitly states that 'Hypoalbuminemia' (low albumin) leads to an 'Increase in free drug fraction'. It further explains the consequence: 'Increased free drug -> increased distribution into tissues (increased Vd)'. This chain of causality directly supports the answer that hypoalbuminemia leads to increased free drug and Vd."
   },
   {
@@ -41,7 +41,7 @@ window.L109L110 = [
       {"text": "Biliary Excretion", "explanation": "This is elimination, not metabolism."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L109L110_p_page-0064.jpg",
+    "slideImagePath": "images/L109L110_slide_35.jpg",
     "slideImageDescription": "The slide 'Drug Metabolism' distinguishes between Phase I and Phase II reactions. It defines Phase I as 'Functionalization reactions' that 'introduce or unmask a functional group (-OH, -NH2, -SH)'. It lists 'Oxidation via Cytochrome P450' as the primary mechanism for this phase. This definition matches the description of adding a hydroxyl group."
   },
   {
@@ -56,7 +56,7 @@ window.L109L110 = [
       {"text": "Directly antagonize the estrogen receptor.", "explanation": "Rifampin acts on metabolic enzymes, not the hormone receptors directly."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L109L110_p_page-0070.jpg",
+    "slideImagePath": "images/L109L110_slide_36.jpg",
     "slideImageDescription": "The slide 'Induction of Cytochrome P450' explains the consequences of enzyme induction. It lists 'Rifampin' as a classic inducer. The text states that induction leads to 'Increased rate of metabolism' and 'Decreased plasma drug concentration', which results in 'Decreased drug activity'. It specifically cites 'Oral contraceptives' as a drug class affected by this, leading to failure."
   },
   {
@@ -71,7 +71,7 @@ window.L109L110 = [
       {"text": "Decreased half-life of renally cleared drugs.", "explanation": "The actual renal function is poor (aging), so half-life would be increased."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L109L110_p_page-0087.jpg",
+    "slideImagePath": "images/L109L110_slide_29.jpg",
     "slideImageDescription": "The slide 'Estimation of GFR' discusses the use of Serum Creatinine ($S_{cr}$) and Creatinine Clearance ($Cl_{cr}$). A 'Clinical Note' explicitly warns: 'In elderly patients with low muscle mass, $S_{cr}$ may be low... leading to an OVERESTIMATION of renal function'. It concludes that this can result in 'toxicity' if doses aren't adjusted, directly supporting the answer."
   },
   {
@@ -86,7 +86,7 @@ window.L109L110 = [
       {"text": "Median Effective Dose (ED50) and Therapeutic Index (TI)", "explanation": "These are measures of efficacy and safety in the population."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L109L110_p_page-0013.jpg",
+    "slideImagePath": "images/L109L110_slide_78.jpg",
     "slideImageDescription": "The slide 'Physicochemical Properties of Drugs' outlines the 'Structure-Activity Relationship (SAR)'. It lists properties like 'Molecular Size', 'Shape', 'Lipid Solubility', and 'Ionization'. Arrows connect these properties directly to the 'Ability to cross cell membranes' (Pharmacokinetics) and the 'Ability to interact with the receptor' (Pharmacodynamics), identifying SAR as the linking concept."
   }
 ];

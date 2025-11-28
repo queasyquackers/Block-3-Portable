@@ -11,7 +11,7 @@ window.L115L116 = [
       {"text": "The drug's elimination rate is faster than its distribution rate.", "explanation": "This describes an elimination characteristic, not what the Vd value itself indicates about drug location."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L115L116_p_page-0036.jpg",
+    "slideImagePath": "images/L115L116_slide_36.jpg",
     "slideImageDescription": "The slide 'Volume of Distribution ($V_d$)' illustrates the concept with fluid compartments. It states that a drug with a **low** $V_d$ is 'Retained in the vascular compartment'. It specifically notes that this occurs for drugs that are 'Bound to plasma proteins' or have 'Large molecular weight'. The value 1.1 L is very close to the plasma volume, confirming the drug is confined to the vascular space."
   },
   {
@@ -26,7 +26,7 @@ window.L115L116 = [
       {"text": "The calculation must be an error.", "explanation": "Apparent Vd is a theoretical volume, not a real physiological space, so values > body volume are common for tissue-bound drugs."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L115L116_p_page-0036.jpg",
+    "slideImagePath": "images/L115L116_slide_36.jpg",
     "slideImageDescription": "The 'Volume of Distribution' slide contrasts low vs. high $V_d$. For a **High** $V_d$, it states the drug is 'Highly distributed into muscle, adipose, and other nonvascular tissues'. It explicitly lists **Chloroquine** (Vd = 13,000 L) as the classic example of a drug that is extensively sequestered in tissues."
   },
   {
@@ -41,7 +41,7 @@ window.L115L116 = [
       {"text": "Biliary secretion rate", "explanation": "This is a component of elimination but not the rate-limiting step for high E drugs."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L115L116_p_page-0029.jpg",
+    "slideImagePath": "images/L115L116_slide_25.jpg",
     "slideImageDescription": "The slide 'Hepatic Clearance' defines the Extraction Ratio (E). It explains that for drugs with a **High Extraction Ratio** (E > 0.7), clearance approaches liver blood flow. It explicitly states: 'Elimination is **Blood Flow Dependent**'. This confirms that for high E drugs, alterations in blood flow (Q) directly alter clearance."
   },
   {
@@ -56,7 +56,7 @@ window.L115L116 = [
       {"text": "Cannot be determined without the elimination rate constant.", "explanation": "F is determined by the AUC ratio."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L115L116_p_page-0039.jpg",
+    "slideImagePath": "images/L115L116_slide_7.jpg",
     "slideImageDescription": "The slide 'Bioavailability (F)' provides the formula: $F = (AUC_{oral} / AUC_{IV}) \\times 100$. It displays a graph comparing the Area Under the Curve (AUC) for IV administration (100% bioavailability) vs. Oral administration (reduced AUC). Using the values from the question in the formula provided on the slide (50/100) yields 0.5 or 50%."
   },
   {
@@ -71,7 +71,7 @@ window.L115L116 = [
       {"text": "Variable; Gastric pH", "explanation": "Extraction ratio is a hepatic parameter, not a gastric one."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L115L116_p_page-0029.jpg",
+    "slideImagePath": "images/L115L116_slide_24.jpg",
     "slideImageDescription": "The slide on 'Hepatic Clearance' relates Extraction Ratio (E) to the 'First-Pass Effect'. It states that drugs with a **High Extraction Ratio** have a 'High First-Pass Effect', which results in 'Low Bioavailability'. It lists examples like Morphine, Propranolol, and Verapamil, supporting the concept that efficient hepatic removal prevents the drug from reaching systemic circulation orally."
   },
   {
@@ -86,7 +86,7 @@ window.L115L116 = [
       {"text": "The volume of distribution (Vd) only.", "explanation": "Half-life depends on both Vd and Clearance (t1/2 = 0.693 * Vd / CL)."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L115L116_p_page-0060.jpg",
+    "slideImagePath": "images/L115L116_slide_59.jpg",
     "slideImageDescription": "The slide 'Time to Reach Steady State' contains a rule of thumb: 'It takes **4-5 half-lives** to reach steady state'. It emphasizes that this time is a function of the elimination half-life ($t_{1/2}$) and is independent of the dosage or frequency of administration, directly answering the question."
   },
   {
@@ -101,7 +101,7 @@ window.L115L116 = [
       {"text": "500 mg", "explanation": "Too high, risk of toxicity."}
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L115L116_p_page-0072.jpg",
+    "slideImagePath": "images/L115L116_slide_24.jpg",
     "slideImageDescription": "The slide 'Loading Dose' provides the formula: **Loading Dose = $Target Concentration \times V_d$**. Applying the values from the question (Target = 3 mg/L, $V_d$ = 77 L) results in $3 \times 77 = 231$ mg. The slide explains this dose is used to 'rapidly achieve the target concentration', matching the clinical scenario."
   },
   {
@@ -116,7 +116,7 @@ window.L115L116 = [
       {"text": "10 mg/hr", "explanation": "Incorrect math."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L115L116_p_page-0075.jpg",
+    "slideImagePath": "images/L115L116_slide_68.jpg",
     "slideImageDescription": "The slide 'Maintenance Dose' presents the formula: **Maintenance Dose = $Clearance (CL) \times Target Concentration (C_{ss})$**. Using the provided numbers (CL = 2.8 L/hr, $C_{ss}$ = 10 mg/L), the calculation is $2.8 \times 10 = 28$ mg/hr. The slide context confirms this calculates the rate needed to replace the amount of drug eliminated."
   },
   {
@@ -131,7 +131,7 @@ window.L115L116 = [
       {"text": "Clearance increases, Half-life increases.", "explanation": "Mathematically inconsistent."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L115L116_p_page-0050.jpg",
+    "slideImagePath": "images/L115L116_slide_80.jpg",
     "slideImageDescription": "The slide 'Non-Linear Pharmacokinetics' discusses 'Capacity-limited elimination' (Michaelis-Menten). It states that as concentration increases, 'Clearance decreases' and 'Half-life increases'. It specifically lists **Phenytoin**, Ethanol, and Aspirin as examples of drugs following these kinetics, where elimination mechanisms become saturated."
   },
   {
@@ -146,7 +146,7 @@ window.L115L116 = [
       {"text": "Nernst equation", "explanation": "For membrane potential."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L115L116_p_page-0087.jpg",
+    "slideImagePath": "images/L115L116_slide_7.jpg",
     "slideImageDescription": "The slide 'Estimation of GFR' displays the **Cockcroft-Gault Equation**. It shows the formula: $CrCl = [(140 - age) \times weight] / (72 \times S_{cr})$, with a correction factor for females. The text identifies this as the standard method for estimating Creatinine Clearance in clinical practice."
   },
   {
@@ -161,7 +161,7 @@ window.L115L116 = [
       {"text": "Immediately.", "explanation": "Only possible with a bolus, not re-accumulation."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L115L116_p_page-0060.jpg",
+    "slideImagePath": "images/L115L116_slide_59.jpg",
     "slideImageDescription": "The slide 'Time to Reach Steady State' states the rule: '4-5 half-lives'. With a half-life of 12 hours, $4 \times 12 = 48$ hours and $5 \times 12 = 60$ hours. Thus, the time required is 48-60 hours. The slide emphasizes that this time is constant for any first-order process."
   },
   {
@@ -176,7 +176,7 @@ window.L115L116 = [
       {"text": "Oral dosing is not possible.", "explanation": "Oral dosing is possible, just requires adjustment."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L115L116_p_page-0075.jpg",
+    "slideImagePath": "images/L115L116_slide_10.jpg",
     "slideImageDescription": "The slide 'Maintenance Dose' shows the formula calculation. It includes 'Bioavailability (F)' in the denominator: $Dosing Rate = (Target \times CL) / F$. Because F is in the denominator, a lower F (e.g., <1 for oral) requires a **higher** administered dose to achieve the same target concentration compared to IV (where F=1)."
   },
   {
@@ -191,7 +191,7 @@ window.L115L116 = [
       {"text": "Elimination mechanisms are saturated.", "explanation": "This describes Zero-order/Non-linear kinetics."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L115L116_p_page-0046.jpg",
+    "slideImagePath": "images/L115L116_slide_53.jpg",
     "slideImageDescription": "The slide 'First-Order Elimination' defines the process. It states: 'A constant **fraction** (percentage) of drug is eliminated per unit of time'. It contrasts this with Zero-order where a constant *amount* is eliminated. The graph shows a linear decay on a log scale, characteristic of a constant fractional loss."
   },
   {
@@ -206,7 +206,7 @@ window.L115L116 = [
       {"text": "Irreversible binding to receptors.", "explanation": "Plasma levels may not correlate with effect."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L115L116_p_page-0081.jpg",
+    "slideImagePath": "images/L115L116_slide_13.jpg",
     "slideImageDescription": "The slide 'Therapeutic Drug Monitoring (TDM)' lists the criteria for its use. It explicitly includes: 'Narrow therapeutic index' and 'Significant pharmacokinetic variability'. It lists classic examples like Digoxin, Aminoglycosides, and Phenytoin, confirming the clinical context."
   },
   {
@@ -221,7 +221,7 @@ window.L115L116 = [
       {"text": "It will be reached immediately because the dose was doubled.", "explanation": "The time to reach steady state is *independent* of the dose."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L115L116_p_page-0060.jpg",
+    "slideImagePath": "images/L115L116_slide_81.jpg",
     "slideImageDescription": "The slide 'Time to Reach Steady State' emphasizes the rule of '4-5 half-lives'. Crucially, it states this applies 'regardless of the dosage'. Therefore, changing the dose does not change the *time* required to equilibrate to the new level; it still requires 4-5 half-lives."
   },
   {
@@ -236,7 +236,7 @@ window.L115L116 = [
       {"text": "97%", "explanation": "97% corresponds to 5 half-lives (10 hours)."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L115L116_p_page-0058.jpg",
+    "slideImagePath": "images/L115L116_slide_59.jpg",
     "slideImageDescription": "The slide 'Elimination Half-Life' provides a table or rule of thumb for clearance. It lists: '1 half-life: 50%', '2 half-lives: 75%', '3 half-lives: 87.5%', and '**4 half-lives: ~94%**'. Calculating 8 hours / 2 hours = 4 half-lives directly maps to the 94% elimination value shown on the slide."
   }
 ];

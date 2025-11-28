@@ -11,7 +11,7 @@ window.L114 = [
       { "text": "Inspection, Percussion, Auscultation, Palpation", "explanation": "This sequence is incorrect. Percussion must be performed *after* auscultation to avoid altering bowel sounds." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L114_p_page-0016.jpg",
+    "slideImagePath": "images/L114_slide_33.jpg",
     "slideImageDescription": "The slide titled 'Physical Examination' explicitly lists the sequence of steps for the abdominal exam. It orders them as: '1. Inspection', '2. Auscultation', '3. Percussion', and '4. Palpation'. A specific note emphasizes the reasoning: 'Auscultate before percussion or palpation because these maneuvers may alter the frequency of bowel sounds'. This directly confirms the I-A-P-P sequence as the correct standard of care."
   },
   {
@@ -26,7 +26,7 @@ window.L114 = [
       { "text": "High-pitched tinkling sounds heard in the abdomen.", "explanation": "This is a physical exam finding (auscultation), not a patient-reported symptom, and it suggests dilated bowel." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L114_p_page-0004.jpg",
+    "slideImagePath": "images/L114_slide_4.jpg",
     "slideImageDescription": "The slide 'Definitions - Constipation' contrasts the medical and patient perspectives. Under 'Physicians', it lists 'Fewer than 3 bowel movements per week'. Under 'Patients', it lists subjective symptoms including 'Hard stools', 'Feeling of incomplete evacuation', 'Excessive straining', and 'Sense of anorectal blockage'. This distinction clarifies that a patient may feel constipated due to difficulty passing stool (straining/incomplete evacuation) even if the frequency doesn't meet the strict medical criteria."
   },
   {
@@ -41,7 +41,7 @@ window.L114 = [
       { "text": "Use of diltiazem for hypertension.", "explanation": "Diltiazem is a calcium channel blocker, which is a common medication cause for constipation, making it a likely etiology but not a 'red flag' for cancer." }
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L114_p_page-0006.jpg",
+    "slideImagePath": "images/L114_slide_6.jpg",
     "slideImageDescription": "The slide 'Constipation - Red Flags' provides a checklist of warning signs that require further investigation. The list explicitly includes 'Weight loss > 10 lbs', 'Blood in stool', 'Family history of colon cancer', and 'New onset constipation in elderly'. The patient in the vignette is elderly with new-onset symptoms and significant weight loss (15 lbs), matching two major red flags directly from the slide."
   },
   {
@@ -56,7 +56,7 @@ window.L114 = [
       { "text": "Jaundice; Hepatic failure", "explanation": "Jaundice is a yellowing of the skin due to bilirubin issues, not periumbilical bruising." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L114_p_page-0027.jpg",
+    "slideImagePath": "images/L114_slide_27.jpg",
     "slideImageDescription": "The slide 'Inspection' lists specific abdominal signs. It identifies 'Cullen's sign' as 'Ecchymosis around umbilicus' and states it indicates 'Hemoperitoneum, pancreatitis, ectopic pregnancy'. In contrast, it defines 'Grey Turner's sign' as 'Ecchymosis of flanks' indicating 'Hemoperitoneum, pancreatitis'. The visual distinction of *periumbilical* location points directly to Cullen's sign."
   },
   {
@@ -71,7 +71,7 @@ window.L114 = [
       { "text": "10 seconds in each quadrant", "explanation": "This is too short; normal bowel sounds are intermittent and might be missed in such a short interval." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L114_p_page-0037.jpg",
+    "slideImagePath": "images/L114_slide_37.jpg",
     "slideImageDescription": "The slide 'Auscultation - Bowel Sounds' provides specific criteria for evaluation. It states: 'Listen for 2-3 minutes before deciding bowel sounds are absent'. This precise duration guideline is the key to answering the question correctly, distinguishing true absence (an emergency) from hypoactive sounds."
   },
   {
@@ -86,7 +86,7 @@ window.L114 = [
       { "text": "Normal peristalsis", "explanation": "Normal bowel sounds are 5-34 clicks or gurgles per minute and are not typically high-pitched or associated with cramps." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L114_p_page-0038.jpg",
+    "slideImagePath": "images/L114_slide_38.jpg",
     "slideImageDescription": "The slide 'Auscultation - Bowel Sounds' categorizes sounds by their clinical implications. It describes 'Rushes of high-pitched sounds coinciding with abdominal cramp' as a specific finding that 'Indicate intestinal obstruction'. This detailed description matches the clinical vignette perfectly."
   },
   {
@@ -101,7 +101,7 @@ window.L114 = [
       { "text": "Mid-sternal line, 6-12 cm", "explanation": "This is the incorrect landmark; this range (6-12 cm) applies to the mid-clavicular line." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L114_p_page-0044.jpg",
+    "slideImagePath": "images/L114_slide_60.jpg",
     "slideImageDescription": "The slide 'Percussion - Liver' details the technique and normal values. It explicitly lists the 'Mid-clavicular line' as having a normal span of '6 - 12 cm'. It also lists the 'Mid-sternal line' span as '4 - 8 cm', allowing for a clear distinction between the two landmarks and their respective normal ranges."
   },
   {
@@ -116,7 +116,7 @@ window.L114 = [
       { "text": "This suggests a large amount of gastric air.", "explanation": "Gastric air would cause tympany, not a shift to dullness on inspiration." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L114_p_page-0046.jpg",
+    "slideImagePath": "images/L114_slide_45.jpg",
     "slideImageDescription": "The slide 'Percussion - Spleen' describes the 'Splenic percussion sign'. It instructs to percuss the lowest interspace in the left anterior axillary line. It states that a 'change in percussion note from tympany to dullness on inspiration' constitutes a 'Positive splenic percussion sign'. The clinical implication is clearly stated: this 'suggests splenic enlargement', validating the correct answer."
   },
   {
@@ -131,7 +131,7 @@ window.L114 = [
       { "text": "Fecal impaction", "explanation": "Fecal impaction may present as a palpable mass, but it would not be pulsatile like the aorta." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L114_p_page-0055.jpg",
+    "slideImagePath": "images/L114_slide_31.jpg",
     "slideImageDescription": "The slide 'Palpation - Aorta' gives specific parameters for assessing the aorta. It states: 'In people over age 50, a normal aorta is not more than 3 cm wide'. It further notes that a 'pulsatile mass' in the upper abdomen suggests an 'abdominal aortic aneurysm'. The 3cm cutoff is the critical diagnostic threshold provided in the lecture material."
   },
   {
@@ -146,7 +146,7 @@ window.L114 = [
       { "text": "Observe the patient from their left side for better access to the RLQ.", "explanation": "The examiner should conventionally observe and examine from the *right* side of the patient." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L114_p_page-0017.jpg",
+    "slideImagePath": "images/L114_slide_49.jpg",
     "slideImageDescription": "The slide 'Tips for Abdominal Exam' provides a list of best practices. Point number 5 is: 'Examine painful areas last'. This rule is crucial for patient comfort and exam accuracy, preventing premature guarding that would make the rest of the abdomen difficult to assess."
   },
   {
@@ -161,7 +161,7 @@ window.L114 = [
       { "text": "The 12th rib and the spinous process of T12", "explanation": "This is incorrect; the angle is formed with the *transverse processes* of the *lumbar* vertebrae, not the spinous process of T12." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L114_p_page-0014.jpg",
+    "slideImagePath": "images/L114_slide_14.jpg",
     "slideImageDescription": "The slide 'Anatomy - Posterior View' displays the back anatomy. It explicitly labels the 'Costovertebral angle' (CVA) as the area 'formed by the lower border of the 12th rib and the transverse processes of the upper lumbar vertebrae'. It notes that this area is used to 'examine for kidney tenderness', directly answering the anatomical definition question."
   },
   {
@@ -176,7 +176,7 @@ window.L114 = [
       { "text": "Vagus (CN X)", "explanation": "The vagus nerve provides *parasympathetic* innervation to the right side of the colon; it would not produce a thoracic viscerosomatic reflex." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L114_p_page-0058.jpg",
+    "slideImagePath": "images/L114_slide_58.jpg",
     "slideImageDescription": "The slide 'Osteopathic Considerations - Viscerosomatics' breaks down the sympathetic innervation by organ. For 'Right Colon', it lists 'T10 - T11'. For 'Left Colon', it lists 'T12 - L2'. This specific mapping allows the physician to correlate the organ pathology (Crohn's in the ascending/right colon) to the expected somatic dysfunction at T10-T11."
   },
   {
@@ -191,7 +191,7 @@ window.L114 = [
       { "text": "At the pubic symphysis, lateral to the midline.", "explanation": "This area is typically associated with the bladder or reproductive organs." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L114_p_page-0058.jpg",
+    "slideImagePath": "images/L114_slide_58.jpg",
     "slideImageDescription": "The slide 'Osteopathic Considerations - Chapman Points' lists specific locations for reflex points. It states: 'Colon: On the lateral sides of the thighs'. This unique location along the IT band is the classic anterior Chapman point location for the large intestine, distinguishing it from other abdominal organ points located on the torso."
   },
   {
@@ -206,7 +206,7 @@ window.L114 = [
       { "text": "Ulcerative colitis", "explanation": "Ulcerative colitis is a form of inflammatory bowel disease, which is typically associated with *hyperactive* bowel sounds and *diarrhea*, not constipation." }
     ],
     "correctAnswerIndex": 4,
-    "slideImagePath": "images/L114_p_page-0036.jpg",
+    "slideImagePath": "images/L114_slide_6.jpg",
     "slideImageDescription": "The slide 'Common Causes of Constipation' categorizes etiologies. Under 'Past Medical History', it lists 'Dementia' and 'Parkinsonism'. Under 'Medications', it lists 'Calcium channel blockers' (like Diltiazem) and 'Iron supplements'. Ulcerative colitis is not listed as a cause; in fact, inflammatory bowel diseases typically present with diarrhea, making it the least likely cause of constipation in this list."
   },
   {
@@ -221,7 +221,7 @@ window.L114 = [
       { "text": "Absent bowel sounds, implying an ileus.", "explanation": "This is a lack of sound, not a grating sound, and would be heard over the intestines." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L114_p_page-0040.jpg",
+    "slideImagePath": "images/L114_slide_40.jpg",
     "slideImageDescription": "The slide 'Auscultation - Friction Rubs' describes this specific finding. It defines a friction rub as a 'Grating sound with respiration'. It states this indicates 'Inflammation of the peritoneal surface of an organ', citing 'Tumor, infection, or infarct' as causes. This matches the description of a grating sound heard over the liver."
   }
 ];

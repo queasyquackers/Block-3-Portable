@@ -11,7 +11,7 @@ window.L113 = [
       { "text": "Postganglionic parasympathetic neurons", "explanation": "Horner's syndrome is a sympathetic pathway lesion; parasympathetic fibers are not involved in this presentation." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L113_p_page-0017.jpg",
+    "slideImagePath": "images/L113_slide_17.jpg",
     "slideImageDescription": "The slide titled 'Horner's Syndrome: 2nd order neuron disorder' displays a diagram of the sympathetic pathway. It shows the 'preganglionic neuron' originating in the spinal cord (T1-T2) and traveling up the sympathetic chain. A 'Tumor (e.g., Pancoast tumor)' is illustrated compressing this specific segment of the chain in the apex of the lung, preventing the signal from reaching the superior cervical ganglion. This visual confirms the location of the lesion as a 2nd order neuron disorder."
   },
   {
@@ -26,7 +26,7 @@ window.L113 = [
       { "text": "Preganglionic parasympathetics traveling with CN VII", "explanation": "CN VII parasympathetics innervate glands (lacrimal, submandibular, sublingual), not the pupil." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L113_p_page-0029.jpg",
+    "slideImagePath": "images/L113_slide_43.jpg",
     "slideImageDescription": "The slide titled 'Difference between Oculomotor nerve palsy and Horner's syndrome' features a comparison table. Under the 'Oculomotor nerve palsy' column, it lists 'Mydriasis (dilated pupil)' as a key symptom. The text explains this is due to the loss of parasympathetic innervation carried by CN III, which normally constricts the pupil. This clearly differentiates the dilated pupil of a CN III palsy from the constricted pupil of Horner's syndrome."
   },
   {
@@ -41,7 +41,7 @@ window.L113 = [
       { "text": "Ciliary muscle", "explanation": "The ciliary muscle (for accommodation) is innervated by the ciliary ganglion (from CN III)." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L113_p_page-0036.jpg",
+    "slideImagePath": "images/L113_slide_2.jpg",
     "slideImageDescription": "The slide titled 'Frey's syndrome (gustatory sweating)' explains the pathophysiology. It states that following parotidectomy, 'postganglionic parasympathetic nerve fibers... aberrantly reinnervate sweat glands'. It describes the resulting symptoms as 'sweating and redness' in the area of the parotid gland upon salivary stimulation (smell/taste of food), directly supporting the mechanism of aberrant reinnervation of sweat glands and vessels."
   },
   {
@@ -56,7 +56,7 @@ window.L113 = [
       { "text": "CN X (Vagus)", "explanation": "The vagus nerve provides parasympathetic innervation to the neck, thorax, and abdomen, but not this ganglion." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L113_p_page-0028.jpg",
+    "slideImagePath": "images/L113_slide_28.jpg",
     "slideImageDescription": "The slide 'Pterygopalatine ganglion' outlines the complete pathway. It identifies the 'Preganglionic' source as 'Facial nerve (CN VII) -> greater petrosal n.'. The 'Target' organs are listed as the 'lacrimal gland' and 'mucosal glands of the nasal cavity'. This schematic explicitly links the Facial nerve to the Pterygopalatine ganglion and the symptoms of dry eye/nose."
   },
   {
@@ -71,7 +71,7 @@ window.L113 = [
       { "text": "Superior cervical ganglion", "explanation": "The superior cervical ganglion is the synapse point for the *sympathetic* pathway to the head." }
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L113_p_page-0035.jpg",
+    "slideImagePath": "images/L113_slide_34.jpg",
     "slideImageDescription": "The slide 'Otic Ganglion' details the innervation of the 'Parotid gland'. It shows the 'Preganglionic' input from the 'Glossopharyngeal nerve (CN IX) -> lesser petrosal nerve' and the 'Postganglionic' output via the 'Auriculotemporal nerve (V3)'. The diagram places the Otic ganglion anatomically just inferior to the Foramen Ovale, confirming its location and function."
   },
   {
@@ -86,7 +86,7 @@ window.L113 = [
       { "text": "Loss of general sensation from the anterior 2/3 of the tongue and Horner's syndrome.", "explanation": "Horner's syndrome is a sympathetic pathway deficit and is unrelated to a lingual nerve lesion." }
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L113_p_page-0032.jpg",
+    "slideImagePath": "images/L113_slide_31.jpg",
     "slideImageDescription": "The slide 'Submandibular ganglion' illustrates the pathway. It shows the 'Chorda tympani (CN VII)' joining the 'Lingual nerve (V3)'. The text explains that Chorda Tympani carries both 'taste fibers' and 'preganglionic parasympathetic fibers'. Therefore, severing the lingual nerve (which carries these joined fibers) would disrupt general sensation (lingual n.), taste (chorda tympani), and salivation (chorda tympani parasympathetics)."
   },
   {
@@ -101,7 +101,7 @@ window.L113 = [
       { "text": "Orbicularis oculi", "explanation": "The orbicularis oculi (innervated by CN VII) is a somatic muscle responsible for closing the eyelid, not focusing." }
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L113_p_page-0025.jpg",
+    "slideImagePath": "images/L113_slide_24.jpg",
     "slideImageDescription": "The slide 'Accommodation / Convergence Reflex' details the mechanism for 'Near vision'. It states that 'parasympathetics (CN III)' cause 'contraction of the ciliary muscle', which relaxes the suspensory ligaments to round the lens. It explicitly notes: 'This is why your eyes get tired after reading for a long time', attributing eye strain to the sustained contraction of the ciliary muscle."
   },
   {
@@ -116,7 +116,7 @@ window.L113 = [
       { "text": "Auriculotemporal nerve (V<sub>3</sub>).", "explanation": "The auriculotemporal nerve carries postganglionic parasympathetics (from CN IX) to the parotid gland and general sensation." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L113_p_page-0012.jpg",
+    "slideImagePath": "images/L113_slide_12.jpg",
     "slideImageDescription": "The slide 'Sympathetic Pathway to the Head' diagrammatically traces the fibers. It shows postganglionic fibers from the 'Superior Cervical Ganglion' forming the 'Internal Carotid Plexus'. From this plexus, branches are shown joining the 'Ophthalmic nerve (V1)' to supply the 'forehead and orbit'. This confirms the Internal Carotid Plexus/V1 route for this region."
   },
   {
@@ -131,7 +131,7 @@ window.L113 = [
       { "text": "A total inhibition of both sympathetic and parasympathetic systems.", "explanation": "Nervousness is a state of high sympathetic activity, not inhibition of both systems." }
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L113_p_page-0007.jpg",
+    "slideImagePath": "images/L113_slide_7.jpg",
     "slideImageDescription": "The slide 'Sympathetic vs. Parasympathetic' provides a comparison table. For 'Salivary Glands', the Sympathetic effect is listed as 'Secretion of thick, viscous saliva'. The Parasympathetic effect is listed as 'Secretion of watery saliva'. The clinical vignette of nervousness (sympathetic activation) aligns with the description of a dry/sticky mouth caused by thick saliva."
   },
   {
@@ -146,7 +146,7 @@ window.L113 = [
       { "text": "Vagus nerve (CN X)", "explanation": "This is a parasympathetic nerve and is not involved in facial sweating or pupillary dilation." }
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L113_p_page-0021.jpg",
+    "slideImagePath": "images/L113_slide_17.jpg",
     "slideImageDescription": "The slide 'Horner's Syndrome: 3rd order neuron disorder' illustrates the anatomy of a postganglionic lesion. It shows the 'Internal Carotid Plexus' being affected (leading to eye symptoms and forehead anhydrosis via V1) but the 'External Carotid Plexus' branching off separately. The text notes that in a 3rd order lesion (e.g., internal carotid artery dissection), 'anhydrosis may be absent or limited to the forehead' because the fibers to the rest of the face via the external carotid are spared."
   },
   {
@@ -161,7 +161,7 @@ window.L113 = [
       { "text": "Loss of parasympathetic innervation to mucous glands above the vocal folds.", "explanation": "Innervation above the vocal folds is provided by the superior laryngeal nerve, another branch of the vagus." }
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L113_p_page-0039.jpg",
+    "slideImagePath": "images/L113_slide_38.jpg",
     "slideImageDescription": "The slide 'Vagus Nerve (CN X)' lists its target organs. It states that the Vagus nerve supplies 'Mucous glands of the larynx'. Specifically, the 'Recurrent laryngeal nerve' is indicated as supplying the mucosa 'below the vocal folds', while the Superior laryngeal nerve supplies the area above. This anatomical distinction confirms the specific deficit."
   },
   {
@@ -176,7 +176,7 @@ window.L113 = [
       { "text": "Constrictor pupillae", "explanation": "The constrictor pupillae is parasympathetically innervated and constricts the pupil; its *antagonist* (dilator pupillae) is what fails in Horner's." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L113_p_page-0014.jpg",
+    "slideImagePath": "images/L113_slide_15.jpg",
     "slideImageDescription": "The slide 'Horner's Syndrome' lists the classic triad. Next to 'Ptosis (drooping eyelid)', it explains the cause: 'Paralysis of the superior tarsal muscle (Müller's muscle)'. It notes that this is a smooth muscle innervated by the sympathetic nervous system, which maintains eyelid elevation."
   },
   {
@@ -191,7 +191,7 @@ window.L113 = [
       { "text": "Innervation to the superior tarsal muscle", "explanation": "Loss of this innervation causes mild ptosis (drooping eyelid), not flushing." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L113_p_page-0016.jpg",
+    "slideImagePath": "images/L113_slide_15.jpg",
     "slideImageDescription": "The slide 'Horner's Syndrome symptoms' includes 'Flushing of the face' and 'Bloodshot eye (conjunctival injection)'. It attributes these findings to 'Loss of sympathetic vasoconstriction', which leads to vasodilation and increased blood flow to the skin and eye vessels."
   },
   {
@@ -206,7 +206,7 @@ window.L113 = [
       { "text": "Parotid gland", "explanation": "The parotid gland is innervated by parasympathetics from CN IX." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L113_p_page-0039.jpg",
+    "slideImagePath": "images/L113_slide_39.jpg",
     "slideImageDescription": "The slide on the 'Vagus Nerve (CN X)' distinguishes the innervation of the laryngeal mucosa. It specifies that the 'Internal laryngeal nerve' (a branch of the Superior Laryngeal) supplies the area 'above the vocal folds', while the Recurrent laryngeal supplies the area below."
   },
   {
@@ -221,7 +221,7 @@ window.L113 = [
       { "text": "T1-T2", "explanation": "T1 and T2 are the origins of the preganglionic fibers, not the components of the superior cervical ganglion." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L113_p_page-0010.jpg",
+    "slideImagePath": "images/L113_slide_9.jpg",
     "slideImageDescription": "The slide 'Sympathetic Pathway to the Head' diagram shows the 'Superior Cervical Ganglion'. The text annotation describes it as being 'Formed by fusion of C1-C4 ganglia'. This anatomical detail confirms the embryonic composition of this structure."
   },
   {
@@ -236,7 +236,7 @@ window.L113 = [
       { "text": "The constrictor pupillae contracts, which pulls on the ciliary muscle and flattens the lens.", "explanation": "The constrictor pupillae and ciliary muscle are separate muscles, though both are innervated by parasympathetics from CN III." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L113_p_page-0025.jpg",
+    "slideImagePath": "images/L113_slide_24.jpg",
     "slideImageDescription": "The slide 'Accommodation / Convergence Reflex' visually explains the mechanism. It states: 'Ciliary muscle contracts -> Suspensory ligaments relax -> Lens becomes more rounded (convex)'. This sequence of events is key to understanding how the eye focuses on near objects."
   },
   {
@@ -251,7 +251,7 @@ window.L113 = [
       { "text": "CN XII (Hypoglossal)", "explanation": "The hypoglossal nerve is a somatic motor nerve for the tongue muscles." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L113_p_page-0021.jpg",
+    "slideImagePath": "images/L113_slide_2.jpg",
     "slideImageDescription": "The slide titled 'Parasympathetic Innervation of the Head' presents a general rule: 'Postganglionic fibers \"hitchhike\" on branches of the Trigeminal Nerve (CN V)'. Diagrams for the Ciliary, Pterygopalatine, Submandibular, and Otic ganglia all show the postganglionic nerves merging with branches of CN V to reach their destinations."
   },
   {
@@ -266,7 +266,7 @@ window.L113 = [
       { "text": "Inability to constrict the pupil on the left side.", "explanation": "Pupillary constriction is a *parasympathetic* function (via CN III), which is unopposed and hyperactive in Horner's syndrome." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L113_p_page-0017.jpg",
+    "slideImagePath": "images/L113_slide_15.jpg",
     "slideImageDescription": "The slide 'Horner's Syndrome: 2nd order neuron disorder' shows a lesion in the sympathetic chain *before* the superior cervical ganglion. The text notes that this lesion affects *all* sympathetic outflow to the head, causing 'Complete anhydrosis of the face' and 'Loss of flushing (blushing)'. This contrasts with 3rd order lesions where symptoms may be partial."
   },
   {
@@ -281,7 +281,7 @@ window.L113 = [
       { "text": "Somatic motor fibers", "explanation": "Somatic motor fibers (e.g., from CN III, IV, VI) are also present, but they are not part of the autonomic sympathetic pathway." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L113_p_page-0009.jpg",
+    "slideImagePath": "images/L113_slide_46.jpg",
     "slideImageDescription": "The 'General Organization of Sympathetics to Head' slide illustrates the pathway. It shows the synapse occurring in the 'Superior Cervical Ganglion' located in the neck. The fibers continuing upward into the head are labeled as 'Postganglionic fibers'. This confirms that all intracranial sympathetics are postganglionic."
   },
   {
@@ -296,7 +296,7 @@ window.L113 = [
       { "text": "Trigeminal nerve (CN V)", "explanation": "The trigeminal nerve (specifically V<sub>3</sub>) *carries* the postganglionic fibers, but it does not provide the preganglionic input." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L113_p_page-0036.jpg",
+    "slideImagePath": "images/L113_slide_36.jpg",
     "slideImageDescription": "The slide 'Frey's syndrome' explains that the condition results from 'injury to the auriculotemporal nerve'. It traces this nerve back to its parasympathetic source: 'Preganglionic fibers from the Glossopharyngeal nerve (CN IX) via the Otic Ganglion'. This confirms CN IX as the origin."
   },
   {
@@ -311,7 +311,7 @@ window.L113 = [
       { "text": "Orbicularis oculi, via somatic (CN VII) input.", "explanation": "The orbicularis oculi closes the eyelid and is not involved in pupil dilation." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L113_p_page-0027.jpg",
+    "slideImagePath": "images/L113_slide_7.jpg",
     "slideImageDescription": "The slide 'Pupillary Control' compares the two muscles of the iris. The 'Dilator pupillae' is shown with radially arranged fibers. The text states it is 'Innervated by Sympathetic fibers' and its action is to 'Dilate the pupil (Mydriasis)'. This directly answers the question."
   },
   {
@@ -326,7 +326,7 @@ window.L113 = [
       { "text": "Internal carotid plexus (Sympathetic)", "explanation": "Correct. The symptoms of ptosis (mild, from superior tarsal muscle failure) and a constricted pupil (from dilator pupillae failure) are the classic signs of Horner's syndrome, caused by a sympathetic lesion (e.g., to the internal carotid plexus)." }
     ],
     "correctAnswerIndex": 4,
-    "slideImagePath": "images/L113_p_page-0031.jpg",
+    "slideImagePath": "images/L113_slide_15.jpg",
     "slideImageDescription": "The slide 'Difference between Oculomotor nerve palsy and Horner's syndrome' provides a clear distinction. For 'Horner's Syndrome', it lists 'Ptosis (mild)' and 'Miosis (constricted pupil)' as key features, caused by a 'Sympathetic lesion'. This matches the clinical vignette perfectly."
   },
   {
@@ -341,7 +341,7 @@ window.L113 = [
       { "text": "Constriction of the pupil.", "explanation": "Pupil constriction is innervated by CN III, not CN VII." }
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L113_p_page-0028.jpg",
+    "slideImagePath": "images/L113_slide_28.jpg",
     "slideImageDescription": "The slide 'Facial Nerve (CN VII): Parasympathetic Pathways' shows the nerve's course. The 'Greater Petrosal Nerve' branches off first (proximal) to supply the 'Pterygopalatine Ganglion' and subsequently the 'Lacrimal Gland'. The nerve continues and later gives off the 'Chorda Tympani' for the submandibular/sublingual glands. A lesion *between* these two points would spare the proximal branch (lacrimal) but affect the distal one."
   },
   {
@@ -356,7 +356,7 @@ window.L113 = [
       { "text": "Internal carotid nerve", "explanation": "The internal carotid nerve carries *postganglionic sympathetic* fibers." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L113_p_page-0035.jpg",
+    "slideImagePath": "images/L113_slide_34.jpg",
     "slideImageDescription": "The slide 'Otic Ganglion' details the input. It states: 'Preganglionic fibers arise from the Tympanic Plexus and travel as the Lesser Petrosal Nerve to the Otic Ganglion'. This clearly identifies the Lesser Petrosal Nerve as the specific carrier."
   },
   {
@@ -371,7 +371,7 @@ window.L113 = [
       { "text": "Secretion of a dense, thick saliva", "explanation": "This is a sympathetic function that results in a dry, sticky mouth sensation during nervousness." }
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L113_p_page-0007.jpg",
+    "slideImagePath": "images/L113_slide_7.jpg",
     "slideImageDescription": "The 'Sympathetic vs. Parasympathetic' table lists functions. Under 'Eye', the Sympathetic system controls 'Dilation of pupil' and 'Elevation of eyelid'. The Parasympathetic system controls 'Constriction of pupil' and 'Accommodation (ciliary muscle)'. This distinction confirms that ciliary muscle contraction is not a sympathetic function."
   },
   {
@@ -386,7 +386,7 @@ window.L113 = [
       { "text": "Pterygopalatine ganglion", "explanation": "The pterygopalatine ganglion is a *parasympathetic* ganglion." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L113_p_page-0013.jpg",
+    "slideImagePath": "images/L113_slide_11.jpg",
     "slideImageDescription": "The slide 'Sympathetic Pathway: External Carotid Plexus' shows the distribution. It illustrates fibers following the 'External Carotid Artery' and its branches to supply structures in the lower face and neck, including the 'Salivary Glands'. This pathway is distinct from the Internal Carotid Plexus which supplies the eye and orbit."
   },
   {
@@ -401,7 +401,7 @@ window.L113 = [
       { "text": "Superior cervical ganglion", "explanation": "This is a sympathetic ganglion; a lesion here would cause Horner's syndrome, not a dry eye from parasympathetic loss." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L113_p_page-0028.jpg",
+    "slideImagePath": "images/L113_slide_28.jpg",
     "slideImageDescription": "The slide 'Pterygopalatine Ganglion' links it to the 'Lacrimal Gland' and 'Lacrimation'. It identifies the input as coming from the 'Facial Nerve (CN VII)'. A lesion of CN VII proximal to this branch would therefore disrupt the signal to the Pterygopalatine ganglion, resulting in the dry eye described."
   },
   {
@@ -416,7 +416,7 @@ window.L113 = [
       { "text": "Optic nerve (CN II)", "explanation": "The optic nerve is the *afferent* (sensory) limb of this reflex, detecting the light; it is not the *efferent* (motor) pathway to the muscle." }
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L113_p_page-0023.jpg",
+    "slideImagePath": "images/L113_slide_22.jpg",
     "slideImageDescription": "The slide 'Ciliary Ganglion' diagrams the connections. It shows 'Postganglionic fibers' leaving the ganglion and traveling via the 'Short Ciliary Nerves' to reach the eyeball. The text confirms these fibers innervate the 'Sphincter Pupillae' (for constriction) and the 'Ciliary Muscle'."
   },
   {
@@ -431,7 +431,7 @@ window.L113 = [
       { "text": "Central nervous system (direct hypothalamic control)", "explanation": "While the hypothalamus is an upper-level controller, the *peripheral* effect of blushing is mediated by the sympathetic nervous system." }
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L113_p_page-0007.jpg",
+    "slideImagePath": "images/L113_slide_7.jpg",
     "slideImageDescription": "The 'Sympathetic vs. Parasympathetic' slide lists functions. Under 'Sympathetic', for 'Arteries of the Face', it lists 'Dilation (blushing)'. This is a notable exception to the general rule of sympathetic vasoconstriction and is explicitly categorized as a sympathetic function on the slide."
   },
   {
@@ -446,7 +446,7 @@ window.L113 = [
       { "text": "An 'up and in' gaze of the right eye.", "explanation": "An oculomotor palsy causes paralysis of most extraocular muscles, resulting in a 'down and out' gaze, not 'up and in'." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L113_p_page-0031.jpg",
+    "slideImagePath": "images/L113_slide_15.jpg",
     "slideImageDescription": "The slide titled 'Difference between Oculomotor nerve palsy and Horner's syndrome' is a direct comparison. It lists 'Mydriasis (dilated pupil)' under CN III palsy and 'Miosis (constricted pupil)' under Horner's syndrome. This key difference allows for the differential diagnosis described in the question."
   }
 ];

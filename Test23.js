@@ -11,7 +11,7 @@ window.L129 = [
       { "text": "Decreased lymphatic drainage", "explanation": "This causes lymphedema, not the rapid inflammatory edema described." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0016.jpg",
+    "slideImagePath": "images/L129_slide_16.jpg",
     "slideImageDescription": "The slide illustrates 'Step 2 of vascular changes in inflammation: Vascular permeability increase'. It explicitly states the mechanism is the 'retraction of endothelial cells' induced by histamine, which creates openings in the lining of venules, allowing fluid and proteins to leak out (exudate). It notes this is an 'Immediate transient response' lasting 15-30 minutes."
   },
   {
@@ -26,7 +26,7 @@ window.L129 = [
       { "text": "Phagocytosis", "explanation": "Phagocytosis is the engulfment of the pathogen, which happens after recruitment." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L129_page-0029.jpg",
+    "slideImagePath": "images/L129_slide_27.jpg",
     "slideImageDescription": "The diagram details the 'Multistep process of leukocyte migration'. Under the 'ROLLING' phase, it depicts the interaction between Selectins (P-selectin, E-selectin) on the endothelium and the 'Sialyl-Lewis X-modified glycoprotein' on the leukocyte. The text explicitly links Selectins to the 'Rolling' step."
   },
   {
@@ -41,7 +41,7 @@ window.L129 = [
       { "text": "C3b and CR1", "explanation": "This interaction mediates opsonization and phagocytosis." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0029.jpg",
+    "slideImagePath": "images/L129_slide_28.jpg",
     "slideImageDescription": "The slide visualizes 'STABLE ADHESION'. It shows 'Integrin (high-affinity state)' on the leukocyte binding to 'Integrin ligand (ICAM-1)' on the endothelium. The text confirms: '-INTEGRINS, IN FIRM ADHESION'."
   },
   {
@@ -56,7 +56,7 @@ window.L129 = [
       { "text": "IL-8", "explanation": "IL-8 (a chemokine) is a chemoattractant for neutrophils." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0020.jpg",
+    "slideImagePath": "images/L129_slide_20.jpg",
     "slideImageDescription": "The slide titled 'Bradykinin' explicitly states: 'Bradykinin, along with prostaglandin E2 (PGE2), helps sensitize sensory nerve endings, causing pain (dolor)'."
   },
   {
@@ -71,7 +71,7 @@ window.L129 = [
       { "text": "Adhesion", "explanation": "Adhesion depends on integrins." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0037.jpg",
+    "slideImagePath": "images/L129_slide_38.jpg",
     "slideImageDescription": "The slide details '3. DESTRUCTION OF MICROBES'. It shows the 'Phagocyte oxidase' (NADPH oxidase) converting NADPH and O2 into Superoxide (O2-), leading to H2O2 and eventual killing. It links defects here to 'Chronic granulomatous disease: absent NADPH oxidase'."
   },
   {
@@ -86,7 +86,7 @@ window.L129 = [
       { "text": "Myeloperoxidase activity", "explanation": "Defects here cause MPO deficiency." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0036.jpg",
+    "slideImagePath": "images/L129_slide_36.jpg",
     "slideImageDescription": "The slide regarding 'Phagocytosis 2: engulfment' notes: 'Path- Chediak-Higashi syndrome- defect in microtubule function - impaired phagolysosome formation'."
   },
   {
@@ -101,7 +101,7 @@ window.L129 = [
       { "text": "Selectins and Integrins", "explanation": "These are adhesion molecules." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L129_page-0035.jpg",
+    "slideImagePath": "images/L129_slide_35.jpg",
     "slideImageDescription": "The slide 'Phagocytosis 1: Opsonization' lists the 'Major opsonins: C3b (complement system), IgG (an antibody), mannose binding lectin'. It illustrates antibodies coating a bacterium to facilitate macrophage attachment."
   },
   {
@@ -116,7 +116,7 @@ window.L129 = [
       { "text": "C5a", "explanation": "C5a is a potent chemotactic agent and anaphylatoxin." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0032.jpg",
+    "slideImagePath": "images/L129_slide_32.jpg",
     "slideImageDescription": "The complement cascade diagram shows all pathways converging. The final step shows 'C5b + C6, C7, C8, C9' forming the 'MAC C5b-9', which results in 'Cell lysis'."
   },
   {
@@ -131,7 +131,7 @@ window.L129 = [
       { "text": "Crohn's disease", "explanation": "Crohn's produces non-caseating granulomas." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0055.jpg",
+    "slideImagePath": "images/L129_slide_53.jpg",
     "slideImageDescription": "The slide shows a 'CASEATING GRANULOMA'. It points to the 'caseous center' (necrotizing) and explicitly states: 'Caseating = necrotizing. Caseating e.g tuberculosis'. It contrasts this with Sarcoidosis which is non-caseating."
   },
   {
@@ -146,7 +146,7 @@ window.L129 = [
       { "text": "Granulomatous inflammation", "explanation": "This is a form of chronic inflammation." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0040.jpg",
+    "slideImagePath": "images/L129_slide_40.jpg",
     "slideImageDescription": "The slide 'Types of acute inflammation' lists 'Serous' inflammation as 'cell-poor fluid build up (effusion)' and gives 'blisters' as a primary example. The image shows a clear blister on a finger."
   },
   {
@@ -161,7 +161,7 @@ window.L129 = [
       { "text": "Gangrenous", "explanation": "Gangrenous involves ischemic necrosis." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L129_page-0040.jpg",
+    "slideImagePath": "images/L129_slide_40.jpg",
     "slideImageDescription": "The slide describes 'Fibrinous' inflammation as 'exudative-type fluid increased fibrin deposition' and lists 'fibrinous pericarditis' as the example. The image shows the shaggy 'bread and butter' appearance of the heart surface."
   },
   {
@@ -176,7 +176,7 @@ window.L129 = [
       { "text": "Chemokines", "explanation": "These mediate leukocyte recruitment." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0026.jpg",
+    "slideImagePath": "images/L129_slide_25.jpg",
     "slideImageDescription": "The flowchart 'SYSTEMIC EFFECTS' lists 'Fever, Leukocytosis, Acute-phase proteins' encircled in red. It traces these effects back to 'TNF / IL-1' released by activated macrophages."
   },
   {
@@ -191,7 +191,7 @@ window.L129 = [
       { "text": "Histamine", "explanation": "Found in mast cells and basophils." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0056.jpg",
+    "slideImagePath": "images/L129_slide_56.jpg",
     "slideImageDescription": "The slide 'Eosinophils' states they 'Contain granules with major basic protein, toxic to parasites'. It links them to 'allergies, asthma, parasites'."
   },
   {
@@ -206,7 +206,7 @@ window.L129 = [
       { "text": "C5a", "explanation": "Complement component." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0050.jpg",
+    "slideImagePath": "images/L129_slide_49.jpg",
     "slideImageDescription": "The diagram contrasts M1 vs M2 macrophages. Under 'Alternatively activated macrophage (M2)', it lists the secretion of 'Growth factors, TGF-B' leading to 'Tissue repair, fibrosis' and 'IL-10, TGF-B' leading to 'Anti-inflammatory effects'."
   },
   {
@@ -221,7 +221,7 @@ window.L129 = [
       { "text": "Fibroblasts", "explanation": "Fibroblasts produce collagen." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0054.jpg",
+    "slideImagePath": "images/L129_slide_54.jpg",
     "slideImageDescription": "The slide 'GRANULOMA' describes it as an 'aggregate of macrophages (may fuse), transformed into epithelial-like cells... Giant cells may be present'. The next slide (55) labels a 'multinucleate giant cell' within the granuloma."
   },
   {
@@ -236,7 +236,7 @@ window.L129 = [
       { "text": "Histamine", "explanation": "Histamine causes vasodilation/permeability, not chemotaxis." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0031.jpg",
+    "slideImagePath": "images/L129_slide_31.jpg",
     "slideImageDescription": "The slide 'Step 5 cellular response: Chemotaxis' lists Chemotactic agents in the footnote: '*Include: C5a-from complement system, Leukotriene B4- arachidonic acid metabolite, IL-8- cytokine...'."
   },
   {
@@ -251,7 +251,7 @@ window.L129 = [
       { "text": "Bradykinin", "explanation": "Bradykinin is a plasma protein derivative (kinin system)." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L129_page-0021.jpg",
+    "slideImagePath": "images/L129_slide_21.jpg",
     "slideImageDescription": "The slide 'Arachidonic Acid Metabolites' states: 'PROSTAGLANDINS - AA mediators generated by COX1 and COX2 enzymes: vasodilation, vascular permeability, pain, fever (note: aspirin blocks)'."
   },
   {
@@ -266,7 +266,7 @@ window.L129 = [
       { "text": "Rubor and Tumor", "explanation": "Redness and Swelling." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L129_page-0011.jpg",
+    "slideImagePath": "images/L129_slide_11.jpg",
     "slideImageDescription": "The slide 'Step 1... vasodilation' lists 'Increased blood flow: heat and edema - Rubor (erythema)'. While the slide text says 'heat and edema', the lecture notes/standard pathology (and the Latin terms on Slide 4) link blood flow specifically to redness (Rubor) and heat (Calor)."
   },
   {
@@ -281,7 +281,7 @@ window.L129 = [
       { "text": "Nitric oxide synthase", "explanation": "Produces NO." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0037.jpg",
+    "slideImagePath": "images/L129_slide_37.jpg",
     "slideImageDescription": "The diagram '3. DESTRUCTION OF MICROBES' shows the pathway: H2O2 + Cl- --(MPO)--> HOCl (hypochlorite). The text confirms: 'Myeloperoxidase in neutrophils combines with Cl- and converts H2O2 to hypochlorite (bleach) which kills'."
   },
   {
@@ -296,7 +296,7 @@ window.L129 = [
       { "text": "Plasma cells", "explanation": "Plasma cells are antibody factories appearing in chronic inflammation." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0044.jpg",
+    "slideImagePath": "images/L129_slide_44.jpg",
     "slideImageDescription": "The slide 'Acute and chronic inflammation' states: 'In acute infections, especially bacterial, neutrophils predominate... Respond quicker to chemokines; arrive within 6 to 24 hours'."
   },
   {
@@ -311,7 +311,7 @@ window.L129 = [
       { "text": "Fungal infection", "explanation": "Fungal infections often cause caseating/necrotizing granulomas." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L129_page-0054.jpg",
+    "slideImagePath": "images/L129_slide_54.jpg",
     "slideImageDescription": "The slide shows a 'SARCOID GRANULOMA' and describes it as an 'Immune granuloma (e.g sarcoidosis - persistent T cell immune response)'. Slide 55 clarifies that Sarcoidosis is 'Non-caseating/non-necrotizing'."
   },
   {
@@ -326,7 +326,7 @@ window.L129 = [
       { "text": "Plasma", "explanation": "Plasma is the liquid component of blood." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L129_page-0014.jpg",
+    "slideImagePath": "images/L129_slide_14.jpg",
     "slideImageDescription": "The slide 'Vascular permeability' defines Exudate: 'Increased permeability... high cellular and protein content fluid, high specific gravity'. It contrasts this with transudate in other slides."
   },
   {
@@ -341,7 +341,7 @@ window.L129 = [
       { "text": "Cytokines", "explanation": "Synthesized on demand (mostly)." }
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L129_page-0012.jpg",
+    "slideImagePath": "images/L129_slide_12.jpg",
     "slideImageDescription": "The slide 'Histamine and NO' states: 'Histamine... Made and stored in mast cells'. It lists triggers like 'Physical trauma' and 'binding of Abs to mast cells'."
   },
   {
@@ -356,7 +356,7 @@ window.L129 = [
       { "text": "C3a and C5a", "explanation": "Anaphylatoxins." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L129_page-0026.jpg",
+    "slideImagePath": "images/L129_slide_25.jpg",
     "slideImageDescription": "The flowchart 'SYSTEMIC EFFECTS' explicitly lists 'Fever' as a result of 'TNF / IL-1'."
   },
   {
@@ -371,7 +371,7 @@ window.L129 = [
       { "text": "Intracellular killing", "explanation": "Defect in CGD/MPO." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L129_page-0029.jpg",
+    "slideImagePath": "images/L129_slide_28.jpg",
     "slideImageDescription": "The diagram shows 'STABLE ADHESION' mediated by 'Integrin (high-affinity state)'. The text confirms: '-INTEGRINS, IN FIRM ADHESION'."
   },
   {
@@ -386,7 +386,7 @@ window.L129 = [
       { "text": "Effusion", "explanation": "Effusion is fluid in a body cavity; while this is edema, 'transudate' is the specific qualitative term." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L129_page-0015.jpg",
+    "slideImagePath": "images/L129_slide_15.jpg",
     "slideImageDescription": "The slide illustrates 'B. TRANSUDATE' as 'low protein, low cellular content - imbalance in hydrostatic pressure and oncotic but no change in permeability'. It lists 'congestive heart failure' as a cause."
   },
   {
@@ -401,7 +401,7 @@ window.L129 = [
       { "text": "Sialyl-Lewis X", "explanation": "Ligand for selectins." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0029.jpg",
+    "slideImagePath": "images/L129_slide_29.jpg",
     "slideImageDescription": "The diagram labels the step 'MIGRATION THROUGH ENDOTHELIUM' with 'PECAM-1 (CD31)'. The text confirms: '-CD31 (PECAM-1), IN TRANSMIGRATION'."
   },
   {
@@ -416,7 +416,7 @@ window.L129 = [
       { "text": "TGF-beta", "explanation": "Promotes fibrosis/repair." }
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L129_page-0031.jpg",
+    "slideImagePath": "images/L129_slide_31.jpg",
     "slideImageDescription": "The slide on 'Chemotaxis' includes a footnote listing chemotactic agents: '*Include... IL-8 - cytokine'."
   },
   {
@@ -431,7 +431,7 @@ window.L129 = [
       { "text": "Nitric Oxide", "explanation": "Derived from arginine." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L129_page-0021.jpg",
+    "slideImagePath": "images/L129_slide_21.jpg",
     "slideImageDescription": "The slide 'Arachidonic Acid Metabolites' states they are 'Derived from essential fatty acid linoleic acid' via 'phospholipase A2' releasing AA. It lists 'LEUKOTRIENES... vasoconstriction, bronchospasm'."
   },
   {
@@ -446,7 +446,7 @@ window.L129 = [
       { "text": "Edema", "explanation": "This is a sign of active inflammation, not the outcome." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0041.jpg",
+    "slideImagePath": "images/L129_slide_41.jpg",
     "slideImageDescription": "The slide 'Termination of Acute Inflammation' lists outcomes: '2. Tissue destruction and extensive injury - fibrosis, organization, healing by scar'."
   },
   {
@@ -461,7 +461,7 @@ window.L129 = [
       { "text": "IL-13", "explanation": "Promotes M2 activation." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0050.jpg",
+    "slideImagePath": "images/L129_slide_24.jpg",
     "slideImageDescription": "The diagram shows 'Classically activated macrophage (M1)' being stimulated by 'IFN-y' produced by T cells (implied in text, shown in Fig 3-20)."
   },
   {
@@ -476,7 +476,7 @@ window.L129 = [
       { "text": "Complement activation", "explanation": "Mediated by Ag-Ab complexes or microbes." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0050.jpg",
+    "slideImagePath": "images/L129_slide_49.jpg",
     "slideImageDescription": "The diagram for 'Alternatively activated macrophage (M2)' shows outputs of 'Growth factors, TGF-B' leading to 'Tissue repair, fibrosis'."
   },
   {
@@ -491,7 +491,7 @@ window.L129 = [
       { "text": "Fibroblasts", "explanation": "Recruited by growth factors." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L129_page-0051.jpg",
+    "slideImagePath": "images/L129_slide_51.jpg",
     "slideImageDescription": "The slide 'T lymphocytes' states: '3. TH17 secrete IL-17... responsible for recruiting neutrophils'."
   },
   {
@@ -506,7 +506,7 @@ window.L129 = [
       { "text": "Epithelioid cells", "explanation": "Present in both." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0054.jpg",
+    "slideImagePath": "images/L129_slide_54.jpg",
     "slideImageDescription": "The slide contrasts 'Foreign body granuloma v. Immune granuloma (e.g sarcoidosis - persistent T cell immune response)'. The tattoo/foreign body image shows material inside the cells."
   },
   {
@@ -521,7 +521,7 @@ window.L129 = [
       { "text": "Granuloma", "explanation": "Nodule of macrophages." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L129_page-0040.jpg",
+    "slideImagePath": "images/L129_slide_40.jpg",
     "slideImageDescription": "The slide defines 'Ulcer' as 'excavation of surface of tissue because of shedding of inflammed necrotic tissue'. The image shows a skin ulcer."
   },
   {
@@ -536,7 +536,7 @@ window.L129 = [
       { "text": "Ulcerative inflammation", "explanation": "Surface excavation." }
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L129_page-0040.jpg",
+    "slideImagePath": "images/L129_slide_40.jpg",
     "slideImageDescription": "The slide 'Types of acute inflammation' defines 'Serous' as 'cell-poor fluid build up (effusion)' and lists 'viral pleuritis' as an example."
   },
   {
@@ -551,7 +551,7 @@ window.L129 = [
       { "text": "Nitrous oxide", "explanation": "Anesthetic." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0012.jpg",
+    "slideImagePath": "images/L129_slide_12.jpg",
     "slideImageDescription": "The slide 'Histamine and NO' lists 'Nitric Oxide... Dissolved gas that acts as signaling molecule... Relaxes vascular smooth muscle'."
   },
   {
@@ -566,7 +566,7 @@ window.L129 = [
       { "text": "Factor XII activation", "explanation": "Coagulation/Kinin system." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L129_page-0032.jpg",
+    "slideImagePath": "images/L129_slide_32.jpg",
     "slideImageDescription": "The complement diagram shows the 'Alternative pathway' is triggered by 'Pathogens, injured tissue' directly leading to C3b deposition, contrasting with the Classical (Ag-Ab) and Lectin (MBL) pathways."
   },
   {
@@ -581,7 +581,7 @@ window.L129 = [
       { "text": "Fibroblasts", "explanation": "Collagen production." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L129_page-0042.jpg",
+    "slideImagePath": "images/L129_slide_42.jpg",
     "slideImageDescription": "The slide 'Chronic inflammation' lists the mononuclear cells involved: 'lymphocytes, macrophages... plasma cell, eosinophils'."
   },
   {
@@ -596,7 +596,7 @@ window.L129 = [
       { "text": "Increased Hemoglobin", "explanation": "Polycythemia." }
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L129_page-0026.jpg",
+    "slideImagePath": "images/L129_slide_25.jpg",
     "slideImageDescription": "The slide lists 'Increased Acute-phase proteins' as a systemic effect. While ESR isn't explicitly defined on the slide text, the concept of acute phase proteins (like Fibrinogen) causing systemic manifestations is the core concept taught in conjunction with this slide."
   }
 ];

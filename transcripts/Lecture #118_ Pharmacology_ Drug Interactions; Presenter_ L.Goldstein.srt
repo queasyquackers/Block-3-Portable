@@ -1,0 +1,4253 @@
+1
+00:00:00,030 --> 00:00:02,950
+Welcome students to
+the last lecture in
+
+2
+00:00:02,950 --> 00:00:05,610
+our foundational
+pharmacology series,
+
+3
+00:00:06,170 --> 00:00:08,410
+Drug Interactions.
+We've talked about
+
+4
+00:00:08,410 --> 00:00:10,930
+various mechanisms
+of pharmacodynamic
+
+5
+00:00:10,930 --> 00:00:14,010
+actions, pharmacokinetic
+actions. So
+
+6
+00:00:14,010 --> 00:00:16,430
+now we're going to
+see how they apply
+
+7
+00:00:16,830 --> 00:00:19,130
+in drug interactions.
+We'll talk
+
+8
+00:00:19,130 --> 00:00:21,170
+about mechanisms
+and the effects.
+
+9
+00:00:23,850 --> 00:00:26,410
+Please contact me if
+you'd like to chat about
+
+10
+00:00:26,410 --> 00:00:29,390
+pharmacology. Groups
+and individuals are
+
+11
+00:00:29,390 --> 00:00:31,990
+welcome. we can do it
+in person or by zoom.
+
+12
+00:00:33,830 --> 00:00:35,910
+Learning
+objectives. I'm sure
+
+13
+00:00:35,910 --> 00:00:38,330
+you're familiar
+with the concept
+
+14
+00:00:38,330 --> 00:00:40,310
+of learning
+objectives by now.
+
+15
+00:00:41,450 --> 00:00:43,490
+This lecture will
+
+16
+00:00:43,490 --> 00:00:46,270
+demonstrate
+how to classify
+
+17
+00:00:46,410 --> 00:00:49,450
+the drug interactions
+to describe the various
+
+18
+00:00:49,450 --> 00:00:52,250
+mechanisms both
+pharmacodynamic and
+
+19
+00:00:52,250 --> 00:00:57,230
+pharmacokinetic. I'll
+be asking you to be able
+
+20
+00:00:57,230 --> 00:01:01,290
+to list by name
+certain inducers and
+
+21
+00:01:01,290 --> 00:01:04,850
+inhibitors of the CYP3A4
+and p-glycoproteins
+
+22
+00:01:04,870 --> 00:01:11,090
+and the effects of smoking
+on the CYP1A family
+
+23
+00:01:11,110 --> 00:01:13,610
+and you should be
+able to give examples
+
+24
+00:01:13,610 --> 00:01:17,950
+of drug interactions
+both that cause that
+
+25
+00:01:17,950 --> 00:01:21,770
+are for beneficial
+effect and those that
+
+26
+00:01:21,770 --> 00:01:24,510
+can cause adverse, can
+increase the risk of
+
+27
+00:01:24,510 --> 00:01:30,950
+adverse effects, and
+explain how these drug
+
+28
+00:01:30,950 --> 00:01:34,950
+interactions affect
+the various tissues.
+
+29
+00:01:35,570 --> 00:01:37,270
+Mechanisms, mechanisms,
+
+30
+00:01:37,270 --> 00:01:40,070
+mechanisms, and effects.
+
+31
+00:01:42,430 --> 00:01:45,230
+I want to emphasize
+that I give you a
+
+32
+00:01:45,230 --> 00:01:47,430
+number of learning
+resources. You certainly
+
+33
+00:01:47,430 --> 00:01:50,310
+do not need to
+study all of them.
+
+34
+00:01:51,210 --> 00:01:55,960
+Gain your knowledge by
+whatever means works
+
+35
+00:01:55,960 --> 00:01:58,770
+for you. You don't even
+have to watch these
+
+36
+00:01:58,770 --> 00:02:01,750
+videos if you don't
+want to. You do need
+
+37
+00:02:01,750 --> 00:02:04,650
+to do the practice
+questions. I require those
+
+38
+00:02:04,650 --> 00:02:07,850
+because they're going
+to help you. They'll
+
+39
+00:02:07,850 --> 00:02:11,110
+help you become
+familiar with exam style
+
+40
+00:02:11,110 --> 00:02:13,470
+questions. They'll help
+you assess your own
+
+41
+00:02:13,470 --> 00:02:15,750
+knowledge. They'll
+help you know what you
+
+42
+00:02:15,750 --> 00:02:20,030
+don't know and what you
+do know and it gives
+
+43
+00:02:20,030 --> 00:02:22,950
+you an opportunity to
+apply the concepts.
+
+44
+00:02:25,630 --> 00:02:27,230
+Some links if you wish to
+
+45
+00:02:27,230 --> 00:02:30,350
+use them and
+some key points.
+
+46
+00:02:30,530 --> 00:02:34,030
+This gives you an
+overview of what
+
+47
+00:02:34,030 --> 00:02:37,830
+the lecture is
+about and also will
+
+48
+00:02:37,830 --> 00:02:42,830
+focus you on what
+is needed to learn.
+
+49
+00:02:43,590 --> 00:02:46,790
+Knowledge of drug
+-drug, drug-food, drug
+
+50
+00:02:46,790 --> 00:02:49,650
+-botanicals, drug
+-disease interactions,
+
+51
+00:02:49,650 --> 00:02:52,950
+careful selection of
+therapeutic alternatives,
+
+52
+00:02:53,050 --> 00:02:56,510
+and continuously
+continuous monitoring
+
+53
+00:02:56,510 --> 00:02:58,950
+to identify adverse
+effects could
+
+54
+00:02:58,950 --> 00:03:02,590
+reduce the risks of
+adverse drug events.
+
+55
+00:03:06,110 --> 00:03:09,730
+Sometimes we have
+drug-drug interactions
+
+56
+00:03:09,730 --> 00:03:13,090
+that are okay. We
+might need to adjust a
+
+57
+00:03:13,090 --> 00:03:15,610
+little bit. Sometimes we
+have drug interactions
+
+58
+00:03:15,610 --> 00:03:17,510
+that really should be
+avoided and we need
+
+59
+00:03:17,510 --> 00:03:20,870
+to know what are the
+alternatives that
+
+60
+00:03:20,870 --> 00:03:24,950
+can be prescribed in
+the event that we have
+
+61
+00:03:24,950 --> 00:03:27,550
+a drug interaction
+that should be avoided.
+
+62
+00:03:31,390 --> 00:03:34,070
+Here is a scheme
+from the Goodman
+
+63
+00:03:34,070 --> 00:03:35,470
+and Gilman
+Pharmacological
+
+64
+00:03:35,470 --> 00:03:38,070
+Basis of Therapeutics
+textbook.
+
+65
+00:03:38,230 --> 00:03:41,690
+It's divided into the
+pharmacokinetic and
+
+66
+00:03:41,690 --> 00:03:44,770
+pharmacodynamic mechanisms.
+The pharmacokinetic
+
+67
+00:03:44,770 --> 00:03:47,790
+mechanisms appear on
+the left-hand side,
+
+68
+00:03:48,230 --> 00:03:49,710
+absorption, distribution,
+
+69
+00:03:49,710 --> 00:03:51,210
+metabolism, elimination,
+
+70
+00:03:51,570 --> 00:03:57,550
+and the interactions
+can affect an overall
+
+71
+00:03:57,550 --> 00:04:00,670
+increase or
+decrease in plasma
+
+72
+00:04:00,670 --> 00:04:04,170
+concentration. An increase
+in plasma concentration
+
+73
+00:04:04,170 --> 00:04:07,130
+increases the risk
+of adverse effects.
+
+74
+00:04:07,130 --> 00:04:12,050
+A decrease increases
+the potential that
+
+75
+00:04:12,050 --> 00:04:14,830
+the drug will not
+be fully effective.
+
+76
+00:04:16,630 --> 00:04:18,890
+Excuse me. Go back.
+
+77
+00:04:19,390 --> 00:04:21,450
+Pharmacodynamic
+mechanisms.
+
+78
+00:04:21,950 --> 00:04:25,470
+We have drugs that
+increase the overall
+
+79
+00:04:25,470 --> 00:04:29,030
+effect, additive synergistic
+potentiation. I want
+
+80
+00:04:29,030 --> 00:04:31,090
+to point out that
+the terms synergistic
+
+81
+00:04:31,090 --> 00:04:34,390
+and potentiation are commonly
+used interchangeably,
+
+82
+00:04:34,390 --> 00:04:36,380
+and I will use them
+interchangeably.
+
+83
+00:04:36,970 --> 00:04:40,530
+Goodman and Gilman
+indicates here how they
+
+84
+00:04:40,530 --> 00:04:43,170
+can be differentiated
+from each other,
+
+85
+00:04:43,170 --> 00:04:46,190
+but the differentiation
+is really tiny.
+
+86
+00:04:46,550 --> 00:04:49,610
+An additive effect is
+the combined effect
+
+87
+00:04:49,610 --> 00:04:52,230
+of two drugs equals the
+sum of the effect of
+
+88
+00:04:52,230 --> 00:04:54,530
+each agent given
+alone. In other words,
+
+89
+00:04:54,530 --> 00:05:00,310
+if a patient is getting
+drug A and drug A is
+
+90
+00:05:00,310 --> 00:05:04,090
+doubled, then it will
+be a double effect.
+
+91
+00:05:04,310 --> 00:05:08,310
+If a person is getting
+drug A and drug B
+
+92
+00:05:08,390 --> 00:05:11,270
+and the two drugs do
+the same thing, that
+
+93
+00:05:11,270 --> 00:05:13,990
+will be a double effect,
+an additive effect.
+
+94
+00:05:14,210 --> 00:05:16,870
+Synergy is the combined
+effect exceeds the
+
+95
+00:05:16,870 --> 00:05:20,590
+sum of the effect of
+each drug given alone.
+
+96
+00:05:20,990 --> 00:05:23,850
+So it's a greater
+effect than the
+
+97
+00:05:23,850 --> 00:05:27,050
+sum of the two, an
+enhanced effect.
+
+98
+00:05:28,730 --> 00:05:32,880
+Some antagonistic
+mechanisms are,
+
+99
+00:05:32,880 --> 00:05:35,630
+I'm going to say
+receptor first.
+
+100
+00:05:36,010 --> 00:05:39,470
+Receptor mechanisms
+blockade of the
+
+101
+00:05:39,470 --> 00:05:42,150
+effect of one drug
+by the other that
+
+102
+00:05:42,150 --> 00:05:45,490
+competes at a common
+binding site or a
+
+103
+00:05:45,490 --> 00:05:47,710
+drug that acts at
+an allosteric site,
+
+104
+00:05:48,270 --> 00:05:50,470
+which will block the
+
+105
+00:05:50,470 --> 00:05:53,390
+effect of the other drug.
+
+106
+00:05:55,090 --> 00:05:58,830
+A physiological
+antagonist is two drugs
+
+107
+00:05:58,830 --> 00:06:02,670
+that produce opposite
+functional effects.
+
+108
+00:06:02,670 --> 00:06:04,610
+It's about the
+function on this one.
+
+109
+00:06:07,740 --> 00:06:10,170
+And I'll give examples
+of that. I've given
+
+110
+00:06:10,170 --> 00:06:13,070
+examples before, and
+we will revisit that.
+
+111
+00:06:13,730 --> 00:06:15,870
+Keep pushing the
+wrong button.
+
+112
+00:06:16,610 --> 00:06:21,670
+And chemical antagonism
+is just a direct
+
+113
+00:06:21,670 --> 00:06:24,810
+reaction between two
+chemicals. A chemical
+
+114
+00:06:24,810 --> 00:06:27,710
+and a drug, for
+example, are two drugs.
+
+115
+00:06:31,170 --> 00:06:35,590
+I'm giving you a
+number of examples of
+
+116
+00:06:35,850 --> 00:06:39,290
+the mechanisms and
+the effects, and I
+
+117
+00:06:39,290 --> 00:06:41,670
+will be using drug
+names in these
+
+118
+00:06:41,670 --> 00:06:44,650
+examples because that's
+how you're going to
+
+119
+00:06:44,650 --> 00:06:48,290
+meet them in life
+and your practice.
+
+120
+00:06:48,510 --> 00:06:51,410
+You should be able
+to explain the
+
+121
+00:06:51,410 --> 00:06:55,110
+mechanisms and effects.
+You do not need to
+
+122
+00:06:55,110 --> 00:06:58,110
+remember the drug
+names at this time.
+
+123
+00:06:58,470 --> 00:06:59,910
+Later, yes.
+
+124
+00:07:02,150 --> 00:07:07,510
+The point is, one
+of the points is, to
+
+125
+00:07:07,510 --> 00:07:11,150
+help you be able to
+pick out the specific
+
+126
+00:07:11,150 --> 00:07:15,150
+clues in questions,
+quizzes and exams,
+
+127
+00:07:15,490 --> 00:07:20,090
+that will help you to
+identify the answers.
+
+128
+00:07:22,130 --> 00:07:26,630
+Sometimes students
+get lost in the drug
+
+129
+00:07:26,630 --> 00:07:30,850
+names and forget to
+notice the actual clues.
+
+130
+00:07:30,850 --> 00:07:34,190
+So I encourage you
+to read carefully,
+
+131
+00:07:34,310 --> 00:07:36,850
+discern what's important
+
+132
+00:07:36,850 --> 00:07:40,450
+information, and
+focus on that.
+
+133
+00:07:44,110 --> 00:07:47,050
+Beginning now with
+the pharmacodynamic
+
+134
+00:07:47,050 --> 00:07:49,310
+mechanisms of
+drug interactions.
+
+135
+00:07:49,330 --> 00:07:51,690
+So additive first,
+the sum of the
+
+136
+00:07:51,690 --> 00:07:53,610
+effect of each
+agent given alone.
+
+137
+00:07:54,690 --> 00:08:00,050
+Diphenhydramine is
+Benadryl, and it
+
+138
+00:08:00,050 --> 00:08:01,830
+has a number of
+different actions. We
+
+139
+00:08:01,830 --> 00:08:04,510
+always think about
+it in terms of its
+
+140
+00:08:04,510 --> 00:08:06,250
+effects at blocking
+the actions of
+
+141
+00:08:06,250 --> 00:08:08,270
+histamine, but it
+does other things too.
+
+142
+00:08:08,710 --> 00:08:11,670
+And tricyclic
+antidepressants, we think
+
+143
+00:08:11,670 --> 00:08:16,410
+about their effects for
+alleviating depression,
+
+144
+00:08:16,410 --> 00:08:19,470
+but it has other
+actions too. And in
+
+145
+00:08:19,470 --> 00:08:23,550
+fact, the actions of
+diphenhydramine and
+
+146
+00:08:23,550 --> 00:08:28,050
+tricyclic antidepressants
+on the cholinergic
+
+147
+00:08:28,050 --> 00:08:31,450
+system are the same.
+So, anticholinergic
+
+148
+00:08:31,450 --> 00:08:34,520
+side effects.
+Both drugs cause
+
+149
+00:08:34,520 --> 00:08:37,010
+anticholinergic side
+effects, use them together,
+
+150
+00:08:37,010 --> 00:08:39,490
+it increases the risk
+of anticholinergic
+
+151
+00:08:39,490 --> 00:08:42,130
+side effects. So,
+what is the meaning?
+
+152
+00:08:42,130 --> 00:08:44,590
+What kind of side effects
+are anticholinergic?
+
+153
+00:08:44,970 --> 00:08:49,390
+Dry mouth, Blurry
+vision, drowsiness,
+
+154
+00:08:49,710 --> 00:08:51,470
+memory problems,
+
+155
+00:08:51,870 --> 00:08:55,830
+confusion, inability
+to concentrate,
+
+156
+00:08:56,550 --> 00:08:58,960
+constipation, and
+difficulty urinating.
+
+157
+00:08:58,970 --> 00:09:03,130
+So those are
+very difficult
+
+158
+00:09:03,130 --> 00:09:05,330
+for patients to tolerate.
+
+159
+00:09:08,270 --> 00:09:12,230
+nitroglycerin
+plus the erectile
+
+160
+00:09:12,230 --> 00:09:14,870
+dysfunction drug viagra
+and all the others
+
+161
+00:09:14,870 --> 00:09:19,010
+for that matter
+both increase levels
+
+162
+00:09:19,010 --> 00:09:21,910
+of nitric oxide
+by different
+
+163
+00:09:21,910 --> 00:09:27,350
+mechanisms and nitric
+oxide is a powerful
+
+164
+00:09:29,070 --> 00:09:31,910
+vasodilator. So
+the two together
+
+165
+00:09:31,910 --> 00:09:35,630
+can cause profound,
+potentially
+
+166
+00:09:35,630 --> 00:09:38,370
+catastrophic hypotension.
+
+167
+00:09:38,950 --> 00:09:41,830
+Hypotension causes
+patients to fall.
+
+168
+00:09:42,790 --> 00:09:47,170
+This is categorized
+as additive. I want
+
+169
+00:09:47,170 --> 00:09:49,090
+to mention you may
+have heard of it in
+
+170
+00:09:49,090 --> 00:09:53,330
+other contexts as
+being synergistic. The
+
+171
+00:09:53,670 --> 00:09:56,650
+literature doesn't
+seem to agree on this.
+
+172
+00:09:58,930 --> 00:10:01,530
+Now, synergy and
+potentiation, the
+
+173
+00:10:01,530 --> 00:10:03,870
+enhanced effect
+exceeds the sum of the
+
+174
+00:10:03,870 --> 00:10:06,750
+effects of the two
+drugs given alone.
+
+175
+00:10:07,190 --> 00:10:11,210
+So, codeine and
+acetaminophen are a
+
+176
+00:10:11,210 --> 00:10:13,730
+really fine example
+of this, common.
+
+177
+00:10:14,230 --> 00:10:18,270
+Codeine is an opiate
+painkiller, and
+
+178
+00:10:18,270 --> 00:10:22,150
+acetaminophen is
+Tylenol, for mild to
+
+179
+00:10:22,150 --> 00:10:25,010
+moderate pain.
+Together, they enhance
+
+180
+00:10:25,010 --> 00:10:27,810
+the analgesic effect
+of each other.
+
+181
+00:10:28,430 --> 00:10:32,270
+Another benefit
+besides improved pain
+
+182
+00:10:32,270 --> 00:10:36,630
+relief is that lower
+doses may be enough.
+
+183
+00:10:37,850 --> 00:10:40,850
+Lower doses of each
+drug may be enough
+
+184
+00:10:40,850 --> 00:10:43,190
+to produce the pain
+relief. So lower
+
+185
+00:10:43,190 --> 00:10:47,170
+doses is a good thing.
+We remember that the
+
+186
+00:10:47,790 --> 00:10:52,810
+potential for side
+effects is increased
+
+187
+00:10:52,810 --> 00:10:55,550
+with increasing
+doses, by and large.
+
+188
+00:10:55,690 --> 00:10:59,670
+The next example
+is a sulfonamide, a
+
+189
+00:10:59,670 --> 00:11:03,110
+sulfa drug, together
+with another drug
+
+190
+00:11:03,110 --> 00:11:06,800
+called trimethoprim.
+They work at different
+
+191
+00:11:06,800 --> 00:11:09,870
+places on the same
+pathway, but so
+
+192
+00:11:09,870 --> 00:11:12,590
+different mechanisms.
+And used together,
+
+193
+00:11:12,590 --> 00:11:15,910
+they enhance
+antibacterial action.
+
+194
+00:11:16,690 --> 00:11:17,850
+Additionally,
+
+195
+00:11:18,570 --> 00:11:21,470
+they are less likely,
+or I should say
+
+196
+00:11:21,470 --> 00:11:24,910
+it takes more steps,
+for the organism to
+
+197
+00:11:24,910 --> 00:11:27,350
+develop resistance
+against the drugs.
+
+198
+00:11:28,850 --> 00:11:32,290
+The third one down,
+amoxicillin, is
+
+199
+00:11:32,290 --> 00:11:36,670
+an antibacteria
+drug, an antibiotic.
+
+200
+00:11:36,770 --> 00:11:39,550
+I'm sure you're
+probably familiar with
+
+201
+00:11:39,550 --> 00:11:44,390
+it. and clavulanic
+acid, I put here in
+
+202
+00:11:44,420 --> 00:11:46,870
+quotes, a bodyguard.
+That's kind of how I
+
+203
+00:11:46,870 --> 00:11:51,230
+think about it, produces
+enhanced antibacterial
+
+204
+00:11:51,230 --> 00:11:53,810
+activity. Clavulanic
+acid doesn't have
+
+205
+00:11:53,810 --> 00:11:57,650
+much antibacterial
+activity of its own,
+
+206
+00:11:57,650 --> 00:12:01,550
+but it will protect
+the amoxicillin from
+
+207
+00:12:01,550 --> 00:12:05,430
+being broken down by
+bacterial enzymes.
+
+208
+00:12:05,470 --> 00:12:07,490
+And therefore,
+that enhances
+
+209
+00:12:07,490 --> 00:12:09,850
+the amoxicillin
+activity. So,
+
+210
+00:12:09,850 --> 00:12:12,930
+enhanced antibacterial
+activity.
+
+211
+00:12:12,930 --> 00:12:16,010
+Obviously, this is
+a beneficial effect.
+
+212
+00:12:17,320 --> 00:12:21,810
+And now, methadone,
+which is a drug for
+
+213
+00:12:21,810 --> 00:12:25,510
+opioid use disorder,
+plus itraconazole,
+
+214
+00:12:25,510 --> 00:12:28,590
+which is an antifungal,
+commonly used,
+
+215
+00:12:28,730 --> 00:12:32,450
+together can cause
+ventricular arrhythmia.
+
+216
+00:12:33,870 --> 00:12:36,250
+and this ventricular
+arrhythmia
+
+217
+00:12:36,250 --> 00:12:37,590
+is called
+torsade de point
+
+218
+00:12:37,590 --> 00:12:40,130
+which is indicated
+right here
+
+219
+00:12:40,760 --> 00:12:44,110
+and you don't have to
+be a cardiologist to
+
+220
+00:12:44,110 --> 00:12:49,010
+recognize that this ekg
+tracing looks bad it
+
+221
+00:12:49,010 --> 00:12:52,030
+is quite dangerous it's
+a ventricular arrhythmia
+
+222
+00:12:53,220 --> 00:12:55,710
+and it's called
+torsade de point the
+
+223
+00:12:55,710 --> 00:12:59,470
+twisting of the points
+because of these various
+
+224
+00:12:59,470 --> 00:13:02,190
+it's like about like
+a ballet this is a
+
+225
+00:13:02,190 --> 00:13:07,010
+ballet term twisting of
+the points both of these
+
+226
+00:13:07,010 --> 00:13:12,630
+drugs increase the qt
+interval on the ecg
+
+227
+00:13:12,950 --> 00:13:15,430
+qt is this part
+
+228
+00:13:38,230 --> 00:13:40,510
+some antagonistic
+mechanisms
+
+229
+00:13:40,510 --> 00:13:43,010
+will do competitive
+non-competitive
+
+230
+00:13:43,010 --> 00:13:44,650
+physiologic and chemical.
+
+231
+00:13:44,930 --> 00:13:49,090
+Examples of competitive
+antagonism are
+
+232
+00:13:49,090 --> 00:13:52,950
+morphine and the
+antidote naloxone.
+
+233
+00:13:53,430 --> 00:13:58,130
+Morphine is a mu opioid
+receptor agonist.
+
+234
+00:13:58,130 --> 00:14:01,370
+Naloxone is a mu opioid
+receptor antagonist.
+
+235
+00:14:01,370 --> 00:14:04,810
+It's easy to see they
+work at the same site.
+
+236
+00:14:05,570 --> 00:14:07,890
+Naloxone is
+effective in the
+
+237
+00:14:07,890 --> 00:14:10,450
+treatment of
+opioid overdose.
+
+238
+00:14:11,090 --> 00:14:15,830
+They act now Now,
+there is a potential
+
+239
+00:14:15,830 --> 00:14:18,290
+adverse effect of this
+combination, and that
+
+240
+00:14:18,290 --> 00:14:23,670
+is that use of naloxone
+can induce abrupt
+
+241
+00:14:23,670 --> 00:14:25,930
+withdrawal symptoms.
+So that's just
+
+242
+00:14:25,930 --> 00:14:31,960
+something that needs to
+be managed when saving
+
+243
+00:14:31,990 --> 00:14:34,770
+someone's life from
+an opioid overdose.
+
+244
+00:14:36,470 --> 00:14:41,530
+another example is a
+nerve agent which is
+
+245
+00:14:41,530 --> 00:14:45,690
+a poison plus
+atropine which is an
+
+246
+00:14:45,690 --> 00:14:48,470
+anticholinergic i
+mentioned anticholinergics
+
+247
+00:14:48,470 --> 00:14:51,530
+before it blocks a
+cholinergic receptor
+
+248
+00:14:51,530 --> 00:14:56,690
+called the m3 receptor
+and atropine is used
+
+249
+00:14:56,690 --> 00:14:59,550
+in the treatment
+of this nerve agent
+
+250
+00:14:59,550 --> 00:15:02,810
+poisoning because it
+will block the effect
+
+251
+00:15:02,810 --> 00:15:07,220
+of the acetylcholine
+that's released, that
+
+252
+00:15:07,220 --> 00:15:10,590
+accumulates, and it
+will block the effects
+
+253
+00:15:10,590 --> 00:15:13,770
+on the various
+muscarinic receptors.
+
+254
+00:15:15,570 --> 00:15:18,550
+It's actually
+M1 through M5.
+
+255
+00:15:20,190 --> 00:15:23,510
+And non-competitive
+antagonism, I'm sure
+
+256
+00:15:23,510 --> 00:15:26,270
+you remember that
+mechanism, so it's binding
+
+257
+00:15:26,270 --> 00:15:29,070
+of a drug to an
+allosteric site, the
+
+258
+00:15:29,610 --> 00:15:35,230
+point is it can still
+block the effect of
+
+259
+00:15:35,230 --> 00:15:37,850
+the agonist. And the
+common example used
+
+260
+00:15:37,850 --> 00:15:40,150
+here is ketamine.
+You may have heard of
+
+261
+00:15:40,150 --> 00:15:44,590
+ketamine. It's long been
+used as an anesthetic,
+
+262
+00:15:44,590 --> 00:15:46,970
+recently been used
+in the management
+
+263
+00:15:46,970 --> 00:15:50,010
+of depression, and it
+is a drug of *****.
+
+264
+00:15:50,310 --> 00:15:53,230
+So ketamine, which
+is known as an NMDA
+
+265
+00:15:53,230 --> 00:15:57,590
+receptor antagonist,
+will block the effects of
+
+266
+00:15:57,590 --> 00:16:01,530
+glutamate, which is
+the neurotransmitter.
+
+267
+00:16:02,210 --> 00:16:06,690
+So that is therapeutic
+for its anesthetic
+
+268
+00:16:06,690 --> 00:16:10,270
+effect, but an adverse
+effect of this combination
+
+269
+00:16:10,270 --> 00:16:14,210
+that actually occurs
+when it's used for
+
+270
+00:16:14,210 --> 00:16:18,910
+anesthesia or for
+depression is a dissociative
+
+271
+00:16:18,910 --> 00:16:23,130
+effect and you'll
+learn about that when
+
+272
+00:16:23,130 --> 00:16:25,950
+we get to talking about
+the drug ketamine.
+
+273
+00:16:27,430 --> 00:16:31,230
+Physiologic
+antagonism is as I
+
+274
+00:16:31,230 --> 00:16:33,790
+mentioned previously
+functional.
+
+275
+00:16:34,030 --> 00:16:38,250
+It's the opposite
+physiologic effect that
+
+276
+00:16:38,250 --> 00:16:41,490
+occurs the opposite
+function. The typical
+
+277
+00:16:41,490 --> 00:16:47,070
+example is insulin, which
+is a natural hormone
+
+278
+00:16:47,070 --> 00:16:50,610
+and also used as a
+drug, and glucagon,
+
+279
+00:16:50,610 --> 00:16:53,990
+a natural hormone and
+also used as a drug.
+
+280
+00:16:54,050 --> 00:16:57,790
+So insulin
+causes the uptake
+
+281
+00:16:57,790 --> 00:17:01,670
+of blood glucose
+into cells.
+
+282
+00:17:01,810 --> 00:17:04,930
+Glucose increases
+blood glucose by
+
+283
+00:17:04,930 --> 00:17:08,010
+stimulating hepatic
+synthesis. So one is
+
+284
+00:17:08,010 --> 00:17:10,510
+reduction of blood
+sugar, the other is
+
+285
+00:17:10,510 --> 00:17:13,990
+increase in blood sugar.
+Why would glucagon
+
+286
+00:17:13,990 --> 00:17:17,330
+be used? It will
+be for reversal of
+
+287
+00:17:17,390 --> 00:17:20,210
+hypoglycemia. Now,
+we also have a drug
+
+288
+00:17:20,210 --> 00:17:24,150
+interaction with
+regard to blood
+
+289
+00:17:24,150 --> 00:17:26,830
+glucose. So insulin,
+we know what that is.
+
+290
+00:17:27,290 --> 00:17:30,670
+Prednisone is a
+steroid in a class
+
+291
+00:17:30,670 --> 00:17:33,750
+called glucocorticoid.
+It's a powerful
+
+292
+00:17:33,750 --> 00:17:36,270
+drug for management
+of inflammation.
+
+293
+00:17:38,450 --> 00:17:42,030
+insulin decreases
+blood sugar, prednisone
+
+294
+00:17:42,030 --> 00:17:46,970
+increases blood sugar,
+and that effect of
+
+295
+00:17:46,970 --> 00:17:50,450
+prednisone on the
+blood glucose can lead
+
+296
+00:17:50,450 --> 00:17:54,590
+to hyperglycemia in
+patients. Long-term
+
+297
+00:17:54,590 --> 00:17:57,390
+use of prednisone,
+especially higher doses,
+
+298
+00:17:57,390 --> 00:18:00,710
+is known to cause
+hyperglycemia, which
+
+299
+00:18:00,710 --> 00:18:05,410
+can actually move into
+diabetes mellitus.
+
+300
+00:18:07,400 --> 00:18:09,870
+Chemical antagonism,
+that's just the
+
+301
+00:18:09,870 --> 00:18:12,470
+direct binding of
+one on the other.
+
+302
+00:18:12,530 --> 00:18:17,310
+The common example is
+protamine, which is
+
+303
+00:18:17,310 --> 00:18:22,130
+a cationic substance
+that combines with
+
+304
+00:18:22,130 --> 00:18:25,310
+heparin, just a one
+-on-one, and activates
+
+305
+00:18:25,310 --> 00:18:28,430
+heparin by preventing
+it from getting
+
+306
+00:18:28,430 --> 00:18:31,670
+to the site of action
+and carries it away.
+
+307
+00:18:31,670 --> 00:18:35,530
+So that's a beneficial
+reversal agent.
+
+308
+00:18:37,650 --> 00:18:41,150
+Antacids, something
+like Mylanta, Tums,
+
+309
+00:18:42,320 --> 00:18:44,070
+chelates, tetracycline,
+which is an
+
+310
+00:18:44,070 --> 00:18:46,390
+antibiotic, and it
+happens in the gut because
+
+311
+00:18:46,390 --> 00:18:49,070
+the antacid stays
+in the gut, and that
+
+312
+00:18:49,070 --> 00:18:53,290
+reduces the antibiotic
+from being absorbed,
+
+313
+00:18:53,490 --> 00:18:56,170
+which, of course, will
+reduce blood levels,
+
+314
+00:18:56,170 --> 00:18:59,430
+which will reduce
+antibiotic efficacy.
+
+315
+00:19:05,580 --> 00:19:11,290
+So that's actually also a
+
+316
+00:19:11,290 --> 00:19:13,740
+pharmacokinetic
+mechanism, that last one.
+
+317
+00:19:14,570 --> 00:19:16,440
+So mechanisms,
+absorption,
+
+318
+00:19:16,440 --> 00:19:18,800
+distribution,
+metabolism, excretion,
+
+319
+00:19:19,660 --> 00:19:22,220
+absorption, sequestration
+of a drug in the
+
+320
+00:19:22,220 --> 00:19:24,660
+gut, as we said with
+the antacid and the
+
+321
+00:19:24,660 --> 00:19:29,500
+tetracycline, or
+increased gastric pH for
+
+322
+00:19:29,500 --> 00:19:33,100
+drugs that require an
+acid pH for absorption.
+
+323
+00:19:33,500 --> 00:19:36,060
+So if absorption is
+decreased, that's
+
+324
+00:19:36,060 --> 00:19:38,380
+going to reduce the
+therapeutic effect.
+
+325
+00:19:39,040 --> 00:19:40,280
+Distribution.
+
+326
+00:19:40,280 --> 00:19:42,520
+Well, changes in
+volume of distribution.
+
+327
+00:19:42,520 --> 00:19:45,640
+So that's a drug
+-disease interaction.
+
+328
+00:19:47,940 --> 00:19:52,920
+Drug-disease related
+to distribution.
+
+329
+00:19:55,200 --> 00:19:59,620
+And that can affect
+the amount of drug in
+
+330
+00:19:59,620 --> 00:20:02,220
+plasma, which will
+affect the amount of drug
+
+331
+00:20:02,220 --> 00:20:06,820
+that reaches the site
+of action so depending
+
+332
+00:20:06,820 --> 00:20:09,200
+on what's happening
+what the particular
+
+333
+00:20:09,200 --> 00:20:11,620
+drug interaction is it
+can increase the risk
+
+334
+00:20:11,620 --> 00:20:15,480
+of adverse effects or
+reduce the therapeutic
+
+335
+00:20:15,480 --> 00:20:19,080
+efficacy now P
+glycoprotein this is going
+
+336
+00:20:19,080 --> 00:20:21,480
+to come up over and
+over and over and over
+
+337
+00:20:21,480 --> 00:20:29,700
+because it is such an
+important ABC efflux
+
+338
+00:20:29,700 --> 00:20:34,040
+transporter, ATP-using
+efflux transporter.
+
+339
+00:20:34,620 --> 00:20:38,780
+So if we inhibit
+p-glycoprotein,
+
+340
+00:20:39,690 --> 00:20:42,840
+which effluxes
+drugs, it pushes
+
+341
+00:20:42,840 --> 00:20:46,000
+them out of the
+bloodstream,
+
+342
+00:20:47,040 --> 00:20:50,180
+that can increase
+systemic drug
+
+343
+00:20:50,180 --> 00:20:51,620
+levels and that
+can increase
+
+344
+00:20:51,620 --> 00:20:53,240
+the risk of
+adverse effects.
+
+345
+00:20:54,740 --> 00:20:57,200
+Induction is
+also possible.
+
+346
+00:20:58,400 --> 00:21:01,060
+Metabolism inhibiting
+or inducing drug
+
+347
+00:21:01,060 --> 00:21:03,200
+metabolizing
+enzymes may decrease
+
+348
+00:21:03,200 --> 00:21:05,320
+or increase clearance,
+respectively,
+
+349
+00:21:06,020 --> 00:21:08,740
+affecting the
+risk of adverse
+
+350
+00:21:08,740 --> 00:21:10,440
+effects or
+therapeutic effect.
+
+351
+00:21:11,460 --> 00:21:15,400
+Excretion, same concepts
+here, inhibiting
+
+352
+00:21:15,400 --> 00:21:17,700
+the secretion of a
+drug into the nephron,
+
+353
+00:21:17,700 --> 00:21:20,320
+and I've indicated
+some transporters here,
+
+354
+00:21:21,220 --> 00:21:24,580
+OATs, organic anion
+transporters, organic
+
+355
+00:21:24,580 --> 00:21:27,480
+cation transporters,
+can decrease the
+
+356
+00:21:27,480 --> 00:21:29,480
+clearance. It's not
+getting into the kidney,
+
+357
+00:21:29,480 --> 00:21:32,160
+so it stays in the
+bloodstream, and that
+
+358
+00:21:32,160 --> 00:21:34,760
+can increase the risk
+of adverse effects.
+
+359
+00:21:37,980 --> 00:21:41,080
+So let's see now
+if you can answer
+
+360
+00:21:41,080 --> 00:21:44,620
+these questions.
+Activating key
+
+361
+00:21:44,620 --> 00:21:47,720
+transcription factors
+and increasing
+
+362
+00:21:47,720 --> 00:21:50,960
+the expression of
+cytochrome P450.
+
+363
+00:21:51,020 --> 00:21:52,920
+What does that do?
+
+364
+00:21:56,340 --> 00:22:02,100
+Induction, so a drug,
+let's say drug B,
+
+365
+00:22:02,480 --> 00:22:10,800
+that induces metabolism
+by activating these
+
+366
+00:22:10,800 --> 00:22:12,800
+transcription factors
+and increasing the
+
+367
+00:22:12,800 --> 00:22:19,780
+expression of CYPs or
+UGTs or whatever will
+
+368
+00:22:20,540 --> 00:22:26,060
+increase the rate of
+metabolism of drug A
+
+369
+00:22:26,560 --> 00:22:30,840
+and that in turn will
+decrease the amount of
+
+370
+00:22:30,840 --> 00:22:32,780
+drug that actually
+gets into the systemic
+
+371
+00:22:32,780 --> 00:22:36,740
+circulation. So decreased
+bioavailability,
+
+372
+00:22:36,740 --> 00:22:43,060
+and that will potentially
+reduce efficacy.
+
+373
+00:22:43,420 --> 00:22:46,660
+Now, competitive
+binding of drugs to the
+
+374
+00:22:46,660 --> 00:22:52,200
+P450 heme iron. So
+competitive inhibition.
+
+375
+00:22:53,490 --> 00:22:55,540
+I just gave
+away the answer.
+
+376
+00:22:55,820 --> 00:23:00,140
+So this is a very, very
+common mechanism of
+
+377
+00:23:00,140 --> 00:23:04,600
+drug-drug interactions,
+drug B competing at
+
+378
+00:23:04,600 --> 00:23:09,750
+the CYP or the UGT or
+whatever metabolizing
+
+379
+00:23:09,880 --> 00:23:13,680
+enzyme for the substrate.
+And that's going
+
+380
+00:23:13,680 --> 00:23:18,100
+to reduce the rate
+of metabolism of the
+
+381
+00:23:18,100 --> 00:23:22,700
+substrate. And that
+can increase the
+bioavailability,
+
+382
+00:23:22,700 --> 00:23:25,680
+increased levels
+in the bloodstream,
+
+383
+00:23:25,680 --> 00:23:28,240
+can increase the risk
+of adverse effects.
+
+384
+00:23:28,440 --> 00:23:29,780
+Now,
+
+385
+00:23:30,040 --> 00:23:33,240
+covalent interaction
+with P450 hemoiety
+
+386
+00:23:33,240 --> 00:23:38,220
+or the protein itself
+is known as what?
+
+387
+00:23:39,540 --> 00:23:42,960
+It's called suicide
+inhibition. Why
+
+388
+00:23:42,960 --> 00:23:47,120
+suicide? Because
+that enzyme is
+
+389
+00:23:47,120 --> 00:23:50,080
+taken out of
+commission permanently.
+
+390
+00:23:51,440 --> 00:23:54,140
+So how is the function
+of these enzymes
+
+391
+00:23:54,140 --> 00:23:58,460
+regained? Well, the cell
+has to make new enzymes
+
+392
+00:23:58,460 --> 00:24:02,800
+and set them out there
+ready for action.
+
+393
+00:24:03,660 --> 00:24:05,420
+And that takes time.
+
+394
+00:24:08,680 --> 00:24:13,480
+This is a scheme to
+help you understand
+
+395
+00:24:13,480 --> 00:24:15,820
+the actual mechanism
+of the induction of
+
+396
+00:24:15,820 --> 00:24:21,160
+drug metabolizing enzymes,
+drug enters a cell,
+
+397
+00:24:21,160 --> 00:24:23,400
+obviously, interacts
+with nuclear
+
+398
+00:24:23,400 --> 00:24:26,760
+receptor, and that's
+going to induce gene
+
+399
+00:24:26,760 --> 00:24:31,700
+transcription, and that
+will increase mRNA and
+
+400
+00:24:31,700 --> 00:24:34,940
+protein synthesis.
+They go together. And
+
+401
+00:24:34,940 --> 00:24:37,400
+that will increase
+the rate of metabolism
+
+402
+00:24:37,400 --> 00:24:40,260
+because there are now
+more enzymes available
+
+403
+00:24:40,260 --> 00:24:47,020
+to metabolize the
+substrate, and that
+
+404
+00:24:47,020 --> 00:24:48,940
+will decrease the
+concentration of the
+
+405
+00:24:48,940 --> 00:24:52,820
+substrate drug in the
+systemic circulation.
+
+406
+00:24:52,900 --> 00:24:56,560
+The result, the
+effect, to decrease the
+
+407
+00:24:56,560 --> 00:24:58,960
+pharmacologic action
+of the substrate drug,
+
+408
+00:24:58,960 --> 00:25:01,880
+and for some, the
+inducer even itself,
+
+409
+00:25:01,880 --> 00:25:06,280
+plus increase the
+concentration of reactive
+
+410
+00:25:06,800 --> 00:25:09,460
+metabolites.
+If the drug is
+
+411
+00:25:09,460 --> 00:25:12,240
+metabolized to
+reactive metabolites,
+
+412
+00:25:12,440 --> 00:25:17,280
+toxic metabolites,
+that can exacerbate
+
+413
+00:25:17,280 --> 00:25:20,620
+that metabolite
+-mediated toxicity.
+
+414
+00:25:20,620 --> 00:25:22,400
+Please don't
+forget that point.
+
+415
+00:25:25,400 --> 00:25:29,020
+Okay, our starred
+drugs now. These are
+
+416
+00:25:29,020 --> 00:25:30,840
+drugs that, yes,
+I'm asking you to
+
+417
+00:25:30,840 --> 00:25:33,520
+memorize them. They
+will be coming up
+
+418
+00:25:33,520 --> 00:25:38,240
+over and over and
+over, and they will
+
+419
+00:25:38,240 --> 00:25:41,460
+become second nature
+to you. So now
+
+420
+00:25:41,460 --> 00:25:43,720
+would be a good time
+to start on them.
+
+421
+00:25:43,720 --> 00:25:46,880
+I've put some mnemonics
+down here that
+
+422
+00:25:46,880 --> 00:25:51,460
+artificial intelligence
+came up with for me.
+
+423
+00:25:52,570 --> 00:25:54,800
+Please feel free
+to make your own
+
+424
+00:25:54,800 --> 00:25:59,140
+mnemonics, whatever
+works. So the CYP3A4
+
+425
+00:25:59,140 --> 00:26:03,140
+and P-glycoprotein
+inducers are these
+
+426
+00:26:03,140 --> 00:26:11,880
+anti-seizure drugs,
+phenytoin, carbamazepine,
+
+427
+00:26:11,880 --> 00:26:16,000
+phenobarbital,
+this antibiotic,
+
+428
+00:26:16,660 --> 00:26:21,160
+rifampin, and
+this botanical,
+
+429
+00:26:21,900 --> 00:26:25,120
+so it's available
+over the counter.
+
+430
+00:26:25,380 --> 00:26:27,360
+St. John's
+wort, people do
+
+431
+00:26:27,360 --> 00:26:30,580
+that to make
+them feel better.
+
+432
+00:26:30,960 --> 00:26:34,020
+It supposedly has
+antidepressant effects.
+
+433
+00:26:34,660 --> 00:26:37,540
+So phenytoin, carbamazepine,
+phenobarbital,
+
+434
+00:26:37,540 --> 00:26:39,260
+rifampin, and
+St. John's wort.
+
+435
+00:26:39,400 --> 00:26:42,440
+AI came up with
+precision care
+
+436
+00:26:42,440 --> 00:26:45,000
+promotes robust
+scientific journeys.
+
+437
+00:26:46,700 --> 00:26:49,840
+I'm also bringing to
+your attention CYP1A2.
+
+438
+00:26:49,840 --> 00:26:52,700
+CYP1A2. It's not
+a big piece of the
+
+439
+00:26:52,700 --> 00:26:56,060
+metabolism pie, but
+it's an important piece.
+
+440
+00:26:57,600 --> 00:27:01,180
+CYP1A2 is widely
+expressed in the liver.
+
+441
+00:27:01,430 --> 00:27:03,440
+CYP1A1 is
+expressed in other
+
+442
+00:27:03,440 --> 00:27:05,620
+tissues and also
+can be induced.
+
+443
+00:27:08,420 --> 00:27:11,720
+Smoking. Smoking of
+cigarettes, *********
+
+444
+00:27:11,720 --> 00:27:23,380
+will increase exposure
+to these compounds,
+
+445
+00:27:23,380 --> 00:27:28,140
+polycyclic aromatic
+hydrocarbons. I put a picture
+
+446
+00:27:28,140 --> 00:27:29,960
+of them down here.
+You can see these are
+
+447
+00:27:29,960 --> 00:27:35,400
+these flat six-membered
+circles stuck together.
+
+448
+00:27:35,520 --> 00:27:38,300
+So PAH is, of course,
+it has an acronym.
+
+449
+00:27:40,420 --> 00:27:44,320
+These are metabolized
+by CYP1A2, and they
+
+450
+00:27:44,320 --> 00:27:48,240
+can form procarcinogens.
+The smoking itself
+
+451
+00:27:48,240 --> 00:27:55,800
+will induce CYP1A2,
+which will induce
+
+452
+00:27:55,800 --> 00:28:00,040
+the metabolism of the
+substrates. Not only
+
+453
+00:28:00,040 --> 00:28:05,340
+these compounds, but
+also drugs. And a big
+
+454
+00:28:05,340 --> 00:28:09,780
+drug that we think
+about is Clozapine.
+
+455
+00:28:09,780 --> 00:28:13,360
+Clozapine is an
+antipsychotic drug. It's
+
+456
+00:28:13,360 --> 00:28:17,320
+quite efficacious, very
+efficacious, but it
+
+457
+00:28:17,320 --> 00:28:20,320
+has some pretty serious
+adverse effects.
+
+458
+00:28:21,200 --> 00:28:24,540
+Patients who are
+taking clozapine for
+
+459
+00:28:24,540 --> 00:28:31,760
+schizophrenia or
+other types of
+
+460
+00:28:31,760 --> 00:28:39,180
+problems will have an
+increase in the rate
+
+461
+00:28:39,180 --> 00:28:42,360
+of metabolism if
+they are smokers.
+
+462
+00:28:43,440 --> 00:28:46,380
+Now, why does this
+matter? Because the doses
+
+463
+00:28:46,380 --> 00:28:49,060
+can be adjusted
+according to the person's
+
+464
+00:28:49,060 --> 00:28:52,140
+smoking habit. Well,
+if they find themselves
+
+465
+00:28:52,140 --> 00:28:54,220
+in a situation where
+they're not able to
+
+466
+00:28:54,220 --> 00:28:56,520
+smoke, such as if they're
+in the hospital or if
+
+467
+00:28:56,520 --> 00:29:05,420
+they quit smoking,
+then the dose of the
+
+468
+00:29:05,430 --> 00:29:07,820
+clozapine is going to have
+to be adjusted downward
+
+469
+00:29:07,820 --> 00:29:12,760
+as the CYP1A2 system
+returns to normal.
+
+470
+00:29:14,460 --> 00:29:16,300
+Let me see if
+I can clarify
+
+471
+00:29:16,300 --> 00:29:18,160
+that explanation
+a little bit.
+
+472
+00:29:18,920 --> 00:29:23,960
+But the CYP1A2
+is induced by
+
+473
+00:29:23,960 --> 00:29:26,220
+cigarette smoking,
+which means
+
+474
+00:29:26,220 --> 00:29:30,820
+we get more CYPs
+available to
+
+475
+00:29:31,860 --> 00:29:34,520
+metabolize their
+substrates. And this is
+
+476
+00:29:34,520 --> 00:29:39,860
+true for any enzymes
+that are induced. once
+
+477
+00:29:39,860 --> 00:29:43,060
+the inducer is removed
+in this case the
+
+478
+00:29:43,060 --> 00:29:49,020
+smoking then the number
+of the enzymes will
+
+479
+00:29:49,020 --> 00:29:53,780
+return to normal or
+the the pre-induced
+
+480
+00:29:53,780 --> 00:29:57,620
+level now if a patient
+is taking clozapine
+
+481
+00:29:57,620 --> 00:30:00,080
+a ****** is taking
+clozapine and the
+
+482
+00:30:00,080 --> 00:30:05,100
+dose has been adjusted
+according to the
+
+483
+00:30:05,100 --> 00:30:07,820
+person's smoking
+activities so they get the
+
+484
+00:30:07,820 --> 00:30:11,880
+therapeutic blood
+levels, if that person
+
+485
+00:30:11,880 --> 00:30:14,640
+stops smoking for any
+reason, such as going
+
+486
+00:30:14,640 --> 00:30:16,500
+into the hospital
+where smoking is not
+
+487
+00:30:16,500 --> 00:30:22,780
+allowed, those enzymes
+will reduce in number
+
+488
+00:30:22,780 --> 00:30:27,120
+back to their pre
+-smoking concentration.
+
+489
+00:30:27,300 --> 00:30:30,460
+Now, the patient is
+on the Clozapine at
+
+490
+00:30:30,460 --> 00:30:32,840
+this higher dose,
+because of the induction,
+
+491
+00:30:33,780 --> 00:30:38,500
+this higher dose will
+produce higher blood
+
+492
+00:30:38,500 --> 00:30:43,640
+levels once those
+CYP1A2 enzymes return
+
+493
+00:30:43,840 --> 00:30:46,520
+to their original
+concentration.
+
+494
+00:30:46,520 --> 00:30:47,680
+Therefore,
+
+495
+00:30:47,960 --> 00:30:51,840
+clozapine doses must
+be adjusted downwards
+
+496
+00:30:51,940 --> 00:30:54,260
+in patients who
+stop smoking.
+
+497
+00:30:54,260 --> 00:30:56,060
+I hope I was able to make
+
+498
+00:30:56,060 --> 00:30:57,540
+that clearer for you.
+
+499
+00:31:07,670 --> 00:31:11,450
+inhibition now of drug
+metabolizing enzymes.
+
+500
+00:31:11,450 --> 00:31:13,830
+It's basically the
+same concept as we
+
+501
+00:31:13,830 --> 00:31:18,650
+talked about for
+pharmacodynamic mechanisms.
+
+502
+00:31:19,710 --> 00:31:22,450
+Drugs or the reactive
+intermediates could
+
+503
+00:31:22,450 --> 00:31:26,030
+be one or both that
+bind to the active site
+
+504
+00:31:26,030 --> 00:31:28,460
+or an allosteric site
+of drug metabolizing
+
+505
+00:31:28,460 --> 00:31:31,030
+enzymes will decrease
+the catalytic enzyme
+
+506
+00:31:31,030 --> 00:31:33,910
+activity of the enzyme
+for the substrate.
+
+507
+00:31:34,030 --> 00:31:36,370
+And some mechanisms
+are competitive
+
+508
+00:31:36,370 --> 00:31:39,190
+inhibition of the
+CYP heme iron. We
+
+509
+00:31:39,190 --> 00:31:41,550
+talked about that.
+Non-competitive
+
+510
+00:31:41,550 --> 00:31:43,830
+binding to the allosteric
+site, preventing
+
+511
+00:31:43,830 --> 00:31:45,810
+binding to the
+substrate. We talked
+
+512
+00:31:45,810 --> 00:31:48,490
+about that. And
+suicide inhibition
+
+513
+00:31:49,330 --> 00:31:54,530
+that irreversibly binds
+to the drug metabolizing
+
+514
+00:31:54,530 --> 00:31:58,210
+enzyme. Covalent
+binding with the heme
+
+515
+00:31:58,210 --> 00:32:00,890
+that's in there.
+Covalent binding to the
+
+516
+00:32:00,890 --> 00:32:04,670
+protein part of the
+enzyme or anything that
+
+517
+00:32:04,670 --> 00:32:08,590
+can cause a fragmentation
+of the protein.
+
+518
+00:32:08,790 --> 00:32:10,770
+So that's just a recap.
+
+519
+00:32:12,710 --> 00:32:16,310
+So some CYP3A4
+inhibitors. You
+
+520
+00:32:16,310 --> 00:32:18,150
+notice these have
+stars on them.
+
+521
+00:32:18,150 --> 00:32:20,590
+These are commonly
+used drugs.
+
+522
+00:32:20,770 --> 00:32:23,950
+You should be aware
+of them. There are
+
+523
+00:32:23,950 --> 00:32:28,490
+so many, many, many
+CYP3A4 inhibitors out
+
+524
+00:32:28,490 --> 00:32:31,070
+there. I've just
+picked out some strong
+
+525
+00:32:31,070 --> 00:32:35,610
+ones that are commonly
+used. So cymetidine
+
+526
+00:32:35,610 --> 00:32:37,910
+is an over-the
+-counter antacid. It's
+
+527
+00:32:37,910 --> 00:32:40,550
+called Tagamet. It's
+also called cymetidine.
+
+528
+00:32:40,550 --> 00:32:42,970
+It is available
+generically, and
+
+529
+00:32:42,970 --> 00:32:47,510
+many people take it
+to calm stomach acid.
+
+530
+00:32:48,310 --> 00:32:50,590
+Ytriconazole is
+an antifungal
+
+531
+00:32:50,590 --> 00:32:53,090
+agent and a strong CYP3A4
+
+532
+00:32:53,760 --> 00:32:56,100
+inhibitor and also
+p-glycoprotein.
+
+533
+00:32:57,430 --> 00:32:59,130
+Erysromycin,
+clarissromycin. These
+
+534
+00:32:59,130 --> 00:33:00,810
+are commonly
+used antibiotics.
+
+535
+00:33:00,810 --> 00:33:02,050
+I'm sure you've
+heard of them.
+
+536
+00:33:02,090 --> 00:33:04,410
+They're in the
+macrolides class.
+
+537
+00:33:04,990 --> 00:33:06,190
+Ritonavir.
+
+538
+00:33:07,000 --> 00:33:09,650
+Ritonavir we are going
+to be talking about
+
+539
+00:33:09,650 --> 00:33:13,890
+later on. It's a very
+important drug for
+
+540
+00:33:13,890 --> 00:33:17,230
+its pharmacokinetic
+effects, actually, more
+
+541
+00:33:17,230 --> 00:33:20,830
+so than for its
+therapeutic effects. It is
+
+542
+00:33:20,830 --> 00:33:24,710
+called a pharmacokinetic
+enhancer, and I
+
+543
+00:33:24,710 --> 00:33:27,470
+want you to be familiar
+with this concept.
+
+544
+00:33:29,790 --> 00:33:35,170
+It is one of the strongest
+CYP3A4 inhibitors
+
+545
+00:33:35,170 --> 00:33:38,990
+out there, and it
+is used specifically
+
+546
+00:33:38,990 --> 00:33:42,490
+for the purpose
+of increasing the
+
+547
+00:33:42,500 --> 00:33:46,150
+bioavailability and half
+-life, thus duration,
+
+548
+00:33:46,150 --> 00:33:50,490
+of certain CYP3A4
+substrates. not
+
+549
+00:33:50,490 --> 00:33:53,870
+all, but specific ones.
+So I put this graph
+
+550
+00:33:53,870 --> 00:33:59,390
+here to remind you
+about what happens
+
+551
+00:34:00,310 --> 00:34:03,110
+when we inhibit the
+
+552
+00:34:03,110 --> 00:34:05,570
+metabolic process
+of a drug.
+
+553
+00:34:06,250 --> 00:34:09,670
+So both lines are
+the same drug,
+
+554
+00:34:09,670 --> 00:34:12,830
+the CYP3A4
+inhibitor, whatever
+
+555
+00:34:12,830 --> 00:34:15,110
+it is we're
+talking about.
+
+556
+00:34:15,430 --> 00:34:17,650
+And this would be
+
+557
+00:34:19,390 --> 00:34:22,670
+representative
+of the half
+
+558
+00:34:22,670 --> 00:34:25,790
+-life without
+the ritonavir.
+
+559
+00:34:27,070 --> 00:34:30,770
+Peak concentration
+rapidly drops.
+
+560
+00:34:32,330 --> 00:34:34,230
+With ritonavir,
+
+561
+00:34:34,650 --> 00:34:38,870
+and let's just
+pretend this is
+
+562
+00:34:38,870 --> 00:34:42,510
+the minimum
+therapeutic effect.
+
+563
+00:34:43,550 --> 00:34:45,030
+Okay.
+
+564
+00:34:45,030 --> 00:34:48,270
+So we can see it
+drops below at this
+
+565
+00:34:48,270 --> 00:34:54,290
+point in time with
+ritonavir inhibiting the
+
+566
+00:34:54,290 --> 00:34:58,830
+enzyme that degrades
+this mystery drug
+
+567
+00:34:58,830 --> 00:35:04,770
+we see the half-life
+increases and the
+
+568
+00:35:04,770 --> 00:35:08,370
+duration above the
+therapeutic minimum
+
+569
+00:35:08,370 --> 00:35:12,310
+therapeutic efficacy
+line is much longer
+
+570
+00:35:13,260 --> 00:35:15,850
+see this difference
+in time right here.
+
+571
+00:35:17,110 --> 00:35:21,190
+So that is why it's
+called a pharmacokinetic
+
+572
+00:35:21,190 --> 00:35:24,190
+enhancer. You may
+have also heard it
+
+573
+00:35:24,190 --> 00:35:27,250
+as a booster,
+pharmacokinetic booster.
+
+574
+00:35:27,890 --> 00:35:30,850
+So it increases
+peak concentrations
+
+575
+00:35:30,850 --> 00:35:35,850
+and half-life of
+CYP3A4 substrates.
+
+576
+00:35:36,570 --> 00:35:38,290
+In this example, the peak
+
+577
+00:35:38,290 --> 00:35:41,870
+concentration is
+the same, but this
+
+578
+00:35:41,870 --> 00:35:44,410
+could theoretically
+be here.
+
+579
+00:35:46,610 --> 00:35:48,690
+Now grapefruit
+juice, well
+
+580
+00:35:48,690 --> 00:35:51,490
+that's not a
+drug. It's a food.
+
+581
+00:35:51,710 --> 00:35:54,470
+I personally love
+grapefruit juice.
+
+582
+00:35:54,470 --> 00:35:56,290
+Many people love
+grapefruit juice.
+
+583
+00:35:56,410 --> 00:36:00,430
+Well grapefruit juice
+has a substance in
+
+584
+00:36:00,430 --> 00:36:06,170
+it that is a CYP3A4
+inhibitor and hence that
+
+585
+00:36:06,170 --> 00:36:10,330
+is why the recommendation
+is to never take
+
+586
+00:36:10,330 --> 00:36:13,030
+any drugs together
+with grapefruit juice
+
+587
+00:36:13,880 --> 00:36:16,950
+that's just to be on
+the side to err on the
+
+588
+00:36:16,950 --> 00:36:19,690
+side of caution but
+so many drugs of
+
+589
+00:36:19,690 --> 00:36:22,970
+cyp3a4 substrates that
+it's better to just
+
+590
+00:36:22,970 --> 00:36:25,630
+avoid grapefruit juice
+whenever anybody's
+
+591
+00:36:25,630 --> 00:36:32,130
+taking medication period
+i put a mnemonic down
+
+592
+00:36:32,130 --> 00:36:34,730
+here that ai helped
+me with clinical
+
+593
+00:36:34,730 --> 00:36:37,990
+insights enhance care
+research grows clinical
+
+594
+00:36:37,990 --> 00:36:41,930
+insights enhanced care
+research grows i've
+
+595
+00:36:47,450 --> 00:36:51,070
+been talking about
+various cyps and a piece
+
+596
+00:36:51,070 --> 00:36:53,110
+of the pie and we
+saw this earlier so
+
+597
+00:36:53,110 --> 00:36:56,150
+i'm bringing it back
+now the fraction of
+
+598
+00:36:56,150 --> 00:36:58,710
+clinically used drugs
+metabolized by the major
+
+599
+00:36:58,710 --> 00:37:01,030
+phase one and phase
+two enzymes based
+
+600
+00:37:01,030 --> 00:37:04,470
+on the literature the
+relative size of each
+
+601
+00:37:04,470 --> 00:37:07,030
+pie section represents
+the estimated
+
+602
+00:37:07,030 --> 00:37:10,250
+percentage of drugs
+metabolized by each of
+
+603
+00:37:10,250 --> 00:37:13,650
+them. So on the top,
+we have our phase one,
+
+604
+00:37:13,650 --> 00:37:17,070
+CYPs. We also
+have esterases
+
+605
+00:37:17,070 --> 00:37:19,910
+and epoxide
+hydrolases indicated
+
+606
+00:37:19,910 --> 00:37:21,850
+here. They're
+also phase one.
+
+607
+00:37:22,790 --> 00:37:27,850
+Others. Here's our
+CYP1A family, tiny,
+
+608
+00:37:27,850 --> 00:37:32,250
+but important.
+They're all important.
+
+609
+00:37:34,370 --> 00:37:36,750
+CYP3A4, it's nearly half,
+
+610
+00:37:37,070 --> 00:37:40,530
+that's a lot of
+drugs, CYP2D6,
+
+611
+00:37:41,850 --> 00:37:43,390
+we'll be talking,
+we talked
+
+612
+00:37:43,390 --> 00:37:44,790
+about that in
+pharmacogenomics,
+
+613
+00:37:45,730 --> 00:37:47,670
+pretty decent
+size of the pie,
+
+614
+00:37:47,670 --> 00:37:50,350
+lots of important
+drugs, and so on.
+
+615
+00:37:50,510 --> 00:37:53,990
+Here we have phase
+two enzymes, our
+
+616
+00:37:53,990 --> 00:37:57,930
+UGTs, our UDP
+glucuronaciltransferases,
+
+617
+00:37:57,930 --> 00:37:59,590
+or
+glucuronaltransferases,
+
+618
+00:38:00,690 --> 00:38:05,710
+is the greater portion
+of the pie, and
+
+619
+00:38:05,710 --> 00:38:07,690
+the others are also
+still important.
+
+620
+00:38:11,440 --> 00:38:13,370
+Let's talk about the drug
+
+621
+00:38:13,370 --> 00:38:15,190
+-disease interactions now.
+
+622
+00:38:15,230 --> 00:38:18,550
+Some therapies can
+worsen existing
+
+623
+00:38:18,550 --> 00:38:20,670
+medical
+conditions. So some
+
+624
+00:38:20,670 --> 00:38:22,610
+drugs can worsen
+hypertension,
+
+625
+00:38:22,730 --> 00:38:26,030
+can interfere with
+antihypertensive drugs.
+
+626
+00:38:26,030 --> 00:38:28,790
+some lots of drugs
+go through the liver
+
+627
+00:38:28,790 --> 00:38:32,270
+some drugs can can
+exacerbate liver disease
+
+628
+00:38:32,270 --> 00:38:35,310
+or kidney disease
+or heart disease a
+
+629
+00:38:35,310 --> 00:38:38,690
+peripheral vascular
+disease diabetes so
+
+630
+00:38:38,690 --> 00:38:42,170
+drugs that cause increased
+blood glucose are
+
+631
+00:38:42,170 --> 00:38:47,070
+going to exacerbate
+diabetes drugs that
+
+632
+00:38:47,070 --> 00:38:51,450
+are irritating to the
+stomach peptic ulcer
+
+633
+00:38:51,450 --> 00:38:55,950
+disease drugs that
+increase levels of
+
+634
+00:38:55,950 --> 00:38:59,830
+uric acid in the blood
+can aggravate gout.
+
+635
+00:39:00,390 --> 00:39:04,770
+Drugs that can inhibit
+
+636
+00:39:04,770 --> 00:39:06,770
+breathing can
+aggravate asthma.
+
+637
+00:39:07,190 --> 00:39:09,770
+Hypo or hyperthyroid
+problems, and
+
+638
+00:39:09,770 --> 00:39:10,990
+there are special
+problems of the
+
+639
+00:39:10,990 --> 00:39:13,950
+elderly. So I've
+indicated down here.
+
+640
+00:39:14,870 --> 00:39:17,970
+Older individuals are
+twice as likely as
+
+641
+00:39:17,970 --> 00:39:20,650
+younger adults to have
+adverse drug reactions.
+
+642
+00:39:22,970 --> 00:39:29,690
+All our physiology
+changes as we become an
+
+643
+00:39:29,690 --> 00:39:34,250
+older adult, elderly,
+and that can increase
+
+644
+00:39:34,250 --> 00:39:37,360
+adverse drug reactions,
+adverse drug events,
+
+645
+00:39:37,360 --> 00:39:40,050
+and seven more
+times likely to be
+
+646
+00:39:40,050 --> 00:39:44,050
+hospitalized of an
+adverse drug event. These
+
+647
+00:39:44,050 --> 00:39:50,540
+patients tend to have
+more comorbidities, and
+
+648
+00:39:50,590 --> 00:39:53,670
+are on drug therapies
+with multiple drugs.
+
+649
+00:39:53,990 --> 00:39:57,110
+So all of that increases
+the risk of adverse
+
+650
+00:39:57,110 --> 00:40:01,490
+drug reactions and
+adverse drug events.
+
+651
+00:40:03,950 --> 00:40:07,070
+So let's test our
+knowledge now.
+
+652
+00:40:07,610 --> 00:40:13,310
+I suggest that you
+might want to pause the
+
+653
+00:40:13,310 --> 00:40:14,990
+video in order to
+have a look at these
+
+654
+00:40:14,990 --> 00:40:17,450
+questions, think about
+them, see if you can
+
+655
+00:40:17,450 --> 00:40:21,290
+answer them without
+looking back, and if you
+
+656
+00:40:21,290 --> 00:40:24,310
+can, then certainly
+look back, then stop
+
+657
+00:40:24,310 --> 00:40:27,650
+looking, and then say
+the answer out loud. Drug
+
+658
+00:40:27,650 --> 00:40:31,350
+A is taken ****** to
+increase gastric pH.
+
+659
+00:40:34,090 --> 00:40:37,150
+The absorption of
+drug B requires an
+
+660
+00:40:37,150 --> 00:40:39,650
+acid stomach for
+optimal absorption.
+
+661
+00:40:39,850 --> 00:40:42,790
+What is the
+potential effect on
+
+662
+00:40:42,790 --> 00:40:44,350
+blood levels when
+the two drugs
+
+663
+00:40:44,350 --> 00:40:45,990
+are administered
+concomitant?
+
+664
+00:40:51,820 --> 00:40:53,130
+Well, this is a
+pharmacokinetic
+
+665
+00:40:53,400 --> 00:40:55,620
+mechanism of action.
+
+666
+00:40:55,920 --> 00:40:58,410
+Systemic levels of
+drug B are decreased,
+
+667
+00:40:58,560 --> 00:41:03,100
+which could
+result in reduced
+
+668
+00:41:03,100 --> 00:41:05,400
+therapeutic efficacy
+of the antifungal
+
+669
+00:41:05,400 --> 00:41:08,120
+drug, which is
+drug B by the way.
+
+670
+00:41:09,640 --> 00:41:13,400
+A drug that is a
+positive allosteric
+
+671
+00:41:13,400 --> 00:41:16,520
+modulator enhances
+the inhibitory effects
+
+672
+00:41:16,520 --> 00:41:19,960
+of a chloride ion
+channel in the CNS.
+
+673
+00:41:20,620 --> 00:41:23,200
+Alcohol is
+also a positive
+
+674
+00:41:23,200 --> 00:41:25,640
+allosteric modulator
+at the same
+
+675
+00:41:25,640 --> 00:41:27,620
+target but at a
+different site.
+
+676
+00:41:28,100 --> 00:41:33,200
+So they both have the
+same effect. What is
+
+677
+00:41:33,200 --> 00:41:35,240
+the likely adverse
+drug effect when the
+
+678
+00:41:35,240 --> 00:41:38,240
+two chemicals are used
+simultaneously? In
+
+679
+00:41:43,090 --> 00:41:44,890
+this case, it's synergy.
+
+680
+00:41:45,250 --> 00:41:47,850
+Synergistic CNS
+depressant effects
+
+681
+00:41:47,850 --> 00:41:49,410
+may lead to
+death. This is a
+
+682
+00:41:49,410 --> 00:41:51,490
+common, common,
+unfortunately,
+
+683
+00:41:52,370 --> 00:41:55,870
+drug combination that
+does lead to adverse
+
+684
+00:41:55,870 --> 00:41:59,690
+outcomes and death.
+So it's important that
+
+685
+00:41:59,690 --> 00:42:02,070
+you understand the
+combination of a
+
+686
+00:42:02,130 --> 00:42:05,190
+benzodiazepine and alcohol,
+which is what we're
+
+687
+00:42:05,190 --> 00:42:09,970
+talking about here,
+and especially a mu
+
+688
+00:42:09,970 --> 00:42:16,750
+-opioid receptor agonist
+with it, an opioid.
+
+689
+00:42:17,250 --> 00:42:21,610
+A patient is taking
+an antiplatelet drug
+
+690
+00:42:21,610 --> 00:42:25,450
+following a heart attack
+and an anticoagulant
+
+691
+00:42:25,450 --> 00:42:28,210
+due to recent knee
+replacement surgery.
+
+692
+00:42:28,210 --> 00:42:31,190
+What is the potential
+adverse drug effect
+
+693
+00:42:31,190 --> 00:42:32,930
+that could result
+from this drug-drug
+
+694
+00:42:32,930 --> 00:42:36,070
+interaction. So you know
+what platelets do. So
+
+695
+00:42:36,070 --> 00:42:40,050
+an antiplatelet reduces
+what platelets do,
+
+696
+00:42:40,050 --> 00:42:44,650
+and an anticoagulant
+reduces coagulation.
+
+697
+00:42:46,410 --> 00:42:48,790
+So this is
+pharmacodynamic, an
+
+698
+00:42:48,790 --> 00:42:51,050
+additive or synergistic
+effect that can
+
+699
+00:42:51,050 --> 00:42:53,730
+lead to potentially
+serious bleeding,
+
+700
+00:42:53,730 --> 00:42:56,870
+including
+hemorrhagic ******.
+
+701
+00:43:01,750 --> 00:43:04,170
+Patient with several
+comorbidities treated
+
+702
+00:43:04,170 --> 00:43:06,810
+with various drugs is
+evaluated for an oral
+
+703
+00:43:06,810 --> 00:43:11,110
+antiviral drug that
+contains a potent CYP3A4
+
+704
+00:43:11,110 --> 00:43:13,650
+inhibitor for the
+treatment of COVID-19.
+
+705
+00:43:13,970 --> 00:43:17,730
+What effects may be
+anticipated when the
+
+706
+00:43:17,730 --> 00:43:19,790
+antiviral is taken
+together with the
+
+707
+00:43:19,790 --> 00:43:22,790
+patient's chronic
+medications? So I didn't
+
+708
+00:43:22,790 --> 00:43:24,650
+mention what the
+chronic medications
+
+709
+00:43:24,650 --> 00:43:28,250
+are. We're talking
+about the potential.
+
+710
+00:43:28,490 --> 00:43:30,830
+Depending on what
+the patient is
+
+711
+00:43:30,830 --> 00:43:33,170
+taking, we always
+need to be thinking
+
+712
+00:43:33,170 --> 00:43:35,590
+about that first
+and then checking.
+
+713
+00:43:36,990 --> 00:43:39,250
+This is a pharmacokinetic
+
+714
+00:43:39,250 --> 00:43:41,870
+metabolism mechanism.
+
+715
+00:43:42,230 --> 00:43:44,810
+Inhibiting the metabolism
+of the concurrent
+
+716
+00:43:44,810 --> 00:43:48,450
+drugs that are CYP3A4
+substrates can lead to
+
+717
+00:43:48,450 --> 00:43:51,050
+elevated blood levels
+of the substrate drugs
+
+718
+00:43:51,050 --> 00:43:54,110
+and increase the risk
+of adverse effects.
+
+719
+00:43:55,650 --> 00:43:57,690
+What can the
+prescriber do to
+
+720
+00:43:57,690 --> 00:43:59,750
+mitigate the potential
+adverse effects
+
+721
+00:43:59,750 --> 00:44:01,820
+of this drug
+-drug interaction.
+
+722
+00:44:04,690 --> 00:44:07,070
+Concomitant use of
+many other medications
+
+723
+00:44:07,070 --> 00:44:10,470
+with this particular
+oral COVID-19 antiviral
+
+724
+00:44:10,470 --> 00:44:13,210
+drug should be avoided.
+This happens to be
+
+725
+00:44:13,210 --> 00:44:17,550
+a so-called black box
+warning from the FDA.
+
+726
+00:44:17,880 --> 00:44:20,190
+Prescribers should
+refer to published drug
+
+727
+00:44:20,190 --> 00:44:23,030
+interaction information
+for prescribing
+
+728
+00:44:23,030 --> 00:44:26,550
+guidance. So what this
+prescribing guidance will
+
+729
+00:44:26,550 --> 00:44:29,450
+tell you is whether
+or not the drug can be
+
+730
+00:44:29,450 --> 00:44:34,230
+given together, possibly
+dose adjustment.
+
+731
+00:44:34,230 --> 00:44:36,490
+And if the drugs can't
+be given together,
+
+732
+00:44:36,490 --> 00:44:39,970
+then you're going to
+have to have knowledge
+
+733
+00:44:39,970 --> 00:44:43,750
+to recognize what
+alternatives there may be.
+
+734
+00:44:44,670 --> 00:44:48,150
+An 87-year-old patient
+with compensated
+
+735
+00:44:48,150 --> 00:44:50,690
+congestive heart failure
+takes a medication
+
+736
+00:44:50,690 --> 00:44:54,390
+that is a p-glycoprotein
+substrate has a narrow
+
+737
+00:44:54,390 --> 00:44:57,410
+therapeutic window
+and a potential for
+
+738
+00:44:57,410 --> 00:45:00,790
+serious toxicity notice
+those three features
+
+739
+00:45:00,790 --> 00:45:05,210
+p-glycoprotein efflux
+narrow therapeutic
+
+740
+00:45:05,210 --> 00:45:09,850
+window potential for
+serious toxicity she's
+
+741
+00:45:10,050 --> 00:45:13,810
+evaluated for antibiotic
+therapy for bacterial
+
+742
+00:45:13,810 --> 00:45:16,950
+lung infection. The
+preferred drug is a
+
+743
+00:45:16,950 --> 00:45:19,870
+P-glycoprotein
+inhibitor. What is the
+
+744
+00:45:19,870 --> 00:45:22,510
+potential effect of this
+drug-drug interaction?
+
+745
+00:45:24,210 --> 00:45:27,030
+So this is
+pharmacokinetic again.
+
+746
+00:45:27,550 --> 00:45:30,750
+Remembering that P
+-glycoprotein is expressed
+
+747
+00:45:30,750 --> 00:45:34,830
+in the intestinal tract
+and it pushes drug
+
+748
+00:45:34,830 --> 00:45:39,670
+out of the endothelial,
+I mean the intestinal
+
+749
+00:45:39,670 --> 00:45:41,950
+epithelial cells
+back into the lumen.
+
+750
+00:45:41,950 --> 00:45:48,010
+It's located in the
+liver at the area where
+
+751
+00:45:48,010 --> 00:45:50,930
+drug gets pushed into
+the biliary system,
+
+752
+00:45:50,930 --> 00:45:53,750
+which then goes back
+into the intestine.
+
+753
+00:45:54,470 --> 00:45:57,070
+And it's naturally
+at the blood
+
+754
+00:45:57,070 --> 00:45:58,430
+-brain barrier,
+but that's not
+
+755
+00:45:58,430 --> 00:45:59,970
+what we're
+talking about now.
+
+756
+00:45:59,990 --> 00:46:03,270
+And in the kidneys.
+
+757
+00:46:03,270 --> 00:46:05,710
+So it's located
+in nephrons,
+
+758
+00:46:05,710 --> 00:46:08,230
+and it actually
+pushes drug
+
+759
+00:46:08,230 --> 00:46:11,090
+into the nephron
+for excretion.
+
+760
+00:46:12,170 --> 00:46:16,690
+So by blocking p
+-glycoprotein, we are
+
+761
+00:46:16,690 --> 00:46:20,240
+reducing all that efflux
+activity, which can
+
+762
+00:46:20,240 --> 00:46:25,050
+increase the amount
+of drug that gets
+
+763
+00:46:25,050 --> 00:46:28,710
+into the systemic
+system, increasing blood
+
+764
+00:46:28,710 --> 00:46:31,390
+levels. this drug has
+a narrow therapeutic
+
+765
+00:46:31,390 --> 00:46:34,830
+window and a high
+potential for toxicity.
+
+766
+00:46:34,830 --> 00:46:39,090
+So even a small
+increase in blood levels
+
+767
+00:46:39,090 --> 00:46:43,030
+can significantly
+increase the risk of
+
+768
+00:46:43,030 --> 00:46:46,550
+adverse, actually an
+adverse drug event.
+
+769
+00:46:49,990 --> 00:46:53,430
+A 57-year-old patient
+with long-standing
+
+770
+00:46:53,430 --> 00:46:55,890
+type 2 diabetes
+mellitus takes an ACE
+
+771
+00:46:55,890 --> 00:46:58,370
+inhibitor, an angiotensin
+-converting enzyme
+
+772
+00:46:58,370 --> 00:47:03,730
+inhibitor, for its what
+is called reno-protective
+
+773
+00:47:03,730 --> 00:47:07,130
+effects, reno
+referring to kidney, by
+
+774
+00:47:07,130 --> 00:47:10,130
+reducing glomerular
+filtration pressure,
+
+775
+00:47:10,710 --> 00:47:14,390
+which, in turn,
+reduces mechanical
+
+776
+00:47:14,390 --> 00:47:17,350
+stress on the
+glomerular capillaries.
+
+777
+00:47:18,120 --> 00:47:20,350
+Patient education,
+which of course would
+
+778
+00:47:20,350 --> 00:47:23,050
+be an easy-to-understand
+language, includes
+
+779
+00:47:23,050 --> 00:47:25,470
+the caution that
+the patient should
+
+780
+00:47:25,470 --> 00:47:28,390
+not take any over-the
+-counter pain medications
+
+781
+00:47:28,390 --> 00:47:31,550
+known as NSAIDs
+like ibuprofen or
+
+782
+00:47:31,550 --> 00:47:35,270
+Aleve that also decrease
+glomerular filtration
+
+783
+00:47:35,270 --> 00:47:40,530
+pressure. So we
+have the medication
+
+784
+00:47:40,530 --> 00:47:45,470
+prescribed medication
+that's reducing
+
+785
+00:47:45,470 --> 00:47:48,970
+glomerular filtration
+pressure and the painkiller
+
+786
+00:47:48,970 --> 00:47:51,370
+that's reducing
+glomerular filtration
+
+787
+00:47:51,370 --> 00:47:53,970
+pressure. So what
+do you think is the
+
+788
+00:47:53,970 --> 00:47:56,170
+potential effect of
+this drug interaction?
+
+789
+00:47:58,600 --> 00:48:01,460
+Well, this is a drug
+disease interaction.
+
+790
+00:48:01,470 --> 00:48:04,470
+Number one, the patient
+has long-standing
+
+791
+00:48:04,470 --> 00:48:08,150
+diabetes mellitus, and
+that is the disease.
+
+792
+00:48:08,190 --> 00:48:11,350
+The NSAID on its
+own can increase the
+
+793
+00:48:11,350 --> 00:48:13,710
+risk of kidney injury
+in these patients.
+
+794
+00:48:14,290 --> 00:48:17,990
+And it's a pharmacodynamic
+interaction
+
+795
+00:48:18,590 --> 00:48:21,630
+because of the
+synergistic effects
+
+796
+00:48:21,630 --> 00:48:24,030
+of the NSAID and
+the ACE inhibitor,
+
+797
+00:48:24,030 --> 00:48:26,590
+the synergistic
+negative effects,
+
+798
+00:48:26,770 --> 00:48:29,290
+on glomerular
+filtration rate,
+
+799
+00:48:29,290 --> 00:48:31,370
+which could lead
+to acute kidney
+
+800
+00:48:31,370 --> 00:48:33,810
+injury in the
+vulnerable patient.
+
+801
+00:48:43,050 --> 00:48:44,290
+Last question.
+
+802
+00:48:47,190 --> 00:48:50,210
+I think it's the last
+question. A patient
+
+803
+00:48:50,210 --> 00:48:52,370
+with hypercholesterolemia
+who has not
+
+804
+00:48:52,370 --> 00:48:55,010
+achieved goal lipid
+levels with statin
+
+805
+00:48:55,010 --> 00:48:57,910
+therapy agrees to the
+addition of a bile acid
+
+806
+00:48:57,910 --> 00:49:00,530
+sequestrant, which
+is a resin that forms
+
+807
+00:49:00,530 --> 00:49:04,130
+a complex with bile
+acids in the gut.
+
+808
+00:49:04,330 --> 00:49:07,710
+The drug bile acid's
+complex is excreted in
+
+809
+00:49:07,710 --> 00:49:10,650
+the feces. The patient
+is advised to take
+
+810
+00:49:10,650 --> 00:49:13,050
+the statins several
+hours after the resin
+
+811
+00:49:13,050 --> 00:49:18,210
+because the resin can
+also sequester drugs.
+
+812
+00:49:18,410 --> 00:49:20,650
+Why separate the
+administration
+
+813
+00:49:20,650 --> 00:49:23,130
+of the two drugs
+by several hours?
+
+814
+00:49:26,830 --> 00:49:29,450
+This is pharmacokinetic,
+obviously.
+
+815
+00:49:30,710 --> 00:49:33,030
+When taken at the same
+time or near the same
+
+816
+00:49:33,030 --> 00:49:37,430
+time, the resin will
+sequester many drugs,
+
+817
+00:49:37,490 --> 00:49:40,510
+not only bile acids,
+preventing absorption
+
+818
+00:49:40,510 --> 00:49:42,470
+and resulting in
+reduced blood levels and
+
+819
+00:49:42,470 --> 00:49:44,830
+reduced efficacy of
+the ****** absorbed
+
+820
+00:49:44,830 --> 00:49:48,590
+drugs such as statin.
+This is a situation that
+
+821
+00:49:48,590 --> 00:49:52,170
+can be overcome by
+separating the dosing
+
+822
+00:49:52,170 --> 00:49:54,890
+of the two drugs. So
+the cholesteiromene
+
+823
+00:49:54,890 --> 00:49:58,090
+has a chance to move
+through the gut before
+
+824
+00:49:58,090 --> 00:50:00,810
+the statin is taken.
+And the statin will be
+
+825
+00:50:00,810 --> 00:50:04,690
+absorbed in the proximal
+small intestine.
+
+826
+00:50:10,790 --> 00:50:12,370
+And now our summary.
+
+827
+00:50:13,930 --> 00:50:16,030
+Drug interactions
+occur when one drug
+
+828
+00:50:16,030 --> 00:50:18,130
+modifies the actions
+of another drug.
+
+829
+00:50:18,130 --> 00:50:20,270
+Drug interactions
+can result from
+
+830
+00:50:20,270 --> 00:50:22,090
+pharmacokinetic
+alterations,
+
+831
+00:50:22,090 --> 00:50:24,390
+pharmacodynamic changes,
+or a combination.
+
+832
+00:50:24,970 --> 00:50:28,150
+Pharmacodynamic
+characteristics of the
+
+833
+00:50:28,150 --> 00:50:31,010
+different drugs
+administered can lead to
+
+834
+00:50:31,010 --> 00:50:33,830
+additive synergistic or
+antagonistic effects.
+
+835
+00:50:34,150 --> 00:50:36,450
+Pharmacokinetic
+interactions are related
+
+836
+00:50:36,450 --> 00:50:38,230
+to absorption
+distribution metabolism
+
+837
+00:50:38,230 --> 00:50:41,710
+excretion and may
+increase or decrease
+
+838
+00:50:41,710 --> 00:50:43,830
+blood levels depending
+on what's actually
+
+839
+00:50:43,830 --> 00:50:45,830
+happening, depending
+on the mechanism.
+
+840
+00:50:46,210 --> 00:50:49,590
+Strong inducers
+of CYP3A4 and P
+
+841
+00:50:49,590 --> 00:50:52,130
+-glycoprotein include
+carbamazepine,
+
+842
+00:50:52,270 --> 00:50:54,560
+phenobarbital, phenytoin,
+
+843
+00:50:54,560 --> 00:50:56,010
+rifampin, and
+St. John's Wort.
+
+844
+00:50:58,080 --> 00:51:00,550
+CYP1A2 isoenzymes
+are induced by
+
+845
+00:51:00,550 --> 00:51:02,870
+tobacco and also
+********* smoking.
+
+846
+00:51:03,270 --> 00:51:06,370
+Clinically relevant
+CYP3A4 and p
+
+847
+00:51:06,370 --> 00:51:09,350
+-glycoprotein inhibitors
+include cimetidine,
+
+848
+00:51:09,470 --> 00:51:11,470
+the macrolite
+antibiotics,
+
+849
+00:51:11,470 --> 00:51:13,570
+erythromycin and
+clarithromycin,
+
+850
+00:51:13,920 --> 00:51:15,590
+azole antifungals,
+
+851
+00:51:16,090 --> 00:51:17,190
+ritonavir,
+
+852
+00:51:17,710 --> 00:51:21,210
+grapefruit juice,
+and many more.
+
+853
+00:51:21,980 --> 00:51:23,730
+Exaggerated drug
+effects and other
+
+854
+00:51:23,730 --> 00:51:26,350
+toxicities, as well
+as reduced efficacy,
+
+855
+00:51:26,350 --> 00:51:30,050
+can all lead to
+adverse drug events.
+
+856
+00:51:30,900 --> 00:51:33,210
+And I separated
+this out in a little
+
+857
+00:51:33,210 --> 00:51:35,010
+chart for you,
+a flow diagram.
+
+858
+00:51:36,610 --> 00:51:38,790
+And here are the
+test your knowledge
+
+859
+00:51:38,790 --> 00:51:42,310
+questions. And
+that concludes
+
+860
+00:51:42,310 --> 00:51:45,650
+the drug
+interactions lecture.

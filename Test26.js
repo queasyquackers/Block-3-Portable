@@ -11,7 +11,7 @@ window.L132 = [
       { "text": "Gluconeogenesis", "explanation": "This is the generation of glucose, not its consumption." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L132_page-0003.jpg",
+    "slideImagePath": "images/L132_slide_3.jpg",
     "slideImageDescription": "The slide displays the 'Hallmarks of Cancer' wheel. One of the wedges is labeled 'Altered metabolism'. This visual context connects the concept of the Warburg effect (aerobic glycolysis) to the fundamental hallmarks that distinguish cancer cells from normal cells."
   },
   {
@@ -26,7 +26,7 @@ window.L132 = [
       { "text": "Inhibiting apoptosis", "explanation": "This involves Bcl-2 family proteins." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L132_page-0003.jpg",
+    "slideImagePath": "images/L132_slide_3.jpg",
     "slideImageDescription": "The slide shows the 'Hallmarks of Cancer' wheel. One of the wedges represents 'Immortality' or 'Limitless replication', which corresponds to the mechanism of telomerase reactivation described in the question."
   },
   {
@@ -41,7 +41,7 @@ window.L132 = [
       { "text": "Telomerase gene", "explanation": "Relates to immortality." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L132_page-0016.jpg",
+    "slideImagePath": "images/L132_slide_3.jpg",
     "slideImageDescription": "The slide features a diagram of a car with the accelerator pedal pressed down, illustrating the concept of a 'gain-of-function' mutation in a proto-oncogene. This analogy explains how oncogenes drive unregulated cell growth like a car with a stuck gas pedal."
   },
   {
@@ -56,7 +56,7 @@ window.L132 = [
       { "text": "A cloaking device", "explanation": "Metaphor for immune evasion." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L132_page-0019.jpg",
+    "slideImagePath": "images/L132_slide_8.jpg",
     "slideImageDescription": "The slide displays an image of a car's brake pedals, illustrating the 'two-hit hypothesis' for tumor suppressor genes. It visually represents the concept that both alleles (brakes) must be dysfunctional for the cell cycle to proceed unchecked."
   },
   {
@@ -71,7 +71,7 @@ window.L132 = [
       { "text": "Facilitating invasion", "explanation": "MMPs facilitate invasion." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L132_page-0003.jpg",
+    "slideImagePath": "images/L132_slide_3.jpg",
     "slideImageDescription": "The 'Hallmarks of Cancer' wheel includes 'Evasion of growth suppressors'. p53 is a classic tumor suppressor mentioned in the text as the guardian that arrests the cell cycle or induces apoptosis to prevent the propagation of mutations."
   },
   {
@@ -86,7 +86,7 @@ window.L132 = [
       { "text": "Disrupting cell adhesion", "explanation": "E-cadherin loss disrupts adhesion." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L132_page-0003.jpg",
+    "slideImagePath": "images/L132_slide_3.jpg",
     "slideImageDescription": "The 'Hallmarks of Cancer' wheel features a wedge for 'Evasion of apoptosis'. The text explains that overexpression of anti-apoptotic proteins like Bcl-2 allows cancer cells to bypass the normal cell suicide pathways."
   },
   {
@@ -101,7 +101,7 @@ window.L132 = [
       { "text": "Non-homologous end joining", "explanation": "Another DSB repair mechanism, but BRCA is key for homologous recombination." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L132_page-0024.jpg",
+    "slideImagePath": "images/L132_slide_9.jpg",
     "slideImageDescription": "The slide presents a table titled 'Double-strand DNA repair mechanisms and clinical implications'. It explicitly links 'Homologous recombination repair (HRR)' to the key proteins 'BRCA1 and BRCA2' and the disease connection 'Familial breast cancers'."
   },
   {
@@ -116,7 +116,7 @@ window.L132 = [
       { "text": "Senescence", "explanation": "Permanent cell cycle arrest." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L132_page-0041.jpg",
+    "slideImagePath": "images/L132_slide_3.jpg",
     "slideImageDescription": "The diagram illustrates 'Clonal Expansion' and the development of 'Tumor Subclones'. It visualizes how an initial transformed cell divides and acquires new mutations, creating a heterogeneous tumor population."
   },
   {
@@ -131,7 +131,7 @@ window.L132 = [
       { "text": "Angiogenic capacity", "explanation": "Angiogenesis supports growth." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L132_page-0037.jpg",
+    "slideImagePath": "images/L132_slide_2.jpg",
     "slideImageDescription": "The slide displays 'Figure 1' which visually depicts the concept of 'Doubling Time' showing cells dividing. The accompanying text explains that doubling time correlates with the aggressiveness of the tumor."
   },
   {
@@ -146,7 +146,7 @@ window.L132 = [
       { "text": "Differentiation", "explanation": "Degree of resemblance to normal tissue." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L132_page-0039.jpg",
+    "slideImagePath": "images/L132_slide_3.jpg",
     "slideImageDescription": "The diagram shows the cell cycle phases (G0, G1, S, G2, M). The text explains that the 'growth fraction' is the amount of tumor cells in the proliferative phase and notes that cells enter G0 as the tumor grows."
   },
   {
@@ -161,7 +161,7 @@ window.L132 = [
       { "text": "Fibronectin", "explanation": "ECM glycoprotein." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L132_page-0045.jpg",
+    "slideImagePath": "images/L132_slide_3.jpg",
     "slideImageDescription": "The diagram 'Figure 5' illustrates cell junctions. It specifically labels 'E-cadherin' and 'catenins' as the proteins involved in intracellular linkage, which must be disrupted for invasion to occur."
   },
   {
@@ -176,7 +176,7 @@ window.L132 = [
       { "text": "Kinases", "explanation": "Phosphorylate proteins." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L132_page-0046.jpg",
+    "slideImagePath": "images/L132_slide_2.jpg",
     "slideImageDescription": "The diagram 'Figure 6' depicts the steps of invasion. It shows tumor cells breaking through the basement membrane. The text explains this is done by 'cleaving, using proteases' secreted by the tumor cells."
   },
   {
@@ -191,7 +191,7 @@ window.L132 = [
       { "text": "Opsonization", "explanation": "Immune marking for phagocytosis." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L132_page-0044.jpg",
+    "slideImagePath": "images/L132_slide_2.jpg",
     "slideImageDescription": "The diagram 'Figure 4' outlines the steps of metastasis. Step 2 is visually depicted as tumor cells entering the blood vessel, labeled as 'Intravasation'."
   },
   {
@@ -236,7 +236,7 @@ window.L132 = [
       { "text": "p53", "explanation": "Intracellular protein." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L132_page-0052.jpg",
+    "slideImagePath": "images/L132_slide_8.jpg",
     "slideImageDescription": "The slide 'Figure 9' visually depicts 'Loss of MHC Molecules'. It shows a T cell failing to recognize a tumor cell because the MHC molecule is missing."
   },
   {
@@ -251,7 +251,7 @@ window.L132 = [
       { "text": "Lack of co-stimulation", "explanation": "Loss of co-stimulatory signals." }
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L132_page-0050.jpg",
+    "slideImagePath": "images/L132_slide_8.jpg",
     "slideImageDescription": "The slide 'Figure 7' illustrates 'Antigen Masking'. It shows a thick coating (glycocalyx) on the tumor cell preventing the immune cell from accessing the antigens."
   },
   {
@@ -266,7 +266,7 @@ window.L132 = [
       { "text": "VEGF", "explanation": "Angiogenesis (though has some immune effects, TGF-beta is the classic immunosuppressant)." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L132_page-0056.jpg",
+    "slideImagePath": "images/L132_slide_6.jpg",
     "slideImageDescription": "The slide 'Figure 12' illustrates 'Immunosuppression'. It shows the tumor cell secreting TGF-beta, which inhibits the immune cell."
   },
   {
@@ -296,7 +296,7 @@ window.L132 = [
       { "text": "Epstein-Barr Virus", "explanation": "Lymphomas." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L132_page-0080.jpg",
+    "slideImagePath": "images/L132_slide_8.jpg",
     "slideImageDescription": "The slide 'Figure 4' displays a liver with cirrhosis and tumor nodules. The text discusses Hepatitis B and C, stating that 'Chronic infection results in cirrhosis... and eventually into hepatocellular carcinoma'."
   },
   {
@@ -311,7 +311,7 @@ window.L132 = [
       { "text": "Integrating into the Myc gene", "explanation": "Not the primary mechanism." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L132_page-0082.jpg",
+    "slideImagePath": "images/L132_slide_1.jpg",
     "slideImageDescription": "The text explicitly states: 'E6 has an affinity for and destroys p53. E7 does the same but with Rb.' This describes the molecular mechanism of HPV oncogenesis."
   },
   {
@@ -326,7 +326,7 @@ window.L132 = [
       { "text": "HHV-8", "explanation": "Kaposi." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L132_page-0076.jpg",
+    "slideImagePath": "images/L132_slide_3.jpg",
     "slideImageDescription": "The slide 'Figure 2' shows a child with a large mandibular mass, characteristic of African Burkitt lymphoma. The text states: 'The African subtype... is virtually always positive for EBV'."
   },
   {
@@ -341,7 +341,7 @@ window.L132 = [
       { "text": "Tat", "explanation": "HIV." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L132_page-0084.jpg",
+    "slideImagePath": "images/L132_slide_8.jpg",
     "slideImageDescription": "The text discusses HTLV-1 and highlights the 'Tax oncoprotein', noting that it 'stimulates new leukocyte production' and 'immortalizes T lymphocytes'."
   },
   {
@@ -371,7 +371,7 @@ window.L132 = [
       { "text": "EBV", "explanation": "Lymphoma." }
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L132_page-0089.jpg",
+    "slideImagePath": "images/L132_slide_3.jpg",
     "slideImageDescription": "The slide 'Figure 5' shows the life cycle of Schistosoma. The text notes: 'S haematobium has an affinity for the bladder... Chronic infection results in... bladder cancer'."
   },
   {
@@ -401,7 +401,7 @@ window.L132 = [
       { "text": "Thyroid cancer", "explanation": "Lung/Bone." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L132_page-0047.jpg",
+    "slideImagePath": "images/L132_slide_3.jpg",
     "slideImageDescription": "The text in the 'Extravasation' section mentions: 'One example of distant metastasis is the predilection of lung cancer to metastasize to the adrenal glands'."
   },
   {
@@ -416,7 +416,7 @@ window.L132 = [
       { "text": "Insulin", "explanation": "Causes hypoglycemia." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L132_page-0113.jpg",
+    "slideImagePath": "images/L132_slide_11.jpg",
     "slideImageDescription": "The slide header 'Syndrome of Inappropriate Antidiuretic Hormone' appears in the Paraneoplastic Syndromes section. The review question on page 128 (Q3) also references SIADH in the context of paraneoplastic symptoms."
   },
   {
@@ -431,7 +431,7 @@ window.L132 = [
       { "text": "Pyoderma gangrenosum", "explanation": "Ulcerative skin condition." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L132_page-0115.jpg",
+    "slideImagePath": "images/L132_slide_11.jpg",
     "slideImageDescription": "The slide header 'Acanthosis Nigricans' is listed under paraneoplastic syndromes affecting the skin. The review question on page 126 (Q2) links gastric adenocarcinoma to Acanthosis nigricans."
   },
   {
@@ -446,7 +446,7 @@ window.L132 = [
       { "text": "Melanoma", "explanation": "Less common." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L132_page-0118.jpg",
+    "slideImagePath": "images/L132_slide_11.jpg",
     "slideImageDescription": "The slide displays the header 'Sign of Leser-Trélat'. The context of review questions links GI malignancies to these skin findings."
   },
   {
@@ -461,7 +461,7 @@ window.L132 = [
       { "text": "Double-stranded DNA", "explanation": "Lupus." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L132_page-0103.jpg",
+    "slideImagePath": "images/L132_slide_3.jpg",
     "slideImageDescription": "The slide header 'Paraneoplastic Syndromes That Affect the Nervous System' introduces these conditions. While the specific mechanism text is sparse in the PDF, this is the classic association taught under this heading."
   },
   {
@@ -476,7 +476,7 @@ window.L132 = [
       { "text": "ACTH", "explanation": "Cushing syndrome." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L132_page-0129.jpg",
+    "slideImagePath": "images/L132_slide_6.jpg",
     "slideImageDescription": "Review Question 5 on the slide asks: 'Parathyroid hormone-related protein (PTHrP) is most commonly produced by which of the following cancers?'. The answer is Squamous cell carcinoma of the lung."
   },
   {
@@ -491,7 +491,7 @@ window.L132 = [
       { "text": "Thyroid gland", "explanation": "Thyroiditis." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L132_page-0104.jpg",
+    "slideImagePath": "images/L132_slide_11.jpg",
     "slideImageDescription": "The slide 'Anti-NMDA Receptor Encephalitis' falls under nervous system syndromes. The review question on page 106 asks 'What tumor is most commonly associate with anti-NMDA receptor encephalitis?' pointing to the teratoma link."
   },
   {
@@ -506,7 +506,7 @@ window.L132 = [
       { "text": "Breast cancer", "explanation": "Lytic/blastic mets." }
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L132_page-0120.jpg",
+    "slideImagePath": "images/L132_slide_3.jpg",
     "slideImageDescription": "The slide title is 'Hypertrophic Osteoarthropathy'. Review Question 4 on page 128 describes a patient with COPD, clubbing, and joint swelling, asking for the associated disease, which is Lung Cancer."
   },
   {
@@ -521,7 +521,7 @@ window.L132 = [
       { "text": "Teratomas", "explanation": "Germ cell tumor." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L132_page-0024.jpg",
+    "slideImagePath": "images/L132_slide_10.jpg",
     "slideImageDescription": "The slide text states: 'These cells are known as subclones... tumor subclones are one of the reasons why treating cancer can be so difficult'."
   },
   {
@@ -536,7 +536,7 @@ window.L132 = [
       { "text": "Mediates adhesion", "explanation": "Integrins/Cadherins." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L132_page-0013.jpg",
+    "slideImagePath": "images/L132_slide_3.jpg",
     "slideImageDescription": "The text 'Sustained Angiogenesis' states: 'One of the most common angiogenesis signals upregulated by cancer cells is vascular endothelial growth factor (VEGF)'."
   },
   {
@@ -581,7 +581,7 @@ window.L132 = [
       { "text": "Norovirus", "explanation": "Diarrhea." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L132_page-0080.jpg",
+    "slideImagePath": "images/L132_slide_9.jpg",
     "slideImageDescription": "The slide on Hepatitis B states: 'HBV can incorporate some of its DNA into the DNA of a host hepatocyte... These changes can cause the development of hepatocellular carcinoma'."
   },
   {
@@ -596,7 +596,7 @@ window.L132 = [
       { "text": "CML", "explanation": "Philadelphia chromosome." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L132_page-0073.jpg",
+    "slideImagePath": "images/L132_slide_2.jpg",
     "slideImageDescription": "The slide features a histology image labeled 'Reed-Sternberg cell' and the text on the previous page describes them as 'owl eye' cells typical of Hodgkin lymphoma."
   }
 ];

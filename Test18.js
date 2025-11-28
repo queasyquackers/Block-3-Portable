@@ -11,7 +11,7 @@ window.L124 = [
       {"text": "It is less nephrotoxic when given orally compared to IV.", "explanation": "This is incorrect. It's not given orally because it's *less* toxic, but because it is *not absorbed* and thus avoids systemic toxicity altogether while achieving a local effect."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_page-0011.jpg",
+    "slideImagePath": "images/L124_slide_11.jpg",
     "slideImageDescription": "The slide titled 'Key points' details the therapeutic uses of various aminoglycosides. The bullet point for Neomycin explicitly states: 'Oral neomycin, which is not absorbed from the GI tract, is approved... to eliminate ammonia-producing bacteria in the management of hepatic encephalopathy.' This text directly confirms the rationale for using the oral formulation in this specific condition."
   },
   {
@@ -26,7 +26,7 @@ window.L124 = [
       {"text": "It will increase the drug's oral bioavailability.", "explanation": "This is incorrect. Aminoglycosides are not given orally for systemic infections as they are not absorbed."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L124_page-0016.jpg",
+    "slideImagePath": "images/L124_slide_16.jpg",
     "slideImageDescription": "The slide 'PK Properties of Aminoglycosides' outlines the elimination kinetics. It states that elimination is via 'Rapid renal elimination (glomerular filtration)'. It provides a specific comparison for half-life: 't1/2 normally: 2-3 hours' versus 't1/2 significant renal impairment: 24-48 hrs'. This data point directly supports the need for dose adjustment due to the prolonged half-life in renal failure."
   },
   {
@@ -41,7 +41,7 @@ window.L124 = [
       {"text": "The drug will be unable to leave the plasma, decreasing Vd.", "explanation": "This is incorrect. The drug is polar but distributes well in the extracellular fluid."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_page-0016.jpg",
+    "slideImagePath": "images/L124_slide_8.jpg",
     "slideImageDescription": "On the 'PK Properties of Aminoglycosides' slide, a prominent text box labeled 'THINK:' explicitly states: '↑ Vd in edema, fluid overload'. The slide body reinforces this by noting the drugs are 'Distributed in extracellular fluid', explaining why an increase in total body water (anasarca) would expand the volume of distribution."
   },
   {
@@ -56,7 +56,7 @@ window.L124 = [
       {"text": "Red blood cells and bone marrow", "explanation": "This is incorrect. Bone marrow suppression is not a characteristic toxicity of this class."}
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L124_page-0016.jpg",
+    "slideImagePath": "images/L124_slide_12.jpg",
     "slideImageDescription": "The slide lists the distribution properties of aminoglycosides. It specifically notes: 'High concentrations accumulate in renal tubular cells and endolymph and perilymph of inner ear'. A 'THINK: TOXICITIES' box adjacent to this point visually reinforces the direct connection between this specific tissue accumulation and the drug's primary adverse effect profile."
   },
   {
@@ -71,7 +71,7 @@ window.L124 = [
       {"text": "It prevents the drug from crossing the placenta.", "explanation": "This is incorrect. Dosing strategy does not prevent the drug from crossing the placenta."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L124_page-0018.jpg",
+    "slideImagePath": "images/L124_slide_18.jpg",
     "slideImageDescription": "The slide titled 'Applying aminoglycosides PK-PD profile' describes 'High-dose, extended interval dosing'. It explicitly lists the rationale: 'Enhanced efficacy compared to lower dose regimens' (due to concentration-dependent killing) and 'Associated with less nephrotoxicity'. This directly supports the clinical decision to use once-daily dosing for both efficacy and safety."
   },
   {
@@ -86,7 +86,7 @@ window.L124 = [
       {"text": "This regimen is required to achieve a high Cmax/MIC.", "explanation": "This is incorrect. This regimen results in a *lower* Cmax (peak) than once-daily dosing."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L124_page-0018.jpg",
+    "slideImagePath": "images/L124_slide_18.jpg",
     "slideImageDescription": "The slide discussing dosing strategies contains a crucial exception. While advocating for high-dose extended interval dosing generally, it explicitly states this is preferred 'but not for... treatment of infective endocarditis'. This exception is a critical clinical pearl for aminoglycoside dosing, validating the use of the traditional regimen in this specific scenario."
   },
   {
@@ -101,7 +101,7 @@ window.L124 = [
       {"text": "Synergistic killing", "explanation": "This is incorrect. Synergy describes the interaction of two drugs, not the intrinsic PD property of a single drug."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L124_page-0018.jpg",
+    "slideImagePath": "images/L124_slide_18.jpg",
     "slideImageDescription": "The slide 'Applying aminoglycosides PK-PD profile' defines 'Peak / MIC (Cmax/MIC)' as 'Concentration-dependent killing'. It elaborates that '↑ [Drug] -> ↑ rate and ↑ extent of bacterial killing'. This definition serves as the direct answer to the question regarding the pharmacodynamic property associated with peak concentration."
   },
   {
@@ -116,7 +116,7 @@ window.L124 = [
       {"text": "Bacteriostatic suppression", "explanation": "This is incorrect. While it is suppression, the specific term for this persistent effect is PAE."}
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L124_page-0018.jpg"
+    "slideImagePath": "images/L124_slide_8.jpg"
   },
   {
     "id": 9,
@@ -145,7 +145,7 @@ window.L124 = [
       {"text": "Penicillin-binding proteins (PBPs)", "explanation": "This is incorrect. This is the target of beta-lactam antibiotics."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_page-0020.jpg",
+    "slideImagePath": "images/L124_slide_20.jpg",
     "slideImageDescription": "The slide illustrates the 'Aminoglycoside-treated bacterial cell' with diagrams. The text clearly states: 'AGs bind the bacterial polysomes at the 16S rRNA on the 30S ribosome'. This explicitly identifies the molecular target and subunit, confirming the correct answer."
   },
   {
@@ -160,7 +160,7 @@ window.L124 = [
       {"text": "Disruption of the membrane, causing potassium efflux", "explanation": "This is incorrect. This describes the mechanism of daptomycin."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_page-0009.jpg",
+    "slideImagePath": "images/L124_slide_9.jpg",
     "slideImageDescription": "The slide 'Key points' explains the entry mechanism. It states AGs 'enter gram-negative bacteria across porins' and are then 'actively transported across the bacterial cytoplasmic membrane by an oxygen-dependent mechanism'. This sentence directly links the transport mechanism to oxygen, explaining why anaerobes (which lack this) are resistant."
   },
   {
@@ -175,7 +175,7 @@ window.L124 = [
       {"text": "Both drugs are needed to cause misreading of the mRNA.", "explanation": "This is incorrect. Only gentamicin causes misreading; ampicillin inhibits cell wall synthesis."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L124_page-0015.jpg",
+    "slideImagePath": "images/L124_slide_9.jpg",
     "slideImageDescription": "The slide discusses the spectrum of action. It notes that while AGs are active against aerobic gram-positive bacteria, they 'poorly penetrate thick cell wall'. It then explains that they are 'Administered with a cell wall inhibitor for enhanced uptake of the AG and synergistic effect', specifically citing 'gram-positive infections'. This confirms the mechanism of synergy."
   },
   {

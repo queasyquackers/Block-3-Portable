@@ -11,7 +11,7 @@ window.L133 = [
       { "text": "Endothelial cells", "explanation": "Endothelial cells can divide to form new blood vessels (angiogenesis)." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0004.jpg",
+    "slideImagePath": "images/L133_slide_4.jpg",
     "slideImageDescription": "The slide 'Cells of the Central Nervous System: NEURONS' states: 'almost all neurons produced before birth and almost entirely non-renewable... Neurodegeneration or neuronal injury... results in permanent loss'."
   },
   {
@@ -26,7 +26,7 @@ window.L133 = [
       { "text": "Nucleus", "explanation": "Contains DNA/RNA, stains." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0004.jpg",
+    "slideImagePath": "images/L133_slide_4.jpg",
     "slideImageDescription": "The slide mentions 'Nissl stain' in the context of neuronal cell bodies. The absence of Nissl substance in the axon is a key histological feature distinguishing it from dendrites and the soma."
   },
   {
@@ -41,7 +41,7 @@ window.L133 = [
       { "text": "Myelin sheath", "explanation": "Insulation." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0005.jpg",
+    "slideImagePath": "images/L133_slide_2.jpg",
     "slideImageDescription": "The slide 'Parts of a NEURON' identifies the Cell Body (Soma) as the 'Integration Zone' and 'Metabolic Center'."
   },
   {
@@ -56,7 +56,7 @@ window.L133 = [
       { "text": "Microtubule", "explanation": "Cytoskeletal element." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0005.jpg",
+    "slideImagePath": "images/L133_slide_6.jpg",
     "slideImageDescription": "The slide diagrams labeling 'Dendrites' as the 'Input Zone'."
   },
   {
@@ -71,7 +71,7 @@ window.L133 = [
       { "text": "Demyelination", "explanation": "White matter disease." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0006.jpg",
+    "slideImagePath": "images/L133_slide_6.jpg",
     "slideImageDescription": "The slide 'Parts of NEURONS: Dendrites & dendritic spines' states: 'Patients with Fragile X syndrome have increased numbers of spines on neocortical neuron dendrites'."
   },
   {
@@ -86,7 +86,7 @@ window.L133 = [
       { "text": "Axonal regeneration", "explanation": "CNS axons generally do not regenerate." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0006.jpg",
+    "slideImagePath": "images/L133_slide_6.jpg",
     "slideImageDescription": "The slide 'Parts of NEURONS: Dendrites & dendritic spines' states: 'Dendritic spines are decreased in neocortical neurons of patients w/ schizophrenia'."
   },
   {
@@ -101,7 +101,7 @@ window.L133 = [
       { "text": "Lysosomes", "explanation": "Degrade waste." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0007.jpg",
+    "slideImagePath": "images/L133_slide_7.jpg",
     "slideImageDescription": "The slide labels the 'Axon initial segment' as an 'area with large numbers of ion channels to initiate the action potential'."
   },
   {
@@ -116,7 +116,7 @@ window.L133 = [
       { "text": "Demyelination", "explanation": "Loss of myelin only." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0007.jpg",
+    "slideImagePath": "images/L133_slide_7.jpg",
     "slideImageDescription": "The slide includes a 'Clinical correlate' defining Wallerian degeneration as 'the process of degenerating of axon distal to injury'."
   },
   {
@@ -131,7 +131,7 @@ window.L133 = [
       { "text": "Nucleolus", "explanation": "Ribosome synthesis." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0008.jpg",
+    "slideImagePath": "images/L133_slide_8.jpg",
     "slideImageDescription": "The slide 'Axons: Nodes of Ranvier' states: 'CNTNAP2 gene encodes for a protein that is highly localized at the nodes of Ranvier... mutations causes Pitt-Hopkins syndrome'."
   },
   {
@@ -146,7 +146,7 @@ window.L133 = [
       { "text": "Synaptic vesicle", "explanation": "Presynaptic." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0009.jpg",
+    "slideImagePath": "images/L133_slide_9.jpg",
     "slideImageDescription": "The diagram of the chemical synapse labels the 'Postsynaptic density' on the 'Postsynaptic dendrite'."
   },
   {
@@ -161,7 +161,7 @@ window.L133 = [
       { "text": "Mitochondrial fusion", "explanation": "Organelle dynamics." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0010.jpg",
+    "slideImagePath": "images/L133_slide_10.jpg",
     "slideImageDescription": "The slide 'Electron micrograph of the chemical synapse' labels an 'Omega figure', representing vesicle fusion."
   },
   {
@@ -176,7 +176,7 @@ window.L133 = [
       { "text": "Neuromuscular", "explanation": "Peripheral." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0011.jpg",
+    "slideImagePath": "images/L133_slide_11.jpg",
     "slideImageDescription": "The slide 'Chemical Synapses' lists: 'Axo-axonic: Least common synapse'."
   },
   {
@@ -191,7 +191,7 @@ window.L133 = [
       { "text": "Clathrin", "explanation": "Endocytosis." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0012.jpg",
+    "slideImagePath": "images/L133_slide_6.jpg",
     "slideImageDescription": "The slide 'Electrical synapses' identifies the pore as a 'Connexon' made of 6 connexins."
   },
   {
@@ -206,7 +206,7 @@ window.L133 = [
       { "text": "Larger synaptic cleft", "explanation": "Electrical gap is smaller (3.5nm vs 20nm)." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0013.jpg",
+    "slideImagePath": "images/L133_slide_13.jpg",
     "slideImageDescription": "The slide 'Gap junctions & Electrical synapses' states: 'Fastest type of neural communication <1ms'."
   },
   {
@@ -221,7 +221,7 @@ window.L133 = [
       { "text": "Nucleolus", "explanation": "Ribosomes." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0014.jpg",
+    "slideImagePath": "images/L133_slide_14.jpg",
     "slideImageDescription": "The slide 'Neuronal Cilia' states: 'ARL13B gene mutation causes deficits in cilia development and Joubert Syndrome'."
   },
   {
@@ -236,7 +236,7 @@ window.L133 = [
       { "text": "Tubulin", "explanation": "Microtubule unit." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0014.jpg",
+    "slideImagePath": "images/L133_slide_4.jpg",
     "slideImageDescription": "The diagram 'Neuronal Cilia' labels 'Retrograde motor (e.g. Dynein)' moving 'to soma'."
   },
   {
@@ -251,7 +251,7 @@ window.L133 = [
       { "text": "1:50", "explanation": "Too few glia." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0015.jpg",
+    "slideImagePath": "images/L133_slide_16.jpg",
     "slideImageDescription": "The slide 'Glia: The other brain cells' states: 'Ratio of Glia to neurons is ~1:1'."
   },
   {
@@ -266,7 +266,7 @@ window.L133 = [
       { "text": "Synthesizing CSF", "explanation": "Choroid plexus does this." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0017.jpg",
+    "slideImagePath": "images/L133_slide_17.jpg",
     "slideImageDescription": "The slide 'Astrocytes' lists functions: 'structural partners at chemical synapses, capable of glutamate and K+ uptake'."
   },
   {
@@ -281,7 +281,7 @@ window.L133 = [
       { "text": "The ependymal cell", "explanation": "Ventricular lining." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0018.jpg",
+    "slideImagePath": "images/L133_slide_11.jpg",
     "slideImageDescription": "The slide 'The Tripartite Synapse' illustrates the Pre-synaptic, Post-synaptic, and Astrocyte components working together."
   },
   {
@@ -296,7 +296,7 @@ window.L133 = [
       { "text": "Desmin", "explanation": "Muscle marker." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0019.jpg",
+    "slideImagePath": "images/L133_slide_19.jpg",
     "slideImageDescription": "The slide states: 'Glial fibrillary acid protein (Gfap) is the gold standard molecular marker for reactive astrocytes and is used for detection of... astrocytoma'."
   },
   {
@@ -311,7 +311,7 @@ window.L133 = [
       { "text": "Tau", "explanation": "Dementia." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0019.jpg",
+    "slideImagePath": "images/L133_slide_19.jpg",
     "slideImageDescription": "The slide states: 'Mutation of the GFAP gene causes Alexander disease leukodystrophy'."
   },
   {
@@ -326,7 +326,7 @@ window.L133 = [
       { "text": "S100", "explanation": "Schwann cell/Astrocyte." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0020.jpg",
+    "slideImagePath": "images/L133_slide_16.jpg",
     "slideImageDescription": "The slide 'Microglia' shows immunofluorescence images labeled with 'Iba1' to visualize these cells."
   },
   {
@@ -341,7 +341,7 @@ window.L133 = [
       { "text": "Columnar", "explanation": "Epithelial shape." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0020.jpg",
+    "slideImagePath": "images/L133_slide_7.jpg",
     "slideImageDescription": "The slide shows the transition from 'Ramified' to 'Amoeboid' morphology in activated microglia."
   },
   {
@@ -356,7 +356,7 @@ window.L133 = [
       { "text": "Guiding axon growth", "explanation": "Radial glia." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0021.jpg",
+    "slideImagePath": "images/L133_slide_21.jpg",
     "slideImageDescription": "The slide 'In vivo imaging of microglia' mentions 'Synaptic pruning' as a function."
   },
   {
@@ -371,7 +371,7 @@ window.L133 = [
       { "text": "Forms the blood-brain barrier", "explanation": "Endothelial cells." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0022.jpg",
+    "slideImagePath": "images/L133_slide_8.jpg",
     "slideImageDescription": "The slide 'Oligodendrocytes' shows a single cell extending processes to wrap multiple axon segments."
   },
   {
@@ -386,7 +386,7 @@ window.L133 = [
       { "text": "Oligodendrocytes regenerate axons", "explanation": "Schwann cells support regeneration better than Oligodendrocytes." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0023.jpg",
+    "slideImagePath": "images/L133_slide_23.jpg",
     "slideImageDescription": "The slide compares them: 'Schwann cells envelop only one; oligos envelop more than one axon'."
   },
   {
@@ -401,7 +401,7 @@ window.L133 = [
       { "text": "Ki67", "explanation": "Proliferation." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0024.jpg",
+    "slideImagePath": "images/L133_slide_24.jpg",
     "slideImageDescription": "The slide 'Clinical correlates' states: 'Olig2 is a protein exclusively found in oligodendrocytes and is a marker for oligodendroglioma'."
   },
   {
@@ -416,7 +416,7 @@ window.L133 = [
       { "text": "Neurons", "explanation": "No." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0024.jpg",
+    "slideImagePath": "images/L133_slide_24.jpg",
     "slideImageDescription": "The slide mentions MOGAD as an 'Autoimmune disorder where patients have IgG against MOG... expressed in oligodendrocytes'."
   },
   {
@@ -431,7 +431,7 @@ window.L133 = [
       { "text": "Dura mater", "explanation": "Protection." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0025.jpg",
+    "slideImagePath": "images/L133_slide_25.jpg",
     "slideImageDescription": "The slide 'Non-neural & non-glial cells of the vasculature' lists 'Endothelial cells (vessels) - blood brain barrier'."
   },
   {
@@ -446,7 +446,7 @@ window.L133 = [
       { "text": "Ion channels", "explanation": "General term." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0025.jpg",
+    "slideImagePath": "images/L133_slide_25.jpg",
     "slideImageDescription": "The slide states: 'Pericytes (wrap around vessels and are in direct contact with endothelial cells via gap junctions'."
   },
   {
@@ -461,7 +461,7 @@ window.L133 = [
       { "text": "Lymphatics", "explanation": "Not primary regulators." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0026.jpg",
+    "slideImagePath": "images/L133_slide_26.jpg",
     "slideImageDescription": "The slide compares vessels, labeling the 'Smooth muscle cell in arteriole' vs 'Pericytes in venule'."
   },
   {
@@ -476,7 +476,7 @@ window.L133 = [
       { "text": "Magnesium", "explanation": "Blocker." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0027.jpg",
+    "slideImagePath": "images/L133_slide_27.jpg",
     "slideImageDescription": "The slide 'Vasomotion and Smooth muscle cell' states: 'calcium activity correlated with vasomotion'."
   },
   {
@@ -491,7 +491,7 @@ window.L133 = [
       { "text": "Microglia", "explanation": "Immune." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0028.jpg",
+    "slideImagePath": "images/L133_slide_28.jpg",
     "slideImageDescription": "The slide 'Non-neural & non-glial barrier cells' lists: 'Choroid plexus cells... important for cerebral spinal fluid production'."
   },
   {
@@ -506,7 +506,7 @@ window.L133 = [
       { "text": "Pericytes", "explanation": "Vessels." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0028.jpg",
+    "slideImagePath": "images/L133_slide_28.jpg",
     "slideImageDescription": "The slide lists: 'Ependymal cells of the ventricles - important for circulation of the cerebral spinal fluid'."
   },
   {
@@ -521,7 +521,7 @@ window.L133 = [
       { "text": "500", "explanation": "Too high." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0012.jpg",
+    "slideImagePath": "images/L133_slide_12.jpg",
     "slideImageDescription": "The slide 'Electrical synapses' states: '~30 disease due to connexin gene mutations'."
   },
   {
@@ -536,7 +536,7 @@ window.L133 = [
       { "text": "Tubulin", "explanation": "Microtubule." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0014.jpg",
+    "slideImagePath": "images/L133_slide_12.jpg",
     "slideImageDescription": "The diagram labels 'Anterograde motor (e.g. KIF3a)' moving 'to tip'."
   },
   {
@@ -551,7 +551,7 @@ window.L133 = [
       { "text": "Neurofilament", "explanation": "Filament." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0014.jpg",
+    "slideImagePath": "images/L133_slide_12.jpg",
     "slideImageDescription": "The diagram labels 'Retrograde motor (e.g. Dynein)' moving 'to soma'."
   },
   {
@@ -566,7 +566,7 @@ window.L133 = [
       { "text": "Reuptake", "explanation": "After release." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0010.jpg",
+    "slideImagePath": "images/L133_slide_10.jpg",
     "slideImageDescription": "The slide shows an 'Electron micrograph' with an 'Omega figure' indicating exocytosis."
   },
   {
@@ -581,7 +581,7 @@ window.L133 = [
       { "text": "Tripartite synapse", "explanation": "Chemical + Glia." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_page-0013.jpg",
+    "slideImagePath": "images/L133_slide_13.jpg",
     "slideImageDescription": "The slide 'Gap junctions & Electrical synapses' states: 'Fastest type of neural communication <1ms'."
   },
   {
@@ -596,7 +596,7 @@ window.L133 = [
       { "text": "Ependymal cell", "explanation": "Lining cell." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_page-0019.jpg",
+    "slideImagePath": "images/L133_slide_19.jpg",
     "slideImageDescription": "The slide 'Gap junctions & Electrical synapses in Astrocytes' discusses 'Reactive astrocytes' and 'Glial scar' with GFAP as the marker."
   }
 ];

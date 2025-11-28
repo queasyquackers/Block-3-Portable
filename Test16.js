@@ -11,7 +11,7 @@ window.L122 = [
       {"text": "Gastroenteritis", "explanation": "This is incorrect. Gastroenteritis pain is usually preceded by vomiting and followed by diarrhea, and the onset is less sudden."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L122_page-0004.jpg",
+    "slideImagePath": "images/L122_slide_4.jpg",
     "slideImageDescription": "This slide categorizes causes of acute abdominal pain based on their onset. It lists 'Sudden like a light switching on' as the first category and directly associates it with 'perforated ulcer' as well as renal stones and ruptured ectopic pregnancies. This directly supports the answer that a 'light switch' onset points towards a perforated ulcer."
   },
   {
@@ -26,7 +26,7 @@ window.L122 = [
       {"text": "Appendicitis", "explanation": "This is incorrect. Appendicitis typically presents as a dull ache that may become colicky and then steady."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L122_page-0005.jpg",
+    "slideImagePath": "images/L122_slide_5.jpg",
     "slideImageDescription": "The slide outlines the 'Quality' of abdominal pain associated with various conditions. It explicitly links a 'Tearing' pain quality to a 'Dissecting aneurysm', providing a direct textual confirmation for the diagnosis associated with this specific symptom description."
   },
   {
@@ -41,7 +41,7 @@ window.L122 = [
       {"text": "Pancreatitis", "explanation": "This is incorrect. Pancreatitis pain often radiates to the back or left shoulder."}
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L122_page-0006.jpg",
+    "slideImagePath": "images/L122_slide_6.jpg",
     "slideImageDescription": "This slide details 'Radiation' patterns of abdominal pain. It lists 'Right scapula' as the referral site for 'Gallbladder' pain. This direct correlation confirms that right scapular pain is a classic sign of gallbladder pathology."
   },
   {
@@ -56,7 +56,7 @@ window.L122 = [
       {"text": "Diverticulitis", "explanation": "This is incorrect. Diverticulitis presents with gradual pain and fever, not typically with a complete absence of flatus."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L122_page-0008.jpg",
+    "slideImagePath": "images/L122_slide_8.jpg",
     "slideImageDescription": "The slide lists 'Associated Symptoms' for abdominal pain. Under 'Acute intestinal obstruction', it specifically lists 'Delayed vomiting, absent bowel movement and flatus'. This matches the patient's presentation perfectly, pointing to obstruction as the diagnosis."
   },
   {
@@ -71,7 +71,7 @@ window.L122 = [
       {"text": "Splenic abscess", "explanation": "This is incorrect. A splenic abscess would cause LUQ pain."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L122_page-0011.jpg",
+    "slideImagePath": "images/L122_slide_8.jpg",
     "slideImageDescription": "This slide focuses on 'Left Lower Quadrant Pain'. It lists 'Sigmoid diverticulitis' as a primary cause and notes the associated symptoms of 'Fever, palpable mass'. This directly supports the clinical picture of LLQ pain with fever and a mass as indicative of sigmoid diverticulitis."
   },
   {
@@ -86,7 +86,7 @@ window.L122 = [
       {"text": "Retroperitoneal structure, referring pain to the back", "explanation": "This is incorrect. While the appendix *can* be retrocecal, its primary visceral pain pattern is periumbilical."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L122_page-0013.jpg",
+    "slideImagePath": "images/L122_slide_13.jpg",
     "slideImageDescription": "The slide illustrates the concept of 'Visceral Pain' localization. It maps 'Periumbilical' pain to the 'Small intestine, appendix, proximal colon', confirming that midgut structures like the appendix refer pain to the periumbilical region initially."
   },
   {

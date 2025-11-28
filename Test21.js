@@ -11,7 +11,7 @@ window.L127 = [
       { "text": "Superior orbital rim", "explanation": "The superior rim is part of the frontal bone and is structurally very strong to protect the eye." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_page-0007.jpg",
+    "slideImagePath": "images/L127_slide_2.jpg",
     "slideImageDescription": "The image displays a coronal CT scan of the head highlighting the orbital structures. The red arrows specifically point to the thin bony separation between the orbit and the ethmoidal/maxillary sinuses. This visual context demonstrates how thin the floor and medial walls are, directly supporting the diagnosis of a blowout fracture where orbital contents herniate into the maxillary sinus (labelled 'Maxillary sinus' and 'B')."
   },
   {
@@ -26,7 +26,7 @@ window.L127 = [
       { "text": "Inferior Oblique", "explanation": "The Inferior Oblique originates from the medial orbital floor (maxilla), making it the only rectus/oblique muscle not to originate from the orbital apex/common tendinous ring." }
     ],
     "correctAnswerIndex": 4,
-    "slideImagePath": "images/L127_page-0010.jpg",
+    "slideImagePath": "images/L127_slide_9.jpg",
     "slideImageDescription": "The image illustrates the anatomy of the oblique muscles. The yellow arrow points specifically to the origin of the Inferior Oblique muscle on the anterior medial orbital wall/floor, clearly distinct from the posterior common tendinous ring where the recti muscles originate. This visual confirms the unique origin point of the Inferior Oblique."
   },
   {
@@ -41,7 +41,7 @@ window.L127 = [
       { "text": "Medial Rectus", "explanation": "The Medial Rectus is responsible for the adduction itself, but not the subsequent elevation." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_page-0025.jpg",
+    "slideImagePath": "images/L127_slide_24.jpg",
     "slideImageDescription": "The slide visually demonstrates the 'Elevation of the Adducted Eye.' It shows a schematic of the eye in an adducted position with the Inferior Oblique muscle highlighted. The text explicitly states 'Elevation of the Adducted Eye' and labels the Inferior Oblique, directly confirming it as the primary muscle acting in this specific vector of the H-test."
   },
   {
@@ -56,7 +56,7 @@ window.L127 = [
       { "text": "Lateral Rectus", "explanation": "The Lateral Rectus is responsible for the abduction, but not the downward movement." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_page-0020.jpg",
+    "slideImagePath": "images/L127_slide_19.jpg",
     "slideImageDescription": "The slide illustrates the mechanics of 'Depression of the Abducted Eye.' The diagram shows the eye turned laterally (abducted) with the Inferior Rectus muscle highlighted as the active force vector. This visual aid clarifies that in the abducted position, the Inferior Rectus is the sole effective depressor."
   },
   {
@@ -71,7 +71,7 @@ window.L127 = [
       { "text": "Left CN VI", "explanation": "A left CN VI lesion would cause esotropia of the left eye, unrelated to the right eye's vertical movement." }
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L127_page-0007.jpg",
+    "slideImagePath": "images/L127_slide_43.jpg",
     "slideImageDescription": "While the slide image provided is of a CT scan, the relevant concept regarding nerve lesions is best supported by the 'Bielschowsky's sign' slide (Slide 42), but sticking to the file mapping for L127.pdf: Slide 42 shows a patient with a head tilt. The arrows demonstrate that tilting the head requires intorsion/extorsion. When the CN IV (Trochlear) is lesioned, the Superior Oblique cannot intort/depress, leaving the Superior Rectus unopposed to elevate the eye, hence the head tilt to the contralateral side to compensate."
   },
   {
@@ -86,7 +86,7 @@ window.L127 = [
       { "text": "Elevation of the abducted eye", "explanation": "This is the function of the Superior Rectus (CN III), which would be paralyzed." }
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L127_page-0041.jpg",
+    "slideImagePath": "images/L127_slide_41.jpg",
     "slideImageDescription": "The slide titled 'Patient presents with...' shows an image of a patient with significant ptosis and the eye in a 'down and out' position when the lid is lifted. The text labels the functioning muscles in this scenario as LR (Lateral Rectus) and SO (Superior Oblique). The Superior Oblique is responsible for depression of the adducted eye, confirming it is the spared function."
   },
   {
@@ -101,7 +101,7 @@ window.L127 = [
       { "text": "Inferior Rectus and Superior Rectus", "explanation": "These have opposing vertical and torsional actions (extorsion vs intorsion) and do not produce pure extorsion together." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_page-0038.jpg",
+    "slideImagePath": "images/L127_slide_37.jpg",
     "slideImageDescription": "The slide 'Extorsion Without Elevation or Depression' visually depicts the vector summation of the Inferior Oblique (IO) and Inferior Rectus (IR). The red arrow (IR) and blue arrow (IO) show that their vertical components oppose each other (one elevates, one depresses), while their torsional components align to create pure extorsion."
   },
   {
@@ -116,7 +116,7 @@ window.L127 = [
       { "text": "Frontalis", "explanation": "Paralysis would cause drooping of the eyebrow, but not true ptosis of the lid margin itself." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_page-0008.jpg",
+    "slideImagePath": "images/L127_slide_8.jpg",
     "slideImageDescription": "The slide details the anatomy of the Levator Palpebrae Superioris and explicitly notes: 'Contains smooth muscle fibers (superior tarsal or Müller's muscle)'. This anatomical detail links the mild ptosis described in the vignette to the sympathetic innervation of this specific muscle component."
   },
   {
@@ -131,7 +131,7 @@ window.L127 = [
       { "text": "Frontalis", "explanation": "The Frontalis is a muscle of facial expression located outside the orbit on the forehead." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_page-0008.jpg",
+    "slideImagePath": "images/L127_slide_8.jpg",
     "slideImageDescription": "The cross-sectional and superior view diagrams on this slide clearly show the layering of the orbital muscles. The Levator Palpebrae Superioris is depicted as the topmost muscle layer, sitting directly superior to the Superior Rectus (SR), confirming its position as the most superior muscle in the orbit."
   },
   {
@@ -146,7 +146,7 @@ window.L127 = [
       { "text": "The air-filled nature of the paranasal sinuses", "explanation": "The sinuses provide the space for contents to herniate into, but they do not cause the non-compressibility that generates the fracturing force." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_page-0004.jpg",
+    "slideImagePath": "images/L127_slide_43.jpg",
     "slideImageDescription": "This MRI image slide includes the text 'Orbit is full of adipose tissue!' The lecture context explains that this fat acts like a fluid—it is non-compressible. This physical property is the mechanism for blowout fractures; when pressure is applied anteriorly, the non-compressible fat transmits the force outward, breaking the thin bony walls."
   },
   {
@@ -161,7 +161,7 @@ window.L127 = [
       { "text": "AO6", "explanation": "Incorrect formula; All Others are CN III." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_page-0011.jpg",
+    "slideImagePath": "images/L127_slide_11.jpg",
     "slideImageDescription": "The slide presents the mnemonic '$SO_4LR_6AO_3$' clearly. This formula links the Lateral Rectus (LR) to the 6th cranial nerve (Abducens). Since the patient cannot abduct, the Lateral Rectus is the affected muscle, pointing to the 'LR6' component of the formula."
   },
   {
@@ -176,7 +176,7 @@ window.L127 = [
       { "text": "Depression, Adduction, Intorsion", "explanation": "While it is a depressor and intorter, its secondary horizontal action is abduction, not adduction." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_page-0028.jpg",
+    "slideImagePath": "images/L127_slide_43.jpg",
     "slideImageDescription": "The slide 'Textbook Actions of Extraocular Muscles' shows a diagram of eye movements. For the Superior Oblique (SO), the arrows point Down (Depression), Out (Abduction), and Rotate Inward (Intorsion). This schematic defines the theoretical 'action' of the muscle in primary position."
   },
   {
@@ -191,7 +191,7 @@ window.L127 = [
       { "text": "Protrusion", "explanation": "Recti muscles pull the eye back into the socket, not forward." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_page-0028.jpg",
+    "slideImagePath": "images/L127_slide_17.jpg",
     "slideImageDescription": "The diagram on this slide shows the vector arrows for the Superior Rectus (SR). The arrows indicate Elevation, Adduction (pointing medially), and Intorsion (rotation of the top of the eye medially). This visual confirms the three components of the SR's action."
   },
   {
@@ -206,7 +206,7 @@ window.L127 = [
       { "text": "Superior Rectus", "explanation": "The Superior Rectus is an elevator." }
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L127_page-0022.jpg",
+    "slideImagePath": "images/L127_slide_21.jpg",
     "slideImageDescription": "The slide 'Depression of the Adducted Eye' displays a schematic of the eye turned medially (adducted). The Superior Oblique muscle is highlighted as the active vector causing depression in this specific orientation. This confirms that looking medial and down isolates the Superior Oblique."
   },
   {
@@ -221,7 +221,7 @@ window.L127 = [
       { "text": "Extorted", "explanation": "Torsion is a secondary movement, not a testing position for isolation." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_page-0017.jpg",
+    "slideImagePath": "images/L127_slide_17.jpg",
     "slideImageDescription": "The slide 'Elevation of the Abducted Eye' shows the eye turned laterally (abducted). In this position, the Superior Rectus muscle vector is aligned with the visual axis, allowing it to act as a pure elevator. This is the anatomical basis for H-testing the Superior Rectus in abduction."
   },
   {
@@ -236,7 +236,7 @@ window.L127 = [
       { "text": "Medial Rectus and Lateral Rectus", "explanation": "These have no torsional action." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_page-0037.jpg",
+    "slideImagePath": "images/L127_slide_37.jpg",
     "slideImageDescription": "The slide 'Extorsion Without Elevation or Depression' visually sums the vectors of the Inferior Oblique (IO) and Inferior Rectus (IR). It demonstrates that both muscles contribute to extorsion (rotating the top of the eye laterally), identifying them as the synergistic pair for this movement."
   },
   {
@@ -251,7 +251,7 @@ window.L127 = [
       { "text": "The insertion of muscles anterior to the equator.", "explanation": "This determines the direction of pull but the torsion arises specifically from the angular offset of the muscle cone vs the visual axis." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_page-0015.jpg",
+    "slideImagePath": "images/L127_slide_43.jpg",
     "slideImageDescription": "The slide depicts the 'Axis of orbit' (dashed line) and 'Axis of eyeball' (red line) showing a clear divergence/angle between them. The text notes 'Torsion occurs when the optic axis is at an angle to axis of the orbit,' providing the physiological basis for why complex muscle pairs are needed for pure vertical movement."
   },
   {
@@ -266,7 +266,7 @@ window.L127 = [
       { "text": "Optic canal", "explanation": "This transmits the optic nerve, not the SO tendon." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_page-0010.jpg",
+    "slideImagePath": "images/L127_slide_10.jpg",
     "slideImageDescription": "The diagram on this slide clearly shows the path of the Superior Oblique muscle. It originates posteriorly, passes anteriorly through a loop labeled the 'Trochlea', and is redirected posteriorly to attach to the globe. This visual confirms the Trochlea's function as a pulley."
   },
   {
@@ -281,7 +281,7 @@ window.L127 = [
       { "text": "Levator Palpebrae Superioris", "explanation": "Originates from the lesser wing of the sphenoid." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_page-0010.jpg",
+    "slideImagePath": "images/L127_slide_10.jpg",
     "slideImageDescription": "The slide text explicitly states under 'Oblique Muscles': 'Inferior oblique Originates from medial orbital wall'. The accompanying image shows the muscle beginning at the front of the orbit floor, distinct from all other muscles originating at the apex."
   },
   {
@@ -296,7 +296,7 @@ window.L127 = [
       { "text": "Sella turcica", "explanation": "This is a depression in the body of the sphenoid housing the pituitary gland, intracranial, not orbital." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_page-0005.jpg",
+    "slideImagePath": "images/L127_slide_10.jpg",
     "slideImageDescription": "The slide displays a color-coded skull. The lateral wall is shown composed of the light blue Zygomatic bone and the large red section labeled 'Sphenoid' (specifically the Greater Wing in this anatomical position). This visual confirms the bony composition of the lateral wall."
   },
   {
@@ -311,7 +311,7 @@ window.L127 = [
       { "text": "Lacrimal", "explanation": "Forms a small part of the medial wall." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_page-0005.jpg",
+    "slideImagePath": "images/L127_slide_10.jpg",
     "slideImageDescription": "The image of the skull shows the 'Frontal' bone labeled at the top, with its horizontal plate clearly forming the ceiling/roof of the orbital cavity. This directly links the Frontal bone to the orbital roof."
   },
   {
@@ -326,7 +326,7 @@ window.L127 = [
       { "text": "The absence of adipose tissue", "explanation": "The orbit is full of adipose tissue, which transmits pressure." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_page-0006.jpg",
+    "slideImagePath": "images/L127_slide_43.jpg",
     "slideImageDescription": "The slide illustrates the 'Orbital septum' as a continuous sheet closing off the anterior orbit. The lecture context explains that because the walls are rigid, this tough membrane seals the 'pyramid', allowing pressure to build up dangerously during hemorrhage, necessitating its release (canthotomy)."
   },
   {
@@ -341,7 +341,7 @@ window.L127 = [
       { "text": "Trochlear nerve", "explanation": "This is CN IV, not a branch of CN III." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_page-0011.jpg",
+    "slideImagePath": "images/L127_slide_14.jpg",
     "slideImageDescription": "The slide lists the innervation of the extraocular muscles. It groups the Levator Palpebrae Superioris and Superior Rectus together at the top. The lecture transcript elaborates that these two are innervated by the superior division of CN III, explaining why a specific lesion here affects only elevation and lid position."
   },
   {
@@ -356,7 +356,7 @@ window.L127 = [
       { "text": "Spasm of the Inferior Rectus", "explanation": "The IR is a depressor/extorter and is not spasming here." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_page-0042.jpg",
+    "slideImagePath": "images/L127_slide_21.jpg",
     "slideImageDescription": "The slide 'Bielschowsky's sign' shows the eyes rotating (arrows) to compensate for head tilt. The yellow arrows indicate the required intorsion. The lecture explains that because the Superior Oblique (CN IV) cannot provide the necessary intorsion/depression balance, the still-functioning Superior Rectus (CN III) attempts to intort but inadvertently elevates the eye because the SO isn't there to counteract the lift."
   },
   {
@@ -371,7 +371,7 @@ window.L127 = [
       { "text": "The lacrimal sac", "explanation": "Unrelated to eyelid elevation." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_page-0008.jpg",
+    "slideImagePath": "images/L127_slide_8.jpg",
     "slideImageDescription": "The slide text clearly states: 'Insertion: superior tarsus and superficial fascia of eyelid'. This text point directly answers the question regarding the anatomical insertion of the LPS."
   },
   {
@@ -386,7 +386,7 @@ window.L127 = [
       { "text": "Blue, indicating venous blood", "explanation": "MRI is grayscale." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_page-0004.jpg",
+    "slideImagePath": "images/L127_slide_4.jpg",
     "slideImageDescription": "The slide shows an Axial MRI of the Head. The text notes 'Orbit is full of adipose tissue!' The image clearly shows the retrobulbar space as bright white, similar to the CSF in the subarachnoid space around the brain. The lecture notes clarify this is a T2-weighted image where fluid/fat is bright."
   },
   {
@@ -401,7 +401,7 @@ window.L127 = [
       { "text": "Geniculate ganglion", "explanation": "Sensory ganglion for CN VII." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_page-0011.jpg",
+    "slideImagePath": "images/L127_slide_11.jpg",
     "slideImageDescription": "The slide text explicitly states: 'Superior Tarsal (Muller's) muscle: postganglionic sympathetics from superior cervical ganglion'. This definition directly links the anatomy to the source of innervation."
   },
   {
@@ -416,7 +416,7 @@ window.L127 = [
       { "text": "To avoid compressing the lacrimal sac", "explanation": "Irrelevant to muscle testing mechanics." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_page-0034.jpg",
+    "slideImagePath": "images/L127_slide_34.jpg",
     "slideImageDescription": "The graph 'Elevation (left eye)' shows the contribution of the IO (Inferior Oblique) and SR (Superior Rectus) to elevation. At 'AD' (Adduction), the IO line is at 'More' contribution and the SR is at 'Less'. This graph visually explains that adduction isolates the IO for elevation."
   },
   {
@@ -431,7 +431,7 @@ window.L127 = [
       { "text": "Superior Oblique acting alone", "explanation": "Would cause depression, intorsion, and abduction." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_page-0035.jpg",
+    "slideImagePath": "images/L127_slide_35.jpg",
     "slideImageDescription": "The slide 'Depression Without Torsion' depicts the vectors of the Superior Oblique (SO) and Inferior Rectus (IR). The red arrow (IR) and blue arrow (SO) both point down (depression), but their horizontal/torsional components curve in opposite directions, illustrating how they cancel out to produce straight downward movement."
   },
   {
@@ -446,7 +446,7 @@ window.L127 = [
       { "text": "Superior Rectus", "explanation": "Innervated by CN III." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_page-0011.jpg",
+    "slideImagePath": "images/L127_slide_11.jpg",
     "slideImageDescription": "The slide lists 'Lateral Rectus: Abducent nerve (CN VI)' clearly. This basic anatomical fact links the specific nerve palsy to the specific muscle function (abduction)."
   }
 ];

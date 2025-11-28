@@ -1,0 +1,4820 @@
+1
+00:00:00,410 --> 00:00:02,990
+Hello, my name is
+Vladimir Grubišić
+
+2
+00:00:02,990 --> 00:00:05,090
+and I am an assistant
+professor in the
+
+3
+00:00:05,090 --> 00:00:07,010
+Department of
+Biomedical Sciences.
+
+4
+00:00:07,260 --> 00:00:09,590
+In this session,
+I will be talking
+
+5
+00:00:09,590 --> 00:00:12,590
+on principles of
+neurochemistry with
+
+6
+00:00:12,590 --> 00:00:14,810
+the emphasis on
+neurotransmission.
+
+7
+00:00:16,510 --> 00:00:19,590
+The objectives of
+this lecture are to
+
+8
+00:00:19,590 --> 00:00:22,510
+understand principles
+of neurotransmission and
+
+9
+00:00:22,510 --> 00:00:25,810
+actions of key
+neurotransmitters. You will
+
+10
+00:00:25,810 --> 00:00:28,250
+learn locations in
+the brain of the key
+
+11
+00:00:28,250 --> 00:00:31,670
+neurotransmitters, so
+where they are produced and
+
+12
+00:00:31,670 --> 00:00:34,630
+where they are released,
+and how they act.
+
+13
+00:00:34,750 --> 00:00:37,910
+Another objective is
+to understand basic
+
+14
+00:00:37,910 --> 00:00:40,730
+principles of
+neurotransmitter synthesis and
+
+15
+00:00:40,730 --> 00:00:43,870
+degradation, and how
+these functions contribute
+
+16
+00:00:43,870 --> 00:00:46,670
+to the disorders of
+the nervous system.
+
+17
+00:00:48,150 --> 00:00:51,050
+First, a quick
+revision that the brain
+
+18
+00:00:51,050 --> 00:00:54,170
+has several different
+cell types. neurons
+
+19
+00:00:54,170 --> 00:00:58,170
+here in yellow, glia
+cells, endothelial
+
+20
+00:00:58,170 --> 00:01:00,670
+cells and many other
+cell types that
+
+21
+00:01:00,670 --> 00:01:02,970
+all contribute
+with their specific
+
+22
+00:01:02,970 --> 00:01:05,950
+functions to the overall
+brain physiology.
+
+23
+00:01:06,270 --> 00:01:09,990
+This is a very simplified
+overview and all
+
+24
+00:01:09,990 --> 00:01:12,950
+these cells have
+different subtypes. For
+
+25
+00:01:12,950 --> 00:01:15,310
+example, there are
+many different types of
+
+26
+00:01:15,310 --> 00:01:17,330
+neurons in the brain.
+They have different
+
+27
+00:01:17,330 --> 00:01:20,690
+sizes and distinct
+morphologies and they
+
+28
+00:01:20,690 --> 00:01:23,710
+have different effects
+on the brain function.
+
+29
+00:01:23,780 --> 00:01:26,590
+Later in this session
+we will be going
+
+30
+00:01:26,590 --> 00:01:29,630
+over excitatory and
+inhibitory neurons and
+
+31
+00:01:29,630 --> 00:01:32,530
+basic classification
+based on their key
+
+32
+00:01:32,530 --> 00:01:34,930
+neuron transmitters
+that they are producing.
+
+33
+00:01:35,100 --> 00:01:37,590
+There are several
+glial cell types
+
+34
+00:01:37,590 --> 00:01:39,510
+that support
+neuronal functions.
+
+35
+00:01:39,950 --> 00:01:43,630
+Azocytes here in green
+are closely associated
+
+36
+00:01:43,630 --> 00:01:46,470
+with blood vessels
+and neurons. They
+
+37
+00:01:46,470 --> 00:01:49,270
+provide neurons with
+the metabolic fuel and
+
+38
+00:01:49,270 --> 00:01:52,810
+clear waste left after
+neuronal activity.
+
+39
+00:01:53,670 --> 00:01:57,050
+Oligodendrocytes
+here in blue produce
+
+40
+00:01:57,050 --> 00:01:59,470
+myelin to grab
+and insulate
+
+41
+00:01:59,470 --> 00:02:02,190
+neuronal axons
+which enhances the
+
+42
+00:02:02,190 --> 00:02:04,530
+speed of action
+potential traveling.
+
+43
+00:02:05,210 --> 00:02:07,650
+Microglia are
+resident immune
+
+44
+00:02:07,650 --> 00:02:09,770
+cells in the brain
+and essential for
+
+45
+00:02:09,770 --> 00:02:11,950
+immune responses
+in the brain.
+
+46
+00:02:12,230 --> 00:02:15,970
+Endothelial cells here
+in red are building
+
+47
+00:02:15,970 --> 00:02:18,990
+blocks of the brain
+vasculature they make
+
+48
+00:02:18,990 --> 00:02:22,990
+the tube the most
+inner part of the blood
+
+49
+00:02:22,990 --> 00:02:26,290
+vessels and form the
+barrier between the
+
+50
+00:02:26,290 --> 00:02:29,390
+blood and the rest of
+the brain tissue and you
+
+51
+00:02:29,390 --> 00:02:32,090
+will hear more about
+this in another session
+
+52
+00:02:32,360 --> 00:02:34,870
+the other cell types
+such as parasites
+
+53
+00:02:34,870 --> 00:02:38,090
+and epidemal cells are
+important structural
+
+54
+00:02:38,090 --> 00:02:41,170
+and functional part
+of the blood brain
+
+55
+00:02:41,170 --> 00:02:44,870
+barrier and ventricular
+system respectively.
+
+56
+00:02:45,750 --> 00:02:48,950
+Other cells, mentioned
+here, mediate
+
+57
+00:02:48,950 --> 00:02:51,870
+diverse brain
+functions and become
+
+58
+00:02:51,870 --> 00:02:54,230
+ineffective in many
+brain disorders.
+
+59
+00:02:54,710 --> 00:02:57,490
+The main concept
+here I would like
+
+60
+00:02:57,490 --> 00:02:59,890
+you to learn is
+that all cells
+
+61
+00:02:59,890 --> 00:03:02,410
+act as chemical
+compartments and
+
+62
+00:03:02,410 --> 00:03:04,790
+there is clear division
+of labor between
+
+63
+00:03:04,790 --> 00:03:07,730
+cell types in the
+brain. For example,
+
+64
+00:03:09,310 --> 00:03:13,250
+People spend most
+of the brain energy
+
+65
+00:03:13,250 --> 00:03:16,170
+on signaling, but
+astrocytes do most
+
+66
+00:03:16,170 --> 00:03:18,810
+of the metabolic
+work controlling the
+
+67
+00:03:18,810 --> 00:03:21,290
+composition of the
+interstitial fluid.
+
+68
+00:03:21,330 --> 00:03:25,070
+They supply neurons
+with energy substrates,
+
+69
+00:03:25,210 --> 00:03:27,450
+precursors for
+biosynthesis,
+
+70
+00:03:27,510 --> 00:03:30,790
+recycling
+neurotransmitters, and
+
+71
+00:03:30,790 --> 00:03:32,910
+clearing the
+waste products.
+
+72
+00:03:33,410 --> 00:03:35,930
+Neurons cannot
+survive with the
+
+73
+00:03:35,930 --> 00:03:38,590
+support from astrocytes
+and all these
+
+74
+00:03:38,590 --> 00:03:40,870
+astrocytic functions
+are essential
+
+75
+00:03:40,870 --> 00:03:42,970
+for proper
+neuronal signaling.
+
+76
+00:03:43,340 --> 00:03:46,010
+I would like to
+emphasize two of
+
+77
+00:03:46,010 --> 00:03:47,670
+these astrocytic
+functions for
+
+78
+00:03:47,670 --> 00:03:49,970
+you to learn from
+this session.
+
+79
+00:03:51,440 --> 00:03:54,470
+The first one is
+called astrocytes
+
+80
+00:03:54,470 --> 00:03:58,210
+neuron lactate shuttle
+and it shows that
+
+81
+00:03:58,210 --> 00:04:01,150
+major metabolic
+fuel for neurons is
+
+82
+00:04:01,150 --> 00:04:03,650
+lactate that comes
+from astrocytes.
+
+83
+00:04:03,950 --> 00:04:06,590
+The majority of
+lactate generated in
+
+84
+00:04:06,590 --> 00:04:09,290
+astrocytes by
+glycolysis is shuttled
+
+85
+00:04:09,290 --> 00:04:11,990
+to neurons via the
+monocarboxylate
+
+86
+00:04:11,990 --> 00:04:15,410
+transporters and
+gets used up in Krebs
+
+87
+00:04:15,410 --> 00:04:18,390
+cycle for their high
+metabolic demands.
+
+88
+00:04:18,750 --> 00:04:21,510
+This pathway is
+essential during
+
+89
+00:04:21,510 --> 00:04:23,730
+low blood glucose
+levels when
+
+90
+00:04:23,730 --> 00:04:25,870
+the blood supply
+is stopped,
+
+91
+00:04:25,990 --> 00:04:28,070
+for instance in ******.
+
+92
+00:04:28,710 --> 00:04:31,530
+Astrocytes then use
+their glycogen stores
+
+93
+00:04:31,530 --> 00:04:34,270
+and supply the neurons
+with metabolic fuel
+
+94
+00:04:34,270 --> 00:04:38,350
+in the form of
+lactate. So this is the
+
+95
+00:04:38,350 --> 00:04:41,370
+lactate shuttle and
+describes one-way trip
+
+96
+00:04:41,370 --> 00:04:43,990
+of lactate produced
+in astrocytes into
+
+97
+00:04:43,990 --> 00:04:48,010
+neurons that use it
+up for ATP production.
+
+98
+00:04:48,870 --> 00:04:51,470
+Another important
+astrocytic function
+
+99
+00:04:51,470 --> 00:04:54,250
+is essential for neuron
+transmission, and
+
+100
+00:04:54,250 --> 00:04:57,090
+it's called glutamate
+or GABA glutamine
+
+101
+00:04:57,090 --> 00:05:00,410
+cycle. It shows
+that glutamate or
+
+102
+00:05:00,410 --> 00:05:03,130
+GABA that are released
+by neurons, they
+
+103
+00:05:03,130 --> 00:05:05,890
+get cleared up by
+astrocytes through uptake
+
+104
+00:05:05,890 --> 00:05:08,690
+via excited to amino
+acid transporters
+
+105
+00:05:08,690 --> 00:05:11,050
+or GABA transporters,
+respectively.
+
+106
+00:05:11,270 --> 00:05:14,830
+In astrocytes, these
+neuron transmitters are
+
+107
+00:05:14,830 --> 00:05:18,770
+converted into glutamine,
+which gets released
+
+108
+00:05:18,770 --> 00:05:22,070
+and taken up by neurons,
+and they convert
+
+109
+00:05:22,070 --> 00:05:24,510
+them into glutamate
+or further down into
+
+110
+00:05:24,510 --> 00:05:29,240
+GABA. They package them
+into vesicles and they
+
+111
+00:05:29,350 --> 00:05:32,150
+get released into
+synaptic cleft to start
+
+112
+00:05:32,150 --> 00:05:35,130
+the cycle of neuron
+transmission once again.
+
+113
+00:05:35,690 --> 00:05:37,290
+Let's talk more about
+
+114
+00:05:37,290 --> 00:05:39,750
+communication
+between neurons.
+
+115
+00:05:41,150 --> 00:05:44,350
+This is an electron
+micrograph of a part
+
+116
+00:05:44,350 --> 00:05:47,170
+of complex synaptic
+arrangement called
+
+117
+00:05:47,170 --> 00:05:49,890
+lomerulus and it's
+found in few regions
+
+118
+00:05:49,890 --> 00:05:53,170
+of the central
+nervous system and for
+
+119
+00:05:53,170 --> 00:05:55,810
+us it's nicely
+showing two kinds of
+
+120
+00:05:55,810 --> 00:05:59,090
+interneural communication
+in one snapshot.
+
+121
+00:05:59,350 --> 00:06:04,750
+So on the left we see
+two atritic spines
+
+122
+00:06:04,750 --> 00:06:07,910
+that are coupled by
+gap junctions shown
+
+123
+00:06:07,910 --> 00:06:11,090
+here by these small
+black arrows and this
+
+124
+00:06:11,090 --> 00:06:14,570
+is an example of
+electrical synapse where
+
+125
+00:06:14,570 --> 00:06:17,310
+action potential
+and associated ions
+
+126
+00:06:17,310 --> 00:06:20,580
+travel directly from
+one neuron into another
+
+127
+00:06:20,580 --> 00:06:23,210
+through these gap
+junctional channels
+
+128
+00:06:23,210 --> 00:06:26,410
+that connect the
+cytoplasm of these cells
+
+129
+00:06:26,410 --> 00:06:29,290
+this kind of
+communication is super
+
+130
+00:06:29,290 --> 00:06:32,490
+fast and without the
+proper synaptic delay
+
+131
+00:06:33,370 --> 00:06:38,570
+On the upper
+right side, we see
+
+132
+00:06:38,570 --> 00:06:41,690
+an image of an
+action terminal
+
+133
+00:06:41,690 --> 00:06:44,050
+packaged with
+synaptic vesicles.
+
+134
+00:06:44,390 --> 00:06:47,550
+Large arrowheads
+point to the electron
+
+135
+00:06:47,550 --> 00:06:51,230
+-dense material that
+makes the active zones
+
+136
+00:06:51,230 --> 00:06:54,810
+where the vesicles
+are being released,
+
+137
+00:06:54,810 --> 00:06:58,730
+over here and over
+here, and also where
+
+138
+00:06:58,730 --> 00:07:02,150
+the postsynaptic
+densities are. Black
+
+139
+00:07:02,150 --> 00:07:06,510
+dots are immuno-gold
+labeling for GABA,
+
+140
+00:07:06,510 --> 00:07:09,950
+identifying these
+terminals as GABAergic.
+
+141
+00:07:10,230 --> 00:07:13,130
+And red arrowheads point
+
+142
+00:07:13,130 --> 00:07:14,610
+to synaptic vesicles.
+
+143
+00:07:14,610 --> 00:07:17,350
+You can see that
+these vesicles are
+
+144
+00:07:17,350 --> 00:07:19,590
+clear, and they are
+called clear vesicles.
+
+145
+00:07:19,590 --> 00:07:22,270
+And these kind of
+vesicles are typical
+
+146
+00:07:22,270 --> 00:07:24,930
+for small molecule
+neurotransmitters.
+
+147
+00:07:25,330 --> 00:07:29,310
+This is a chemical synapse
+where communication
+
+148
+00:07:29,310 --> 00:07:31,790
+is mediated by
+neurotransmitters.
+
+149
+00:07:31,810 --> 00:07:34,250
+In this scenario
+neurotransmitters
+
+150
+00:07:34,250 --> 00:07:35,850
+are stored in vesicles.
+
+151
+00:07:36,990 --> 00:07:40,310
+These little
+membrane envelop the
+
+152
+00:07:40,310 --> 00:07:43,430
+spheres of the
+presynaptic terminals.
+
+153
+00:07:45,130 --> 00:07:48,410
+An action potential
+comes to the
+
+154
+00:07:48,410 --> 00:07:50,990
+presynaptic nerve
+terminal, opens
+
+155
+00:07:50,990 --> 00:07:53,410
+the voltage-gated
+calcium channels,
+
+156
+00:07:53,700 --> 00:07:56,670
+which induce increase
+in the local calcium
+
+157
+00:07:56,670 --> 00:07:59,810
+concentration and
+trigger diffusion of the
+
+158
+00:07:59,810 --> 00:08:02,810
+vesicle membrane with
+the cell membrane.
+
+159
+00:08:03,150 --> 00:08:06,550
+Neuron transmitters
+get released into this
+
+160
+00:08:06,550 --> 00:08:09,610
+narrow space between
+the presynaptic and
+
+161
+00:08:09,610 --> 00:08:13,030
+postsynaptic terminals
+called synaptic cleft.
+
+162
+00:08:13,670 --> 00:08:16,550
+Then neuron transmitters
+diffuse across
+
+163
+00:08:16,550 --> 00:08:19,030
+the synaptic cleft
+and bind to the
+
+164
+00:08:19,030 --> 00:08:21,490
+receptors on the
+postsynaptic terminal
+
+165
+00:08:21,490 --> 00:08:24,990
+causing different
+actions through influx
+
+166
+00:08:24,990 --> 00:08:27,510
+of ions through
+ionotropic channels
+
+167
+00:08:27,880 --> 00:08:30,310
+or generation of
+second messengers
+
+168
+00:08:30,310 --> 00:08:33,590
+via metatropic receptors.
+
+169
+00:08:33,900 --> 00:08:36,450
+This kind of signaling
+is characterized
+
+170
+00:08:36,450 --> 00:08:38,730
+by synaptic
+delay because it
+
+171
+00:08:38,730 --> 00:08:40,910
+takes some time for
+neurotransmitters
+
+172
+00:08:40,910 --> 00:08:43,610
+to diffuse across
+the synaptic left,
+
+173
+00:08:43,670 --> 00:08:47,950
+but it also
+amplifies the signal.
+
+174
+00:08:48,630 --> 00:08:50,990
+These kinds of
+chemical synapses
+
+175
+00:08:50,990 --> 00:08:53,450
+are a predominant
+kind of neuronal
+
+176
+00:08:53,450 --> 00:08:55,230
+communication
+in the brain.
+
+177
+00:08:56,150 --> 00:08:58,490
+And right now
+let's talk about
+
+178
+00:08:58,490 --> 00:09:01,110
+different kinds of
+neurotransmitters.
+
+179
+00:09:03,710 --> 00:09:05,850
+Neurotransmitters
+may be categorized
+
+180
+00:09:05,850 --> 00:09:07,410
+by their molecular
+structure.
+
+181
+00:09:07,630 --> 00:09:09,790
+This cartoon
+over here shows
+
+182
+00:09:09,790 --> 00:09:11,930
+some characteristics
+of the small
+
+183
+00:09:11,930 --> 00:09:13,550
+molecular
+neurotransmitters,
+
+184
+00:09:14,050 --> 00:09:15,330
+neuropeptides,
+
+185
+00:09:15,610 --> 00:09:18,130
+and gaseous transmitters
+
+186
+00:09:18,130 --> 00:09:20,030
+such as nitric oxide.
+
+187
+00:09:20,310 --> 00:09:23,750
+The most of neuron
+transmitters
+
+188
+00:09:24,070 --> 00:09:26,190
+travel enterogradly,
+so from
+
+189
+00:09:26,190 --> 00:09:28,590
+the presynaptic to
+the postsynaptic
+
+190
+00:09:28,590 --> 00:09:30,230
+terminal as shown here,
+
+191
+00:09:30,330 --> 00:09:32,710
+and some neuron
+transmitters travel in
+
+192
+00:09:32,710 --> 00:09:35,210
+the opposite direction
+or retrogradly.
+
+193
+00:09:35,610 --> 00:09:38,190
+Gaseous neurotransmitters
+such as nitric
+
+194
+00:09:38,190 --> 00:09:41,370
+oxide don't have
+particular directionality
+
+195
+00:09:41,370 --> 00:09:44,170
+but rather diffuse
+in all directions.
+
+196
+00:09:44,230 --> 00:09:46,450
+And we will hear more
+about this special
+
+197
+00:09:46,450 --> 00:09:49,210
+neurotransmitter
+later in this session.
+
+198
+00:09:50,150 --> 00:09:53,970
+Neuropeptides are
+larger molecules made of
+
+199
+00:09:53,970 --> 00:09:57,410
+chains of several
+amino acids. They are
+
+200
+00:09:57,410 --> 00:09:59,790
+synthesized in the cell
+body where they get
+
+201
+00:09:59,790 --> 00:10:03,950
+packaged into large
+electron-dense vesicles.
+
+202
+00:10:04,240 --> 00:10:06,510
+and then get transported
+
+203
+00:10:06,510 --> 00:10:08,370
+to the axon terminals.
+
+204
+00:10:08,610 --> 00:10:12,190
+Their action on
+postsynaptic neurons is
+
+205
+00:10:12,190 --> 00:10:15,810
+mediated primarily by
+metabotropic receptors.
+
+206
+00:10:16,770 --> 00:10:19,950
+Small molecule neuron
+transmitters can be
+
+207
+00:10:19,950 --> 00:10:23,730
+further divided into
+amines and amino acids
+
+208
+00:10:23,730 --> 00:10:27,810
+as in this table. They
+are synthesized in
+
+209
+00:10:27,810 --> 00:10:31,350
+the axon terminals and
+packaged into small
+
+210
+00:10:31,350 --> 00:10:34,870
+clear vesicles their
+actions may be mediated
+
+211
+00:10:34,870 --> 00:10:38,050
+by both ionotropic and
+metatropic receptors
+
+212
+00:10:38,050 --> 00:10:40,710
+and their signal is
+then terminated by
+
+213
+00:10:40,710 --> 00:10:43,290
+enzymatic degradation
+in the synaptic cleft
+
+214
+00:10:43,290 --> 00:10:48,450
+or and reuptake by
+transporters on the
+
+215
+00:10:48,450 --> 00:10:52,590
+presynaptic membranes
+where they get repackaged
+
+216
+00:10:52,590 --> 00:10:55,470
+into vesicles and
+start the cycle again.
+
+217
+00:10:55,890 --> 00:10:59,170
+Please keep in mind that
+many neurotransmitters
+
+218
+00:10:59,170 --> 00:11:01,770
+are not listed in
+this table such
+
+219
+00:11:01,770 --> 00:11:04,620
+as other nucleotides
+and nucleosides,
+
+220
+00:11:04,830 --> 00:11:08,250
+many other neuropeptides
+and the cannabinoids
+
+221
+00:11:08,250 --> 00:11:10,390
+for instance as
+a member of lipid
+
+222
+00:11:10,390 --> 00:11:13,410
+neurotransmitters and
+many other bioactive
+
+223
+00:11:14,490 --> 00:11:17,390
+molecules and many
+other categories.
+
+224
+00:11:19,210 --> 00:11:21,870
+Also keep in mind
+that But real synapses
+
+225
+00:11:21,870 --> 00:11:24,790
+may release transmitters
+from one or more
+
+226
+00:11:24,790 --> 00:11:29,190
+classes, and many
+neuropeptides are co-released
+
+227
+00:11:29,190 --> 00:11:32,020
+with the non-peptide
+neurotransmitters.
+
+228
+00:11:34,630 --> 00:11:36,910
+Here is a summary
+of some key
+
+229
+00:11:36,910 --> 00:11:39,490
+differences between
+the two, such as
+
+230
+00:11:39,490 --> 00:11:42,370
+the site of
+synthesis and type of
+
+231
+00:11:42,370 --> 00:11:44,410
+vesicles as
+previously mentioned.
+
+232
+00:11:45,150 --> 00:11:48,390
+Neuropeptides are also
+usually synthesized
+
+233
+00:11:48,390 --> 00:11:51,770
+as a larger inactive
+polypeptides that need
+
+234
+00:11:51,770 --> 00:11:54,690
+to be cleaned into
+smaller active form.
+
+235
+00:11:55,370 --> 00:11:57,470
+These precursor
+proteins usually
+
+236
+00:11:57,470 --> 00:12:01,310
+have pre and
+or pro prefix.
+
+237
+00:12:01,650 --> 00:12:03,250
+For example,
+
+238
+00:12:03,490 --> 00:12:07,190
+pro-opiomelanocortin.
+This is a precursor
+
+239
+00:12:07,190 --> 00:12:09,470
+peptide for three
+different groups of
+
+240
+00:12:09,470 --> 00:12:12,430
+neuropeptides, just
+as its name says.
+
+241
+00:12:12,770 --> 00:12:15,470
+Opio is for
+beta-endorphin,
+
+242
+00:12:15,470 --> 00:12:17,770
+a member of an
+opioid family.
+
+243
+00:12:17,830 --> 00:12:20,390
+Melanol is for melanocyte
+
+244
+00:12:20,390 --> 00:12:23,190
+-stimulating hormones.
+And cortin is
+
+245
+00:12:23,190 --> 00:12:26,510
+for adenocorticotropic
+hormone.
+
+246
+00:12:26,650 --> 00:12:30,170
+So one precursor
+protein, pro-opio
+
+247
+00:12:30,170 --> 00:12:33,080
+-melanocortin, derives
+several different
+
+248
+00:12:33,080 --> 00:12:38,450
+peptide neuron
+transmitters and hormones.
+
+249
+00:12:38,870 --> 00:12:40,950
+Another important
+distinction is
+
+250
+00:12:40,950 --> 00:12:43,150
+that actions of
+neuropeptides are
+
+251
+00:12:43,150 --> 00:12:45,410
+mediated by
+metabotropic receptors,
+
+252
+00:12:45,410 --> 00:12:49,150
+so their effects
+are often delayed.
+
+253
+00:12:49,710 --> 00:12:52,750
+Neuropeptides also
+linger longer in the
+
+254
+00:12:52,750 --> 00:12:54,690
+synaptic cleft,
+and therefore their
+
+255
+00:12:54,690 --> 00:12:58,090
+actions are usually
+longer than the small
+
+256
+00:12:58,090 --> 00:13:00,670
+molecule
+neurotransmitters that are
+
+257
+00:13:00,670 --> 00:13:03,090
+quickly degraded in
+the synaptic cleft and
+
+258
+00:13:03,090 --> 00:13:06,150
+taken up by the
+presynaptic terminals.
+
+259
+00:13:06,410 --> 00:13:11,110
+This table also
+reinforces the typical
+
+260
+00:13:11,110 --> 00:13:14,830
+life cycle of a
+neurotransmitter that
+
+261
+00:13:14,830 --> 00:13:17,310
+goes from the synthesis
+of a neurotransmitter
+
+262
+00:13:17,310 --> 00:13:19,710
+to the termination
+of the signal.
+
+263
+00:13:21,130 --> 00:13:23,390
+Here it is once again.
+
+264
+00:13:23,550 --> 00:13:26,550
+Please note the steps
+of the neurotransmitter
+
+265
+00:13:26,550 --> 00:13:28,690
+cycling from the
+neurotransmitter
+
+266
+00:13:28,690 --> 00:13:32,710
+synthesis or production,
+followed by storage or
+
+267
+00:13:32,710 --> 00:13:35,850
+packaging into vesicles,
+release into the
+
+268
+00:13:35,850 --> 00:13:38,270
+synaptic cleft, and
+interaction with the
+
+269
+00:13:38,270 --> 00:13:41,590
+postsynaptic receptors,
+to finally termination
+
+270
+00:13:41,590 --> 00:13:44,410
+of the signal by
+degradation, such as
+
+271
+00:13:44,410 --> 00:13:46,490
+the acetylcholine
+degradation by
+
+272
+00:13:46,820 --> 00:13:49,430
+acetylcholinesterase, as
+shown here in this image,
+
+273
+00:13:49,710 --> 00:13:52,590
+or reuptake to the
+presynaptic terminal.
+
+274
+00:13:53,230 --> 00:13:56,530
+It is important to
+know these steps and
+
+275
+00:13:56,530 --> 00:13:59,630
+their molecular mechanisms
+because these are
+
+276
+00:13:59,630 --> 00:14:02,550
+the sites of action
+for neurotoxins such as
+
+277
+00:14:02,550 --> 00:14:05,370
+botulinum toxin that
+cleaves proteins
+
+278
+00:14:05,370 --> 00:14:08,250
+involved in vesicle
+fusion in the presynaptic
+
+279
+00:14:08,250 --> 00:14:11,800
+terminal and release
+of neurotransmitters or
+
+280
+00:14:11,800 --> 00:14:15,010
+insecticide poisoning
+blocking the action
+
+281
+00:14:15,010 --> 00:14:18,130
+of acetylcholine
+esterase and resulting in
+
+282
+00:14:18,130 --> 00:14:22,290
+the buildup of
+acetylcholine at synapses.
+
+283
+00:14:22,690 --> 00:14:26,350
+Some disorders also
+affect this cycle.
+
+284
+00:14:26,350 --> 00:14:27,690
+For example,
+
+285
+00:14:28,330 --> 00:14:31,790
+myasthenia gravis is
+caused by antibodies
+
+286
+00:14:31,790 --> 00:14:34,010
+against the
+acetylcholine receptors,
+
+287
+00:14:34,020 --> 00:14:37,790
+which block the normal
+action of acetylcholine
+
+288
+00:14:37,790 --> 00:14:41,330
+in the neuromuscular
+junctions and results
+
+289
+00:14:41,330 --> 00:14:44,870
+in muscle weakness.
+and finally knowing
+
+290
+00:14:44,870 --> 00:14:49,350
+these steps allow
+understanding of the key
+
+291
+00:14:49,350 --> 00:14:53,790
+actions of some drugs
+for example L-DOPA is
+
+292
+00:14:53,790 --> 00:14:56,350
+dopamine precursor and
+it's given to Parkinson
+
+293
+00:14:56,350 --> 00:14:58,910
+disease patients to
+increase dopamine
+
+294
+00:14:58,910 --> 00:15:02,550
+production in dopamine
+concentration in synapses
+
+295
+00:15:02,550 --> 00:15:06,910
+another example are
+selective serotonin
+
+296
+00:15:06,910 --> 00:15:11,410
+reuptake inhibitors or
+SSRIs such as Prozac,
+
+297
+00:15:11,410 --> 00:15:14,530
+that block the
+serotonin transporters
+
+298
+00:15:14,530 --> 00:15:18,390
+increasing the serotonin
+levels at the synapses.
+
+299
+00:15:19,350 --> 00:15:22,870
+This schematic,
+however, is missing an
+
+300
+00:15:22,870 --> 00:15:26,610
+important player that
+plays a role in the
+
+301
+00:15:26,610 --> 00:15:29,170
+neurotransmitter
+clearance and has many
+
+302
+00:15:29,170 --> 00:15:31,950
+important functions
+in synapse regulation.
+
+303
+00:15:32,590 --> 00:15:35,310
+Astrocytic
+processes make the
+
+304
+00:15:35,310 --> 00:15:37,990
+third active
+part of synapses.
+
+305
+00:15:39,850 --> 00:15:43,300
+The three-partite synapse
+is another important
+
+306
+00:15:43,300 --> 00:15:45,550
+concept that I would
+like you to learn.
+
+307
+00:15:45,870 --> 00:15:49,190
+On the left, we have
+an electron micrograph
+
+308
+00:15:49,190 --> 00:15:51,770
+showing a presynaptic
+terminal over
+
+309
+00:15:51,770 --> 00:15:55,390
+here, filled with
+small clear vesicles,
+
+310
+00:15:55,770 --> 00:15:59,770
+and postsynaptic
+terminal over here with
+
+311
+00:15:59,770 --> 00:16:03,010
+postsynaptic
+densities where the
+
+312
+00:16:03,010 --> 00:16:06,370
+neurotransmitter receptors
+are and also other
+
+313
+00:16:06,370 --> 00:16:08,890
+plasma membrane
+scaffolding proteins.
+
+314
+00:16:09,370 --> 00:16:12,330
+These neuronal
+terminals are unwrapped
+
+315
+00:16:12,330 --> 00:16:15,670
+by the astrocytic
+process in this image
+
+316
+00:16:15,670 --> 00:16:19,230
+pseudocolored in
+green and are forming
+
+317
+00:16:19,230 --> 00:16:22,410
+altogether the three
+part-type synapse.
+
+318
+00:16:23,370 --> 00:16:27,290
+On the right is a
+cartoon summarizing what
+
+319
+00:16:27,290 --> 00:16:29,970
+I just said and further
+illustrating that
+
+320
+00:16:29,970 --> 00:16:33,290
+this astrocytic process
+in green is not only
+
+321
+00:16:33,290 --> 00:16:35,270
+providing a structural
+support for the
+
+322
+00:16:35,270 --> 00:16:38,270
+synapse but is essential
+for clearing potassium
+
+323
+00:16:38,270 --> 00:16:41,450
+ions that accumulate
+after the neuronal
+
+324
+00:16:41,450 --> 00:16:44,770
+activity and also
+in the uptake of the
+
+325
+00:16:44,770 --> 00:16:48,310
+synaptic transmitter
+glutamate by the activity
+
+326
+00:16:48,310 --> 00:16:50,870
+of plasma membrane
+glutamate transporters.
+
+327
+00:16:51,270 --> 00:16:52,670
+In addition,
+
+328
+00:16:52,970 --> 00:16:56,090
+neurotransmitter
+release from presynaptic
+
+329
+00:16:56,090 --> 00:16:58,370
+terminals can
+activate astrocytic
+
+330
+00:16:58,370 --> 00:17:01,650
+metabotropic receptors,
+which then induce
+
+331
+00:17:01,650 --> 00:17:05,470
+release of calcium from
+internal astrocytic
+
+332
+00:17:05,470 --> 00:17:08,230
+stores and in turn
+trigger the release
+
+333
+00:17:08,230 --> 00:17:10,870
+of several neuroactive
+compounds known
+
+334
+00:17:10,870 --> 00:17:13,950
+as glia transmitters
+from these cells.
+
+335
+00:17:14,490 --> 00:17:17,750
+This mechanism of
+glia transmission has
+
+336
+00:17:17,750 --> 00:17:20,110
+been confirmed to
+mediate many important
+
+337
+00:17:20,110 --> 00:17:22,630
+functions in the brain
+such as breathing,
+
+338
+00:17:22,650 --> 00:17:25,070
+learning and
+memory, and sleep.
+
+339
+00:17:25,810 --> 00:17:28,970
+Peripheral glia cells
+also contribute to
+
+340
+00:17:28,970 --> 00:17:31,450
+many other important
+functions in the body,
+
+341
+00:17:31,450 --> 00:17:35,190
+but that topic is for
+some other session.
+
+342
+00:17:35,870 --> 00:17:39,450
+Now actions of any
+neurotransmitter
+
+343
+00:17:39,450 --> 00:17:42,910
+are determined
+by the receptors.
+
+344
+00:17:44,820 --> 00:17:47,070
+And this is another key
+
+345
+00:17:47,070 --> 00:17:48,910
+concept of neuron
+transmission.
+
+346
+00:17:49,210 --> 00:17:52,670
+Fast actions are
+mediated by ionotropic
+
+347
+00:17:52,670 --> 00:17:55,750
+receptors. These
+are ligand-gated ion
+
+348
+00:17:55,750 --> 00:17:59,150
+channels that come
+in two basic flavors.
+
+349
+00:17:59,590 --> 00:18:02,590
+If they are permeable
+for positive ions
+
+350
+00:18:02,590 --> 00:18:06,370
+or cations such as
+sodium and calcium,
+
+351
+00:18:06,370 --> 00:18:09,610
+their activity is making
+the neuronal membrane
+
+352
+00:18:09,610 --> 00:18:13,790
+more positive or
+causing depolarization,
+
+353
+00:18:13,920 --> 00:18:16,930
+which is increasing
+the probability of
+
+354
+00:18:16,930 --> 00:18:19,590
+the neuron to fire
+an action potential.
+
+355
+00:18:19,670 --> 00:18:23,310
+Therefore, these receptors
+are fast excitatory
+
+356
+00:18:23,310 --> 00:18:25,970
+receptors, and
+glutamate is the key
+
+357
+00:18:25,970 --> 00:18:28,770
+excitatory neuron
+transmitter in the brain.
+
+358
+00:18:30,250 --> 00:18:33,130
+Fast inhibition,
+on the other hand,
+
+359
+00:18:33,170 --> 00:18:36,570
+is mediated by
+ligand-gated anion
+
+360
+00:18:36,570 --> 00:18:38,890
+channels, so channels
+that are permeable
+
+361
+00:18:38,890 --> 00:18:41,030
+for negative ions
+such as chloride.
+
+362
+00:18:41,270 --> 00:18:44,990
+When opened, these
+channels are making the
+
+363
+00:18:44,990 --> 00:18:48,830
+membrane more
+negative or causing
+hyperpolarization,
+
+364
+00:18:49,210 --> 00:18:51,690
+which is then reducing
+the probability
+
+365
+00:18:51,690 --> 00:18:54,890
+of that neuron to fire
+an action potential.
+
+366
+00:18:54,990 --> 00:18:58,530
+GABA is the key inhibitory
+neurotransmitter
+
+367
+00:18:58,530 --> 00:19:01,310
+in the brain while
+glycine is the main
+
+368
+00:19:01,310 --> 00:19:04,230
+inhibitory transmitter
+in the spinal cord.
+
+369
+00:19:05,370 --> 00:19:07,130
+On the other hand,
+
+370
+00:19:07,130 --> 00:19:13,450
+metabotropic receptors
+mediate generation of
+
+371
+00:19:13,450 --> 00:19:17,470
+second messengers that
+ultimately affect ion
+
+372
+00:19:17,470 --> 00:19:20,730
+channel conductance,
+which means they affect
+
+373
+00:19:20,730 --> 00:19:23,400
+the flow of ions
+through these channels
+
+374
+00:19:23,400 --> 00:19:27,330
+and this is why these
+receptors are causing
+
+375
+00:19:27,330 --> 00:19:31,390
+much slower but usually
+longer responses and
+
+376
+00:19:31,390 --> 00:19:35,210
+can lead to either
+excitation or inhibition.
+
+377
+00:19:36,670 --> 00:19:39,970
+Receptor proteins
+can be expressed
+
+378
+00:19:40,080 --> 00:19:42,870
+selectively in some
+cells and not in
+
+379
+00:19:42,870 --> 00:19:44,890
+others in the
+same brain regions
+
+380
+00:19:44,890 --> 00:19:48,670
+which creates the
+ability to set up
+
+381
+00:19:48,670 --> 00:19:51,250
+complex neuronal
+circuits and produce
+
+382
+00:19:52,970 --> 00:19:56,750
+behaviors that
+allow adaptability
+
+383
+00:19:58,910 --> 00:20:01,630
+now neurons in
+general produce
+
+384
+00:20:01,630 --> 00:20:03,830
+and release
+only one kind of
+
+385
+00:20:03,830 --> 00:20:06,410
+the main amine
+or amino acid
+
+386
+00:20:06,710 --> 00:20:09,910
+and that's how they
+are classified so
+
+387
+00:20:09,910 --> 00:20:13,390
+GABAergic neurons release
+GABA and dopaminergic
+
+388
+00:20:13,390 --> 00:20:16,550
+neurons release
+dopamine. These neurons
+
+389
+00:20:16,550 --> 00:20:19,790
+may still co-release
+other neuropeptides or
+
+390
+00:20:19,790 --> 00:20:22,530
+ATP but they do
+not release other
+
+391
+00:20:22,530 --> 00:20:25,990
+neurotransmitters from
+this class so glutamatergic
+
+392
+00:20:25,990 --> 00:20:29,130
+neurons do not release
+GABA or serotonin.
+
+393
+00:20:30,070 --> 00:20:32,430
+Neurochemically these
+neurons are identified
+
+394
+00:20:32,430 --> 00:20:35,710
+by expression of the
+key enzymes needed
+
+395
+00:20:35,790 --> 00:20:37,810
+for the neurotransmitter
+biosynthesis
+
+396
+00:20:37,810 --> 00:20:41,470
+or by specific
+transporters that are
+
+397
+00:20:41,470 --> 00:20:43,930
+required for their
+packaging into vesicles.
+
+398
+00:20:44,090 --> 00:20:47,750
+For example, all
+cholinergic neurons
+
+399
+00:20:47,750 --> 00:20:50,970
+express
+cholinacetyltransferase, and all
+
+400
+00:20:50,970 --> 00:20:53,690
+glutamatergic neurons
+can be identified
+
+401
+00:20:53,690 --> 00:20:55,990
+through the detection
+of vesicular
+
+402
+00:20:55,990 --> 00:20:59,650
+glutamate transporter,
+or VGLUT, which
+
+403
+00:20:59,650 --> 00:21:02,490
+transports glutamate
+into synaptic vesicles
+
+404
+00:21:02,550 --> 00:21:06,310
+of the presynaptic
+glutamatergic terminals.
+
+405
+00:21:09,050 --> 00:21:11,530
+Blucomaturgic and
+then GABAergic neurons
+
+406
+00:21:11,530 --> 00:21:14,130
+are the most and the
+second most abundant
+
+407
+00:21:14,130 --> 00:21:16,430
+neuron types in the
+brain, and these
+
+408
+00:21:16,430 --> 00:21:18,830
+neurons are scattered
+throughout the brain.
+
+409
+00:21:19,230 --> 00:21:21,190
+On the other hand,
+
+410
+00:21:21,230 --> 00:21:23,670
+amine neurotransmitter
+releasing neurons
+
+411
+00:21:23,670 --> 00:21:26,190
+are clustered
+together in specific
+
+412
+00:21:26,190 --> 00:21:29,410
+small areas of the
+brain called nuclei.
+
+413
+00:21:29,770 --> 00:21:33,870
+These nuclei do not
+have anything to do with
+
+414
+00:21:33,870 --> 00:21:37,190
+the cell nuclei, They
+are anatomical nuclei
+
+415
+00:21:37,190 --> 00:21:40,290
+describing clustered
+cell bodies of neurons
+
+416
+00:21:40,290 --> 00:21:42,930
+with similar
+neurochemical composition.
+
+417
+00:21:43,450 --> 00:21:46,230
+For instance, substantia
+***** is one of
+
+418
+00:21:46,230 --> 00:21:49,590
+those where
+dopaminergic neurons are
+
+419
+00:21:49,590 --> 00:21:52,710
+clustered together,
+and this area is
+
+420
+00:21:52,710 --> 00:21:55,630
+particularly affected
+in Parkinson's disease.
+
+421
+00:21:56,570 --> 00:22:00,150
+We will go over these
+key neurotransmitters
+
+422
+00:22:00,150 --> 00:22:03,590
+in the following slides.
+And as you can see,
+
+423
+00:22:03,590 --> 00:22:06,050
+there is a striking
+difference in the cell
+
+424
+00:22:06,050 --> 00:22:09,930
+body organization between
+the amino acid and
+
+425
+00:22:09,930 --> 00:22:12,590
+amino neurotransmitter
+-producing neurons.
+
+426
+00:22:14,790 --> 00:22:17,890
+The main excitatory
+and inhibitory
+
+427
+00:22:17,890 --> 00:22:20,730
+neurotransmitters in
+the brain are amino acid
+
+428
+00:22:20,730 --> 00:22:24,210
+transmitters glutamate
+and GABA, respectively.
+
+429
+00:22:24,750 --> 00:22:27,450
+Glutamate is the
+source of GABA
+
+430
+00:22:27,450 --> 00:22:29,750
+through conversion
+of glutamate to
+
+431
+00:22:29,750 --> 00:22:32,950
+GABA by glutamic
+acid decarboxylase.
+
+432
+00:22:33,170 --> 00:22:36,530
+Conversely, GABA is
+converted to glutamate
+
+433
+00:22:36,530 --> 00:22:39,710
+via GABA transaminase.
+So these two
+
+434
+00:22:39,710 --> 00:22:42,490
+neurotransmitters
+represent the excitatory
+
+435
+00:22:42,490 --> 00:22:45,010
+and inhibitory
+balance in the brain.
+
+436
+00:22:45,210 --> 00:22:48,750
+Let's first talk
+about glutamate.
+
+437
+00:22:50,490 --> 00:22:53,570
+Glutamate is the
+excitatory neurotransmitter
+
+438
+00:22:53,570 --> 00:22:56,510
+and is the most
+prominent in the brain.
+
+439
+00:22:56,530 --> 00:23:00,610
+Therefore, drugs that
+potentiate glutamatergic
+
+440
+00:23:00,610 --> 00:23:03,910
+signaling, such as
+***, can lead to
+
+441
+00:23:03,910 --> 00:23:07,690
+epilepsy and seizures.
+And on the other hand,
+
+442
+00:23:07,690 --> 00:23:11,010
+drugs such as ketamine
+and alcohol, among
+
+443
+00:23:11,010 --> 00:23:13,690
+others, interfere
+with the glutamatergic
+
+444
+00:23:13,690 --> 00:23:18,390
+signaling and cause
+depressive effects by
+
+445
+00:23:18,390 --> 00:23:21,850
+decreasing excitation
+and reducing activity,
+
+446
+00:23:21,850 --> 00:23:26,050
+generally throughout
+the brain. There are
+
+447
+00:23:26,050 --> 00:23:29,490
+three types of ionotropic
+and eight subtypes
+
+448
+00:23:29,490 --> 00:23:32,450
+of metabolotropic
+glutamate receptors that
+
+449
+00:23:32,450 --> 00:23:35,510
+in turn determine the
+action of glutamine.
+
+450
+00:23:36,210 --> 00:23:39,990
+AMPA and canate
+receptors are the main
+
+451
+00:23:39,990 --> 00:23:43,110
+ionotropic receptors
+mediating fast
+
+452
+00:23:43,110 --> 00:23:46,450
+excitatory signal because
+these channels once
+
+453
+00:23:46,450 --> 00:23:49,490
+opened allow the
+passage of positively
+
+454
+00:23:49,490 --> 00:23:52,450
+charged ions and
+cause depolarization.
+
+455
+00:23:53,230 --> 00:24:00,330
+NMDA receptors are
+different a little bit
+
+456
+00:24:00,330 --> 00:24:04,690
+closer look because
+they act as co-incident
+
+457
+00:24:04,690 --> 00:24:08,430
+detectors which is
+associated with memory
+
+458
+00:24:08,430 --> 00:24:12,790
+formation. These
+receptors actually require
+
+459
+00:24:12,790 --> 00:24:17,170
+three situations to happen
+in order to open the
+
+460
+00:24:17,170 --> 00:24:21,030
+channel. The first is
+obviously binding of
+
+461
+00:24:21,030 --> 00:24:23,890
+glutamate or aspartate
+for this reason but
+
+462
+00:24:23,890 --> 00:24:27,850
+aspartate is a less
+potent agonist than
+
+463
+00:24:27,850 --> 00:24:31,290
+glutamate the second
+requirement is binding of
+
+464
+00:24:31,290 --> 00:24:35,710
+coal ligands glycine
+or d-serine and these
+
+465
+00:24:35,710 --> 00:24:39,360
+often come from
+surrounding asfocytes even
+
+466
+00:24:39,710 --> 00:24:42,570
+with both ligand and
+coal ligand attached to
+
+467
+00:24:42,570 --> 00:24:44,970
+the NND receptor the
+channel pore is still
+
+468
+00:24:44,970 --> 00:24:49,270
+blocked by magnesium
+ions and the polarization
+
+469
+00:24:49,270 --> 00:24:52,390
+is the third requirement
+that kicks out
+
+470
+00:24:52,390 --> 00:24:55,290
+this magnesium and
+finally opens the channel
+
+471
+00:24:55,290 --> 00:24:58,690
+and causing the
+polarization this is why
+
+472
+00:24:58,690 --> 00:25:02,070
+these channels are called
+coincidence detectors
+
+473
+00:25:02,070 --> 00:25:05,350
+it's because these
+receptors require ligand
+
+474
+00:25:05,350 --> 00:25:07,810
+binding and the
+polarization to happen
+
+475
+00:25:07,810 --> 00:25:13,690
+at the same time or
+very close in time these
+
+476
+00:25:13,690 --> 00:25:17,390
+channels are associated
+with the synaptic
+
+477
+00:25:17,390 --> 00:25:20,370
+plasticity changes during
+learning and memory
+
+478
+00:25:20,860 --> 00:25:23,730
+there is a saying neurons
+that fire together
+
+479
+00:25:23,730 --> 00:25:28,430
+wire together and it
+talks about the increase
+
+480
+00:25:28,430 --> 00:25:31,450
+in synapse strength
+when multiple signals
+
+481
+00:25:31,740 --> 00:25:36,090
+are input into
+downstream neurons at the
+
+482
+00:25:36,090 --> 00:25:39,990
+same time. NMDA receptors
+are the key mechanism
+
+483
+00:25:39,990 --> 00:25:42,350
+detecting these
+multiple signals that
+
+484
+00:25:42,350 --> 00:25:45,530
+occur very close in
+time and mediating the
+
+485
+00:25:45,530 --> 00:25:48,870
+changes in synaptic
+plasticity and increasing
+
+486
+00:25:48,870 --> 00:25:52,050
+the strength of synapse
+when this happens.
+
+487
+00:25:52,710 --> 00:25:55,790
+This is a way to
+form new associations
+
+488
+00:25:55,790 --> 00:25:58,990
+between cellular
+activity in the brain and
+
+489
+00:25:58,990 --> 00:26:01,270
+is associated with
+learning and memory.
+
+490
+00:26:01,470 --> 00:26:04,370
+Changes to receptor
+activity caused
+
+491
+00:26:04,370 --> 00:26:07,130
+by mutation of these
+receptors associated
+
+492
+00:26:07,130 --> 00:26:08,810
+with different
+neurological disorders
+
+493
+00:26:08,810 --> 00:26:11,290
+such as epilepsy,
+schizophrenia,
+
+494
+00:26:11,690 --> 00:26:13,650
+and neurodevelopmental
+disorders.
+
+495
+00:26:15,750 --> 00:26:17,190
+On the other hand,
+
+496
+00:26:17,510 --> 00:26:21,470
+GABA inhibits the
+firing of neurons. GABA
+
+497
+00:26:21,470 --> 00:26:24,030
+opens channels that
+allow passage of
+
+498
+00:26:24,030 --> 00:26:27,990
+negatively charged ions,
+causes hyperparalization
+
+499
+00:26:27,990 --> 00:26:30,070
+of the downstream
+neurons, which
+
+500
+00:26:30,070 --> 00:26:32,670
+makes that neuron less
+likely to fire because
+
+501
+00:26:32,670 --> 00:26:35,070
+its member potential
+is more negative.
+
+502
+00:26:35,470 --> 00:26:39,050
+Drugs such as ethanol
+or benzodiazepines
+
+503
+00:26:39,050 --> 00:26:41,950
+enhance the activity
+of GABA receptors.
+
+504
+00:26:41,950 --> 00:26:44,310
+They potentiate
+inhibitory
+
+505
+00:26:44,310 --> 00:26:45,470
+signal in the brain.
+
+506
+00:26:45,790 --> 00:26:48,530
+Disorders such as
+Huntington's disease
+
+507
+00:26:48,530 --> 00:26:52,050
+affect GABA production
+in the striatum, the
+
+508
+00:26:52,050 --> 00:26:53,860
+brain center for
+movement coordination,
+
+509
+00:26:53,860 --> 00:26:56,810
+And this loss of
+inhibitory signaling or
+
+510
+00:26:56,810 --> 00:27:00,070
+this inhibition leads
+to uncontrollable
+
+511
+00:27:00,070 --> 00:27:02,530
+movements in patients
+with Huntington's
+
+512
+00:27:02,530 --> 00:27:05,250
+disease. These cells
+express dopamine
+
+513
+00:27:05,250 --> 00:27:08,790
+receptors. And we will
+talk about this once
+
+514
+00:27:08,790 --> 00:27:11,830
+again during dopamine
+signaling system.
+
+515
+00:27:14,870 --> 00:27:20,310
+GABA-8 channels mediate
+fast inhibition and
+
+516
+00:27:20,310 --> 00:27:22,410
+let's briefly talk
+about their function.
+
+517
+00:27:22,590 --> 00:27:25,570
+These are GABA
+-gated channels that
+
+518
+00:27:25,570 --> 00:27:27,770
+need two GABA
+molecules to bind the
+
+519
+00:27:27,770 --> 00:27:29,790
+receptors, to open
+the channel and
+
+520
+00:27:29,790 --> 00:27:32,490
+allow chloride
+ions into the cell.
+
+521
+00:27:33,110 --> 00:27:35,310
+This in turn
+decreases the membrane
+
+522
+00:27:35,310 --> 00:27:37,290
+potential and
+reduces the chance
+
+523
+00:27:37,290 --> 00:27:39,370
+of action-potational
+firing. In other
+
+524
+00:27:39,370 --> 00:27:41,730
+words, it inhibits
+that neuron.
+
+525
+00:27:42,170 --> 00:27:47,150
+Now, we will move on
+to AMI transmitters.
+
+526
+00:27:49,230 --> 00:27:52,670
+The second column is the
+main neurotransmitter
+
+527
+00:27:52,670 --> 00:27:54,410
+at the neuromuscular
+junction,
+
+528
+00:27:54,470 --> 00:27:56,870
+where it mediates
+voluntary
+
+529
+00:27:56,870 --> 00:27:59,370
+contractions of
+somatic muscles.
+
+530
+00:27:59,620 --> 00:28:02,100
+It is also one
+of the principal
+
+531
+00:28:02,100 --> 00:28:04,990
+neurotransmitters in the
+autonomic nervous system.
+
+532
+00:28:04,990 --> 00:28:08,390
+It is the parasympathetic
+neurotransmitter,
+
+533
+00:28:08,390 --> 00:28:11,530
+but it is also
+released at the
+
+534
+00:28:11,530 --> 00:28:14,650
+preganglionic nerves of
+the sympathetic system,
+
+535
+00:28:14,650 --> 00:28:18,090
+and also in the
+enteric nervous system,
+
+536
+00:28:18,090 --> 00:28:20,330
+it causes intestinal
+smooth muscle
+
+537
+00:28:20,330 --> 00:28:23,470
+contraction and the gut
+epithelial secretions.
+
+538
+00:28:24,230 --> 00:28:26,610
+Acetylcholine is
+also produced in the
+
+539
+00:28:26,610 --> 00:28:30,690
+brain, and choline
+acetyltransferase, here on
+
+540
+00:28:30,690 --> 00:28:33,110
+the top, is the
+important biosynthesis
+
+541
+00:28:33,110 --> 00:28:36,730
+enzyme. It is usually
+abbreviated as CHAD,
+
+542
+00:28:36,850 --> 00:28:39,410
+so all cholinergic
+neurons are
+
+543
+00:28:39,410 --> 00:28:41,310
+CHAD-positive,
+and that is one
+
+544
+00:28:41,310 --> 00:28:44,930
+way of identifying
+these cells.
+
+545
+00:28:45,610 --> 00:28:48,350
+Below is another
+important enzyme,
+
+546
+00:28:48,660 --> 00:28:50,970
+acetylcholinesterase,
+that stops
+
+547
+00:28:50,970 --> 00:28:54,290
+acetylcholin signaling
+in the synapse by
+
+548
+00:28:54,290 --> 00:28:56,910
+degrading it to
+acetate and choline.
+
+549
+00:28:57,290 --> 00:28:59,270
+Choline is then
+taken up by
+
+550
+00:28:59,270 --> 00:29:00,750
+the presynaptic
+terminal for
+
+551
+00:29:00,750 --> 00:29:03,270
+another
+neurotransmitter cycle.
+
+552
+00:29:06,340 --> 00:29:09,290
+Here is a nice summary
+of what I've just
+
+553
+00:29:09,290 --> 00:29:12,230
+said. Acetylcholine is
+synthesized in the nerve
+
+554
+00:29:12,230 --> 00:29:15,230
+terminals by CHAT
+from choline and
+
+555
+00:29:15,230 --> 00:29:18,690
+acetylcoenzyme A. It gets
+packaged into vesicles,
+
+556
+00:29:18,690 --> 00:29:25,390
+released with oncoming
+action potential, and
+
+557
+00:29:25,390 --> 00:29:29,030
+acts on receptors on
+the postsynaptic cell.
+
+558
+00:29:29,750 --> 00:29:32,070
+Cholinergic signaling
+in the brain is
+
+559
+00:29:32,070 --> 00:29:34,890
+important for learning
+and memory, and these
+
+560
+00:29:34,890 --> 00:29:37,430
+CHAT-positive cells
+are decreased in
+
+561
+00:29:37,430 --> 00:29:40,010
+brains from Alzheimer's
+disease patients.
+
+562
+00:29:40,150 --> 00:29:43,410
+It is thought that
+decreased cholinergic
+
+563
+00:29:43,410 --> 00:29:45,310
+signaling is
+contributing to the
+
+564
+00:29:45,310 --> 00:29:48,530
+disease, so a treatment
+approach is to
+
+565
+00:29:48,530 --> 00:29:52,190
+increase acetylcholine,
+and there are
+
+566
+00:29:52,190 --> 00:29:55,770
+FDA-approved drugs
+to do exactly that
+
+567
+00:29:55,770 --> 00:29:59,370
+by blocking acetylcholine
+degradation.
+
+568
+00:30:03,170 --> 00:30:04,930
+Acetylcholinesterase
+is the key
+
+569
+00:30:04,930 --> 00:30:07,130
+enzyme to stop
+the cholinergic
+
+570
+00:30:07,130 --> 00:30:09,070
+signaling, as we
+mentioned already.
+
+571
+00:30:09,150 --> 00:30:12,270
+It is expressed in
+the synaptic cleft,
+
+572
+00:30:12,270 --> 00:30:15,390
+where it converts
+acetylcholin into
+
+573
+00:30:15,390 --> 00:30:18,070
+acetate and choline.
+This enzyme is
+
+574
+00:30:18,070 --> 00:30:21,030
+the target of some
+Alzheimer's disease
+
+575
+00:30:21,030 --> 00:30:24,510
+drugs in an attempt
+to balance out the
+
+576
+00:30:24,510 --> 00:30:27,210
+degeneration of
+cholinergic neurons.
+
+577
+00:30:27,650 --> 00:30:29,530
+Acetylcholinesterase
+is also
+
+578
+00:30:29,530 --> 00:30:31,370
+a target for
+organophosphate
+
+579
+00:30:31,370 --> 00:30:33,510
+insecticides and
+nerve agents.
+
+580
+00:30:33,730 --> 00:30:37,150
+Poisoning is causing
+overstimulation
+
+581
+00:30:37,150 --> 00:30:40,810
+of the cholinergic
+receptors and causing
+
+582
+00:30:40,810 --> 00:30:43,070
+muscle spasms and
+other symptoms
+
+583
+00:30:43,070 --> 00:30:45,890
+resulting from hyperactive
+parasympathetic
+
+584
+00:30:45,890 --> 00:30:48,630
+systems such as
+increased salivation,
+
+585
+00:30:48,830 --> 00:30:51,750
+lacrimation, and
+intestinal motility and
+
+586
+00:30:51,750 --> 00:30:55,250
+diarrhea. These
+parasympathetic signals are
+
+587
+00:30:55,250 --> 00:30:58,230
+mediated by muscarinic
+receptors and can be
+
+588
+00:30:58,230 --> 00:31:01,650
+controlled by muscarinic
+antagonist atropine.
+
+589
+00:31:04,550 --> 00:31:09,050
+In the brain,
+acetylcholine is not widely
+
+590
+00:31:09,050 --> 00:31:12,470
+produced like glutamate
+and GABA. There are
+
+591
+00:31:12,470 --> 00:31:15,150
+three primary groups
+of cholinergic neurons,
+
+592
+00:31:15,150 --> 00:31:18,490
+those originating in
+ventral areas of the
+
+593
+00:31:18,490 --> 00:31:21,430
+forebrain, such as
+nucleus basalis, a nuclei
+
+594
+00:31:21,430 --> 00:31:24,510
+of the diagonal band
+and medial septum.
+
+595
+00:31:24,590 --> 00:31:28,950
+Another location is
+in the pons, and there
+
+596
+00:31:28,950 --> 00:31:31,550
+are also small interneurals
+in the striatum,
+
+597
+00:31:31,620 --> 00:31:33,630
+which are not shown
+in this schematic.
+
+598
+00:31:33,630 --> 00:31:37,790
+These small cholinergic
+neurons in the
+
+599
+00:31:37,790 --> 00:31:40,910
+striatum are inhibited
+by dopaminergic neurons
+
+600
+00:31:40,910 --> 00:31:46,210
+from Substantia *****,
+and they are the
+
+601
+00:31:46,210 --> 00:31:49,010
+basis for the use of
+muscarinic receptor
+
+602
+00:31:49,010 --> 00:31:52,470
+antagonists in treating
+Parkinson's disease.
+
+603
+00:31:53,350 --> 00:31:56,910
+Neurons from the
+nucleus basalis project
+
+604
+00:31:56,910 --> 00:31:59,870
+to large areas of
+the cerebral cortex,
+
+605
+00:31:59,870 --> 00:32:03,510
+while septal and
+diagonal band neurons
+
+606
+00:32:03,510 --> 00:32:06,450
+project largely to
+the hippocampus.
+
+607
+00:32:06,870 --> 00:32:08,910
+These path phases
+are important
+
+608
+00:32:08,910 --> 00:32:10,970
+in learning
+and memory, and
+
+609
+00:32:10,970 --> 00:32:12,850
+degenerate in
+Alzheimer's disease.
+
+610
+00:32:13,280 --> 00:32:15,570
+Therefore,
+treatment of this
+
+611
+00:32:15,570 --> 00:32:17,590
+disorder involves
+the use of
+
+612
+00:32:17,590 --> 00:32:19,890
+acetylcholinester
+as inhibitors
+
+613
+00:32:19,890 --> 00:32:21,810
+in attempts to alleviate
+
+614
+00:32:21,810 --> 00:32:24,010
+this cholinergic deficit.
+
+615
+00:32:24,770 --> 00:32:28,390
+Neurons originating in
+the dorsal tegmentum
+
+616
+00:32:28,390 --> 00:32:31,850
+of the pons project
+to the thalamus and
+
+617
+00:32:31,850 --> 00:32:35,330
+basal forebrain and
+have descending pathways
+
+618
+00:32:35,380 --> 00:32:38,870
+to the reticular
+formation, cerebellum,
+
+619
+00:32:38,870 --> 00:32:41,210
+vestibular nuclei, and
+cranial nerve nuclei.
+
+620
+00:32:41,210 --> 00:32:44,990
+they are involved
+in arousal and REM
+
+621
+00:32:44,990 --> 00:32:50,090
+sleep it's important
+to know the locations
+
+622
+00:32:50,090 --> 00:32:53,390
+of these nuclei because
+****** or injury
+
+623
+00:32:53,390 --> 00:32:56,370
+to these areas can
+cause loss of functions
+
+624
+00:32:56,370 --> 00:32:58,310
+that are specific
+for these pathways
+
+625
+00:32:58,310 --> 00:33:02,870
+so learning and memory
+for basal forebrain
+
+626
+00:33:02,870 --> 00:33:07,190
+pathways and arousal
+and sleep for
+
+627
+00:33:07,190 --> 00:33:10,670
+mesopotamia pathways
+all the Neurocholinergic
+
+628
+00:33:10,670 --> 00:33:13,470
+neurons are found in
+a few small areas in
+
+629
+00:33:13,470 --> 00:33:16,490
+the brain. They project
+widely, and their
+
+630
+00:33:16,490 --> 00:33:21,610
+actions are mediated
+by the receptors.
+
+631
+00:33:21,650 --> 00:33:24,650
+And the image shows
+their distribution
+
+632
+00:33:24,650 --> 00:33:27,050
+in the brain. We
+can see that cortex
+
+633
+00:33:27,050 --> 00:33:29,370
+expresses both
+nicotinic and
+
+634
+00:33:29,370 --> 00:33:31,670
+muscarinic receptors,
+while certain brain
+
+635
+00:33:31,670 --> 00:33:33,910
+areas have more
+specific expression.
+
+636
+00:33:34,130 --> 00:33:37,790
+We can see that most
+of the brainstem
+
+637
+00:33:37,790 --> 00:33:40,230
+has muscarinic
+receptors, and there are
+
+638
+00:33:40,230 --> 00:33:43,250
+few small areas
+expressing only nicotinic
+
+639
+00:33:43,250 --> 00:33:45,430
+receptors such as
+substantia *****,
+
+640
+00:33:45,610 --> 00:33:48,890
+locus ferulis,
+and septum. These
+
+641
+00:33:48,890 --> 00:33:51,090
+differences will cause
+different actions
+
+642
+00:33:51,090 --> 00:33:53,970
+of acetylcholine
+in these areas.
+
+643
+00:33:57,310 --> 00:34:00,770
+Moving on to glatecholamine
+neurotransmitters,
+
+644
+00:34:00,770 --> 00:34:03,370
+so dopamine,
+noradrenaline or
+
+645
+00:34:03,370 --> 00:34:07,270
+norepinephrine and adrenaline
+or epinephrine they
+
+646
+00:34:07,270 --> 00:34:10,150
+are produced in this
+chain of chemical
+
+647
+00:34:10,150 --> 00:34:12,850
+reactions from
+tyrosine all the way to
+
+648
+00:34:12,850 --> 00:34:15,810
+epinephrine it is
+important to know this
+
+649
+00:34:15,810 --> 00:34:19,330
+biosynthesis pathway
+because only cells that
+
+650
+00:34:19,330 --> 00:34:22,290
+produce catecholamines
+express these keys
+
+651
+00:34:22,290 --> 00:34:25,790
+enzymes also this is
+the basis for some
+
+652
+00:34:25,790 --> 00:34:28,750
+treatments such as l-dopa
+is given to parkinson
+
+653
+00:34:28,750 --> 00:34:31,950
+disease patients
+because it is dopamine
+
+654
+00:34:31,950 --> 00:34:34,050
+precursor and
+increases the levels of
+
+655
+00:34:34,050 --> 00:34:38,090
+dopamine everywhere
+and that relieves some
+
+656
+00:34:38,090 --> 00:34:40,910
+symptoms of this
+neurodegenerative disease.
+
+657
+00:34:42,110 --> 00:34:44,150
+Equally important
+is to know
+
+658
+00:34:44,150 --> 00:34:45,830
+the main degradation
+pathways.
+
+659
+00:34:45,890 --> 00:34:48,550
+It is important to know
+that catecholamines
+
+660
+00:34:48,550 --> 00:34:51,470
+are degraded by the
+same kind of enzymes,
+
+661
+00:34:51,650 --> 00:34:54,510
+so drugs targeting
+these enzymes
+
+662
+00:34:54,510 --> 00:34:57,590
+such as monoamine
+oxidase inhibitors
+
+663
+00:34:58,370 --> 00:35:03,290
+for depression treatment
+will affect the
+
+664
+00:35:03,290 --> 00:35:09,530
+levels of all of them
+so monoamine oxidase
+
+665
+00:35:10,230 --> 00:35:14,170
+also degrades
+serotomy and these can
+
+666
+00:35:14,170 --> 00:35:16,730
+lead to serious drug
+interactions and we
+
+667
+00:35:16,730 --> 00:35:18,970
+will talk about it
+later in this session
+
+668
+00:35:18,970 --> 00:35:23,170
+catecholamines are
+released throughout
+
+669
+00:35:23,170 --> 00:35:26,030
+the brain but they
+have very specific
+
+670
+00:35:26,030 --> 00:35:28,800
+areas where they
+are produced within
+
+671
+00:35:28,800 --> 00:35:30,860
+the brain, just
+like acetylcholine.
+
+672
+00:35:31,500 --> 00:35:33,390
+Catecholamines are
+also produced by
+
+673
+00:35:33,390 --> 00:35:37,070
+other tissues outside
+the brain as well.
+
+674
+00:35:37,650 --> 00:35:38,410
+In fact,
+
+675
+00:35:38,590 --> 00:35:40,730
+epinephrine is
+produced by neurons of
+
+676
+00:35:40,730 --> 00:35:43,950
+the brainstem, but
+mostly produced in the
+
+677
+00:35:43,950 --> 00:35:47,470
+adrenal glands and
+serves as a hormone.
+
+678
+00:35:50,030 --> 00:35:52,890
+So, I already mentioned
+that epaminergic
+
+679
+00:35:52,890 --> 00:35:55,410
+neurons project widely
+in the brain. However,
+
+680
+00:35:55,630 --> 00:35:58,350
+their cell bodies
+are primarily found
+
+681
+00:35:58,350 --> 00:36:01,110
+in three brain
+locations, two in the
+
+682
+00:36:01,110 --> 00:36:04,930
+midbrain containing the
+substantia ***** and
+
+683
+00:36:04,930 --> 00:36:07,610
+adjacent ventral
+tegmental area and
+
+684
+00:36:07,610 --> 00:36:10,950
+the arcuate nucleus
+of the hypothalamus.
+
+685
+00:36:12,710 --> 00:36:15,290
+Negrostriatal dopaminergic
+neurons project
+
+686
+00:36:15,290 --> 00:36:18,750
+to striatum, so-called
+nucleus and pitamen,
+
+687
+00:36:18,750 --> 00:36:21,650
+and are involved in
+control of posture
+
+688
+00:36:21,650 --> 00:36:24,810
+and movement. These
+neurons degenerate in
+
+689
+00:36:24,810 --> 00:36:27,130
+Parkinson's disease,
+and drugs to treat
+
+690
+00:36:27,130 --> 00:36:30,130
+Parkinson stimulate
+these pathways, such as
+
+691
+00:36:30,130 --> 00:36:32,610
+L-DOPA, increasing the
+levels of dopamine.
+
+692
+00:36:33,390 --> 00:36:38,210
+The ventral tegmental
+area neurons extend
+
+693
+00:36:38,210 --> 00:36:40,830
+to the cortex and
+limbic system, and
+
+694
+00:36:40,830 --> 00:36:43,310
+they are referred
+as mesocortical or
+
+695
+00:36:43,310 --> 00:36:47,590
+mesolimbic pathways,
+respectively, and are
+
+696
+00:36:47,590 --> 00:36:50,670
+important for complex,
+target-oriented
+
+697
+00:36:50,670 --> 00:36:54,030
+behaviors, including
+psychotic behaviors.
+
+698
+00:36:54,170 --> 00:36:56,930
+So many antipsychotic
+drugs work to
+
+699
+00:36:56,930 --> 00:36:59,870
+block or inhibit
+these pathways. Those
+
+700
+00:36:59,870 --> 00:37:01,830
+neurons projecting
+from the ventral
+
+701
+00:37:01,830 --> 00:37:04,970
+tegmental area to the
+nucleus accumbens are
+
+702
+00:37:04,970 --> 00:37:07,450
+believed to be
+involved in addiction.
+
+703
+00:37:08,820 --> 00:37:11,770
+Dopamine is also
+synthesized by much shorter
+
+704
+00:37:11,770 --> 00:37:14,950
+neurons originating
+in the arcuate nucleus
+
+705
+00:37:14,950 --> 00:37:20,170
+of the hypothalamus
+and projecting to
+
+706
+00:37:20,170 --> 00:37:25,050
+pituitary into median
+eminence and this pathway
+
+707
+00:37:25,050 --> 00:37:29,530
+is known as tubular
+infidibular pathway.
+
+708
+00:37:29,530 --> 00:37:33,670
+These neurons regulate
+anterior pituitary
+
+709
+00:37:33,670 --> 00:37:36,530
+function and decrease
+prolactin secretion.
+
+710
+00:37:36,550 --> 00:37:38,790
+And some drugs
+affecting dopamine
+
+711
+00:37:38,790 --> 00:37:41,110
+signaling also
+perturb the system.
+
+712
+00:37:41,110 --> 00:37:44,110
+For example,
+antipsychotics, particularly
+
+713
+00:37:44,110 --> 00:37:45,650
+the first
+-generation ones,
+
+714
+00:37:45,650 --> 00:37:49,550
+often cause
+hyperprolactinemia or
+
+715
+00:37:49,550 --> 00:37:52,530
+increase prolactin
+levels in the blood.
+
+716
+00:37:53,370 --> 00:37:55,830
+The effects of
+dopamine signaling
+
+717
+00:37:55,830 --> 00:37:58,990
+will depend again
+on their receptors.
+
+718
+00:38:01,550 --> 00:38:04,350
+Here is the
+map of dopamine
+
+719
+00:38:04,350 --> 00:38:05,810
+receptor distribution.
+
+720
+00:38:05,970 --> 00:38:08,770
+We can see that
+dopaminergic neurons
+
+721
+00:38:08,770 --> 00:38:11,970
+also project widely
+across the brain.
+
+722
+00:38:12,090 --> 00:38:15,090
+These receptors also have
+
+723
+00:38:15,090 --> 00:38:17,070
+specific patterns
+of expression.
+
+724
+00:38:17,450 --> 00:38:20,450
+cortex and limbic
+system have all kinds
+
+725
+00:38:20,450 --> 00:38:23,970
+of dopamine receptor
+subtypes and these
+
+726
+00:38:23,970 --> 00:38:26,390
+are again controlling
+addiction and
+
+727
+00:38:26,390 --> 00:38:29,750
+psychotic behaviors on
+the other hand striatum
+
+728
+00:38:29,750 --> 00:38:32,950
+and hypothalamus have
+a mix of specific
+
+729
+00:38:32,950 --> 00:38:36,530
+excitatory and
+inhibitory receptors i
+
+730
+00:38:36,530 --> 00:38:38,090
+would like to turn
+your attention to
+
+731
+00:38:38,090 --> 00:38:41,670
+striatum striatal
+neurons are important for
+
+732
+00:38:41,670 --> 00:38:45,490
+coordinating movements
+and i've already
+
+733
+00:38:46,200 --> 00:38:49,650
+mentioned how they are
+involved in Parkinson's
+
+734
+00:38:49,650 --> 00:38:52,750
+disease affecting
+cholinergic interneurons
+
+735
+00:38:52,750 --> 00:38:56,770
+in this area striatal
+GABAergic neurons
+
+736
+00:38:56,770 --> 00:39:00,550
+die in Huntington's
+disease and we
+
+737
+00:39:00,550 --> 00:39:05,890
+already talked about this
+as well the Huntington's
+
+738
+00:39:05,890 --> 00:39:08,230
+is a neurodegenerative
+disease that
+
+739
+00:39:08,230 --> 00:39:11,510
+targets striatum
+particularly medium spiny
+
+740
+00:39:11,510 --> 00:39:15,430
+neurons expressing
+these two receptors in
+
+741
+00:39:15,430 --> 00:39:18,950
+the initial state of
+the disease and this
+
+742
+00:39:18,950 --> 00:39:23,150
+results in the imbalance
+of dopaminergic
+
+743
+00:39:23,150 --> 00:39:26,770
+signaling and causes
+uncontrolled movements
+
+744
+00:39:26,770 --> 00:39:30,970
+of the arms legs head
+face and upper body
+
+745
+00:39:30,970 --> 00:39:34,250
+which is a hallmark
+of huntington disease.
+
+746
+00:39:35,100 --> 00:39:37,490
+We will switch
+now to another
+
+747
+00:39:37,490 --> 00:39:40,520
+catecholamine, and
+that is noradrenaline.
+
+748
+00:39:42,790 --> 00:39:44,490
+In the brain,
+
+749
+00:39:44,630 --> 00:39:47,830
+neurons synthesizing
+neuroadrenaline
+
+750
+00:39:47,830 --> 00:39:50,010
+have their cell
+bodies primarily
+
+751
+00:39:50,010 --> 00:39:52,430
+in the locus
+ceruleus and lateral
+
+752
+00:39:52,430 --> 00:39:54,790
+tegmental region
+in the bones.
+
+753
+00:39:55,350 --> 00:39:57,730
+The locus ceruleus
+neurons project
+
+754
+00:39:57,730 --> 00:40:01,270
+anteriorly to
+large areas of the
+
+755
+00:40:01,270 --> 00:40:04,530
+cerebral cortex,
+thalamus, hypothalamus,
+
+756
+00:40:04,530 --> 00:40:08,310
+and olfactory bulb,
+with descending
+
+757
+00:40:08,310 --> 00:40:10,890
+projections to
+the spinal cord.
+
+758
+00:40:11,150 --> 00:40:13,590
+The lateral tegmental
+neurons have
+
+759
+00:40:13,590 --> 00:40:15,550
+ascending pathways
+to the limbic system
+
+760
+00:40:15,550 --> 00:40:17,870
+and descending
+projections to the
+
+761
+00:40:17,870 --> 00:40:20,570
+cerebellum and spinal
+cord, with fibers
+
+762
+00:40:20,570 --> 00:40:23,190
+passing in the ventral
+lateral column.
+
+763
+00:40:24,190 --> 00:40:26,930
+Noradrenergic pathways
+involved in controlling
+
+764
+00:40:26,930 --> 00:40:29,810
+responses to
+external sensory and
+
+765
+00:40:29,810 --> 00:40:33,350
+motor stimuli arousal
+and attention and
+
+766
+00:40:33,350 --> 00:40:35,890
+learning and memory
+and may be important in
+
+767
+00:40:35,890 --> 00:40:39,350
+major depression
+midbrain neurons also
+
+768
+00:40:39,350 --> 00:40:41,550
+play important roles
+in the control of
+
+769
+00:40:41,550 --> 00:40:45,670
+autonomic and neuroendocrine
+functions magic
+
+770
+00:40:54,070 --> 00:40:56,750
+neurons just like
+dopaminergic neurons
+
+771
+00:40:56,750 --> 00:41:00,090
+have high metabolic
+demands and produce a
+
+772
+00:41:00,090 --> 00:41:03,010
+lot of reactive oxygen
+radicals which makes
+
+773
+00:41:03,010 --> 00:41:05,150
+them very susceptible
+for degeneration
+
+774
+00:41:05,150 --> 00:41:08,770
+therefore it's not
+surprising that Alzheimer's
+
+775
+00:41:08,770 --> 00:41:10,930
+and Parkinson's
+disease patients also
+
+776
+00:41:10,930 --> 00:41:13,870
+have the generation
+of noradrenaline
+
+777
+00:41:13,870 --> 00:41:17,750
+-producing neurons.
+These neurons also die
+
+778
+00:41:17,750 --> 00:41:21,450
+from chronic alcohol
+***** and their loss
+
+779
+00:41:21,450 --> 00:41:23,870
+contributes to Wernick
+-Corsakov syndrome.
+
+780
+00:41:24,390 --> 00:41:27,030
+Noradrenaline is also
+synthesized outside
+
+781
+00:41:27,030 --> 00:41:29,510
+central nervous system,
+primarily in the
+
+782
+00:41:29,510 --> 00:41:33,490
+adrenal medulla and
+sympathetic nerves.
+
+783
+00:41:38,740 --> 00:41:40,850
+Another neurotransmitter
+of this group
+
+784
+00:41:40,850 --> 00:41:43,930
+is serotonin, or 5
+-hydroxytryptamine,
+
+785
+00:41:43,970 --> 00:41:46,830
+and it's mostly
+present outside the
+
+786
+00:41:46,830 --> 00:41:49,710
+brain, such as platelets
+and gut epithelium.
+
+787
+00:41:49,710 --> 00:41:52,630
+In fact, intestinal
+epithelial cells
+
+788
+00:41:52,630 --> 00:41:56,590
+produce about 90%
+of body serotonin.
+
+789
+00:41:57,190 --> 00:41:59,670
+5-Hydroxytryptamine
+is also
+
+790
+00:41:59,670 --> 00:42:02,210
+neuromodulator in
+the brain and it's
+
+791
+00:42:02,210 --> 00:42:04,770
+been implicated
+in sleep and mood
+
+792
+00:42:04,770 --> 00:42:07,750
+disorders, depression
+and anxiety.
+
+793
+00:42:08,090 --> 00:42:11,770
+Again, I encourage you
+to learn key enzymes
+
+794
+00:42:11,770 --> 00:42:14,390
+for synthesis of
+serotonin from tryptophan.
+
+795
+00:42:14,390 --> 00:42:17,150
+These are specific
+for serotonin orgic
+
+796
+00:42:17,150 --> 00:42:20,930
+cells and the key
+degradation pathways.
+
+797
+00:42:22,790 --> 00:42:25,530
+These are important
+targets for treatment
+
+798
+00:42:25,530 --> 00:42:28,530
+of mood disorders.
+These drugs increase
+
+799
+00:42:28,530 --> 00:42:30,730
+the levels of serotonin
+in the synaptic
+
+800
+00:42:30,730 --> 00:42:32,810
+cleft by two
+different mechanisms,
+
+801
+00:42:32,810 --> 00:42:35,410
+blocking the reuptake
+of serotonin through
+
+802
+00:42:35,410 --> 00:42:38,170
+serotonin transporters
+or by inhibiting
+
+803
+00:42:38,170 --> 00:42:41,170
+serotonin degradation.
+Remember that
+
+804
+00:42:41,170 --> 00:42:43,950
+monoamine oxidase
+inhibitors also increase
+
+805
+00:42:43,950 --> 00:42:45,870
+levels of
+catecholamines, including
+
+806
+00:42:45,870 --> 00:42:49,110
+dopamine, norepinephrine,
+and epinephrine.
+
+807
+00:42:49,290 --> 00:42:52,430
+Another key information
+is that these
+
+808
+00:42:52,430 --> 00:42:55,710
+two classes of drugs
+should never be
+
+809
+00:42:55,710 --> 00:42:58,650
+taken at the same time
+or closed in time.
+
+810
+00:42:58,650 --> 00:43:02,550
+Since they act through
+different mechanisms,
+
+811
+00:43:02,550 --> 00:43:05,090
+they can increase
+serotonin to dangerous
+
+812
+00:43:05,090 --> 00:43:08,150
+levels and lead to
+serotonin syndrome.
+
+813
+00:43:08,690 --> 00:43:11,790
+again this is caused
+by medications that
+
+814
+00:43:11,790 --> 00:43:14,230
+build up high levels
+of serotonin in the
+
+815
+00:43:14,230 --> 00:43:17,370
+body and too much
+serotonin causes signs
+
+816
+00:43:17,370 --> 00:43:19,750
+and symptoms that can
+range from shivering
+
+817
+00:43:19,750 --> 00:43:22,870
+and diarrhea to
+muscle rigidity fever
+
+818
+00:43:22,870 --> 00:43:26,050
+and seizures and
+serotonin syndrome
+
+819
+00:43:26,050 --> 00:43:30,130
+can cause that if not
+treated so this is
+
+820
+00:43:30,130 --> 00:43:32,470
+a serious condition
+and that is why it's
+
+821
+00:43:32,470 --> 00:43:37,200
+important not to
+mix SSRIs with MAO
+
+822
+00:43:37,810 --> 00:43:42,410
+inhibitors and one
+should be cautious when
+
+823
+00:43:42,410 --> 00:43:45,710
+switching between
+these classes of drugs.
+
+824
+00:43:48,740 --> 00:43:51,950
+In the brain serotonin
+is produced in
+
+825
+00:43:51,950 --> 00:43:55,410
+two small areas raffin
+nuclei. Rosterone
+
+826
+00:43:55,410 --> 00:43:57,870
+nuclei projects widely
+to the brain and
+
+827
+00:43:57,870 --> 00:44:00,130
+caudal has projections
+to the spinal
+
+828
+00:44:00,130 --> 00:44:03,870
+cord these pathways
+have broad influences
+
+829
+00:44:03,870 --> 00:44:06,310
+throughout the brain
+and are important
+
+830
+00:44:06,310 --> 00:44:09,290
+for sensory processing
+and homeostasis
+
+831
+00:44:09,550 --> 00:44:12,350
+they play a role in
+psychotic behaviors
+
+832
+00:44:12,350 --> 00:44:15,330
+depression and obsessive
+compulsive disorder
+
+833
+00:44:15,330 --> 00:44:19,330
+and eating behavior
+and a major targets
+
+834
+00:44:19,330 --> 00:44:22,370
+for drugs used to
+treat these diseases
+
+835
+00:44:26,630 --> 00:44:30,770
+Histamine is the last
+neurotransmitter in
+
+836
+00:44:30,770 --> 00:44:32,410
+this group that we're
+going to talk about
+
+837
+00:44:32,410 --> 00:44:35,210
+and is present in
+large amounts in other
+
+838
+00:44:35,210 --> 00:44:38,910
+tissues such as skin
+and lung but also
+
+839
+00:44:38,910 --> 00:44:40,910
+serves as neurotransmitter
+in the brain.
+
+840
+00:44:41,670 --> 00:44:44,210
+Histaminergic neurons
+primarily reside
+
+841
+00:44:44,210 --> 00:44:47,110
+in the posterior
+hypothalamus
+
+842
+00:44:47,110 --> 00:44:51,530
+referred to as
+tuberomammillary nucleus.
+
+843
+00:44:51,970 --> 00:44:56,210
+These neurons form long
+ascending connections
+
+844
+00:44:56,210 --> 00:44:59,810
+to many telencephalic
+areas, including
+
+845
+00:44:59,810 --> 00:45:02,010
+all areas of the
+cerebral cortex, the
+
+846
+00:45:02,010 --> 00:45:04,870
+limbic system, basal
+ganglia, and others.
+
+847
+00:45:05,170 --> 00:45:07,850
+Also, long-descending
+neurons project
+
+848
+00:45:07,850 --> 00:45:10,470
+to mesencephalic and
+brainstem structures,
+
+849
+00:45:10,470 --> 00:45:12,470
+including cranial
+nerve nuclei,
+
+850
+00:45:12,770 --> 00:45:15,270
+substantia *****,
+locus coeruleus,
+
+851
+00:45:15,270 --> 00:45:17,770
+mesopotamia tegumetum,
+dorsal raphe,
+
+852
+00:45:18,110 --> 00:45:20,130
+cerebellum, and
+spinal cord.
+
+853
+00:45:20,550 --> 00:45:23,230
+Hystaminergic
+neurons play a major
+
+854
+00:45:23,230 --> 00:45:26,630
+role in arousal,
+sleep-wake cycle,
+
+855
+00:45:26,910 --> 00:45:29,150
+in coupling
+neuronal activity
+
+856
+00:45:29,150 --> 00:45:31,490
+with cerebral
+metabolism, and
+
+857
+00:45:31,490 --> 00:45:33,710
+in neuroendocrine
+regulation.
+
+858
+00:45:37,720 --> 00:45:40,190
+I would like to
+show you this table
+
+859
+00:45:40,190 --> 00:45:43,490
+summarizing the key small
+molecule transmitters
+
+860
+00:45:43,490 --> 00:45:45,810
+that we just talked
+about, their site of
+
+861
+00:45:45,810 --> 00:45:48,670
+production, and
+projections in the brain,
+
+862
+00:45:48,670 --> 00:45:51,430
+their functions and
+associated disorders.
+
+863
+00:45:51,690 --> 00:45:54,730
+For instance, nigrostriatal
+pathway consists
+
+864
+00:45:54,730 --> 00:45:57,190
+of dopaminergic
+neurons residing in the
+
+865
+00:45:57,190 --> 00:46:02,690
+substantia ***** and
+projecting to striatum.
+
+866
+00:46:02,690 --> 00:46:05,910
+Their major function
+is control of
+
+867
+00:46:05,910 --> 00:46:08,370
+posture and movement,
+and these neurons
+
+868
+00:46:08,370 --> 00:46:10,390
+degenerate in
+Parkinson's disease.
+
+869
+00:46:10,670 --> 00:46:13,890
+Please use this table
+in concert with cartoons
+
+870
+00:46:13,890 --> 00:46:16,950
+to learn where these
+important clusters
+
+871
+00:46:16,950 --> 00:46:21,250
+of different neurons
+are and to help you
+
+872
+00:46:21,250 --> 00:46:23,370
+organize your knowledge
+about their locations
+
+873
+00:46:23,370 --> 00:46:26,610
+and their functions
+this is essential
+
+874
+00:46:26,610 --> 00:46:30,590
+to understand because
+to understand disorders
+
+875
+00:46:30,590 --> 00:46:33,530
+when these specific
+areas of the brain
+
+876
+00:46:33,530 --> 00:46:37,850
+damaged whether it's the
+degeneration or injury
+
+877
+00:46:37,850 --> 00:46:41,270
+or ****** now we will
+talk briefly about
+
+878
+00:46:41,270 --> 00:46:44,210
+some other classes
+of neurotransmitters.
+
+879
+00:46:45,200 --> 00:46:48,370
+ATP is an essential
+molecule to store
+
+880
+00:46:48,370 --> 00:46:51,130
+energy but also
+serves as a
+
+881
+00:46:51,130 --> 00:46:54,410
+neurotransmitter and
+a danger signal that
+
+882
+00:46:54,410 --> 00:46:56,370
+can trigger
+inflammatory response.
+
+883
+00:46:56,760 --> 00:47:01,050
+ATP and its metabolites
+act on a system of
+
+884
+00:47:01,050 --> 00:47:05,410
+purinergic receptors
+composed of P2X ionotropic
+
+885
+00:47:05,410 --> 00:47:10,250
+receptors and p2y
+and p1 metabotropic
+
+886
+00:47:10,250 --> 00:47:15,450
+receptors so atp can act
+as a fast neurotransmitter
+
+887
+00:47:15,450 --> 00:47:18,250
+and also together
+with its metabolites
+
+888
+00:47:18,250 --> 00:47:23,030
+as a neuromodulator
+these purines can be
+
+889
+00:47:23,030 --> 00:47:26,950
+released by both neurons
+and astrocytes to drive
+
+890
+00:47:26,950 --> 00:47:30,170
+the pressure to sleep
+and the main effect
+
+891
+00:47:30,170 --> 00:47:33,650
+of caffeine for
+promoting wakefulness is
+
+892
+00:47:33,650 --> 00:47:38,150
+through inhibiting denosin
+P1-class receptors.
+
+893
+00:47:41,040 --> 00:47:43,130
+Moving on to a
+very different type
+
+894
+00:47:43,130 --> 00:47:45,790
+of neurotransmitter,
+one that is
+
+895
+00:47:45,790 --> 00:47:48,310
+actually a gas, and
+we already talked
+
+896
+00:47:48,310 --> 00:47:50,750
+about it earlier
+in the session.
+
+897
+00:47:51,370 --> 00:47:53,950
+So, all of the
+neurotransmitters that
+
+898
+00:47:53,950 --> 00:47:56,630
+we talked about
+signal enter
+
+899
+00:47:56,630 --> 00:47:59,710
+greatly, And now we
+are talking about a
+
+900
+00:47:59,710 --> 00:48:01,570
+neurotransmitter
+that can also serve
+
+901
+00:48:01,570 --> 00:48:04,350
+as a retrograde
+neurotransmitter.
+
+902
+00:48:05,010 --> 00:48:08,670
+Nitric oxide is
+produced by nitric oxide
+
+903
+00:48:08,670 --> 00:48:14,210
+synthase, and it then
+just diffuses in all
+
+904
+00:48:14,210 --> 00:48:18,830
+directions, including
+from postsynaptic to
+
+905
+00:48:18,830 --> 00:48:21,370
+presynaptic terminal,
+where it can modulate
+
+906
+00:48:21,370 --> 00:48:23,850
+the release of other
+neurotransmitters, such
+
+907
+00:48:23,850 --> 00:48:27,870
+as glutamate. It also
+diffuses to other
+
+908
+00:48:27,870 --> 00:48:31,330
+surrounding cells,
+neurons and glia cells.
+
+909
+00:48:32,270 --> 00:48:35,170
+Nitric oxide can have
+other physiological
+
+910
+00:48:35,170 --> 00:48:38,590
+effects, such as
+relaxation of the smooth
+
+911
+00:48:38,590 --> 00:48:41,610
+musculature of intestines
+and blood vessels.
+
+912
+00:48:42,350 --> 00:48:47,140
+Nitric oxide also
+serves as a vasotilator.
+
+913
+00:48:49,870 --> 00:48:52,950
+Peptide neuron
+transmitters are
+
+914
+00:48:52,950 --> 00:48:55,310
+chains of amino
+acids that have
+
+915
+00:48:55,310 --> 00:48:57,570
+various effects
+throughout the brain,
+
+916
+00:48:57,570 --> 00:49:00,090
+brain stem and
+the spinal cord.
+
+917
+00:49:00,620 --> 00:49:04,050
+There are many, many
+neuropeptides, and
+
+918
+00:49:04,050 --> 00:49:06,570
+here I mention only
+a handful of them.
+
+919
+00:49:07,440 --> 00:49:09,810
+I would like you to
+learn the members of
+
+920
+00:49:09,810 --> 00:49:11,910
+the opioid family
+and their primary
+
+921
+00:49:11,910 --> 00:49:15,630
+receptors. They are
+important mediators of the
+
+922
+00:49:15,630 --> 00:49:19,590
+pain pathways, and
+the receptors are
+
+923
+00:49:19,590 --> 00:49:22,690
+targets of drugs that
+are used to treat
+
+924
+00:49:22,690 --> 00:49:26,230
+chronic pain, as well
+as recreational drugs.
+
+925
+00:49:26,560 --> 00:49:28,470
+Therefore, it
+is important to
+
+926
+00:49:28,470 --> 00:49:30,110
+be familiar with
+this system.
+
+927
+00:49:30,630 --> 00:49:33,490
+Please keep in mind
+that neuropeptides
+
+928
+00:49:33,490 --> 00:49:35,270
+are usually derived
+from precursor
+
+929
+00:49:35,270 --> 00:49:37,590
+proteins, so know
+these precursor
+
+930
+00:49:37,590 --> 00:49:39,750
+proteins for these
+key neuropeptides.
+
+931
+00:49:40,230 --> 00:49:43,090
+The second group
+in this table lists
+
+932
+00:49:43,090 --> 00:49:45,770
+some hypothalamic
+peptides, and we
+
+933
+00:49:45,770 --> 00:49:48,050
+will talk more about
+their actions in a
+
+934
+00:49:48,050 --> 00:49:50,690
+separate session
+about hypothalamus.
+
+935
+00:49:51,670 --> 00:49:54,490
+The last group
+illustrates that many
+
+936
+00:49:54,490 --> 00:49:57,870
+neuropeptides that were
+originally discovered as
+
+937
+00:49:57,870 --> 00:50:00,610
+hormones of the
+gastrointestinal system are
+
+938
+00:50:00,610 --> 00:50:03,270
+also produced in the
+brain where they have
+
+939
+00:50:03,270 --> 00:50:06,390
+many important modulatory
+reactions on behaviors
+
+940
+00:50:06,390 --> 00:50:10,530
+such as feeding, blood
+flow, pain, hormone
+
+941
+00:50:10,530 --> 00:50:13,690
+release and other
+homeostatic functions.
+
+942
+00:50:15,990 --> 00:50:19,470
+So, in summary for
+this session, there
+
+943
+00:50:19,470 --> 00:50:21,630
+are three main
+concepts to learn.
+
+944
+00:50:21,970 --> 00:50:23,090
+First,
+
+945
+00:50:23,450 --> 00:50:25,370
+cells are
+compartmentalizing
+
+946
+00:50:25,370 --> 00:50:28,690
+chemicals. They
+process, store, and
+
+947
+00:50:28,690 --> 00:50:30,430
+then release them
+for signaling.
+
+948
+00:50:31,330 --> 00:50:33,770
+The cell body
+and release sites
+
+949
+00:50:33,770 --> 00:50:35,770
+can also be
+very different.
+
+950
+00:50:36,710 --> 00:50:39,490
+Cells can be distributed
+throughout the
+
+951
+00:50:39,490 --> 00:50:41,930
+brain and they
+can also release
+
+952
+00:50:42,020 --> 00:50:44,670
+neurotransmitters throughout
+the brain as well.
+
+953
+00:50:45,590 --> 00:50:48,750
+Or neuronal cell bodies
+can be clustered in
+
+954
+00:50:48,750 --> 00:50:51,410
+nuclei where they produce
+the neurotransmitters,
+
+955
+00:50:51,410 --> 00:50:55,650
+but then their
+action can be either
+
+956
+00:50:55,650 --> 00:51:00,570
+diffused throughout the
+brain or be specifically
+
+957
+00:51:00,570 --> 00:51:05,770
+targeted to certain
+centers in the brain.
+
+958
+00:51:06,970 --> 00:51:09,090
+Neurotransmitter
+receptors are the
+
+959
+00:51:09,090 --> 00:51:12,170
+main source of the
+downstream effects,
+
+960
+00:51:12,300 --> 00:51:13,950
+and they are
+really the control
+
+961
+00:51:13,950 --> 00:51:16,730
+point on how the
+neurotransmitter
+
+962
+00:51:16,730 --> 00:51:18,550
+will change the
+brain activity.
+
+963
+00:51:19,260 --> 00:51:21,390
+And lastly, I would
+like you to know
+
+964
+00:51:21,390 --> 00:51:23,030
+the sites of
+production and the
+
+965
+00:51:23,030 --> 00:51:25,270
+effects of the
+neurotransmitters that we
+
+966
+00:51:25,270 --> 00:51:27,770
+talked about and
+are listed below.
+
+967
+00:51:29,150 --> 00:51:31,430
+Please leave any
+feedback on this
+
+968
+00:51:31,430 --> 00:51:33,670
+lecture at the
+link listed here.
+
+969
+00:51:33,670 --> 00:51:35,190
+And thank you
+for listening
+
+970
+00:51:35,190 --> 00:51:36,550
+and your attention.

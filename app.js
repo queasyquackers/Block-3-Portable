@@ -5,14 +5,21 @@ document.addEventListener('DOMContentLoaded', () => {
     function groupTests(tests) {
         const grouped = {};
         tests.forEach(test => {
-            const match = test.name.match(/^(\d+)-(.+)/);
+            const weekMatch = test.name.match(/^(\d+)-(.+)/);
+            const categoryMatch = test.name.match(/^([^-]+)-(.+)/);
+
             let groupKey = "General";
             let displayName = test.name;
-            if (match) {
-                const weekNum = match[1].trim();
-                displayName = match[2].trim();
+
+            if (weekMatch) {
+                const weekNum = weekMatch[1].trim();
+                displayName = weekMatch[2].trim();
                 groupKey = `Week ${weekNum}`;
+            } else if (categoryMatch) {
+                groupKey = categoryMatch[1].trim();
+                displayName = categoryMatch[2].trim();
             }
+
             if (!grouped[groupKey]) {
                 grouped[groupKey] = [];
             }
@@ -363,6 +370,15 @@ document.addEventListener('DOMContentLoaded', () => {
             groupContainer.appendChild(weekButton);
             groupContainer.appendChild(dropdownPanel);
             navContainer.appendChild(groupContainer);
+        });
+
+        // Close dropdowns when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!e.target.closest('.week-toggle-btn')) {
+                document.querySelectorAll('.week-dropdown-panel').forEach(panel => {
+                    panel.style.display = 'none';
+                });
+            }
         });
     }
 

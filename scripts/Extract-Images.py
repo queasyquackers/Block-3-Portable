@@ -1,13 +1,19 @@
 import os
 import re
+import sys
 import fitz  # PyMuPDF
 import json
 from collections import Counter
 
 # Configuration
-PDF_DIR = "pdfs"
-IMAGES_DIR = "images"
-JS_DIR = "."  # Current directory where Test*.js files are located
+# Get the directory where the script is located
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+# Assuming the script is in 'scripts/' and the project root is one level up
+BASE_DIR = os.path.dirname(SCRIPT_DIR)
+
+PDF_DIR = os.path.join(BASE_DIR, 'pdfs')
+IMAGES_DIR = os.path.join(BASE_DIR, 'images')
+JS_DIR = BASE_DIR # JS files are in the root
 
 def setup_directories():
     if not os.path.exists(IMAGES_DIR):
@@ -82,39 +88,7 @@ def update_js_file(js_filename, pdf_data):
     with open(js_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # We need to find each question object to get its description
-    # Regex to find objects with "slideImageDescription"
-    # This is tricky because we need to replace "slideImagePath" based on "slideImageDescription"
-    
-    # Strategy:
-    # 1. Find all `slideImageDescription": "..."` blocks.
-    # 2. Extract the description text.
-    # 3. Find the best matching PDF page.
-    # 4. Replace the *preceding* `slideImagePath": "..."` with the new path.
-    
-    # We assume standard JSON-like structure:
-    # "slideImagePath": "...",
-    # "slideImageDescription": "..."
-    
-    # Let's iterate through matches of the PAIR
-    # Pattern: "slideImagePath":\s*"([^"]*)",\s*"slideImageDescription":\s*"([^"]*)"
-    # Note: This assumes Path comes before Description and they are close.
-    
-    # Better Pattern: Find the whole object or just iterate descriptions?
-    # If we iterate descriptions, we need to know where the corresponding Path is.
-    
-    # Let's try to replace based on the Description content.
-    
     new_content = content
-    
-    # Find all descriptions
-    # Group 1: Full match of Path line
-    # Group 2: Old Path
-    # Group 3: Full match of Description line
-    # Group 4: Description Text
-    
-    # Regex to capture both lines. We assume they are adjacent or close.
-    # We will search for `slideImagePath`... then `slideImageDescription`
     
     pattern = re.compile(r'("slideImagePath":\s*")([^"]*)(".*?"slideImageDescription":\s*")([^"]*)(")', re.DOTALL)
     
@@ -158,7 +132,10 @@ def main():
         return
 
     # Get all Test*.js files
-    js_files = [f for f in os.listdir(JS_DIR) if f.startswith("Test") and f.endswith(".js")]
+    if len(sys.argv) > 1:
+        js_files = [sys.argv[1]]
+    else:
+        js_files = [f for f in os.listdir(JS_DIR) if f.startswith("Test") and f.endswith(".js")]
     
     if not js_files:
         print("No Test*.js files found.")
@@ -177,27 +154,30 @@ def main():
         # Try to find a matching PDF
         # 1. Exact match: L103.pdf
         pdf_filename = f"{var_name}.pdf"
-        pdf_path = os.path.join(PDF_DIR, pdf_filename)
+        # Search for file starting with var_name in PDF_DIR
+        found_pdf = None
+        for f in os.listdir(PDF_DIR):
+             if f.startswith(var_name) and f.endswith(".pdf"):
+                 found_pdf = f
+                 break
         
-        # 2. Partial match
-        if not os.path.exists(pdf_path):
+        if not found_pdf:
+             # Try partial match with numbers
             numbers = re.findall(r'\d+', var_name)
-            found_pdf = None
             if numbers:
                 search_num = numbers[0]
                 for f in os.listdir(PDF_DIR):
                     if f.lower().endswith(".pdf") and search_num in f:
                         found_pdf = f
                         break
+        
+        if found_pdf:
+            pdf_path = os.path.join(PDF_DIR, found_pdf)
+        else:
+            print(f"Skipping {js_file}: No PDF found matching '{var_name}' in {PDF_DIR}.")
+            continue
             
-            if found_pdf:
-                pdf_filename = found_pdf
-                pdf_path = os.path.join(PDF_DIR, pdf_filename)
-            else:
-                print(f"Skipping {js_file}: No PDF found matching '{var_name}' in {PDF_DIR}.")
-                continue
-            
-        print(f"\n--- Processing {js_file} (Linked to {pdf_filename}) ---")
+        print(f"\n--- Processing {js_file} (Linked to {found_pdf}) ---")
         
         # 1. Extract Data (Images + Text)
         pdf_data = extract_pdf_data(pdf_path, var_name)

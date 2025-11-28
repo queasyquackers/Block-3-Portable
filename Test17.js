@@ -11,7 +11,7 @@ window.L123 = [
       {"text": "Check serum creatine kinase (CK) levels.", "explanation": "This is incorrect. CK levels are monitored for daptomycin-induced myopathy, not this reaction."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L123_page-0035.jpg",
+    "slideImagePath": "images/L123_slide_46.jpg",
     "slideImageDescription": "The slide displays photos of a patient experiencing 'Red Man Syndrome', characterized by flushing of the face, neck, and upper torso. The text identifies this as a 'Non-immune anaphylactoid infusion-related reaction' caused by 'high concentration or rapid IV vancomycin infusion'. This confirms the management strategy of slowing the infusion rate."
   },
   {
@@ -26,7 +26,7 @@ window.L123 = [
       {"text": "Efflux pumps that remove vancomycin", "explanation": "This is incorrect. The primary mechanism is target site modification."}
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L123_page-0032.jpg",
+    "slideImagePath": "images/L123_slide_31.jpg",
     "slideImageDescription": "The slide outlines 'Vancomycin Resistance Mechanisms'. It explicitly states that 'Inducible vanA and vanB gene cluster' leads to the expression of 'D-Ala-D-Lactate (instead of D-alanyl-D-alanine)', which reduces vancomycin binding affinity by 1000-fold. This supports D-Ala-D-Lactate as the correct answer."
   },
   {
@@ -41,7 +41,7 @@ window.L123 = [
       {"text": "Binding to the 50S ribosomal subunit", "explanation": "This is incorrect. This is the mechanism of macrolides, clindamycin, and linezolid."}
     ],
     "correctAnswerIndex": 4,
-    "slideImagePath": "images/L123_page-0038.jpg",
+    "slideImagePath": "images/L123_slide_38.jpg",
     "slideImageDescription": "The slide illustrates the 'Proposed mechanism of action of daptomycin'. The diagram shows daptomycin binding to the membrane (Step 1) and forming complexes with Calcium (Step 2), leading to 'membrane depolarization' and 'K+ efflux' (Step 3). The text confirms that this causes 'rapid loss of cellular potassium' and 'membrane depolarization'."
   },
   {
@@ -56,7 +56,7 @@ window.L123 = [
       {"text": "It only has activity against gram-negative bacteria.", "explanation": "This is incorrect. Daptomycin has activity against gram-positive bacteria *only*."}
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L123_page-0039.jpg",
+    "slideImagePath": "images/L123_slide_39.jpg",
     "slideImageDescription": "The slide lists indications for Daptomycin but includes a specific warning: 'Daptomycin is INEFFECTIVE in: Pneumonia: Drug inactivation by pulmonary surfactants.' This text directly explains why the drug cannot be used for the pneumonia described in the vignette."
   },
   {
@@ -71,7 +71,7 @@ window.L123 = [
       {"text": "Creatine kinase (CK)", "explanation": "This is correct. Daptomycin can cause myopathy, and HMG-CoA reductase inhibitors (statins) also carry this risk. The combination can lead to additive muscle toxicity, which is monitored by checking CK levels."}
     ],
     "correctAnswerIndex": 4,
-    "slideImagePath": "images/L123_page-0040.jpg",
+    "slideImagePath": "images/L123_slide_40.jpg",
     "slideImageDescription": "The slide titled 'Daptomycin Cautions' lists 'Myopathy' as a key adverse effect. It specifically highlights a 'Drug-drug interaction' with 'HMG CoA-reductase inhibitors (statins)', noting the 'Potential for additive muscle toxicity' and advising to 'Monitor CK levels'."
   },
   {
@@ -86,7 +86,7 @@ window.L123 = [
       {"text": "Cefoxitin", "explanation": "This is incorrect. While older cephalosporins were used, ceftriaxone is the current standard of care."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L123_page-0018.jpg",
+    "slideImagePath": "images/L123_slide_18.jpg",
     "slideImageDescription": "The slide discusses the properties of third-generation cephalosporins. It explicitly states: 'Ceftriaxone (a single IM injection) is the only CDC recommended treatment of uncomplicated gonorrhea.' This confirms Ceftriaxone as the correct choice."
   },
   {
@@ -101,7 +101,7 @@ window.L123 = [
       {"text": "Daptomycin", "explanation": "This is incorrect. Daptomycin has no activity against gram-negative bacteria."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L123_page-0024.jpg",
+    "slideImagePath": "images/L123_slide_24.jpg",
     "slideImageDescription": "The slide titled 'Carbapenems: Broad spectrum of activity' lists them as the 'Treatment of choice for: ESBL-expressing Enterobacterales'. This directly supports using a carbapenem like Meropenem for the ESBL *Klebsiella* infection."
   },
   {
@@ -116,7 +116,7 @@ window.L123 = [
       {"text": "Aztreonam", "explanation": "This is incorrect. Aztreonam has no activity against gram-positive organisms like *S. pneumoniae*."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L123_page-0011.jpg",
+    "slideImagePath": "images/L123_slide_11.jpg",
     "slideImageDescription": "The slide shows the spectrum for 'Second-generation Cephalosporins'. Under 'Respiratory', it explicitly lists *Haemophilus influenzae* and *Moraxella catarrhalis*, and under 'Gram-positive', it lists *Streptococcus pneumoniae*. This confirms that the second generation covers all three pathogens."
   },
   {
@@ -131,7 +131,7 @@ window.L123 = [
       {"text": "Meropenem-vaborbactam", "explanation": "This is incorrect. The meropenem component is active against *P. aeruginosa*."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L123_page-0024.jpg",
+    "slideImagePath": "images/L123_slide_44.jpg",
     "slideImageDescription": "The slide describing Carbapenems states they treat *Pseudomonas aeruginosa*, but adds a specific caveat: '(except ertapenem, which is ineffective against Pseudomonas)'. It reinforces this with the mnemonic 'EE - except ertapenem'."
   },
   {
@@ -146,7 +146,7 @@ window.L123 = [
       {"text": "All of the above", "explanation": "This is incorrect. Aztreonam has a very narrow spectrum."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L123_page-0028.jpg",
+    "slideImagePath": "images/L123_slide_44.jpg",
     "slideImageDescription": "The slide detailing 'Aztreonam Properties' defines its 'Activity' as 'only gram-negative aerobic cocci and bacilli, including P. aeruginosa'. It explicitly states 'It has no activity against gram-positive bacteria'."
   },
   {
@@ -161,7 +161,7 @@ window.L123 = [
       {"text": "It binds to PBP2a.", "explanation": "This is incorrect. This describes the mechanism of ceftaroline."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L123_page-0008.jpg",
+    "slideImagePath": "images/L123_slide_8.jpg",
     "slideImageDescription": "The 'Class Pharmacokinetic Properties' slide lists 'Excretion' properties. It marks as 'Important' that '3rd-gen ceftriaxone biliary excretion' occurs, contrasting it with other cephalosporins that are renally eliminated. Slide 19 also reinforces that 'Ceftriaxone does not need dose adjustment in patients with renal impairment'."
   },
   {
@@ -176,7 +176,7 @@ window.L123 = [
       {"text": "Oral vancomycin inhibits PBP2a, while IV vancomycin does not.", "explanation": "This is incorrect. Vancomycin's mechanism (binding D-Ala-D-Ala) is the same regardless of route, and it does not target PBP2a."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L123_page-0033.jpg",
+    "slideImagePath": "images/L123_slide_33.jpg",
     "slideImageDescription": "The slide 'Vancomycin Clinical Uses' states: 'C. difficile infection: Oral vancomycin acts locally in the gut'. This implies the poor absorption mechanism described in the question, which allows the drug to reach high concentrations at the site of infection."
   },
   {
@@ -191,7 +191,7 @@ window.L123 = [
       {"text": "Cefiderocol", "explanation": "This is incorrect. Cefiderocol is generally stable against KPCs."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L123_page-0024.jpg",
+    "slideImagePath": "images/L123_slide_24.jpg",
     "slideImageDescription": "The slide discusses 'Acquired resistance' and 'Class A KPC: K. pneumoniae carbapenemases'. It states that these enzymes 'hydrolyze penicillins, cephalosporins, carbapenems, and aztreonam'. This directly indicates that Meropenem (a carbapenem) would be hydrolyzed and ineffective."
   },
   {
@@ -206,7 +206,7 @@ window.L123 = [
       {"text": "Ceftazidime", "explanation": "This is incorrect. While Ceftazidime penetrates the CSF, its primary use is for *Pseudomonas*, and it has weaker activity against many other organisms compared to ceftriaxone."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L123_page-0018.jpg",
+    "slideImagePath": "images/L123_slide_18.jpg",
     "slideImageDescription": "The slide on Third-generation cephalosporins states that they have 'extended spectrum of activity' including 'N. meningitidis'. It explicitly concludes: 'Ceftriaxone and cefotaxime are agents of choice for treatment of meningitis'."
   },
   {
@@ -221,7 +221,7 @@ window.L123 = [
       {"text": "Nephrotoxicity", "explanation": "This is incorrect. While a possible side effect, it does not present with pulmonary infiltrates. This presentation is classic for eosinophilic pneumonia."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L123_page-0040.jpg",
+    "slideImagePath": "images/L123_slide_40.jpg",
     "slideImageDescription": "The 'Daptomycin Cautions' slide lists 'Eosinophilic pneumonia' as a key adverse effect. It details the clinical course: 'Respiratory failure if not recognized... Develops 10 days to 4 weeks after therapy initiation', which matches the patient's timeline and symptoms."
   },
   {
@@ -236,7 +236,7 @@ window.L123 = [
       {"text": "Magnesium sulfate", "explanation": "This is incorrect. The specific contraindication is with calcium-containing solutions."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L123_page-0019.jpg",
+    "slideImagePath": "images/L123_slide_19.jpg",
     "slideImageDescription": "This slide focuses on the risks of Ceftriaxone in neonates. It warns of 'Precipitation of Ca2+-containing solutions -> lung and kidney damage in neonates', supporting the contraindication against mixing ceftriaxone with calcium in this population."
   },
   {
@@ -251,7 +251,7 @@ window.L123 = [
       {"text": "Vancomycin is inactivated by pulmonary surfactant.", "explanation": "This is incorrect. This describes daptomycin."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L123_page-0032.jpg",
+    "slideImagePath": "images/L123_slide_32.jpg",
     "slideImageDescription": "The slide titled 'Vancomycin Spectrum of Action' includes a specific note: 'For treatment of MSSA / MSSE, the penicillinase-resistant penicillins, nafcillin... have better activity than vancomycin and are preferred.' This text directly provides the clinical reasoning for the answer."
   },
   {
@@ -266,7 +266,7 @@ window.L123 = [
       {"text": "The cytoplasmic membrane", "explanation": "This is incorrect. This is the target of daptomycin."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L123_page-0014.jpg",
+    "slideImagePath": "images/L123_slide_14.jpg",
     "slideImageDescription": "The slide describing 'Cefiderocol' states its mechanism: 'Chelation of extracellular free iron allows iron transport systems to deliver cefiderocol across the outer membrane'. This confirms its role as a siderophore binding to iron for entry."
   },
   {
@@ -281,7 +281,7 @@ window.L123 = [
       {"text": "A mutation in the iron transport system.", "explanation": "This is incorrect. This would be a resistance mechanism to cefiderocol."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L123_page-0032.jpg",
+    "slideImagePath": "images/L123_slide_32.jpg",
     "slideImageDescription": "The slide details 'Acquired Resistance' for Vancomycin. Point 2 explains: 'Altered cell wall metabolism -> abnormally thick cell wall with increased numbers of D-Ala-D-Ala -> may trap vanco within the cell wall... confers intermediate resistance'. This matches the mechanism for VISA."
   },
   {
@@ -296,7 +296,7 @@ window.L123 = [
       {"text": "Aztreonam", "explanation": "This is correct. Aztreonam is available as an inhalation solution for the treatment of *P. aeruginosa* lung infections in patients with cystic fibrosis."}
     ],
     "correctAnswerIndex": 4,
-    "slideImagePath": "images/L123_page-0028.jpg",
+    "slideImagePath": "images/L123_slide_44.jpg",
     "slideImageDescription": "The slide on 'Aztreonam Properties' lists its uses. It specifically notes: 'P. aeruginosa lung infection in cystic fibrosis patients -> aztreonam inhalation', confirming this unique formulation and indication."
   },
   {
@@ -311,7 +311,7 @@ window.L123 = [
       {"text": "It depolarizes the bacterial cell membrane.", "explanation": "This is incorrect. This is the mechanism of daptomycin."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L123_page-0026.jpg",
+    "slideImagePath": "images/L123_slide_26.jpg",
     "slideImageDescription": "The slide introduces 'Carbapenem-Beta-Lactamase Inhibitor Combinations' like Meropenem-vaborbactam. It states: 'Vaborbactam... Inhibit Ambler class A beta-lactamases, including KPCs... Vaborbactam improves meropenem activity against most Enterobacterales'."
   },
   {
@@ -326,7 +326,7 @@ window.L123 = [
       {"text": "Cefoxitin", "explanation": "This is incorrect. Second-generation agents are not the preferred treatment for penicillin-resistant *S. pneumoniae*."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L123_page-0014.jpg",
+    "slideImagePath": "images/L123_slide_14.jpg",
     "slideImageDescription": "The table on 'Advanced-generation agents' lists Ceftaroline. Under 'Gram-positive', it specifically checks off 'S. pneumoniae, pcn-resistant' and 'MRSA'. This confirms it is the appropriate choice for the described infection."
   },
   {
@@ -341,7 +341,7 @@ window.L123 = [
       {"text": "Lipopeptides (Daptomycin)", "explanation": "This is incorrect. Daptomycin is active against *Enterococcus* and *Listeria*."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L123_page-0016.jpg",
+    "slideImagePath": "images/L123_slide_15.jpg",
     "slideImageDescription": "The slide lists organisms with 'Intrinsic resistance' to cephalosporins. It explicitly names 'Enterococcus' and 'Listeria monocytogenes', noting the mechanism as 'PBPs with low-affinity for cephs'."
   },
   {
@@ -356,7 +356,7 @@ window.L123 = [
       {"text": "Inhibition of a renal enzyme", "explanation": "This is incorrect. This describes the action of cilastatin, not a PK/PD parameter."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L123_page-0030.jpg",
+    "slideImagePath": "images/L123_slide_30.jpg",
     "slideImageDescription": "The 'Vancomycin Profile' slide includes a row for 'PK-PD'. It states: 'Clinical efficacy correlates with 24-h AUC/MIC ratio. Example: >= 400-600 for MRSA treatment to maximize efficacy and minimize risk of nephrotoxicity'."
   },
   {
@@ -371,7 +371,7 @@ window.L123 = [
       {"text": "Cefepime", "explanation": "This is incorrect. Fourth-generation agents lack reliable activity against *B. fragilis*."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L123_page-0011.jpg",
+    "slideImagePath": "images/L123_slide_42.jpg",
     "slideImageDescription": "The slide on 'Second-generation Cephalosporins' lists 'Bacteroides fragilis' under 'Obligate G- Anaerobic'. It specifically notes: 'cephamycins only (cefoxitin)', identifying it as the agent with this specific anaerobic coverage."
   },
   {
@@ -386,7 +386,7 @@ window.L123 = [
       {"text": "Cefiderocol", "explanation": "This is incorrect. Cefiderocol has no gram-positive activity."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L123_page-0039.jpg",
+    "slideImagePath": "images/L123_slide_43.jpg",
     "slideImageDescription": "The slide detailing Daptomycin's spectrum states it is 'active against all gram-positive pathogens'. It specifically lists: 'Effective against MRSA... and VRE', confirming its utility in this resistant mixed infection."
   },
   {
@@ -401,7 +401,7 @@ window.L123 = [
       {"text": "Disulfiram-like reaction", "explanation": "This is incorrect. This is a risk associated with cefotetan."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L123_page-0034.jpg",
+    "slideImagePath": "images/L123_slide_34.jpg",
     "slideImageDescription": "The slide titled 'Vancomycin Cautions' lists 'Nephrotoxicity' as an adverse effect. Under 'Drug Interactions', it explicitly states: 'Increased risk when drugs with the same toxicities are given together: Nephrotoxicity: Aminoglycosides, loop diuretics'."
   },
   {
@@ -416,7 +416,7 @@ window.L123 = [
       {"text": "Cephalexin", "explanation": "This is incorrect. This is an oral first-generation agent with no *P. aeruginosa* activity."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L123_page-0012.jpg",
+    "slideImagePath": "images/L123_slide_43.jpg",
     "slideImageDescription": "The slide covering 'Third-generation Cephalosporins' lists 'Pseudomonas aeruginosa' under 'Gram-negative aerobes'. It explicitly notes 'ceftazidime... only' next to this pathogen, identifying it as the unique 3rd-gen agent with this coverage."
   },
   {
@@ -431,7 +431,7 @@ window.L123 = [
       {"text": "PBP2a", "explanation": "This is incorrect. This is the mechanism of methicillin resistance in *S. aureus*."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L123_page-0015.jpg",
+    "slideImagePath": "images/L123_slide_15.jpg",
     "slideImageDescription": "The slide on 'Acquired resistance' describes 'AmpC b-lactamases' as 'chromosomally-encoded; inducible during therapy'. It lists 'Enterobacter' as one of the key organisms (along with Citrobacter, Serratia, etc.) associated with this mechanism."
   },
   {
@@ -446,7 +446,7 @@ window.L123 = [
       {"text": "*Mycoplasma* is only susceptible to Cefiderocol.", "explanation": "This is incorrect. Cefiderocol is for gram-negative bacteria."}
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L123_page-0010.jpg",
+    "slideImagePath": "images/L123_slide_10.jpg",
     "slideImageDescription": "The slide lists 'Atypicals' like *Mycoplasma* and states: 'Beta-lactams are ineffective in the treatment of infection caused by the atypicals'. While the slide doesn't explicitly write 'no cell wall', this is the fundamental microbiological concept taught in this context, explaining the intrinsic resistance mentioned."
   },
   {
@@ -461,7 +461,7 @@ window.L123 = [
       {"text": "All beta-lactams have 100% cross-reactivity.", "explanation": "This is incorrect. This is untrue, and aztreonam is the prime example of an exception."}
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L123_page-0028.jpg",
+    "slideImagePath": "images/L123_slide_28.jpg",
     "slideImageDescription": "The 'Aztreonam Properties' slide notes: 'Low immunogenic potential: limited cross-reactivity with other beta-lactams'. However, it includes a crucial exception: 'Exception, ceftazidime (similar side chain): cross-reactivity reported', explaining the specific allergic reaction described."
   },
   {
@@ -476,7 +476,7 @@ window.L123 = [
       {"text": "Cefepime", "explanation": "This is incorrect. Cefepime is a cephalosporin. (Note: It also has a risk of neurotoxicity/seizures in renal failure, but the question asks for the carbapenem with the greatest risk)."}
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L123_page-0025.jpg",
+    "slideImagePath": "images/L123_slide_25.jpg",
     "slideImageDescription": "The slide 'Carbapenems: Treatments and Adverse Effects' lists 'Seizures: greatest risk with the use of imipenem'. It specifically notes that 'patients with renal insufficiency are at increased risk', directly answering the question about the highest seizure risk agent."
   }
 ];

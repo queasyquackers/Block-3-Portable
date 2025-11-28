@@ -11,7 +11,7 @@ window.L119 = [
       { "text": "Bactericidal agents bind irreversibly to ribosomes, whereas static agents bind reversibly.", "explanation": "This is a specific mechanism for some drugs (like aminoglycosides), but not the definition of the class difference." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0008.jpg",
+    "slideImagePath": "images/L119_slide_24.jpg",
     "slideImageDescription": "The slide titled 'Bacteriostatic vs. Bactericidal Activity' defines the two categories. It explicitly states that for **Bacteriostatic** agents, 'Success depends on host immune system to clear the infection'. In contrast, **Bactericidal** agents 'Kill bacteria'. This distinction highlights why a patient with a compromised immune system (neutropenia) cannot rely on bacteriostatic drugs."
   },
   {
@@ -26,7 +26,7 @@ window.L119 = [
       { "text": "Area Under the Curve (AUC)", "explanation": "AUC is a pharmacokinetic parameter representing total drug exposure." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0009.jpg",
+    "slideImagePath": "images/L119_slide_17.jpg",
     "slideImageDescription": "The slide 'Minimum Inhibitory Concentration (MIC)' provides the definition: 'The lowest concentration of antimicrobial agent that inhibits visible growth of a microorganism after an overnight incubation'. It displays an image of a broth dilution test where tubes with varying antibiotic concentrations show clear (inhibited) vs. cloudy (growth) results, visually demonstrating the MIC determination."
   },
   {
@@ -41,7 +41,7 @@ window.L119 = [
       { "text": "Peak concentration", "explanation": "A PK parameter." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L119_p_page-0010.jpg",
+    "slideImagePath": "images/L119_slide_17.jpg",
     "slideImageDescription": "The slide 'Minimum Bactericidal Concentration (MBC)' defines it as 'The lowest concentration of antimicrobial agent that prevents growth of an organism on an agar plate'. It specifies the quantitative criteria: 'Must produce a 99.9% decline in colony count', distinguishing it from the MIC which only requires inhibition of visible growth."
   },
   {
@@ -56,7 +56,7 @@ window.L119 = [
       { "text": "Selecting a drug with a short half-life.", "explanation": "Irrelevant to the killing pattern." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L119_p_page-0014.jpg",
+    "slideImagePath": "images/L119_slide_24.jpg",
     "slideImageDescription": "The slide 'Concentration-Dependent Killing' explicitly states: 'Rate and extent of killing increases as peak drug concentration increases'. It lists **Aminoglycosides**, Fluoroquinolones, and Daptomycin as examples. The graph shows that a higher peak results in a more rapid decline in bacterial count, supporting the goal of maximizing the $C_{max}$/MIC ratio."
   },
   {
@@ -71,7 +71,7 @@ window.L119 = [
       { "text": "Using bolus dosing to saturate tissue binding sites.", "explanation": "Incorrect rationale." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L119_p_page-0016.jpg",
+    "slideImagePath": "images/L119_slide_24.jpg",
     "slideImageDescription": "The slide 'Time-Dependent Killing' states: 'Bacterial killing depends on the time the drug concentration remains above the MIC'. It uses Beta-lactams as the prime example. The accompanying graph shows that increasing the concentration ('4x MIC' vs '16x MIC') does *not* increase the killing rate; only maintaining the level above MIC for longer periods is effective."
   },
   {
@@ -86,7 +86,7 @@ window.L119 = [
       { "text": "Sequential blockade", "explanation": "Mechanism of TMP-SMX." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L119_p_page-0011.jpg",
+    "slideImagePath": "images/L119_slide_24.jpg",
     "slideImageDescription": "The slide 'Post-Antibiotic Effect (PAE)' defines it as: 'Persistent suppression of bacterial growth after limited exposure to an antibiotic'. The graph shows bacterial density remaining low even after the 'drug is removed', visually demonstrating the PAE. Aminoglycosides are noted to have a significant PAE."
   },
   {
@@ -101,7 +101,7 @@ window.L119 = [
       { "text": "Dosing based solely on body surface area.", "explanation": "Weight and renal function are the key determinants." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0015.jpg",
+    "slideImagePath": "images/L119_slide_24.jpg",
     "slideImageDescription": "The slide 'Concentration-Dependent Killing' links the pharmacodynamic pattern directly to dosing. It states that for these drugs (Aminoglycosides), the goal is to 'Maximize concentration'. It explicitly mentions 'Once-daily dosing' as a strategy derived from these principles: High peak for efficacy, long interval (relying on PAE) for safety."
   },
   {
@@ -116,7 +116,7 @@ window.L119 = [
       { "text": "Using a loading dose only.", "explanation": "Maintenance is required to keep levels up." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L119_p_page-0016.jpg",
+    "slideImagePath": "images/L119_slide_24.jpg",
     "slideImageDescription": "The slide 'Time-Dependent Killing' emphasizes that efficacy depends on 'Time > MIC'. It contrasts bolus dosing with optimized strategies. The text notes that 'Frequent dosing' or 'Prolonged/Continuous infusion' are the strategies used to maintain serum concentrations above the MIC, supporting the correct answer."
   },
   {
@@ -131,7 +131,7 @@ window.L119 = [
       { "text": "Half-life", "explanation": "A PK parameter, not a PD index." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0017.jpg",
+    "slideImagePath": "images/L119_slide_24.jpg",
     "slideImageDescription": "The slide 'Time-Dependent Killing' (Slide 17 in this set, titled specifically regarding AUC/MIC drugs) lists 'Vancomycin' and 'Fluoroquinolones'. It states the PK/PD predictor of efficacy is the 'AUC/MIC ratio'. This confirms that total exposure relative to MIC is the guiding parameter for these drugs."
   },
   {
@@ -146,7 +146,7 @@ window.L119 = [
       { "text": "Tolerance", "explanation": "Reduced response over time." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0029.jpg",
+    "slideImagePath": "images/L119_slide_3.jpg",
     "slideImageDescription": "The slide 'Combination Therapy: Synergism' defines it as 'Effect of combination > sum of individual effects'. It explicitly cites the mechanism: 'Cell wall inhibitor (e.g., penicillin) + Aminoglycoside'. The text explains: 'Penicillin increases uptake of aminoglycoside', perfectly matching the clinical vignette."
   },
   {
@@ -161,7 +161,7 @@ window.L119 = [
       { "text": "Sequential blockade", "explanation": "This refers to inhibition of steps in a pathway (e.g., TMP-SMX)." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L119_p_page-0030.jpg",
+    "slideImagePath": "images/L119_slide_26.jpg",
     "slideImageDescription": "The slide 'Combination Therapy: Antagonism' defines it as 'Combined effect < effect of either drug alone'. It provides the specific example: 'Bacteriostatic agent (e.g., tetracycline) + Bactericidal agent (e.g., penicillin)'. It explains the mechanism: 'Bactericidal agents require active growth; bacteriostatic agents inhibit growth', demonstrating why they antagonize each other."
   },
   {
@@ -176,7 +176,7 @@ window.L119 = [
       { "text": "Desensitization therapy", "explanation": "Used for allergies." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0032.jpg",
+    "slideImagePath": "images/L119_slide_6.jpg",
     "slideImageDescription": "The slide 'Empiric Therapy' defines it as: 'Immediate administration of drug(s) prior to bacterial identification and susceptibility testing'. It lists the rationale: 'Delay in treatment of serious infection can be fatal'. This aligns with the sepsis scenario where immediate broad coverage is required."
   },
   {
@@ -191,7 +191,7 @@ window.L119 = [
       { "text": "Palliation", "explanation": "Symptom relief only." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L119_p_page-0034.jpg",
+    "slideImagePath": "images/L119_slide_31.jpg",
     "slideImageDescription": "The slide 'Definitive Therapy' explains the process. It occurs 'After culture and sensitivity results are known'. The goal is to 'Streamline to a narrow-spectrum, safe, cost-effective agent'. This describes the de-escalation from broad empiric coverage to targeted nafcillin."
   },
   {
@@ -206,7 +206,7 @@ window.L119 = [
       { "text": "Post-exposure prophylaxis", "explanation": "Used after exposure (e.g., HIV needlestick), surgical prophylaxis is pre-exposure/procedural." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0035.jpg",
+    "slideImagePath": "images/L119_slide_31.jpg",
     "slideImageDescription": "The slide 'Prophylaxis' defines it as: 'Treatment of patients who are not yet infected'. The goal is to 'prevent infection'. It specifically lists 'Surgical prophylaxis' (to prevent wound infection) as a major category, which matches the knee replacement scenario."
   },
   {
@@ -221,7 +221,7 @@ window.L119 = [
       { "text": "Resistance", "explanation": "While the bug is resistant, the *clinical event* of the new infection is a superinfection." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0029.jpg",
+    "slideImagePath": "images/L119_slide_15.jpg",
     "slideImageDescription": "The slide 'Selection of Drug-Resistant Bacteria' (often discussed alongside adverse effects) explains the concept. It mentions 'Alteration of normal flora' leading to 'Superinfection'. While the specific *C. diff* example might be in the spoken lecture or a different slide, the concept of superinfection arising from flora alteration is covered here."
   },
   {
@@ -236,7 +236,7 @@ window.L119 = [
       { "text": "Biofilm formation", "explanation": "Physical barrier." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0024.jpg",
+    "slideImagePath": "images/L119_slide_15.jpg",
     "slideImageDescription": "The slide 'Mechanisms of Resistance' lists four main types. The first is 'Enzymatic inactivation of drug'. It explicitly lists '**Beta-lactamases**' as the prime example, along with acetyltransferases. This confirms the enzymatic destruction mechanism."
   },
   {
@@ -251,7 +251,7 @@ window.L119 = [
       { "text": "Metabolic bypass", "explanation": "Using alternative pathways." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0024.jpg",
+    "slideImagePath": "images/L119_slide_15.jpg",
     "slideImageDescription": "The 'Mechanisms of Resistance' slide lists 'Active efflux of drug' as a key mechanism. It explains that 'Pumps remove antibiotic from cell', lowering the intracellular concentration. This matches the description of the tetracycline resistance mechanism."
   },
   {
@@ -266,7 +266,7 @@ window.L119 = [
       { "text": "Sequestration", "explanation": "Binding the drug elsewhere." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L119_p_page-0024.jpg",
+    "slideImagePath": "images/L119_slide_15.jpg",
     "slideImageDescription": "The 'Mechanisms of Resistance' slide lists 'Alteration of target site'. It cites 'MRSA (altered PBP)' and 'VRE (altered peptidoglycan)' as specific examples. This confirms that MRSA resistance is due to the target modification mechanism."
   },
   {
@@ -281,7 +281,7 @@ window.L119 = [
       { "text": "Biofilm formation", "explanation": "Physical barrier." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0024.jpg",
+    "slideImagePath": "images/L119_slide_15.jpg",
     "slideImageDescription": "The 'Mechanisms of Resistance' slide lists 'Decreased permeability' as a mechanism. It specifies 'Loss of Porins' as the way bacteria prevent drug entry. This matches the description of preventing the drug from crossing the outer membrane."
   },
   {
@@ -296,7 +296,7 @@ window.L119 = [
       { "text": "Age", "explanation": "Affects metabolism/excretion." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0033.jpg",
+    "slideImagePath": "images/L119_slide_26.jpg",
     "slideImageDescription": "The slide 'Host Factors' lists 'Site of Infection'. It explicitly mentions the 'Blood-brain barrier' as a barrier that restricts drug entry. It notes that drugs must be 'Lipid soluble' or have 'Low molecular weight' to penetrate, supporting the clinical reasoning required."
   },
   {
@@ -311,7 +311,7 @@ window.L119 = [
       { "text": "Meningitis creates a negative pressure pulling drug in.", "explanation": "Incorrect physics." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L119_p_page-0033.jpg",
+    "slideImagePath": "images/L119_slide_6.jpg",
     "slideImageDescription": "The 'Host Factors - Site of Infection' slide discusses the BBB. It notes that 'Inflammation (e.g., meningitis)' can 'increase permeability', allowing better penetration of antibiotics. This explains the clinical phenomenon described."
   },
   {
@@ -326,7 +326,7 @@ window.L119 = [
       { "text": "Stopped completely", "explanation": "The infection still needs treatment." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L119_p_page-0033.jpg",
+    "slideImagePath": "images/L119_slide_29.jpg",
     "slideImageDescription": "The slide 'Host Factors' lists 'Renal and Hepatic Function'. It states that for patients with 'Renal insufficiency', one must 'Adjust dose' for drugs eliminated by the kidney to avoid accumulation and toxicity. This supports the need for dose reduction or interval extension."
   },
   {
@@ -341,7 +341,7 @@ window.L119 = [
       { "text": "It requires the use of bacteriostatic agents only.", "explanation": "Unrelated." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L119_p_page-0033.jpg",
+    "slideImagePath": "images/L119_slide_29.jpg",
     "slideImageDescription": "The 'Host Factors' slide includes 'Allergy'. It emphasizes the importance of obtaining an 'Allergy history' to prevent adverse reactions. Specifically, it warns about 'Cross-reactivity' between related drug classes (like beta-lactams), dictating drug selection."
   },
   {
@@ -356,7 +356,7 @@ window.L119 = [
       { "text": "The Resistance Cycle", "explanation": "Part of the picture." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L119_p_page-0006.jpg",
+    "slideImagePath": "images/L119_slide_29.jpg",
     "slideImageDescription": "The slide 'The Chemotherapy Triangle' displays a triangular diagram with 'Patient (Host)', 'Drug', and 'Microorganism' at the corners. Arrows connect them, illustrating the bidirectional interactions (e.g., Pharmacokinetics, Pharmacodynamics, Resistance, Toxicity, Infection, Immunity). This visual model is the foundation of the lecture."
   },
   {
@@ -371,7 +371,7 @@ window.L119 = [
       { "text": "Spectrum", "explanation": "Range of bugs killed." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0007.jpg",
+    "slideImagePath": "images/L119_slide_8.jpg",
     "slideImageDescription": "The slide 'Selective Toxicity' defines it as: 'Injury to the invading organism without injury to the host'. It explains this is achieved by exploiting 'Biochemical differences' between the microbe and the host. This definition matches the question."
   },
   {
@@ -386,7 +386,7 @@ window.L119 = [
       { "text": "Antibody titers", "explanation": "Slow, retrospective." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0034.jpg",
+    "slideImagePath": "images/L119_slide_31.jpg",
     "slideImageDescription": "The slide 'Definitive Therapy' emphasizes 'Identification of the infecting organism'. It lists 'Gram stain' as a rapid method, contrasted with the slower 'Culture and susceptibility'. This highlights the utility of the Gram stain for immediate classification."
   },
   {
@@ -401,7 +401,7 @@ window.L119 = [
       { "text": "MBC = 0", "explanation": "Impossible." }
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L119_p_page-0010.jpg",
+    "slideImagePath": "images/L119_slide_24.jpg",
     "slideImageDescription": "The slide 'Minimum Bactericidal Concentration (MBC)' states the criteria for a Bactericidal drug: 'MBC <= 4 x MIC'. This quantitative definition distinguishes cidal drugs from static drugs (where the MBC is much higher than the MIC)."
   },
   {
@@ -416,7 +416,7 @@ window.L119 = [
       { "text": "Enhanced bacterial metabolism", "explanation": "Recovery." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L119_p_page-0011.jpg",
+    "slideImagePath": "images/L119_slide_24.jpg",
     "slideImageDescription": "The slide 'Post-Antibiotic Effect (PAE)' lists 'Mechanisms'. It includes: 'Persistence of drug at binding site' and 'Time required for bacteria to synthesize new proteins/enzymes'. These points explain why growth remains suppressed after the drug is removed from the medium."
   },
   {
@@ -431,7 +431,7 @@ window.L119 = [
       { "text": "Renal; Hepatic", "explanation": "Unrelated." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L119_p_page-0014.jpg",
+    "slideImagePath": "images/L119_slide_21.jpg",
     "slideImageDescription": "This question requires synthesizing info from two slides. The 'Concentration-Dependent' slide shows killing increasing with concentration. The 'Time-Dependent' slide shows killing plateauing (saturation) at higher concentrations. Comparing these descriptions directly identifies Drug A as Concentration-dependent and Drug B as Time-dependent."
   },
   {
@@ -446,7 +446,7 @@ window.L119 = [
       { "text": "Oral administration only", "explanation": "Absorption is also variable." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0033.jpg",
+    "slideImagePath": "images/L119_slide_29.jpg",
     "slideImageDescription": "The 'Host Factors' slide lists 'Age'. It specifically notes 'Newborns' have 'poorly developed renal and hepatic elimination'. This implies that standard doses would be toxic, necessitating dose adjustment (reduction or interval extension)."
   },
   {
@@ -461,7 +461,7 @@ window.L119 = [
       { "text": "Reduced maternal absorption", "explanation": "Incorrect." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L119_p_page-0033.jpg",
+    "slideImagePath": "images/L119_slide_29.jpg",
     "slideImageDescription": "The 'Host Factors' slide includes 'Pregnancy'. It warns: 'Drug may cross placenta'. It explicitly mentions 'Risk of teratogenicity' and 'Risk to fetus'. This confirms that fetal safety is the primary driver for avoiding certain drugs like tetracyclines."
   },
   {
@@ -476,7 +476,7 @@ window.L119 = [
       { "text": "Site of infection", "explanation": "Incorrect." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L119_p_page-0033.jpg",
+    "slideImagePath": "images/L119_slide_3.jpg",
     "slideImageDescription": "The 'Host Factors' slide lists 'Metabolic Abnormalities'. It gives the specific example: 'G6PD deficiency + Sulfonamides -> Hemolysis'. This links a host genetic factor directly to a specific adverse drug reaction."
   },
   {
@@ -491,7 +491,7 @@ window.L119 = [
       { "text": "Vaccination", "explanation": "Prevention, not treatment." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0033.jpg",
+    "slideImagePath": "images/L119_slide_24.jpg",
     "slideImageDescription": "The 'Host Factors - Site of Infection' slide lists 'Foreign Body'. It states: 'Bacteria adhere -> Biofilm'. The clinical implication is stated: 'Phagocytes and drugs cannot effectively clear... Removal of the foreign body is often necessary'. This supports the surgical intervention answer."
   },
   {
@@ -506,7 +506,7 @@ window.L119 = [
       { "text": "Transformation", "explanation": "DNA uptake." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L119_p_page-0022.jpg",
+    "slideImagePath": "images/L119_slide_15.jpg",
     "slideImageDescription": "The slide 'Genetic Basis of Resistance' distinguishes types. It defines 'Vertical transmission' as passing resistance 'to daughter cells' via 'chromosomal mutation'. This matches the definition in the question."
   },
   {
@@ -521,7 +521,7 @@ window.L119 = [
       { "text": "Efflux", "explanation": "Mechanical removal." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0023.jpg",
+    "slideImagePath": "images/L119_slide_6.jpg",
     "slideImageDescription": "The slide 'Acquired Resistance: Horizontal Gene Transfer' illustrates three methods. The diagram for 'Transduction' shows a 'Bacteriophage' (virus) injecting DNA into a cell. The text confirms this is 'Transfer by viral delivery'."
   },
   {
@@ -536,7 +536,7 @@ window.L119 = [
       { "text": "Spontaneous mutation", "explanation": "Random." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0023.jpg",
+    "slideImagePath": "images/L119_slide_8.jpg",
     "slideImageDescription": "The 'Horizontal Gene Transfer' slide diagrams 'Conjugation'. It shows two cells connected by a 'pilus' with a 'plasmid' moving between them. The text defines it as 'Transfer of genetic material between bacteria via direct contact'."
   },
   {
@@ -551,7 +551,7 @@ window.L119 = [
       { "text": "Efflux", "explanation": "Pumping." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0023.jpg",
+    "slideImagePath": "images/L119_slide_15.jpg",
     "slideImageDescription": "The 'Horizontal Gene Transfer' slide diagrams 'Transformation'. It depicts a cell taking up 'naked DNA' fragments from the outside. The text confirms: 'Uptake of naked DNA from environment'."
   },
   {
@@ -566,7 +566,7 @@ window.L119 = [
       { "text": "To eliminate the use of antibiotics entirely.", "explanation": "They are needed for bacterial infections." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0038.jpg",
+    "slideImagePath": "images/L119_slide_32.jpg",
     "slideImageDescription": "The slide 'Antimicrobial Stewardship' defines the goals. It lists: 'Optimize clinical outcomes', 'Minimize unintended consequences of antimicrobial use', 'Reduce healthcare costs', and 'Reduce selection for antimicrobial resistant organisms'. This aligns with the 'minimize collateral damage' answer."
   },
   {
@@ -581,7 +581,7 @@ window.L119 = [
       { "text": "Increasing the nutritional value of the meat.", "explanation": "Incorrect." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L119_p_page-0039.jpg",
+    "slideImagePath": "images/L119_slide_15.jpg",
     "slideImageDescription": "The slide 'Antibiotic Resistance: How it Spreads' illustrates the pathway. It shows 'Antibiotics given to food producing animals' leading to 'drug-resistant bacteria in their gut'. Arrows show these bacteria reaching humans through 'food', 'environment', or 'direct contact', explaining the link between agriculture and human health."
   },
   {
@@ -596,7 +596,7 @@ window.L119 = [
       { "text": "Both drugs are bacteriostatic.", "explanation": "This is incorrect. Both agents in this combination are bactericidal." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L119_p_page-0014.jpg",
+    "slideImagePath": "images/L119_slide_24.jpg",
     "slideImageDescription": "This question integrates concepts from multiple slides. The 'Synergism' slide (29) explains the mechanism. The 'Concentration-Dependent' slide (15) supports bolus dosing for aminoglycosides. The 'Time-Dependent' slide (16) supports prolonged infusion for beta-lactams. The correct answer represents the synthesis of these optimal dosing strategies."
   }
 ];

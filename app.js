@@ -64,31 +64,7 @@ document.addEventListener('DOMContentLoaded', () => {
         updateThemeIcons();
     });
 
-    // --- Prompt Generation ---
-    const generatePromptBtn = getEl('generate-prompt-btn');
-    const promptOutputArea = getEl('prompt-output-area');
-    generatePromptBtn.addEventListener('click', () => {
-        const state = getCurrentTestState();
-        if (!state) return;
-        const numberOfQuestions = 10;
-        const weakCategories = Object.entries(state.currentSummaryStats)
-            .filter(([_, stats]) => stats.correct < stats.total)
-            .sort(([, a], [, b]) => (a.correct / a.total) - (b.correct / b.total));
 
-        let dynamicInputText = "";
-        if (weakCategories.length === 0) {
-            const allCategories = Object.keys(state.currentSummaryStats).join(', ');
-            dynamicInputText = `I did not get any questions wrong on this test. Please generate a mixed review set from all topics covered (${allCategories}).`;
-        } else {
-            dynamicInputText = "The following list contains my weak areas from the test...:\n";
-            weakCategories.forEach(([category, stats]) => {
-                const percent = ((stats.correct / stats.total) * 100).toFixed(0);
-                dynamicInputText += `- ${category}: Scored ${percent}% (${stats.correct}/${stats.total})\n`;
-            });
-        }
-        const fullPrompt = `... (Your prompt generation logic) ...\n# Dynamic Inputs\n${dynamicInputText}\n...`;
-        promptOutputArea.value = fullPrompt.trim();
-    });
 
     // --- Core Logic ---
 
@@ -170,7 +146,7 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         }
         overviewContainer.innerHTML = html;
-        promptOutputArea.value = '';
+        overviewContainer.innerHTML = html;
     };
 
     function switchToTest(testName) {
@@ -864,6 +840,133 @@ document.addEventListener('DOMContentLoaded', () => {
         masterBtn.addEventListener('click', startMasterReview);
     }
 
+    // --- Navigation Enhancements ---
+
+    // 1. Hide Header on Scroll
+    let lastScrollTop = 0;
+    const navBar = document.querySelector('nav');
+
+    window.addEventListener('scroll', () => {
+        const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+        if (scrollTop > lastScrollTop && scrollTop > 100) {
+            // Scrolling down
+            navBar.style.transform = 'translateY(-150%)';
+            navBar.style.transition = 'transform 0.3s ease-in-out';
+        } else {
+            // Scrolling up
+            navBar.style.transform = 'translateY(0)';
+        }
+        lastScrollTop = scrollTop;
+    });
+
+    const toggleTimer = () => {
+        const state = getCurrentTestState();
+        if (!state || state.examFinished) return;
+        if (state.timer.isRunning) {
+            pauseTimer();
+        } else {
+            startTimer();
+        }
+    };
+
+    // 2. Keyboard Shortcuts
+    document.addEventListener('keydown', (e) => {
+        const state = getCurrentTestState();
+        if (!state || state.examFinished) return;
+
+        // Only handle shortcuts if not typing in an input (though we don't have many inputs)
+        if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+
+        switch (e.key) {
+            case 'ArrowLeft':
+                changeQuestion(-1);
+                break;
+            case 'ArrowRight':
+                changeQuestion(1);
+                break;
+            case 'Enter':
+                handleSubmit();
+                break;
+            case 'f':
+            case 'F':
+                toggleFlag();
+                break;
+            case '1':
+            case 'a':
+            case 'A':
+                selectOption(0);
+                break;
+            case '2':
+            case 'b':
+            case 'B':
+                selectOption(1);
+                break;
+            case '3':
+            case 'c':
+            case 'C':
+                selectOption(2);
+                break;
+            case '4':
+            case 'd':
+            case 'D':
+                selectOption(3);
+                break;
+            case '5':
+            case 'e':
+            case 'E':
+                selectOption(4);
+                break;
+            case 'p':
+            case 'P':
+                toggleTimer();
+                break;
+            case 'Backspace':
+                // Prevent backspace from navigating back in history if not in input
+                e.preventDefault();
+                resetState();
+                break;
+        }
+    });
+
+    function selectOption(index) {
+        const state = getCurrentTestState();
+        if (!state || state.examFinished || state.userAnswers[state.currentQuestionIndex].isSubmitted) return;
+
+        // Check if option exists
+        if (index >= state.questions[state.currentQuestionIndex].options.length) return;
+
+        state.userAnswers[state.currentQuestionIndex].selectedIndex = index;
+        displayQuestion();
+        saveState();
+    }
+
+    // 3. Swipe Gestures
+    let touchStartX = 0;
+    let touchEndX = 0;
+    const minSwipeDistance = 50;
+
+    document.addEventListener('touchstart', (e) => {
+        touchStartX = e.changedTouches[0].screenX;
+    }, { passive: true });
+
+    document.addEventListener('touchend', (e) => {
+        touchEndX = e.changedTouches[0].screenX;
+        handleSwipe();
+    }, { passive: true });
+
+    function handleSwipe() {
+        const distance = touchEndX - touchStartX;
+        if (Math.abs(distance) < minSwipeDistance) return;
+
+        if (distance > 0) {
+            // Swiped Right -> Previous Question
+            changeQuestion(-1);
+        } else {
+            // Swiped Left -> Next Question
+            changeQuestion(1);
+        }
+    }
+
 
     // ... (existing code) ...
 
@@ -884,6 +987,63 @@ document.addEventListener('DOMContentLoaded', () => {
         getEl('main-content-area').innerHTML = `<p class="text-secondary text-center">No tests found. Please add a test script to the HTML head and add it to the 'testsToLoad' array.</p>`;
     }
 
+
+    // 4. Keyboard Shortcuts Info UI
+    function renderKeyboardShortcuts() {
+        // Find the Control Center card
+        const controlCenter = document.querySelector('aside .card');
+        if (!controlCenter) return;
+
+        // Avoid duplicates
+        if (document.getElementById('keyboard-shortcuts-info')) return;
+
+        const shortcutsHTML = `
+            <div id="keyboard-shortcuts-info" class="mt-6 pt-6 border-t border-gray-200 dark:border-gray-700">
+                <h3 class="font-semibold mb-3 text-sm text-gray-900 dark:text-gray-200">Keyboard Shortcuts</h3>
+                <div class="grid grid-cols-2 gap-2 text-xs text-gray-700 dark:text-gray-400">
+                    <div class="flex justify-between items-center subtle-card p-2 rounded border border-gray-200 dark:border-gray-700">
+                        <span class="font-medium">Prev/Next</span>
+                        <span class="font-mono bg-gray-100 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 px-1.5 py-0.5 rounded text-gray-800 dark:text-gray-200 shadow-sm">←/→</span>
+                    </div>
+                    <div class="flex justify-between items-center subtle-card p-2 rounded border border-gray-200 dark:border-gray-700">
+                        <span class="font-medium">Select</span>
+                        <span class="font-mono bg-gray-100 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 px-1.5 py-0.5 rounded text-gray-800 dark:text-gray-200 shadow-sm">1-5</span>
+                    </div>
+                    <div class="flex justify-between items-center subtle-card p-2 rounded border border-gray-200 dark:border-gray-700">
+                        <span class="font-medium">Submit</span>
+                        <span class="font-mono bg-gray-100 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 px-1.5 py-0.5 rounded text-gray-800 dark:text-gray-200 shadow-sm">Enter</span>
+                    </div>
+                    <div class="flex justify-between items-center subtle-card p-2 rounded border border-gray-200 dark:border-gray-700">
+                        <span class="font-medium">Flag</span>
+                        <span class="font-mono bg-gray-100 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 px-1.5 py-0.5 rounded text-gray-800 dark:text-gray-200 shadow-sm">F</span>
+                    </div>
+                    <div class="flex justify-between items-center subtle-card p-2 rounded border border-gray-200 dark:border-gray-700">
+                        <span class="font-medium">Timer</span>
+                        <span class="font-mono bg-gray-100 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 px-1.5 py-0.5 rounded text-gray-800 dark:text-gray-200 shadow-sm">P</span>
+                    </div>
+                    <div class="flex justify-between items-center subtle-card p-2 rounded border border-gray-200 dark:border-gray-700">
+                        <span class="font-medium">Reset</span>
+                        <span class="font-mono bg-gray-100 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 px-1.5 py-0.5 rounded text-gray-800 dark:text-gray-200 shadow-sm flex items-center justify-center w-8">
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        `;
+
+        // Insert before the finish button
+        const finishBtn = document.getElementById('finish-test-btn');
+        if (finishBtn) {
+            // Add a bit more spacing to the finish button if needed, but the border-t handles separation well.
+            finishBtn.insertAdjacentHTML('beforebegin', shortcutsHTML);
+
+            // Ensure finish button has margin top if it doesn't already (it usually does via flow or class)
+            // But let's add a class just in case to ensure spacing from our new block
+            finishBtn.classList.add('mt-6');
+        }
+    }
+
+    renderKeyboardShortcuts();
 
 });
 

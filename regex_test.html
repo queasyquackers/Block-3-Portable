@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Regex Test</title>
+</head>
+
+<body>
+    <h1>Testing PDF Path Regex</h1>
+    <div id="output"></div>
+
+    <script>
+        const testPaths = [
+            "images/L106_p_page-0011.jpg",
+            "images/L126_slide_5.jpg",
+            "images/L107L108_Ans_Page_02.jpg"
+        ];
+
+        const regex = /L(\d+(?:L\d+)*)(_slide_|_p_page-|_Ans_Page_)(\d+)/i;
+
+        const output = document.getElementById('output');
+
+        testPaths.forEach(path => {
+            const match = path.match(regex);
+            if (match) {
+                const lectureId = `L${match[1]}`;
+                const separator = match[2];
+                const slideNum = parseInt(match[3]);
+
+                output.innerHTML += `<div>
+                    <strong>Path:</strong> ${path}<br>
+                    <strong>Lecture ID:</strong> ${lectureId}<br>
+                    <strong>Separator:</strong> ${separator}<br>
+                    <strong>Slide #:</strong> ${slideNum}<br>
+                    <hr>
+                </div>`;
+            } else {
+                output.innerHTML += `<div><strong>NO MATCH:</strong> ${path}<hr></div>`;
+            }
+        });
+    </script>
+</body>
+
+</html>

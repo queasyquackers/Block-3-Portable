@@ -519,36 +519,96 @@ document.addEventListener('DOMContentLoaded', () => {
         });
         questionContainer.appendChild(optsContainer);
 
-        // --- IMAGE LOGIC ---
-        if ((answerState.isSubmitted || state.examFinished) && question.slideImagePath && question.slideImagePath !== "") {
-            slideContainer.classList.remove('hidden');
-            slidePlaceholder.innerHTML = '';
+        // --- PDF REFERENCE LOGIC (NO IMAGE DISPLAY) ---
+        // Works with both slideImagePath (legacy) and pdfPage (new) formats
+        let shouldShowPDF = false;
+        let lectureId = null;
+        let pageNum = null;
 
-            // Create Image Wrapper (Simple Display)
-            const imgWrapper = document.createElement('div');
-            imgWrapper.className = "relative group";
+        if (answerState.isSubmitted || state.examFinished) {
+            // Option 1: New format with direct pdfPage
+            if (question.pdfPage) {
+                shouldShowPDF = true;
+                // Extract lecture ID from test name (remove week prefix like "13-")
+                lectureId = currentTestName.replace(/^(\d+-)/, '');
+                pageNum = question.pdfPage;
+                console.log("Direct PDF reference - Lecture:", lectureId, "Page:", pageNum);
+            }
+            // Option 2: Legacy format with slideImagePath
+            else if (question.slideImagePath && question.slideImagePath !== "") {
+                console.log("Checking PDF for:", question.slideImagePath);
+                // Regex to extract lecture ID and page number from path
+                const match = question.slideImagePath.match(/L(\d+(?:L\d+)*)(_slide_|_p_page-|_Ans_Page_)(\d+)/i);
+                if (match) {
+                    shouldShowPDF = true;
+                    lectureId = `L${match[1]}`;
+                    const separator = match[2];
+                    pageNum = parseInt(match[3]);
 
-            const img = document.createElement('img');
-            img.src = question.slideImagePath.replace(/\\/g, '/');
-            img.alt = question.category;
-            img.className = "w-full h-auto rounded-lg border border-default shadow-sm";
+                    // If it's an Answer Page (Practice Quiz), append _Quiz to the lectureId
+                    if (separator === '_Ans_Page_') {
+                        lectureId += '_Quiz';
+                    }
+                    console.log("Extracted from path:", lectureId, pageNum);
+                }
+            }
 
-            imgWrapper.appendChild(img);
-            slidePlaceholder.appendChild(imgWrapper);
+            // Display PDF button and context if we have a reference
+            if (shouldShowPDF && lectureId && pageNum) {
+                slideContainer.classList.remove('hidden');
+                slidePlaceholder.innerHTML = '';
 
-            if (question.slideImageDescription && question.slideImageDescription !== "") {
-                const descDiv = document.createElement('div');
-                descDiv.className = "image-context-box animate-fade-in mt-6";
-                descDiv.innerHTML = `
-                    <div class="image-context-header flex items-center justify-center gap-2 mb-3 text-secondary font-bold uppercase tracking-wider text-xs">
-                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
-                        Image Context
-                    </div>
-                    <div class="image-context-content text-sm leading-relaxed text-primary bg-gray-50 dark:bg-slate-900/80 p-5 rounded-xl border border-default shadow-sm">
-                        ${question.slideImageDescription}
-                    </div>
-                `;
-                slidePlaceholder.appendChild(descDiv);
+                const btnContainer = document.createElement('div');
+                btnContainer.className = "flex flex-col gap-2";
+
+                if (window.PDF_MAPPING && window.PDF_MAPPING[lectureId]) {
+                    const mapping = window.PDF_MAPPING[lectureId];
+                    const pdfPaths = Array.isArray(mapping) ? mapping : [mapping];
+
+                    pdfPaths.forEach((pdfPath, index) => {
+                        const label = pdfPaths.length > 1
+                            ? `Open Lecture Source PDF ${index + 1} (Page ${pageNum})`
+                            : `Open Lecture Source PDF (Page ${pageNum})`;
+                        const pdfBtn = document.createElement('button');
+                        pdfBtn.className = "w-full bg-indigo-50 hover:bg-indigo-100 text-indigo-700 border border-indigo-200 shadow-sm rounded-xl px-4 py-3 text-sm font-bold flex items-center justify-center gap-2 transition-all transform hover:scale-[1.02]";
+                        pdfBtn.innerHTML = `
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+                            ${label}
+                        `;
+                        pdfBtn.onclick = (e) => {
+                            e.stopPropagation();
+                            showPDF(pdfPath, pageNum);
+                        };
+                        btnContainer.appendChild(pdfBtn);
+                    });
+                } else {
+                    // Show error if mapping not found
+                    const errorBtn = document.createElement('button');
+                    errorBtn.className = "w-full bg-gray-100 text-gray-400 border border-gray-200 rounded-xl px-4 py-3 text-sm font-bold flex items-center justify-center gap-2 cursor-not-allowed";
+                    errorBtn.disabled = true;
+                    errorBtn.innerHTML = `
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                        PDF Source Not Found (${lectureId})
+                    `;
+                    btnContainer.appendChild(errorBtn);
+                }
+                slidePlaceholder.appendChild(btnContainer);
+
+                // Add slide context description if present
+                if (question.slideImageDescription && question.slideImageDescription !== "") {
+                    const descDiv = document.createElement('div');
+                    descDiv.className = "image-context-box animate-fade-in mt-6";
+                    descDiv.innerHTML = `
+                        <div class="image-context-header flex items-center justify-center gap-2 mb-3 text-secondary font-bold uppercase tracking-wider text-xs">
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+                            Slide Context
+                        </div>
+                        <div class="image-context-content text-sm leading-relaxed text-primary bg-gray-50 dark:bg-slate-900/80 p-5 rounded-xl border border-default shadow-sm">
+                            ${question.slideImageDescription}
+                        </div>
+                    `;
+                    slidePlaceholder.appendChild(descDiv);
+                }
             }
         }
 
@@ -869,6 +929,65 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
 
+    // --- PDF VIEWER LOGIC ---
+    const showPDF = (pdfPath, pageNum) => {
+        // 1. Check if viewer already exists
+        let viewerContainer = document.getElementById('pdf-viewer-container');
+
+        if (!viewerContainer) {
+            // Create container
+            viewerContainer = document.createElement('div');
+            viewerContainer.id = 'pdf-viewer-container';
+            viewerContainer.className = "fixed inset-y-0 right-0 w-full md:w-1/2 bg-white dark:bg-slate-900 shadow-2xl z-50 transform transition-transform duration-300 translate-x-full border-l border-default flex flex-col";
+
+            // Header
+            const header = document.createElement('div');
+            header.className = "p-4 border-b border-default flex justify-between items-center bg-gray-50 dark:bg-slate-800";
+            header.innerHTML = `
+                <h3 class="font-bold text-lg flex items-center gap-2">
+                    <svg class="w-5 h-5 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
+                    Lecture Source
+                </h3>
+                <button id="close-pdf-btn" class="p-2 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-full transition">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+                </button>
+            `;
+            viewerContainer.appendChild(header);
+
+            // Content (Iframe)
+            const content = document.createElement('div');
+            content.className = "flex-grow relative bg-gray-100 dark:bg-slate-900";
+            content.innerHTML = `<iframe id="pdf-frame" class="w-full h-full border-none" src=""></iframe>`;
+            viewerContainer.appendChild(content);
+
+            document.body.appendChild(viewerContainer);
+
+            // Close handler
+            document.getElementById('close-pdf-btn').onclick = () => {
+                viewerContainer.classList.add('translate-x-full');
+            };
+        }
+
+        // 2. Update Source and Show
+        const frame = document.getElementById('pdf-frame');
+        // URL-encode the path to handle special characters like # in filenames
+        // Split by '/' to encode each segment separately, preserving the directory structure
+        const encodedPath = pdfPath.split('/').map(segment => encodeURIComponent(segment)).join('/');
+
+        // Force reload by clearing src first, then setting new path
+        // This ensures the iframe always navigates to the specified page
+        frame.src = '';
+        setTimeout(() => {
+            // Append #page=X to URL for auto-scroll (this # is for the fragment, not part of filename)
+            frame.src = `${encodedPath}#page=${pageNum}`;
+        }, 50);
+
+        // Open panel
+        setTimeout(() => {
+            viewerContainer.classList.remove('translate-x-full');
+        }, 10);
+    };
+
     // 2. Keyboard Shortcuts
     document.addEventListener('keydown', (e) => {
         const state = getCurrentTestState();
@@ -967,8 +1086,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-
-    // ... (existing code) ...
 
     // --- Initial Load ---
     updateThemeIcons();

@@ -1020,8 +1020,15 @@ document.addEventListener('DOMContentLoaded', () => {
             const scale = Math.min(scaleX, scaleY, 1.5);
 
             const viewport = page.getViewport({ scale: scale });
+
+            // Set dimensions for high DPI if needed, but for now 1:1 mapping
             pdfCanvas.height = viewport.height;
             pdfCanvas.width = viewport.width;
+
+            // CRITICAL: Explicitly set style width/height to match attributes
+            // This prevents CSS from stretching the canvas and distorting aspect ratio
+            pdfCanvas.style.width = `${viewport.width}px`;
+            pdfCanvas.style.height = `${viewport.height}px`;
 
             const renderContext = {
                 canvasContext: pdfCtx,

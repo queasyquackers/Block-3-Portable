@@ -991,79 +991,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
 
-    // --- PDF VIEWER LOGIC (PDF.js) ---
-    let pdfDoc = null;
-    let pageNum = 1;
-    let pageRendering = false;
-    let pageNumPending = null;
-    let scale = 1.5;
-    let canvas = null;
-    let ctx = null;
-    let currentPdfPath = null;
-
-    const renderPage = (num) => {
-        pageRendering = true;
-
-        // Fetch page
-        pdfDoc.getPage(num).then((page) => {
-            const viewport = page.getViewport({ scale: scale });
-            canvas.height = viewport.height;
-            canvas.width = viewport.width;
-
-            // Render PDF page into canvas context
-            const renderContext = {
-                canvasContext: ctx,
-                viewport: viewport
-            };
-            const renderTask = page.render(renderContext);
-
-            // Wait for render to finish
-            renderTask.promise.then(() => {
-                pageRendering = false;
-                if (pageNumPending !== null) {
-                    renderPage(pageNumPending);
-                    pageNumPending = null;
-                }
-            });
-        });
-
-        // Update page counters
-        const pageNumDisplay = document.getElementById('page_num');
-        if (pageNumDisplay) pageNumDisplay.textContent = num;
-    };
-
-    const queueRenderPage = (num) => {
-        if (pageRendering) {
-            pageNumPending = num;
-        } else {
-            renderPage(num);
-        }
-    };
-
-    const onPrevPage = () => {
-        if (pageNum <= 1) return;
-        pageNum--;
-        queueRenderPage(pageNum);
-    };
-
-    const onNextPage = () => {
-        if (pageNum >= pdfDoc.numPages) return;
-        pageNum++;
-        queueRenderPage(pageNum);
-    };
-
-    const onZoomIn = () => {
-        scale += 0.25;
-        queueRenderPage(pageNum);
-    };
-
-    const onZoomOut = () => {
-        if (scale <= 0.5) return;
-        scale -= 0.25;
-        queueRenderPage(pageNum);
-    };
-
-    const showPDF = (pdfPath, targetPageNum) => {
+    // --- PDF VIEWER LOGIC ---
+    const showPDF = (pdfPath, pageNum) => {
         // 1. Check if viewer already exists
         let viewerContainer = document.getElementById('pdf-viewer-container');
 
@@ -1071,97 +1000,54 @@ document.addEventListener('DOMContentLoaded', () => {
             // Create container
             viewerContainer = document.createElement('div');
             viewerContainer.id = 'pdf-viewer-container';
-            viewerContainer.className = "fixed inset-y-0 right-0 w-full md:w-2/3 lg:w-1/2 bg-white dark:bg-slate-900 shadow-2xl z-50 transform transition-transform duration-300 translate-x-full border-l border-default flex flex-col";
+            viewerContainer.className = "fixed inset-y-0 right-0 w-full md:w-1/2 bg-white dark:bg-slate-900 shadow-2xl z-50 transform transition-transform duration-300 translate-x-full border-l border-default flex flex-col";
 
             // Header
             const header = document.createElement('div');
-            header.className = "p-3 border-b border-default flex justify-between items-center bg-gray-50 dark:bg-slate-800 shrink-0";
+            header.className = "p-4 border-b border-default flex justify-between items-center bg-gray-50 dark:bg-slate-800";
             header.innerHTML = `
-                <div class="flex items-center gap-3">
-                    <h3 class="font-bold text-lg flex items-center gap-2">
-                        <svg class="w-5 h-5 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
-                        Lecture Source
-                    </h3>
-                    <div class="flex items-center gap-1 bg-white dark:bg-slate-700 rounded-lg border border-default p-1">
-                        <button id="prev-page" class="p-1 hover:bg-gray-100 dark:hover:bg-slate-600 rounded">
-                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>
-                        </button>
-                        <span class="text-xs font-mono w-16 text-center">
-                            Page <span id="page_num">--</span> / <span id="page_count">--</span>
-                        </span>
-                        <button id="next-page" class="p-1 hover:bg-gray-100 dark:hover:bg-slate-600 rounded">
-                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
-                        </button>
-                    </div>
-                     <div class="flex items-center gap-1 bg-white dark:bg-slate-700 rounded-lg border border-default p-1">
-                        <button id="zoom-out" class="p-1 hover:bg-gray-100 dark:hover:bg-slate-600 rounded" title="Zoom Out">
-                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4"></path></svg>
-                        </button>
-                        <button id="zoom-in" class="p-1 hover:bg-gray-100 dark:hover:bg-slate-600 rounded" title="Zoom In">
-                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"></path></svg>
-                        </button>
-                    </div>
-                </div>
+                <h3 class="font-bold text-lg flex items-center gap-2">
+                    <svg class="w-5 h-5 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
+                    Lecture Source
+                </h3>
                 <button id="close-pdf-btn" class="p-2 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-full transition">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
                 </button>
             `;
             viewerContainer.appendChild(header);
 
-            // Content (Canvas)
+            // Content (Iframe)
             const content = document.createElement('div');
-            content.className = "flex-grow relative bg-gray-200 dark:bg-slate-900 overflow-auto flex justify-center p-4";
-            content.id = "pdf-render-container";
-            content.innerHTML = `<canvas id="the-canvas" class="shadow-lg border border-gray-300"></canvas>`;
+            content.className = "flex-grow relative bg-gray-100 dark:bg-slate-900";
+            content.innerHTML = `<iframe id="pdf-frame" class="w-full h-full border-none" src=""></iframe>`;
             viewerContainer.appendChild(content);
 
             document.body.appendChild(viewerContainer);
 
-            // Event Listeners
+            // Close handler
             document.getElementById('close-pdf-btn').onclick = () => {
                 viewerContainer.classList.add('translate-x-full');
             };
-            document.getElementById('prev-page').addEventListener('click', onPrevPage);
-            document.getElementById('next-page').addEventListener('click', onNextPage);
-            document.getElementById('zoom-in').addEventListener('click', onZoomIn);
-            document.getElementById('zoom-out').addEventListener('click', onZoomOut);
-
-            canvas = document.getElementById('the-canvas');
-            ctx = canvas.getContext('2d');
         }
 
-        // 2. Load PDF
-        // Show loading state if needed, or just open panel
-        viewerContainer.classList.remove('translate-x-full');
+        // 2. Update Source and Show
+        const frame = document.getElementById('pdf-frame');
+        // URL-encode the path to handle special characters like # in filenames
+        // Split by '/' to encode each segment separately, preserving the directory structure
+        const encodedPath = pdfPath.split('/').map(segment => encodeURIComponent(segment)).join('/');
 
-        // Reset state
-        pageNum = targetPageNum || 1;
+        // Force reload by clearing src first, then setting new path
+        // This ensures the iframe always navigates to the specified page
+        frame.src = '';
+        setTimeout(() => {
+            // Append #page=X to URL for auto-scroll (this # is for the fragment, not part of filename)
+            frame.src = `${encodedPath}#page=${pageNum}`;
+        }, 50);
 
-        // Reset scroll position
-        const renderContainer = document.getElementById('pdf-render-container');
-        if (renderContainer) renderContainer.scrollTop = 0;
-
-        // If same PDF is already loaded, just render the page
-        if (pdfDoc && currentPdfPath === pdfPath) {
-            renderPage(pageNum);
-            return;
-        }
-
-        currentPdfPath = pdfPath;
-
-        // Asynchronous download of PDF
-        const loadingTask = pdfjsLib.getDocument(pdfPath);
-        loadingTask.promise.then((pdf) => {
-            pdfDoc = pdf;
-            document.getElementById('page_count').textContent = pdfDoc.numPages;
-
-            // Initial render
-            renderPage(pageNum);
-        }, (reason) => {
-            // PDF loading error
-            console.error('Error loading PDF:', reason);
-            alert('Error loading PDF: ' + reason);
-        });
+        // Open panel
+        setTimeout(() => {
+            viewerContainer.classList.remove('translate-x-full');
+        }, 10);
     };
 
     // 2. Keyboard Shortcuts

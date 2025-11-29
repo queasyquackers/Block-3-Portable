@@ -994,7 +994,6 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- PDF VIEWER LOGIC ---
     let pdfDoc = null;
     let pageNumPending = null;
-    let pdfScale = 1.5;
     let pdfCanvas = null;
     let pdfCtx = null;
     let isRendering = false;
@@ -1003,7 +1002,13 @@ document.addEventListener('DOMContentLoaded', () => {
         isRendering = true;
         // Fetch page
         pdfDoc.getPage(num).then((page) => {
-            const viewport = page.getViewport({ scale: pdfScale });
+            // Calculate scale to fit width
+            const container = document.getElementById('pdf-viewer-container').querySelector('.flex-grow');
+            const containerWidth = container.clientWidth - 40; // Subtract padding (p-4 = 1rem = 16px * 2 sides + safety)
+            const unscaledViewport = page.getViewport({ scale: 1 });
+            const scale = containerWidth / unscaledViewport.width;
+
+            const viewport = page.getViewport({ scale: scale });
             pdfCanvas.height = viewport.height;
             pdfCanvas.width = viewport.width;
 

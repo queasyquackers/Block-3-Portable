@@ -1002,11 +1002,22 @@ document.addEventListener('DOMContentLoaded', () => {
         isRendering = true;
         // Fetch page
         pdfDoc.getPage(num).then((page) => {
-            // Calculate scale to fit width
+            // Calculate scale to fit entire page (contain)
             const container = document.getElementById('pdf-viewer-container').querySelector('.flex-grow');
-            const containerWidth = container.clientWidth - 40; // Subtract padding (p-4 = 1rem = 16px * 2 sides + safety)
+
+            // Get available dimensions (subtract padding)
+            const padding = 40; // 20px padding on each side/top-bottom
+            const availableWidth = container.clientWidth - padding;
+            const availableHeight = container.clientHeight - padding;
+
             const unscaledViewport = page.getViewport({ scale: 1 });
-            const scale = containerWidth / unscaledViewport.width;
+
+            const scaleX = availableWidth / unscaledViewport.width;
+            const scaleY = availableHeight / unscaledViewport.height;
+
+            // Use the smaller scale to ensure both width and height fit
+            // Limit max scale to 1.5 to prevent small slides from becoming huge
+            const scale = Math.min(scaleX, scaleY, 1.5);
 
             const viewport = page.getViewport({ scale: scale });
             pdfCanvas.height = viewport.height;

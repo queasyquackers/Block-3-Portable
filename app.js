@@ -839,6 +839,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const userAnswer = state.userAnswers[originalIndex];
             const questionEl = document.createElement('div');
             questionEl.className = 'subtle-card p-6 border border-default rounded-lg mb-6';
+
             let optionsHtml = q.options.map((opt, optIndex) => {
                 let indicators = '';
                 if (optIndex === q.correctAnswerIndex) indicators += '<span class="ml-2 text-xs font-bold text-green-600 bg-green-100 px-2 py-1 rounded-full">Correct</span>';
@@ -850,28 +851,89 @@ document.addEventListener('DOMContentLoaded', () => {
                 return `<div class="${optionClass}"><p>${String.fromCharCode(65 + optIndex)}. ${opt.text} ${indicators}</p><p class="text-sm text-secondary mt-1 pl-5"><em>Explanation:</em> ${opt.explanation}</p></div>`;
             }).join('');
 
-            let imageHtml = '';
-            if (q.slideImagePath && q.slideImagePath !== "") {
-                const descHtml = q.slideImageDescription
-                    ? `<div class="mt-4 p-4 border-l-4 text-sm rounded-r shadow-md" style="border-color: var(--accent-color); background-color: var(--bg-selected);">
-                         <strong class="block mb-2" style="color: var(--text-primary);">Context & Clues:</strong>
-                         <span style="color: var(--text-primary);">${q.slideImageDescription}</span>
-                       </div>`
-                    : '';
-
-                imageHtml = `
-                <div class="mt-4 p-4 rounded-lg border border-default subtle-card">
-                    <h4 class="font-semibold mb-2">Relevant Diagram</h4>
-                    <img src="${q.slideImagePath}" alt="${q.category}" class="w-full h-auto rounded-lg border border-default">
-                    ${descHtml}
-                </div>`;
-            }
-
             questionEl.innerHTML = `
                 <p class="font-semibold text-secondary">Question ${originalIndex + 1} (${q.category})</p>
                 <p class="font-bold text-lg mt-1">${q.questionText}</p>
-                <div class="mt-4 space-y-2">${optionsHtml}</div>
-                ${imageHtml}`;
+                <div class="mt-4 space-y-2">${optionsHtml}</div>`;
+
+            // --- PDF / Visual Aid Logic ---
+            let shouldShowPDF = false;
+            let lectureId = null;
+            let pageNum = null;
+
+            // Option 1: New format with direct pdfPage
+            if (q.pdfPage) {
+                shouldShowPDF = true;
+                lectureId = currentTestName.replace(/^(\d+-)/, '');
+                pageNum = q.pdfPage;
+            }
+            // Option 2: Legacy format with slideImagePath
+            else if (q.slideImagePath && q.slideImagePath !== "") {
+                const match = q.slideImagePath.match(/L(\d+(?:L\d+)*)(_slide_|_p_page-|_Ans_Page_)(\d+)/i);
+                if (match) {
+                    shouldShowPDF = true;
+                    lectureId = `L${match[1]}`;
+                    const separator = match[2];
+                    pageNum = parseInt(match[3]);
+                    if (separator === '_Ans_Page_') lectureId += '_Quiz';
+                }
+            }
+
+            if (shouldShowPDF && lectureId && pageNum) {
+                const visualAidContainer = document.createElement('div');
+                visualAidContainer.className = "mt-4 p-4 rounded-lg border border-default subtle-card";
+
+                visualAidContainer.innerHTML = `<h4 class="font-semibold mb-2">Relevant Diagram</h4>`;
+
+                const btnContainer = document.createElement('div');
+                btnContainer.className = "flex flex-col gap-2";
+
+                if (window.PDF_MAPPING && window.PDF_MAPPING[lectureId]) {
+                    const mapping = window.PDF_MAPPING[lectureId];
+                    const pdfPaths = Array.isArray(mapping) ? mapping : [mapping];
+
+                    pdfPaths.forEach((pdfPath, index) => {
+                        const label = pdfPaths.length > 1
+                            ? `Open Lecture Source PDF ${index + 1} (Page ${pageNum})`
+                            : `Open Lecture Source PDF (Page ${pageNum})`;
+                        const pdfBtn = document.createElement('button');
+                        pdfBtn.className = "w-full bg-indigo-50 hover:bg-indigo-100 text-indigo-700 border border-indigo-200 shadow-sm rounded-xl px-4 py-3 text-sm font-bold flex items-center justify-center gap-2 transition-all transform hover:scale-[1.02]";
+                        pdfBtn.innerHTML = `
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+                            ${label}
+                        `;
+                        pdfBtn.onclick = (e) => {
+                            e.stopPropagation();
+                            showPDF(pdfPath, pageNum);
+                        };
+                        btnContainer.appendChild(pdfBtn);
+                    });
+                } else {
+                    const errorBtn = document.createElement('button');
+                    errorBtn.className = "w-full bg-gray-100 text-gray-400 border border-gray-200 rounded-xl px-4 py-3 text-sm font-bold flex items-center justify-center gap-2 cursor-not-allowed";
+                    errorBtn.disabled = true;
+                    errorBtn.innerHTML = `
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                        PDF Source Not Found (${lectureId})
+                    `;
+                    btnContainer.appendChild(errorBtn);
+                }
+                visualAidContainer.appendChild(btnContainer);
+
+                if (q.slideImageDescription && q.slideImageDescription !== "") {
+                    const descDiv = document.createElement('div');
+                    descDiv.className = "mt-4 p-4 border-l-4 text-sm rounded-r shadow-md";
+                    descDiv.style.borderColor = "var(--accent-color)";
+                    descDiv.style.backgroundColor = "var(--bg-selected)";
+                    descDiv.innerHTML = `
+                        <strong class="block mb-2" style="color: var(--text-primary);">Context & Clues:</strong>
+                        <span style="color: var(--text-primary);">${q.slideImageDescription}</span>
+                    `;
+                    visualAidContainer.appendChild(descDiv);
+                }
+
+                questionEl.appendChild(visualAidContainer);
+            }
 
             container.appendChild(questionEl);
         });

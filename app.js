@@ -1125,56 +1125,80 @@ document.addEventListener('DOMContentLoaded', () => {
         // --- UNIFIED SCROLLABLE CANVAS IMPLEMENTATION ---
         const container = document.getElementById('pdf-scroll-container');
         container.innerHTML = ''; // Clear previous PDF
+        container.className = "flex-grow relative bg-gray-100 dark:bg-slate-900 overflow-y-auto overflow-x-hidden flex flex-col items-center p-4 gap-4";
 
         const loadingTask = pdfjsLib.getDocument(encodedPath);
         loadingTask.promise.then(async (pdf) => {
             pdfDoc = pdf;
 
-            // Render ALL pages
+            // OPTIMIZATION: Fetch target page FIRST to get dimensions and render it immediately
+            const targetPage = await pdf.getPage(targetPageNum);
+
+            // Calculate scale based on target page
+            const padding = 32;
+            const containerWidth = container.clientWidth - padding;
+            const unscaledViewport = targetPage.getViewport({ scale: 1 });
+            const scale = containerWidth / unscaledViewport.width;
+            const viewport = targetPage.getViewport({ scale: scale });
+
+            // Create placeholders for ALL pages immediately
             for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
                 const canvas = document.createElement('canvas');
                 canvas.id = `pdf-page-${pageNum}`;
                 canvas.className = "shadow-lg bg-white mb-4";
+
+                // Set dimensions immediately
+                canvas.height = viewport.height;
+                canvas.width = viewport.width;
+                canvas.style.width = `${viewport.width}px`;
+                canvas.style.height = `${viewport.height}px`;
+
                 container.appendChild(canvas);
+            }
 
-                // Render page
-                await pdf.getPage(pageNum).then((page) => {
-                    // Calculate scale to fit width
-                    const padding = 32;
-                    const containerWidth = container.clientWidth - padding;
+            // SNAP TO SLIDE IMMEDIATELY
+            const targetCanvas = document.getElementById(`pdf-page-${targetPageNum}`);
+            if (targetCanvas) {
+                targetCanvas.scrollIntoView({ behavior: 'auto', block: 'start' });
+            }
 
-                    const unscaledViewport = page.getViewport({ scale: 1 });
-                    const scale = containerWidth / unscaledViewport.width;
-                    const viewport = page.getViewport({ scale: scale });
+            // Render Target Page NOW
+            const ctx = targetCanvas.getContext('2d');
+            const renderContext = {
+                canvasContext: ctx,
+                viewport: viewport
+            };
+            await targetPage.render(renderContext).promise;
 
-                    canvas.height = viewport.height;
-                    canvas.width = viewport.width;
-                    canvas.style.width = `${viewport.width}px`;
-                    canvas.style.height = `${viewport.height}px`;
+            // Render REST of the pages in background
+            for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
+                if (pageNum === targetPageNum) continue; // Already done
 
+                pdf.getPage(pageNum).then(page => {
+                    const canvas = document.getElementById(`pdf-page-${pageNum}`);
                     const ctx = canvas.getContext('2d');
+
+                    const localViewport = page.getViewport({ scale: scale });
+
+                    if (canvas.width !== localViewport.width || canvas.height !== localViewport.height) {
+                        canvas.width = localViewport.width;
+                        canvas.height = localViewport.height;
+                        canvas.style.width = `${localViewport.width}px`;
+                        canvas.style.height = `${localViewport.height}px`;
+                    }
+
                     const renderContext = {
                         canvasContext: ctx,
-                        viewport: viewport
+                        viewport: localViewport
                     };
-                    return page.render(renderContext).promise;
+                    page.render(renderContext);
                 });
             }
 
-            // Snap to target page after rendering
-            setTimeout(() => {
-                const targetCanvas = document.getElementById(`pdf-page-${targetPageNum}`);
-                if (targetCanvas) {
-                    targetCanvas.scrollIntoView({ behavior: 'smooth', block: 'start' });
-                }
-            }, 500);
-
         }, (reason) => {
             console.warn('PDF.js load failed. Falling back to iframe.', reason);
-            // Fallback to iframe if PDF.js fails (e.g. local file access)
-            const container = document.getElementById('pdf-scroll-container');
             container.innerHTML = `<iframe id="pdf-frame" class="w-full h-full border-none" src="${encodedPath}#page=${targetPageNum}"></iframe>`;
-            container.classList.remove('flex', 'flex-col', 'items-center', 'gap-4'); // Reset flex layout for iframe
+            container.classList.remove('flex', 'flex-col', 'items-center', 'gap-4');
             container.classList.add('block');
         });
 

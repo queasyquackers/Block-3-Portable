@@ -1081,10 +1081,6 @@ document.addEventListener('DOMContentLoaded', () => {
         // 1. Check if viewer already exists
         let viewerContainer = document.getElementById('pdf-viewer-container');
 
-        // Check if Mobile (Canvas) or Desktop (Iframe)
-        // Using 1024px as breakpoint for "Desktop" behavior
-        const isDesktop = window.innerWidth >= 1024;
-
         if (!viewerContainer) {
             // Create container
             viewerContainer = document.createElement('div');
@@ -1095,31 +1091,12 @@ document.addEventListener('DOMContentLoaded', () => {
             const header = document.createElement('div');
             header.className = "p-4 border-b border-default flex justify-between items-center bg-gray-50 dark:bg-slate-800";
 
-            // Custom controls only for Mobile/Canvas mode
-            let controlsHtml = '';
-            if (!isDesktop) {
-                controlsHtml = `
-                    <div class="flex items-center gap-2 bg-white dark:bg-slate-700 rounded-lg border border-default px-2 py-1">
-                        <button id="prev-page" class="p-1 hover:bg-gray-100 dark:hover:bg-slate-600 rounded">
-                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>
-                        </button>
-                        <span class="text-sm font-mono">
-                            <span id="page_num">--</span> / <span id="page_count">--</span>
-                        </span>
-                        <button id="next-page" class="p-1 hover:bg-gray-100 dark:hover:bg-slate-600 rounded">
-                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
-                        </button>
-                    </div>
-                `;
-            }
-
             header.innerHTML = `
                 <div class="flex items-center gap-4">
                     <h3 class="font-bold text-lg flex items-center gap-2">
                         <svg class="w-5 h-5 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
                         Lecture Source
                     </h3>
-                    ${controlsHtml}
                 </div>
                 <button id="close-pdf-btn" class="p-2 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-full transition">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
@@ -1129,69 +1106,77 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Content Container
             const content = document.createElement('div');
-            // Mobile: Flex center for canvas. Desktop: Block for iframe.
-            content.className = isDesktop
-                ? "flex-grow relative bg-gray-100 dark:bg-slate-900"
-                : "flex-grow relative bg-gray-100 dark:bg-slate-900 overflow-auto flex justify-center p-4";
+            // Unified Scrollable Container
+            content.id = "pdf-scroll-container";
+            content.className = "flex-grow relative bg-gray-100 dark:bg-slate-900 overflow-y-auto overflow-x-hidden flex flex-col items-center p-4 gap-4";
 
-            if (isDesktop) {
-                content.innerHTML = `<iframe id="pdf-frame" class="w-full h-full border-none" src=""></iframe>`;
-            } else {
-                content.innerHTML = `<canvas id="the-canvas" class="shadow-lg"></canvas>`;
-            }
             viewerContainer.appendChild(content);
 
             document.body.appendChild(viewerContainer);
 
-            // Initialize Canvas only if Mobile
-            if (!isDesktop) {
-                pdfCanvas = document.getElementById('the-canvas');
-                pdfCtx = pdfCanvas.getContext('2d');
-                document.getElementById('prev-page').addEventListener('click', onPrevPage);
-                document.getElementById('next-page').addEventListener('click', onNextPage);
-            }
-
             document.getElementById('close-pdf-btn').onclick = () => {
                 viewerContainer.classList.add('translate-x-full');
-                // Clear iframe src to stop playing/loading when closed
-                const frame = document.getElementById('pdf-frame');
-                if (frame) frame.src = '';
             };
         }
 
         // 2. Load PDF
         const encodedPath = pdfPath.split('/').map(segment => encodeURIComponent(segment)).join('/');
 
-        if (isDesktop) {
-            // --- DESKTOP: IFRAME IMPLEMENTATION ---
-            const frame = document.getElementById('pdf-frame');
+        // --- UNIFIED SCROLLABLE CANVAS IMPLEMENTATION ---
+        const container = document.getElementById('pdf-scroll-container');
+        container.innerHTML = ''; // Clear previous PDF
 
-            if (frame) {
-                frame.src = '';
-                setTimeout(() => {
-                    frame.src = `${encodedPath}#page=${targetPageNum}`;
-                }, 50);
-            } else {
-                // Fallback if container structure mismatch (e.g. resized from mobile to desktop)
-                location.reload();
+        const loadingTask = pdfjsLib.getDocument(encodedPath);
+        loadingTask.promise.then(async (pdf) => {
+            pdfDoc = pdf;
+
+            // Render ALL pages
+            for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
+                const canvas = document.createElement('canvas');
+                canvas.id = `pdf-page-${pageNum}`;
+                canvas.className = "shadow-lg bg-white mb-4";
+                container.appendChild(canvas);
+
+                // Render page
+                await pdf.getPage(pageNum).then((page) => {
+                    // Calculate scale to fit width
+                    const padding = 32;
+                    const containerWidth = container.clientWidth - padding;
+
+                    const unscaledViewport = page.getViewport({ scale: 1 });
+                    const scale = containerWidth / unscaledViewport.width;
+                    const viewport = page.getViewport({ scale: scale });
+
+                    canvas.height = viewport.height;
+                    canvas.width = viewport.width;
+                    canvas.style.width = `${viewport.width}px`;
+                    canvas.style.height = `${viewport.height}px`;
+
+                    const ctx = canvas.getContext('2d');
+                    const renderContext = {
+                        canvasContext: ctx,
+                        viewport: viewport
+                    };
+                    return page.render(renderContext).promise;
+                });
             }
-        } else {
-            // --- MOBILE: CANVAS IMPLEMENTATION ---
-            const loadingTask = pdfjsLib.getDocument(encodedPath);
-            loadingTask.promise.then((pdf) => {
-                pdfDoc = pdf;
-                document.getElementById('page_count').textContent = pdfDoc.numPages;
 
-                let initialPage = targetPageNum;
-                if (initialPage < 1) initialPage = 1;
-                if (initialPage > pdfDoc.numPages) initialPage = pdfDoc.numPages;
+            // Snap to target page after rendering
+            setTimeout(() => {
+                const targetCanvas = document.getElementById(`pdf-page-${targetPageNum}`);
+                if (targetCanvas) {
+                    targetCanvas.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+            }, 500);
 
-                renderPage(initialPage);
-            }, (reason) => {
-                console.warn('PDF.js load failed. Falling back to iframe.', reason);
-                alert("Error loading PDF on mobile: " + reason);
-            });
-        }
+        }, (reason) => {
+            console.warn('PDF.js load failed. Falling back to iframe.', reason);
+            // Fallback to iframe if PDF.js fails (e.g. local file access)
+            const container = document.getElementById('pdf-scroll-container');
+            container.innerHTML = `<iframe id="pdf-frame" class="w-full h-full border-none" src="${encodedPath}#page=${targetPageNum}"></iframe>`;
+            container.classList.remove('flex', 'flex-col', 'items-center', 'gap-4'); // Reset flex layout for iframe
+            container.classList.add('block');
+        });
 
         // Open panel
         setTimeout(() => {

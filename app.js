@@ -992,7 +992,69 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     // --- PDF VIEWER LOGIC ---
-    const showPDF = (pdfPath, pageNum) => {
+    let pdfDoc = null;
+    let pageNumPending = null;
+    let pdfScale = 1.5;
+    let pdfCanvas = null;
+    let pdfCtx = null;
+    let isRendering = false;
+
+    const renderPage = (num) => {
+        isRendering = true;
+        // Fetch page
+        pdfDoc.getPage(num).then((page) => {
+            const viewport = page.getViewport({ scale: pdfScale });
+            pdfCanvas.height = viewport.height;
+            pdfCanvas.width = viewport.width;
+
+            const renderContext = {
+                canvasContext: pdfCtx,
+                viewport: viewport
+            };
+            const renderTask = page.render(renderContext);
+
+            // Wait for render to finish
+            renderTask.promise.then(() => {
+                isRendering = false;
+                if (pageNumPending !== null) {
+                    // New page rendering is pending
+                    renderPage(pageNumPending);
+                    pageNumPending = null;
+                }
+            });
+        });
+
+        // Update page counters
+        document.getElementById('page_num').textContent = num;
+    };
+
+    const queueRenderPage = (num) => {
+        if (isRendering) {
+            pageNumPending = num;
+        } else {
+            renderPage(num);
+        }
+    };
+
+    const onPrevPage = () => {
+        if (pageNumPending !== null) return; // Wait until render finishes
+        const currentPage = parseInt(document.getElementById('page_num').textContent);
+        if (currentPage <= 1) {
+            return;
+        }
+        queueRenderPage(currentPage - 1);
+    };
+
+    const onNextPage = () => {
+        if (pageNumPending !== null) return; // Wait until render finishes
+        const currentPage = parseInt(document.getElementById('page_num').textContent);
+        if (currentPage >= pdfDoc.numPages) {
+            return;
+        }
+        queueRenderPage(currentPage + 1);
+    };
+
+    const showPDF = (pdfPath, targetPageNum) => {
         // 1. Check if viewer already exists
         let viewerContainer = document.getElementById('pdf-viewer-container');
 
@@ -1006,43 +1068,88 @@ document.addEventListener('DOMContentLoaded', () => {
             const header = document.createElement('div');
             header.className = "p-4 border-b border-default flex justify-between items-center bg-gray-50 dark:bg-slate-800";
             header.innerHTML = `
-                <h3 class="font-bold text-lg flex items-center gap-2">
-                    <svg class="w-5 h-5 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
-                    Lecture Source
-                </h3>
+                <div class="flex items-center gap-4">
+                    <h3 class="font-bold text-lg flex items-center gap-2">
+                        <svg class="w-5 h-5 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
+                        Lecture Source
+                    </h3>
+                    <div class="flex items-center gap-2 bg-white dark:bg-slate-700 rounded-lg border border-default px-2 py-1">
+                        <button id="prev-page" class="p-1 hover:bg-gray-100 dark:hover:bg-slate-600 rounded">
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>
+                        </button>
+                        <span class="text-sm font-mono">
+                            <span id="page_num">--</span> / <span id="page_count">--</span>
+                        </span>
+                        <button id="next-page" class="p-1 hover:bg-gray-100 dark:hover:bg-slate-600 rounded">
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+                        </button>
+                    </div>
+                </div>
                 <button id="close-pdf-btn" class="p-2 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-full transition">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
                 </button>
             `;
             viewerContainer.appendChild(header);
 
-            // Content (Iframe)
+            // Content (Canvas)
             const content = document.createElement('div');
-            content.className = "flex-grow relative bg-gray-100 dark:bg-slate-900";
-            content.innerHTML = `<iframe id="pdf-frame" class="w-full h-full border-none" src=""></iframe>`;
+            content.className = "flex-grow relative bg-gray-100 dark:bg-slate-900 overflow-auto flex justify-center p-4";
+            content.innerHTML = `<canvas id="the-canvas" class="shadow-lg"></canvas>`;
             viewerContainer.appendChild(content);
 
             document.body.appendChild(viewerContainer);
 
-            // Close handler
+            // Initialize Canvas
+            pdfCanvas = document.getElementById('the-canvas');
+            pdfCtx = pdfCanvas.getContext('2d');
+
+            // Event Listeners
+            document.getElementById('prev-page').addEventListener('click', onPrevPage);
+            document.getElementById('next-page').addEventListener('click', onNextPage);
             document.getElementById('close-pdf-btn').onclick = () => {
                 viewerContainer.classList.add('translate-x-full');
             };
         }
 
-        // 2. Update Source and Show
-        const frame = document.getElementById('pdf-frame');
-        // URL-encode the path to handle special characters like # in filenames
-        // Split by '/' to encode each segment separately, preserving the directory structure
+        // 2. Load PDF
+        // URL-encode path segments
         const encodedPath = pdfPath.split('/').map(segment => encodeURIComponent(segment)).join('/');
 
-        // Force reload by clearing src first, then setting new path
-        // This ensures the iframe always navigates to the specified page
-        frame.src = '';
-        setTimeout(() => {
-            // Append #page=X to URL for auto-scroll (this # is for the fragment, not part of filename)
-            frame.src = `${encodedPath}#page=${pageNum}`;
-        }, 50);
+        // Asynchronous download of PDF
+        const loadingTask = pdfjsLib.getDocument(encodedPath);
+        loadingTask.promise.then((pdf) => {
+            pdfDoc = pdf;
+            document.getElementById('page_count').textContent = pdfDoc.numPages;
+
+            // Snap to target page
+            // Ensure targetPageNum is within bounds
+            let initialPage = targetPageNum;
+            if (initialPage < 1) initialPage = 1;
+            if (initialPage > pdfDoc.numPages) initialPage = pdfDoc.numPages;
+
+            renderPage(initialPage);
+        }, (reason) => {
+            // PDF loading error - Fallback to iframe
+            console.warn('PDF.js load failed (likely due to local file access restrictions). Falling back to iframe.', reason);
+
+            const viewerContainer = document.getElementById('pdf-viewer-container');
+
+            // 1. Hide custom controls in header
+            const controls = viewerContainer.querySelector('.flex.items-center.gap-2.bg-white');
+            if (controls) controls.style.display = 'none';
+
+            // 2. Replace canvas with iframe
+            const content = viewerContainer.querySelector('.flex-grow');
+            content.classList.remove('overflow-auto', 'flex', 'justify-center', 'p-4'); // Remove canvas styling
+            content.innerHTML = `<iframe id="pdf-frame" class="w-full h-full border-none" src=""></iframe>`;
+
+            // 3. Load PDF in iframe
+            const frame = document.getElementById('pdf-frame');
+            frame.src = '';
+            setTimeout(() => {
+                frame.src = `${encodedPath}#page=${targetPageNum}`;
+            }, 50);
+        });
 
         // Open panel
         setTimeout(() => {

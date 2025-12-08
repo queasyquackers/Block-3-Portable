@@ -40,7 +40,7 @@ window.L123 = [
       {"text": "Membrane depolarization and potassium efflux", "explanation": "This is correct. Daptomycin's Ca2+-dependent insertion forms a pore, causing rapid potassium efflux, membrane depolarization, and subsequent arrest of DNA, RNA, and protein synthesis."},
       {"text": "Binding to the 50S ribosomal subunit", "explanation": "This is incorrect. This is the mechanism of macrolides, clindamycin, and linezolid."}
     ],
-    "correctAnswerIndex": 4,
+    "correctAnswerIndex": 3,
     "slideImagePath": "images/L123_slide_38.jpg",
     "slideImageDescription": "The slide illustrates the 'Proposed mechanism of action of daptomycin'. The diagram shows daptomycin binding to the membrane (Step 1) and forming complexes with Calcium (Step 2), leading to 'membrane depolarization' and 'K+ efflux' (Step 3). The text confirms that this causes 'rapid loss of cellular potassium' and 'membrane depolarization'."
   },

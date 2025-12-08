@@ -467,6 +467,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
         getEl('question-counter').textContent = `Question ${state.currentQuestionIndex + 1} of ${state.questions.length}`;
 
+        // Update Progress Bar
+        const answeredCount = state.userAnswers.filter(a => a.isSubmitted).length;
+        const progressPct = (answeredCount / state.questions.length) * 100;
+        const progressBar = getEl('exam-progress-bar');
+        if (progressBar) progressBar.style.width = `${progressPct}%`;
+
         // Update flag button
         if (state.flaggedQuestions.has(state.currentQuestionIndex)) {
             getEl('flag-btn-text').textContent = 'Unflag';
@@ -477,7 +483,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         const qText = document.createElement('p');
-        qText.className = 'text-lg leading-relaxed mb-6';
+        qText.className = 'text-lg leading-relaxed mb-6 animate-slide-entry';
         qText.innerHTML = question.questionText;
         questionContainer.appendChild(qText);
 
@@ -783,12 +789,31 @@ document.addEventListener('DOMContentLoaded', () => {
     const toggleFlag = () => {
         const state = getCurrentTestState();
         if (!state || state.examFinished) return;
-        if (state.flaggedQuestions.has(state.currentQuestionIndex)) {
-            state.flaggedQuestions.delete(state.currentQuestionIndex);
+        const index = state.currentQuestionIndex;
+        
+        if (state.flaggedQuestions.has(index)) {
+            state.flaggedQuestions.delete(index);
         } else {
-            state.flaggedQuestions.add(state.currentQuestionIndex);
+            state.flaggedQuestions.add(index);
         }
-        displayQuestion();
+
+        // Optimized UI Update (No Re-render)
+        const flagBtn = getEl('flag-question-btn');
+        const flagText = getEl('flag-btn-text');
+        
+        if (flagBtn && flagText) {
+             if (state.flaggedQuestions.has(index)) {
+                flagText.textContent = 'Flagged';
+                flagBtn.classList.add('text-yellow-500');
+            } else {
+                flagText.textContent = 'Flag for Review';
+                flagBtn.classList.remove('text-yellow-500');
+            }
+        }
+        
+        // Update Sidebar Dot
+        updateSidebarState(); // Ensure this updates immediately
+
         saveState();
     };
 
@@ -1275,7 +1300,15 @@ document.addEventListener('DOMContentLoaded', () => {
         if (index >= state.questions[state.currentQuestionIndex].options.length) return;
 
         state.userAnswers[state.currentQuestionIndex].selectedIndex = index;
-        displayQuestion();
+        
+        // Optimized DOM Update
+        const allOpts = document.querySelectorAll('.option-btn');
+        allOpts.forEach(btn => btn.classList.remove('option-btn-selected'));
+        
+        const targetBtn = document.querySelector(`.option-btn[data-index="${index}"]`);
+        if (targetBtn) targetBtn.classList.add('option-btn-selected');
+        
+        updateQuestionGrid(); // Update sidebar dots
         saveState();
     }
 
@@ -1311,8 +1344,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const shortcutsHTML = `
             <div id="keyboard-shortcuts-info" class="mt-6 pt-6 border-t border-gray-200 dark:border-gray-700">
-                <h3 class="font-semibold mb-3 text-sm text-gray-900 dark:text-gray-200">Keyboard Shortcuts</h3>
-                <div class="grid grid-cols-2 gap-2 text-xs text-gray-700 dark:text-gray-400">
+                <h3 class="font-semibold mb-3 text-sm uppercase tracking-wider" style="color: var(--text-primary)">Keyboard Shortcuts</h3>
+                <div class="grid grid-cols-2 gap-2 text-xs text-secondary">
                     <div class="flex justify-between items-center subtle-card p-2 rounded border border-gray-200 dark:border-gray-700">
                         <span class="font-medium">Prev/Next</span>
                         <span class="font-mono bg-gray-100 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 px-1.5 py-0.5 rounded text-gray-800 dark:text-gray-200 shadow-sm">←/→</span>
@@ -1358,5 +1391,3 @@ document.addEventListener('DOMContentLoaded', () => {
     renderKeyboardShortcuts();
 
 });
-
-

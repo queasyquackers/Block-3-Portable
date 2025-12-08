@@ -1,0 +1,3864 @@
+1
+00:00:00,310 --> 00:00:01,790
+Welcome, students, to
+
+2
+00:00:01,790 --> 00:00:04,250
+Pharmacokinetics Part 2,
+
+3
+00:00:05,050 --> 00:00:08,130
+Principles of Metabolism
+and Excretion.
+
+4
+00:00:08,130 --> 00:00:11,090
+And we will also talk
+about the individual
+
+5
+00:00:11,090 --> 00:00:13,690
+variation in
+response to drugs. We
+
+6
+00:00:13,690 --> 00:00:16,290
+talk about the big
+picture, and then
+
+7
+00:00:16,290 --> 00:00:19,270
+we'll drill down to
+what happens that can
+
+8
+00:00:19,270 --> 00:00:21,890
+cause changes in
+our expectation to
+
+9
+00:00:21,890 --> 00:00:24,410
+drug response in the
+individual patient.
+
+10
+00:00:25,370 --> 00:00:27,390
+Dr. Goldstein speaking.
+
+11
+00:00:29,150 --> 00:00:31,870
+please contact me if
+you'd like to have a
+
+12
+00:00:31,870 --> 00:00:35,270
+chat about pharmacology
+individuals and
+
+13
+00:00:35,270 --> 00:00:39,610
+groups are welcome
+here are the learning
+
+14
+00:00:39,610 --> 00:00:44,330
+objectives mechanisms
+mechanisms mechanisms
+
+15
+00:00:44,330 --> 00:00:48,570
+and these is all
+about bio elimination
+
+16
+00:00:48,570 --> 00:00:53,450
+elimination by
+biotransformation in other words
+
+17
+00:00:53,450 --> 00:00:57,530
+metabolism and
+elimination by excretion.
+
+18
+00:01:00,590 --> 00:01:02,370
+My suggestions,
+
+19
+00:01:03,140 --> 00:01:05,390
+and please do
+the practice
+
+20
+00:01:05,390 --> 00:01:07,150
+questions, they
+will help you.
+
+21
+00:01:08,560 --> 00:01:10,880
+Here are some links
+you might find
+
+22
+00:01:10,880 --> 00:01:12,990
+helpful if you
+wish to use them.
+
+23
+00:01:13,970 --> 00:01:18,290
+I talked about the
+key elements of
+
+24
+00:01:18,290 --> 00:01:20,890
+metabolism and
+excretion in In
+
+25
+00:01:20,890 --> 00:01:25,690
+part one, this is
+what we'll cover.
+
+26
+00:01:27,610 --> 00:01:30,230
+And let us begin
+with the general
+
+27
+00:01:30,230 --> 00:01:32,150
+principles of
+drug metabolism.
+
+28
+00:01:33,530 --> 00:01:36,570
+These are enzyme
+-catalyzed conversion
+
+29
+00:01:36,570 --> 00:01:41,910
+of our drug, a
+chemical, to some other
+
+30
+00:01:41,910 --> 00:01:45,170
+molecule, some other
+chemical. We have
+
+31
+00:01:45,170 --> 00:01:47,270
+many, many protein
+drugs that have been
+
+32
+00:01:47,270 --> 00:01:50,090
+developed in the
+past 20 or 25 years.
+
+33
+00:01:50,150 --> 00:01:54,650
+Protein drugs are
+subject to metabolism as
+
+34
+00:01:54,650 --> 00:01:57,950
+other proteins are,
+proteolytic cleavage.
+
+35
+00:01:59,150 --> 00:02:02,110
+We need to also be
+thinking about the
+
+36
+00:02:02,110 --> 00:02:05,410
+individual patient in
+terms of pharmacogenomics.
+
+37
+00:02:05,410 --> 00:02:10,310
+People do have
+variabilities in the
+
+38
+00:02:10,310 --> 00:02:14,770
+expression of their
+various metabolic enzymes.
+
+39
+00:02:16,250 --> 00:02:19,290
+We'll talk about phase
+1 and phase 2 reactions.
+
+40
+00:02:19,290 --> 00:02:22,790
+The genetic factors,
+as I said, and we'll
+
+41
+00:02:22,790 --> 00:02:25,250
+also talk about
+inhibition and induction,
+
+42
+00:02:25,250 --> 00:02:35,630
+which are mechanisms
+of drug interactions.
+
+43
+00:02:37,010 --> 00:02:40,630
+Super important
+concept. We'll go
+
+44
+00:02:40,630 --> 00:02:43,350
+into that more in
+later lectures.
+
+45
+00:02:45,930 --> 00:02:48,830
+the liver is the
+principal organ of drug
+
+46
+00:02:48,830 --> 00:02:52,110
+metabolism drug
+metabolism concurrent can
+
+47
+00:02:52,110 --> 00:02:54,550
+occur in many tissues
+but the liver is
+
+48
+00:02:54,550 --> 00:02:59,550
+actually built to do
+that it has a large
+
+49
+00:02:59,550 --> 00:03:02,950
+blood flow it has a portal
+circulation directly
+
+50
+00:03:02,950 --> 00:03:06,190
+from the intestines
+to the liver it
+
+51
+00:03:06,190 --> 00:03:11,590
+has open spaces
+sinusoidal fenestrations,
+
+52
+00:03:11,590 --> 00:03:14,590
+they're called, allowing
+the blood to bring
+
+53
+00:03:14,590 --> 00:03:17,630
+all sorts of substances
+into the liver,
+
+54
+00:03:17,970 --> 00:03:21,310
+high concentration
+of metabolic enzymes,
+
+55
+00:03:21,310 --> 00:03:24,210
+high concentration
+of transporters,
+
+56
+00:03:24,210 --> 00:03:27,330
+both the solute
+carrier type and the
+
+57
+00:03:27,330 --> 00:03:31,330
+primary active that
+use ATP for energy.
+
+58
+00:03:33,730 --> 00:03:36,770
+Solute carriers
+are located in the
+
+59
+00:03:36,770 --> 00:03:40,310
+basolateral membrane
+where they can allow
+
+60
+00:03:41,340 --> 00:03:45,050
+substrates to go
+into the hepatocytes.
+
+61
+00:03:45,050 --> 00:03:48,990
+and ABC transporters,
+our ATP type, are
+
+62
+00:03:48,990 --> 00:03:52,270
+located in the bile
+canalicular system
+
+63
+00:03:52,270 --> 00:03:58,210
+in order to expulse
+or efflux drugs
+
+64
+00:03:58,210 --> 00:04:02,310
+into the biliary
+system for excretion.
+
+65
+00:04:04,240 --> 00:04:08,070
+This is just a quick
+scheme. I will keep
+
+66
+00:04:08,070 --> 00:04:10,610
+talking about the
+portal system.
+
+67
+00:04:10,610 --> 00:04:16,130
+Looking on the left
+-hand side, the spleen,
+
+68
+00:04:16,130 --> 00:04:18,470
+stomach, pancreas,
+small intestine,
+
+69
+00:04:18,470 --> 00:04:22,790
+colon, the whole
+intestine drains into the
+
+70
+00:04:22,790 --> 00:04:25,750
+portal vein, which
+goes to the liver.
+
+71
+00:04:25,910 --> 00:04:31,650
+The liver then goes
+via the vena cava into
+
+72
+00:04:31,650 --> 00:04:34,950
+the heart, the right
+atrium, and gets
+
+73
+00:04:34,950 --> 00:04:39,150
+cycled through the
+heart, and the left
+
+74
+00:04:39,150 --> 00:04:44,030
+ventricle pushes blood
+into the aorta, which
+
+75
+00:04:44,030 --> 00:04:48,330
+then leads to delivering
+blood through the
+
+76
+00:04:48,330 --> 00:04:51,630
+arterial system to
+all parts of the body.
+
+77
+00:04:55,550 --> 00:04:58,850
+This figure
+shows the liver
+
+78
+00:04:58,850 --> 00:05:01,410
+and the gallbladder
+underneath.
+
+79
+00:05:03,090 --> 00:05:06,430
+gallbladder squeezes
+out the bile acids
+
+80
+00:05:06,430 --> 00:05:11,210
+when a person eats a
+fatty meal bile acids
+
+81
+00:05:11,210 --> 00:05:14,370
+go into the duodenum
+to emulsify that
+
+82
+00:05:14,370 --> 00:05:17,970
+fat for digestion and
+it travels through
+
+83
+00:05:17,970 --> 00:05:20,650
+this is representing
+the entire small
+
+84
+00:05:20,650 --> 00:05:24,390
+intestine to the
+terminal ileum where the
+
+85
+00:05:24,390 --> 00:05:28,030
+bile acids the large
+majority of bile acids
+
+86
+00:05:28,030 --> 00:05:30,970
+are then reabsorbed
+back into the portal
+
+87
+00:05:30,970 --> 00:05:33,970
+vein, back into the
+liver, where they
+
+88
+00:05:33,970 --> 00:05:38,430
+get recycled back
+into the gallbladder.
+
+89
+00:05:38,590 --> 00:05:40,850
+Very efficient system.
+
+90
+00:05:41,230 --> 00:05:46,530
+If a drug enters the
+gallbladder through
+
+91
+00:05:46,530 --> 00:05:50,390
+the bile canalicular
+system, that
+
+92
+00:05:50,390 --> 00:05:54,470
+also will go back
+into the intestine.
+
+93
+00:05:55,870 --> 00:06:00,710
+and if it's a certain
+metabolic product
+
+94
+00:06:00,710 --> 00:06:04,270
+like a glucuronide
+then that may
+
+95
+00:06:04,270 --> 00:06:09,690
+actually be reactivated
+which I'll go into
+
+96
+00:06:09,690 --> 00:06:12,330
+back into the portal
+vein but otherwise
+
+97
+00:06:12,330 --> 00:06:15,070
+it just gets
+excreted in the feces
+
+98
+00:06:16,230 --> 00:06:21,710
+and this is a picture
+an illustration of
+
+99
+00:06:21,710 --> 00:06:25,210
+the liver lobule to
+kind of give you the
+
+100
+00:06:25,210 --> 00:06:28,850
+landmarks to to be able
+to visualize what's
+
+101
+00:06:28,850 --> 00:06:33,270
+going on in the liver
+that you don't have to
+
+102
+00:06:33,270 --> 00:06:36,290
+memorize that I just
+wanted to explain the
+
+103
+00:06:36,290 --> 00:06:39,710
+portal system and how
+important that is when
+
+104
+00:06:39,710 --> 00:06:42,150
+we're talking about
+drugs especially oral
+
+105
+00:06:42,150 --> 00:06:46,910
+drugs drugs may be
+biotransformed to inactive
+
+106
+00:06:46,910 --> 00:06:50,030
+active or toxic
+metabolites or more
+
+107
+00:06:50,030 --> 00:06:54,230
+hydrophilic readily
+excretable products drugs
+
+108
+00:06:54,230 --> 00:06:56,570
+can also pass through
+the liver unchanged
+
+109
+00:06:59,310 --> 00:07:04,790
+what happens is for
+effective drugs that
+
+110
+00:07:04,790 --> 00:07:09,010
+pass through the liver
+a certain fraction
+
+111
+00:07:09,010 --> 00:07:13,550
+of them will be
+secreted unchanged
+
+112
+00:07:13,550 --> 00:07:16,590
+into the systemic
+circulation and therefore
+
+113
+00:07:16,590 --> 00:07:19,150
+be available to
+produce their effect.
+
+114
+00:07:20,710 --> 00:07:26,290
+Drug enters hepatocyte
+through transporter,
+
+115
+00:07:27,270 --> 00:07:29,850
+solute carrier
+transporter.
+
+116
+00:07:29,930 --> 00:07:33,170
+Drug has a number
+of different
+
+117
+00:07:33,170 --> 00:07:35,650
+metabolic pathways
+it can go into.
+
+118
+00:07:35,690 --> 00:07:40,730
+Phase one to a metabolite,
+that metabolite
+
+119
+00:07:40,730 --> 00:07:45,510
+may be secreted into
+the bile canaliculus
+
+120
+00:07:45,510 --> 00:07:51,950
+or it may just be
+forming a metabolite
+
+121
+00:07:51,950 --> 00:07:54,350
+or two metabolites
+or a variety of
+
+122
+00:07:54,350 --> 00:07:59,790
+metabolites and be secreted
+into the bloodstream,
+
+123
+00:07:59,790 --> 00:08:02,930
+into the systemic
+circulation. These
+
+124
+00:08:02,930 --> 00:08:05,290
+are most frequently
+inactive, so they
+
+125
+00:08:05,290 --> 00:08:07,650
+would be excreted,
+usually in the kidney.
+
+126
+00:08:07,690 --> 00:08:10,430
+These are excreted in
+the feces, anything
+
+127
+00:08:10,430 --> 00:08:12,460
+that goes through
+the bile canaliculi.
+
+128
+00:08:14,330 --> 00:08:18,350
+The drug may also go
+straight to phase 2
+
+129
+00:08:18,350 --> 00:08:22,250
+and be secreted as
+a metabolite, an
+
+130
+00:08:22,250 --> 00:08:28,120
+inactive metabolite
+usually, vastly more
+
+131
+00:08:28,120 --> 00:08:30,850
+frequently as an an
+active metabolite than
+
+132
+00:08:30,850 --> 00:08:33,490
+something that has
+some sort of activity.
+
+133
+00:08:33,730 --> 00:08:38,590
+Or that metabolite
+may be secreted into
+
+134
+00:08:38,590 --> 00:08:42,420
+the bile canaliculus.
+And this is most
+
+135
+00:08:43,790 --> 00:08:48,310
+frequently the glucuronide
+metabolite that
+
+136
+00:08:48,310 --> 00:08:53,590
+gets secreted into
+the bile canaliculi.
+
+137
+00:08:53,690 --> 00:08:57,510
+Not exclusively,
+but most frequently.
+
+138
+00:09:00,030 --> 00:09:05,310
+The drug can
+be excreted as
+
+139
+00:09:05,310 --> 00:09:08,270
+is into the
+bile canaliculi.
+
+140
+00:09:08,270 --> 00:09:10,970
+The drug can be excreted
+
+141
+00:09:10,970 --> 00:09:14,670
+as is into the
+bloodstream.
+
+142
+00:09:15,050 --> 00:09:17,830
+So we have all of these
+different options.
+
+143
+00:09:17,890 --> 00:09:21,170
+The vast majority of
+drugs, though, will
+
+144
+00:09:21,170 --> 00:09:25,250
+undergo some level
+of metabolism in the
+
+145
+00:09:25,250 --> 00:09:27,910
+liver. And if these
+are oral drugs, they
+
+146
+00:09:27,910 --> 00:09:31,550
+will undergo on the
+first pass through.
+
+147
+00:09:34,570 --> 00:09:37,390
+So let's talk about
+first pass metabolism.
+
+148
+00:09:37,390 --> 00:09:39,970
+This is also called
+first pass effect.
+
+149
+00:09:42,950 --> 00:09:46,970
+Drug gets swallowed,
+goes to stomach,
+
+150
+00:09:47,130 --> 00:09:50,230
+goes to small
+intestine where it is
+
+151
+00:09:50,230 --> 00:09:56,030
+absorbed. and it
+enters the portal
+
+152
+00:09:56,030 --> 00:10:01,040
+circulation ah but there
+are metabolic enzymes
+
+153
+00:10:01,040 --> 00:10:03,470
+in the epithelial
+cells of the gut
+
+154
+00:10:03,470 --> 00:10:08,770
+and the drug may be
+metabolized also in
+
+155
+00:10:08,770 --> 00:10:12,290
+the gut not all
+drugs but some drugs
+
+156
+00:10:13,310 --> 00:10:17,370
+the drug gets to the
+liver and it undergoes
+
+157
+00:10:17,590 --> 00:10:20,450
+metabolism to some
+degree which i will
+
+158
+00:10:20,450 --> 00:10:23,340
+talk about more in
+a future lecture so
+
+159
+00:10:24,290 --> 00:10:27,470
+because this is oral
+administration and
+
+160
+00:10:27,470 --> 00:10:29,270
+goes to the liver
+first it's called first
+
+161
+00:10:29,270 --> 00:10:32,670
+pass effect or first
+pass metabolism or
+
+162
+00:10:32,670 --> 00:10:35,510
+first pass hepatic
+metabolism all of those
+
+163
+00:10:35,510 --> 00:10:39,150
+are the same meaning,
+the same process.
+
+164
+00:10:40,330 --> 00:10:45,170
+Any drug that actually
+leaves the liver as
+
+165
+00:10:45,170 --> 00:10:50,030
+active drug into the
+systemic circulation will
+
+166
+00:10:50,890 --> 00:10:55,470
+then produce its
+effect and the fraction
+
+167
+00:10:55,470 --> 00:10:59,990
+that enters the systemic
+circulation is called
+
+168
+00:10:59,990 --> 00:11:03,610
+the bioavailability
+of the drug it is
+
+169
+00:11:03,610 --> 00:11:08,290
+available biologically
+to produce its biological
+
+170
+00:11:08,290 --> 00:11:12,900
+effect so first pass
+metabolism first pass
+
+171
+00:11:12,900 --> 00:11:17,270
+effect so let's talk
+about phase one metabolic
+
+172
+00:11:17,270 --> 00:11:19,870
+reactions these are
+oxidation reduction
+
+173
+00:11:19,870 --> 00:11:27,970
+and hydrolysis what happens
+here is a functional
+
+174
+00:11:27,970 --> 00:11:31,490
+group is exposed
+something like this
+
+175
+00:11:31,490 --> 00:11:37,090
+these are pretty typical
+and that will most
+
+176
+00:11:37,090 --> 00:11:41,050
+frequently it caused
+inactivation of the drug
+
+177
+00:11:41,050 --> 00:11:46,670
+molecule which may then
+be secreted and into
+
+178
+00:11:46,670 --> 00:11:49,270
+the systemic circulation
+and excreted or
+
+179
+00:11:49,270 --> 00:11:52,970
+secreted into the biliary
+system and excreted.
+
+180
+00:11:55,870 --> 00:12:00,290
+Sometimes an active
+metabolite is formed.
+
+181
+00:12:00,290 --> 00:12:03,310
+That active metabolite
+goes into the systemic
+
+182
+00:12:03,310 --> 00:12:06,070
+circulation and
+produces an effect and
+
+183
+00:12:06,370 --> 00:12:10,270
+is eventually
+inactivated through
+
+184
+00:12:10,270 --> 00:12:12,270
+other metabolic
+processes.
+
+185
+00:12:12,430 --> 00:12:15,250
+Toxic metabolites
+can form.
+
+186
+00:12:17,430 --> 00:12:22,590
+Sometimes the product
+will undergo phase two
+
+187
+00:12:22,590 --> 00:12:25,890
+because it's not
+soluble enough to be
+
+188
+00:12:25,890 --> 00:12:30,490
+excreted as a hydrophilic
+compound in the kidney.
+
+189
+00:12:30,490 --> 00:12:32,900
+So we have all these
+different options.
+
+190
+00:12:34,450 --> 00:12:39,050
+The cytochrome P450
+mixed function oxidase
+
+191
+00:12:39,050 --> 00:12:46,770
+system are really
+the most frequent
+
+192
+00:12:46,770 --> 00:12:49,870
+phase one metabolic
+reactions. It's
+
+193
+00:12:49,870 --> 00:12:52,590
+this big super family
+it's called and
+
+194
+00:12:52,590 --> 00:12:55,510
+they're referred to as
+CYPs. I refer to them
+
+195
+00:12:55,510 --> 00:12:58,370
+as CYPs. Many people
+call them CYPs.
+
+196
+00:12:59,770 --> 00:13:04,450
+They are abundant in
+the liver. They're
+
+197
+00:13:04,450 --> 00:13:08,390
+present in many other
+tissues. They are located
+
+198
+00:13:08,390 --> 00:13:11,910
+on the lipophilic
+membranes of the smooth
+
+199
+00:13:12,000 --> 00:13:13,990
+endoplasmic reticulum.
+So they're kind of
+
+200
+00:13:13,990 --> 00:13:18,050
+hanging out right
+there on the membranes.
+
+201
+00:13:18,050 --> 00:13:21,610
+And when a substrate
+passes by and binds to
+
+202
+00:13:21,610 --> 00:13:26,470
+it, it will then
+metabolize that molecule.
+
+203
+00:13:26,650 --> 00:13:29,710
+They have low
+substrate specificity.
+
+204
+00:13:29,710 --> 00:13:33,150
+That means that
+they're capable
+
+205
+00:13:33,150 --> 00:13:36,590
+of metabolizing
+many, many, many,
+
+206
+00:13:36,590 --> 00:13:39,070
+many different
+types of substrates.
+
+207
+00:13:42,270 --> 00:13:45,230
+And that's not all they
+do, not just drugs.
+
+208
+00:13:45,230 --> 00:13:48,070
+They're also involved
+in the metabolism
+
+209
+00:13:48,070 --> 00:13:52,370
+of steroids and fatty
+acids and many other
+
+210
+00:13:52,370 --> 00:13:55,430
+products in our body,
+natural products.
+
+211
+00:13:55,550 --> 00:13:57,530
+Heme is required.
+
+212
+00:13:57,530 --> 00:14:03,070
+Heme has iron in
+it, and iron is
+
+213
+00:14:03,070 --> 00:14:06,390
+essential for the
+action of the CYPs.
+
+214
+00:14:06,390 --> 00:14:09,290
+I'll explain that
+on the next slide.
+
+215
+00:14:09,470 --> 00:14:13,850
+They are susceptible
+to inhibition and
+
+216
+00:14:13,850 --> 00:14:16,430
+induction. In
+other words, if a
+
+217
+00:14:16,430 --> 00:14:20,770
+substrate is present
+on the active site of
+
+218
+00:14:20,770 --> 00:14:28,110
+the CYP and another
+drug comes along,
+
+219
+00:14:28,670 --> 00:14:32,430
+the second drug
+will not be able
+
+220
+00:14:32,430 --> 00:14:34,590
+to access the
+active site and will
+
+221
+00:14:34,590 --> 00:14:37,870
+therefore pass
+by unmetabolized.
+
+222
+00:14:38,890 --> 00:14:41,550
+When there is significant
+
+223
+00:14:42,210 --> 00:14:46,490
+inhibition of CYPs,
+there can be an increase
+
+224
+00:14:46,490 --> 00:14:49,310
+in the bioavailability,
+an increase in the
+
+225
+00:14:49,310 --> 00:14:51,890
+amount of drug that
+actually reaches the
+
+226
+00:14:51,890 --> 00:14:55,130
+systemic circulation.
+So there is a higher
+
+227
+00:14:55,130 --> 00:14:58,530
+concentration of drug in
+the systemic circulation.
+
+228
+00:14:58,530 --> 00:15:01,150
+And remember, the
+amount of drug in the
+
+229
+00:15:01,150 --> 00:15:04,310
+systemic circulation
+determines the amount
+
+230
+00:15:04,310 --> 00:15:08,530
+of drug at the site of
+action, which in turn
+
+231
+00:15:08,530 --> 00:15:13,530
+determines the magnitude
+of the effect. So
+
+232
+00:15:13,530 --> 00:15:17,470
+this is a drug interaction
+that could lead to
+
+233
+00:15:17,470 --> 00:15:21,510
+increased effect
+toxicity adverse effects.
+
+234
+00:15:22,010 --> 00:15:25,970
+Induction, on the other
+hand, is an increase
+
+235
+00:15:25,970 --> 00:15:30,590
+in the number of
+enzymes available. As
+
+236
+00:15:30,590 --> 00:15:34,530
+a result, the rate
+of drug metabolism
+
+237
+00:15:34,530 --> 00:15:38,390
+increases, which can
+lower the amount of drug
+
+238
+00:15:38,390 --> 00:15:40,630
+that reaches the
+systemic circulation.
+
+239
+00:15:42,250 --> 00:15:45,930
+And we also have
+pharmacogenetic
+
+240
+00:15:46,630 --> 00:15:51,590
+mutations in drug
+metabolism. That's
+
+241
+00:15:51,590 --> 00:15:54,390
+really what this
+is all about.
+
+242
+00:15:55,330 --> 00:16:02,170
+Where the enzyme
+is changed somehow
+
+243
+00:16:02,170 --> 00:16:04,390
+compared to the
+majority of the
+
+244
+00:16:04,390 --> 00:16:07,550
+population. Perhaps it
+is under-functioning.
+
+245
+00:16:07,550 --> 00:16:10,310
+Perhaps it is
+over-functioning.
+
+246
+00:16:13,450 --> 00:16:17,050
+The mechanism of
+CYPs, as I said,
+
+247
+00:16:17,050 --> 00:16:20,350
+they're embedded
+in the membrane
+
+248
+00:16:20,350 --> 00:16:22,710
+of the endoplasmic
+reticulum.
+
+249
+00:16:23,890 --> 00:16:31,030
+And here's a blow up
+of that they have this
+
+250
+00:16:31,030 --> 00:16:35,770
+heme inside and it
+is the heme that's
+
+251
+00:16:35,770 --> 00:16:40,270
+essential for this
+oxidative reaction here's
+
+252
+00:16:40,270 --> 00:16:43,570
+our substrate it's
+going to bump into our
+
+253
+00:16:44,270 --> 00:16:49,410
+drug metabolizing enzyme
+and be metabolized
+
+254
+00:16:49,410 --> 00:16:54,290
+and here's the process
+a A reducing agent
+
+255
+00:16:54,290 --> 00:16:58,250
+is required, and here
+we have our reductase.
+
+256
+00:16:59,430 --> 00:17:01,670
+We also need oxygen,
+
+257
+00:17:01,670 --> 00:17:03,170
+and of course the drug.
+
+258
+00:17:04,350 --> 00:17:08,370
+So the drug plus
+the reducing agent
+
+259
+00:17:08,370 --> 00:17:11,030
+will, well, let
+me start here.
+
+260
+00:17:11,250 --> 00:17:13,210
+Here's drug.
+
+261
+00:17:13,210 --> 00:17:17,110
+Step number one. It goes
+through the process,
+
+262
+00:17:18,090 --> 00:17:27,090
+picks up an electron,
+picks up oxygen,
+
+263
+00:17:30,490 --> 00:17:35,810
+and becomes oxidized.
+you do not have to
+
+264
+00:17:35,810 --> 00:17:40,590
+memorize this whole cycle
+this is the part you
+
+265
+00:17:40,590 --> 00:17:45,150
+need to remember the
+drug the oxygen the
+
+266
+00:17:45,150 --> 00:17:49,330
+reducing agent produces
+the metabolite let's
+
+267
+00:17:54,950 --> 00:17:56,110
+check your knowledge
+
+268
+00:17:56,870 --> 00:18:01,370
+i invite you to pause
+the video see if
+
+269
+00:18:01,370 --> 00:18:02,930
+you can answer these
+questions without
+
+270
+00:18:02,930 --> 00:18:05,490
+looking them up and
+then go ahead and look
+
+271
+00:18:05,490 --> 00:18:07,270
+them up and try and
+answer them again
+
+272
+00:18:09,210 --> 00:18:13,410
+okay let's look at the
+answer CYP metabolism
+
+273
+00:18:13,410 --> 00:18:20,730
+requires what three
+elements heme the
+
+274
+00:18:20,730 --> 00:18:27,150
+reducing agent NADPH and
+oxygen CYP 450 enzymes
+
+275
+00:18:27,150 --> 00:18:31,090
+are called mono
+oxygenases adds an oxygen
+
+276
+00:18:31,400 --> 00:18:34,670
+CYPs are susceptible
+to alteration in
+
+277
+00:18:34,670 --> 00:18:38,390
+rates of drug
+elimination, rates, rates,
+
+278
+00:18:38,390 --> 00:18:41,230
+everything in pharmacokinetics
+is about rates,
+
+279
+00:18:41,350 --> 00:18:42,750
+by what?
+
+280
+00:18:45,110 --> 00:18:48,090
+Inhibition or
+induction of CYPs
+
+281
+00:18:48,090 --> 00:18:51,190
+and by pharmacogenetic or
+
+282
+00:18:51,190 --> 00:18:54,090
+pharmacogenomics
+variabilities.
+
+283
+00:18:54,430 --> 00:18:56,610
+How do these alterations
+
+284
+00:18:56,610 --> 00:18:58,810
+potentially affect
+patient care?
+
+285
+00:19:00,480 --> 00:19:03,230
+Alterations in plasma
+drug concentrations
+
+286
+00:19:03,230 --> 00:19:05,450
+can lead to increased
+potential for
+
+287
+00:19:05,450 --> 00:19:09,010
+toxicity by inhibition
+or an under-functioning
+
+288
+00:19:09,010 --> 00:19:13,470
+enzyme, or reduced
+efficacy by induction
+
+289
+00:19:13,470 --> 00:19:17,510
+or an ultra-rapidly
+functioning enzyme.
+
+290
+00:19:18,250 --> 00:19:21,870
+How is a knowledge of
+clinically relevant
+
+291
+00:19:21,870 --> 00:19:24,350
+pharmacokinetic
+properties of drugs
+
+292
+00:19:24,350 --> 00:19:28,130
+essential for
+patient care. This is
+
+293
+00:19:28,130 --> 00:19:31,090
+why we're learning
+about all of this.
+
+294
+00:19:33,150 --> 00:19:35,810
+Mechanisms of drug
+interactions and effects
+
+295
+00:19:35,810 --> 00:19:39,550
+of organ function on
+plasma drug levels.
+
+296
+00:19:39,970 --> 00:19:43,150
+Because it is
+the drug levels
+
+297
+00:19:43,990 --> 00:19:48,310
+that determine the
+levels at the site of
+
+298
+00:19:48,310 --> 00:19:51,670
+action that determines
+the magnitude of effect.
+
+299
+00:19:51,670 --> 00:19:54,970
+Efficacy and the
+potential for adverse
+
+300
+00:19:54,970 --> 00:19:58,770
+effects. The right
+drug and the right dose
+
+301
+00:19:58,770 --> 00:20:03,330
+for the right duration
+for optimal outcomes.
+
+302
+00:20:05,890 --> 00:20:09,650
+Please make this part
+
+303
+00:20:09,650 --> 00:20:11,770
+of your second nature.
+
+304
+00:20:15,830 --> 00:20:18,570
+all right phase two
+metabolic reactions
+
+305
+00:20:18,570 --> 00:20:21,850
+now these transfer
+hydrophilic group
+
+306
+00:20:21,850 --> 00:20:24,430
+to the substrate
+increasing its polarity
+
+307
+00:20:24,430 --> 00:20:26,550
+and the products
+are really almost
+
+308
+00:20:26,550 --> 00:20:31,030
+always 99.9 percent
+of the time inactive.
+
+309
+00:20:33,750 --> 00:20:37,770
+These are conjugation
+reactions. They
+
+310
+00:20:37,770 --> 00:20:42,410
+transfer a molecule, a
+hydrophilic molecule,
+
+311
+00:20:42,410 --> 00:20:49,330
+from a cofactor and
+place it on the drug
+
+312
+00:20:49,330 --> 00:20:52,350
+or metabolite. So
+they're transferring.
+
+313
+00:20:52,350 --> 00:20:56,370
+The enzymes, therefore,
+are transferases.
+
+314
+00:20:56,370 --> 00:21:00,120
+This example is UDP
+
+315
+00:21:00,120 --> 00:21:02,830
+-glucuronaciltransferase
+or glucuronal
+
+316
+00:21:02,830 --> 00:21:04,890
+transferase. Both
+terms are correct.
+
+317
+00:21:06,250 --> 00:21:11,930
+Which is the major
+transferase in the Phase
+
+318
+00:21:11,930 --> 00:21:17,410
+II armamentarium of
+metabolic reactions.
+
+319
+00:21:17,920 --> 00:21:20,130
+UGT1A1 is a
+pretty common one.
+
+320
+00:21:20,130 --> 00:21:22,190
+This is how
+they are called.
+
+321
+00:21:22,190 --> 00:21:26,670
+UDP,
+glucuronaciltransferase,
+
+322
+00:21:26,670 --> 00:21:29,590
+UGT for short.
+
+323
+00:21:32,120 --> 00:21:35,370
+And that's all there
+is to it. It takes
+
+324
+00:21:35,370 --> 00:21:39,130
+molecule from a
+donor and attaches
+
+325
+00:21:39,130 --> 00:21:43,270
+it to the drug
+molecule or metabolite.
+
+326
+00:21:43,310 --> 00:21:44,030
+That's it.
+
+327
+00:21:44,370 --> 00:21:46,910
+Hydrophilic, excretion,
+
+328
+00:21:46,910 --> 00:21:48,670
+usually through
+the kidney.
+
+329
+00:21:52,450 --> 00:21:59,130
+These are the six
+different transferases.
+
+330
+00:21:59,130 --> 00:22:02,650
+So UGT I mentioned
+was the major one.
+
+331
+00:22:02,870 --> 00:22:07,340
+It gets its glucuronic
+acid from UDP,
+
+332
+00:22:09,110 --> 00:22:12,150
+uridine diphosphate,
+glucuronic acid.
+
+333
+00:22:12,230 --> 00:22:14,330
+You do not need
+to memorize
+
+334
+00:22:14,330 --> 00:22:16,720
+the names of
+the cofactors.
+
+335
+00:22:18,810 --> 00:22:23,290
+get the idea that they
+are bringing along
+
+336
+00:22:23,290 --> 00:22:26,960
+the hydrophilic molecule
+to be transferred
+
+337
+00:22:26,960 --> 00:22:31,110
+to the drug or
+metabolite. You do
+
+338
+00:22:31,110 --> 00:22:33,870
+need to know the name
+of the transferases.
+
+339
+00:22:33,910 --> 00:22:38,510
+So we have UGT,
+UDP-glucuronacil
+
+340
+00:22:38,510 --> 00:22:41,070
+transferase, or glucuronal
+transferase, both
+
+341
+00:22:41,070 --> 00:22:46,580
+are correct. A
+sulfotransferase, transferring
+
+342
+00:22:46,610 --> 00:22:49,150
+a sulfate. You
+do need to know
+
+343
+00:22:49,150 --> 00:22:51,750
+what gets transferred,
+not the cofactor.
+
+344
+00:22:52,980 --> 00:22:54,930
+And acetyltransferase,
+we will be
+
+345
+00:22:54,930 --> 00:22:56,390
+talking about
+this plenty of
+
+346
+00:22:56,390 --> 00:22:59,450
+times because of
+pharmacogenetics.
+
+347
+00:22:59,450 --> 00:23:01,630
+So acetyl, naturally.
+
+348
+00:23:02,450 --> 00:23:04,770
+Methyltransferase,
+transfers methyl.
+
+349
+00:23:07,710 --> 00:23:08,770
+Glutathione.
+
+350
+00:23:09,790 --> 00:23:12,490
+super important in
+our bodies because
+
+351
+00:23:12,490 --> 00:23:15,850
+this catalyzes the
+nucleophilic attack of
+
+352
+00:23:15,850 --> 00:23:18,830
+glutathione on
+electrophilic atoms and
+
+353
+00:23:18,830 --> 00:23:21,330
+xenobiotics and toxic
+metabolites so what's
+
+354
+00:23:21,330 --> 00:23:24,570
+all of that all of
+that that were all
+
+355
+00:23:24,570 --> 00:23:27,210
+those words what is
+the take-home message
+
+356
+00:23:27,210 --> 00:23:33,410
+it detoxifies reactive
+oxygen species.
+
+357
+00:23:34,470 --> 00:23:38,370
+And when we run
+out of glutathione
+
+358
+00:23:38,370 --> 00:23:40,870
+S transferase
+because of starvation
+
+359
+00:23:40,870 --> 00:23:45,270
+or serious, serious
+illness, then
+
+360
+00:23:45,270 --> 00:23:48,270
+these toxic metabolites
+can hurt us.
+
+361
+00:23:48,670 --> 00:23:50,810
+Glycine is a
+little amino acid.
+
+362
+00:23:51,190 --> 00:23:54,350
+It's seen
+occasionally. It's not
+
+363
+00:23:54,350 --> 00:23:56,110
+really one of the
+major pathways.
+
+364
+00:23:56,500 --> 00:23:58,790
+Anyway, these are
+all hydrophilic
+
+365
+00:23:58,790 --> 00:24:01,610
+metabolites that
+result and they
+
+366
+00:24:01,610 --> 00:24:04,030
+can be readily
+excreted in urine.
+
+367
+00:24:05,690 --> 00:24:09,450
+Now let's talk about
+enterohepatic circulation
+
+368
+00:24:09,540 --> 00:24:13,130
+and we'll talk about
+them as glucuronide
+
+369
+00:24:13,130 --> 00:24:16,070
+metabolites which is
+the vast majority.
+
+370
+00:24:17,770 --> 00:24:23,410
+Here on the left
+is a picture of the
+
+371
+00:24:23,410 --> 00:24:27,570
+arrangement of the
+organs and the liver.
+
+372
+00:24:28,660 --> 00:24:32,390
+Stomach, so food
+goes in here.
+
+373
+00:24:33,530 --> 00:24:35,690
+Small intestine,
+
+374
+00:24:35,850 --> 00:24:39,570
+large intestine.
+
+375
+00:24:40,730 --> 00:24:47,550
+Here is the portal
+circulation draining
+
+376
+00:24:47,550 --> 00:24:55,230
+all of these organs
+and the veins,
+
+377
+00:24:55,230 --> 00:24:59,570
+the venous circulation
+in the liver.
+
+378
+00:25:00,480 --> 00:25:03,700
+Okay, so that's how
+it's set up. So what
+
+379
+00:25:03,890 --> 00:25:07,190
+we're going to be talking
+about with enteroepatic
+
+380
+00:25:07,190 --> 00:25:11,190
+circulation is as
+the drug travels from
+
+381
+00:25:11,520 --> 00:25:14,330
+the gallbladder, which
+is in here underneath
+
+382
+00:25:14,330 --> 00:25:17,950
+the liver, into the
+duodenum and travels
+
+383
+00:25:17,950 --> 00:25:20,310
+through the small
+intestine, and it gets down
+
+384
+00:25:20,310 --> 00:25:28,990
+here, it will then be
+reabsorbed into the
+
+385
+00:25:28,990 --> 00:25:31,130
+portal circulation and
+go back to the liver.
+
+386
+00:25:32,030 --> 00:25:34,430
+okay so what's
+happening drug
+
+387
+00:25:34,430 --> 00:25:36,190
+gets swallowed drug gets
+
+388
+00:25:36,190 --> 00:25:37,770
+absorbed from the
+small intestine
+
+389
+00:25:38,510 --> 00:25:41,170
+goes to the liver
+via the portal system
+
+390
+00:25:41,170 --> 00:25:46,390
+gets a glucuronide stuck
+on it that glucuronide
+
+391
+00:25:46,390 --> 00:25:50,410
+metabolite goes into
+the biliary system
+
+392
+00:25:50,410 --> 00:25:52,310
+and gets stored in
+the gallbladder along
+
+393
+00:25:52,310 --> 00:25:55,610
+with bile acids
+Now, somebody eats a
+
+394
+00:25:55,610 --> 00:25:59,950
+fatty meal, and the
+glucuronide metabolite is
+
+395
+00:25:59,950 --> 00:26:03,050
+excreted along with
+the bile acids and
+
+396
+00:26:03,050 --> 00:26:07,470
+transported in this
+really very simple figure
+
+397
+00:26:07,470 --> 00:26:12,290
+here, down here to
+the terminal ileum.
+
+398
+00:26:13,770 --> 00:26:20,110
+So that glucuronide
+group is cleaved
+
+399
+00:26:20,110 --> 00:26:23,830
+off by intestinal
+bacteria
+
+400
+00:26:23,830 --> 00:26:28,930
+flora, which are
+populating this area
+
+401
+00:26:28,930 --> 00:26:30,830
+and the whole
+large intestine.
+
+402
+00:26:32,830 --> 00:26:37,190
+When that glucuronide
+gets cleaved off, we
+
+403
+00:26:37,190 --> 00:26:40,290
+now have active
+drug again, and it's
+
+404
+00:26:40,290 --> 00:26:44,190
+lipophilic. So by passive
+diffusion, it goes back
+
+405
+00:26:44,190 --> 00:26:46,610
+into the portal
+system and back to the
+
+406
+00:26:46,610 --> 00:26:51,670
+liver where it may
+be undergo this same
+
+407
+00:26:51,670 --> 00:26:55,270
+situation again. But we
+need to remember it's
+
+408
+00:26:55,270 --> 00:26:58,520
+not 100% of the drug
+that gets metabolized.
+
+409
+00:26:59,210 --> 00:27:01,310
+I don't know what
+percentage it
+
+410
+00:27:01,310 --> 00:27:03,050
+is, so I'll make
+up a percentage.
+
+411
+00:27:03,130 --> 00:27:06,810
+Let's say 50% of the
+original drug got
+
+412
+00:27:06,810 --> 00:27:09,150
+metabolized and goes
+into the gallbladder
+
+413
+00:27:09,150 --> 00:27:10,850
+and blah, blah,
+blah and around the
+
+414
+00:27:10,850 --> 00:27:16,570
+circle. So, now, what's
+coming back in will
+
+415
+00:27:16,570 --> 00:27:20,750
+get metabolized about
+50% of that, and
+
+416
+00:27:20,750 --> 00:27:24,150
+all of this goes
+into the bloodstream.
+
+417
+00:27:24,390 --> 00:27:27,070
+The other 50%
+goes into the
+
+418
+00:27:27,070 --> 00:27:29,450
+bloodstream as
+active drug.
+
+419
+00:27:30,510 --> 00:27:33,310
+Therefore, with
+enterohepatic
+
+420
+00:27:33,310 --> 00:27:39,450
+circulation, that
+can contribute to the
+
+421
+00:27:39,450 --> 00:27:42,290
+levels in the
+systemic circulation.
+
+422
+00:27:42,290 --> 00:27:44,850
+So that's the
+takeaway message with
+
+423
+00:27:44,850 --> 00:27:48,010
+enterohepatic
+circulation of drugs.
+
+424
+00:27:51,630 --> 00:27:54,850
+well i keep talking
+about all these various
+
+425
+00:27:54,850 --> 00:28:00,430
+enzymes so what
+role do they play in
+
+426
+00:28:00,430 --> 00:28:04,470
+metabolism each individual
+one on this figure we
+
+427
+00:28:04,470 --> 00:28:11,770
+see the cyp3a4 and 5s
+the cyp3a family is
+
+428
+00:28:11,770 --> 00:28:17,890
+about 50% of the CYP
+oxidative metabolism.
+
+429
+00:28:17,890 --> 00:28:21,970
+Different sources have
+different fractions,
+
+430
+00:28:22,230 --> 00:28:26,410
+but the point is they
+all agree that the
+
+431
+00:28:26,410 --> 00:28:32,490
+majority of CYP activity
+is by CYP3A family.
+
+432
+00:28:34,550 --> 00:28:38,070
+CYP2D6 plays a pretty
+decent portion.
+
+433
+00:28:38,270 --> 00:28:41,040
+We'll talk about that
+with pharmacogenomics
+
+434
+00:28:41,040 --> 00:28:43,210
+at a later
+time, and we see
+
+435
+00:28:43,210 --> 00:28:45,190
+little slices from
+all these others.
+
+436
+00:28:47,530 --> 00:28:51,190
+UGT here also
+is the majority
+
+437
+00:28:51,190 --> 00:28:53,910
+of the transferase
+activity.
+
+438
+00:28:54,670 --> 00:28:57,220
+Sulfates has a
+pretty good size,
+
+439
+00:28:57,710 --> 00:28:59,030
+glutathione,
+
+440
+00:29:00,430 --> 00:29:03,910
+N-acetyltransferase,
+and all the rest.
+
+441
+00:29:05,030 --> 00:29:07,750
+You don't have to
+memorize this, just take
+
+442
+00:29:07,750 --> 00:29:14,690
+away the points that
+CYP3A family and UDP
+
+443
+00:29:14,690 --> 00:29:18,150
+glucuronal transferase
+are very, very
+
+444
+00:29:18,150 --> 00:29:20,630
+important pathways. But
+so are the others, they
+
+445
+00:29:20,630 --> 00:29:23,370
+just don't handle
+quite as much traffic.
+
+446
+00:29:25,350 --> 00:29:27,250
+All right, check
+your knowledge.
+
+447
+00:29:29,570 --> 00:29:33,570
+I, again, invite you
+to pause the computer,
+
+448
+00:29:33,570 --> 00:29:35,710
+take a look at
+these questions, see
+
+449
+00:29:35,710 --> 00:29:37,600
+if you can answer
+them without looking.
+
+450
+00:29:40,110 --> 00:29:42,750
+Okay, let us return now.
+
+451
+00:29:43,310 --> 00:29:45,750
+How do phase 2 reactions
+
+452
+00:29:47,660 --> 00:29:50,930
+differ from phase
+1 reactions?
+
+453
+00:29:51,130 --> 00:29:53,190
+Think of three ways.
+
+454
+00:29:53,710 --> 00:29:56,650
+Phase I reactions
+are oxidation.
+
+455
+00:29:57,410 --> 00:29:59,970
+Phase II are conjugation.
+
+456
+00:29:59,990 --> 00:30:02,990
+Phase I expose a
+functional group.
+
+457
+00:30:02,990 --> 00:30:06,330
+Phase II transfer
+a hydrophilic
+
+458
+00:30:06,330 --> 00:30:08,850
+substance from
+a cofactor.
+
+459
+00:30:09,750 --> 00:30:12,010
+Phase I
+metabolites may be
+
+460
+00:30:12,010 --> 00:30:13,870
+inactive, active, toxic.
+
+461
+00:30:13,990 --> 00:30:17,490
+Phase II metabolites
+are hydrophilic,
+
+462
+00:30:17,490 --> 00:30:20,950
+readily excreted, and
+almost always inactive.
+
+463
+00:30:21,610 --> 00:30:24,910
+True or false?
+Phase II reactions
+
+464
+00:30:24,910 --> 00:30:27,270
+must follow Phase
+I reactions.
+
+465
+00:30:27,460 --> 00:30:29,510
+No, that's
+false, of course.
+
+466
+00:30:29,790 --> 00:30:32,050
+Drugs that have a
+polar functional group
+
+467
+00:30:32,050 --> 00:30:35,570
+already exposed on their
+structures may directly
+
+468
+00:30:35,570 --> 00:30:39,070
+undergo a Phase II
+conjugation reaction.
+
+469
+00:30:40,890 --> 00:30:44,270
+What types of drug
+metabolites frequently
+
+470
+00:30:44,270 --> 00:30:47,710
+undergo enteropatic
+circulation? The
+
+471
+00:30:47,710 --> 00:30:52,630
+glucuronide metabolites,
+which may go
+
+472
+00:30:52,630 --> 00:30:57,110
+through the kidney, or
+they may be secreted
+
+473
+00:30:57,110 --> 00:31:00,510
+into the biliary
+system by P
+
+474
+00:31:00,510 --> 00:31:03,890
+-glycoprotein efflux or
+by passive diffusion.
+
+475
+00:31:04,330 --> 00:31:06,990
+These are two
+methods by which
+
+476
+00:31:06,990 --> 00:31:09,450
+drugs get into the
+biliary system.
+
+477
+00:31:09,990 --> 00:31:12,910
+Bacteria that express
+beta-glucuronidase
+
+478
+00:31:12,910 --> 00:31:15,150
+cleave the
+glucuronide, releasing
+
+479
+00:31:15,150 --> 00:31:18,370
+free drug, which is
+then reabsorbed by
+
+480
+00:31:18,370 --> 00:31:21,890
+passive diffusion in
+the terminal ileum.
+
+481
+00:31:23,710 --> 00:31:25,210
+Excretion now.
+
+482
+00:31:26,770 --> 00:31:32,270
+The kidney is by far
+the most frequent
+
+483
+00:31:33,110 --> 00:31:38,590
+route of excretion
+of drugs and
+
+484
+00:31:38,590 --> 00:31:42,010
+metabolites and lots
+of other things.
+
+485
+00:31:42,950 --> 00:31:45,790
+They eliminate
+polar compounds
+
+486
+00:31:45,790 --> 00:31:47,390
+more efficiently
+than substances
+
+487
+00:31:47,390 --> 00:31:49,470
+with high lipid
+solubility.
+
+488
+00:31:53,210 --> 00:31:55,550
+Renal drug handling.
+
+489
+00:31:56,210 --> 00:32:01,860
+They may be filtered
+from the blood in the
+
+490
+00:32:01,860 --> 00:32:04,320
+glomerulus. So let's
+say this is the
+
+491
+00:32:04,320 --> 00:32:07,890
+glomerulus. This is drug
+going in through the
+
+492
+00:32:07,890 --> 00:32:11,390
+afferent arteriole.
+The blood goes through
+
+493
+00:32:11,390 --> 00:32:14,730
+the capillary system
+in the glomerulus and
+
+494
+00:32:14,730 --> 00:32:18,950
+goes out through the
+efferent arteriole.
+
+495
+00:32:19,070 --> 00:32:23,430
+And meanwhile, the
+plasma gets filtered by
+
+496
+00:32:23,430 --> 00:32:26,700
+this capillary system
+that has fenestrations
+
+497
+00:32:27,050 --> 00:32:30,910
+or spaces in between
+the capillaries, and
+
+498
+00:32:30,910 --> 00:32:39,810
+the drug or metabolites
+go into the nephron.
+
+499
+00:32:40,970 --> 00:32:43,330
+Another way to get
+them in, because
+
+500
+00:32:43,330 --> 00:32:46,290
+plasma, only about
+20% of plasma
+
+501
+00:32:46,290 --> 00:32:48,830
+gets filtered at
+any pass through.
+
+502
+00:32:49,770 --> 00:32:53,810
+There is a tubular
+capillary network that
+
+503
+00:32:53,810 --> 00:32:56,770
+goes around the nephron.
+Don't go by this
+
+504
+00:32:56,770 --> 00:32:59,590
+picture, it doesn't
+really show you, because
+
+505
+00:32:59,590 --> 00:33:01,830
+it's intended to show
+you something else.
+
+506
+00:33:03,010 --> 00:33:08,090
+Drug in the
+bloodstream can also be
+
+507
+00:33:08,090 --> 00:33:11,090
+secreted into the
+nephron. So those
+
+508
+00:33:11,090 --> 00:33:13,010
+are two pathways
+to get in there,
+
+509
+00:33:13,370 --> 00:33:15,150
+glomerular filtration,
+
+510
+00:33:15,150 --> 00:33:17,870
+active tubular secretion.
+
+511
+00:33:19,090 --> 00:33:22,230
+Remember, drugs that
+are bound to proteins
+
+512
+00:33:22,230 --> 00:33:24,530
+are not going to
+be able to pass
+
+513
+00:33:24,530 --> 00:33:27,410
+through the glomerulus,
+only free drug.
+
+514
+00:33:27,630 --> 00:33:28,430
+Okay,
+
+515
+00:33:28,750 --> 00:33:32,590
+now, drug passes
+through the nephron,
+
+516
+00:33:32,630 --> 00:33:35,130
+various things happen
+in the nephron, you'll
+
+517
+00:33:35,130 --> 00:33:37,370
+learn about that in
+the renal system. And
+
+518
+00:33:37,670 --> 00:33:41,490
+it can get into the
+distal tubule where it
+
+519
+00:33:41,490 --> 00:33:46,550
+can be, if it is
+lipophilic and active
+
+520
+00:33:46,550 --> 00:33:50,610
+drug, it can be
+reabsorbed back into the
+
+521
+00:33:50,610 --> 00:33:53,490
+bloodstream and travel
+around the body again.
+
+522
+00:33:54,210 --> 00:33:58,710
+If not, it will be
+excreted in the urine.
+
+523
+00:33:59,150 --> 00:34:01,270
+That's the basic idea.
+
+524
+00:34:02,150 --> 00:34:04,950
+glomerular filtration
+or active tubular
+
+525
+00:34:04,950 --> 00:34:07,230
+secretion to get
+into the nephron,
+
+526
+00:34:08,010 --> 00:34:12,570
+passive reabsorption
+out of the distal
+
+527
+00:34:12,570 --> 00:34:15,570
+tubule if it is
+lipophilic, and
+
+528
+00:34:15,570 --> 00:34:18,230
+otherwise it gets
+excreted in the urine.
+
+529
+00:34:18,650 --> 00:34:22,690
+Altering the urinary
+pH to favor ionization
+
+530
+00:34:22,690 --> 00:34:27,430
+can enhance excretion
+of charged species,
+
+531
+00:34:27,430 --> 00:34:30,690
+charged forms of weak
+acids or weak bases.
+
+532
+00:34:34,970 --> 00:34:38,050
+renal function is not
+constant even in the
+
+533
+00:34:38,050 --> 00:34:40,810
+healthy person the
+neonate's renal function
+
+534
+00:34:40,810 --> 00:34:43,990
+is low compared with
+body mass but matures
+
+535
+00:34:43,990 --> 00:34:46,810
+rapidly within the first
+few months of birth
+
+536
+00:34:47,230 --> 00:34:50,330
+adults experience a
+slow decline in renal
+
+537
+00:34:50,330 --> 00:34:54,610
+function inexorable
+elderly patients may
+
+538
+00:34:54,610 --> 00:34:57,470
+have substantial kidney
+function impairment,
+
+539
+00:34:57,470 --> 00:35:01,910
+even if it's not
+caused by disease.
+
+540
+00:35:02,470 --> 00:35:04,110
+And of course,
+
+541
+00:35:04,110 --> 00:35:06,350
+both acute and
+chronic disease can
+
+542
+00:35:06,350 --> 00:35:08,130
+certainly modify
+renal function.
+
+543
+00:35:10,470 --> 00:35:13,090
+Here's a better picture
+of the glomerulus
+
+544
+00:35:13,090 --> 00:35:16,430
+and the capillary
+network inside here.
+
+545
+00:35:18,590 --> 00:35:22,150
+There are big
+spaces, it's kind of
+
+546
+00:35:22,150 --> 00:35:24,370
+indicated by these
+little dots here.
+
+547
+00:35:24,410 --> 00:35:27,590
+Those are big spaces
+where plasma gets
+
+548
+00:35:27,590 --> 00:35:31,650
+filtered through
+into the nephron.
+
+549
+00:35:31,650 --> 00:35:35,370
+Filtered because it
+takes in the plasma and
+
+550
+00:35:35,370 --> 00:35:37,250
+solutes anything
+that's dissolved in
+
+551
+00:35:37,250 --> 00:35:40,550
+the plasma, but keeps
+out the proteins.
+
+552
+00:35:41,140 --> 00:35:43,250
+Oops, excuse me,
+wrong button.
+
+553
+00:35:44,270 --> 00:35:49,030
+The takeaway here,
+this is what you are
+
+554
+00:35:49,030 --> 00:35:52,730
+expected to remember.
+the glomerular filtration
+
+555
+00:35:52,730 --> 00:35:56,830
+rate is a determinant
+of renal function we
+
+556
+00:35:56,830 --> 00:35:59,830
+will be talking about
+renal function when it
+
+557
+00:35:59,830 --> 00:36:02,350
+comes to drug therapy
+over and over and over
+
+558
+00:36:02,350 --> 00:36:05,090
+and what we're talking
+about is the ability
+
+559
+00:36:05,090 --> 00:36:08,510
+of the glomerulus to
+do its filtration job
+
+560
+00:36:10,250 --> 00:36:12,870
+glomerular
+filtration rate is a
+
+561
+00:36:12,870 --> 00:36:16,310
+useful measure of
+renal function there
+
+562
+00:36:16,310 --> 00:36:18,950
+are limitations
+it is a biomarker.
+
+563
+00:36:19,610 --> 00:36:23,130
+Glomerular filtration
+rate is the
+
+564
+00:36:23,130 --> 00:36:26,330
+sum of all of the
+functioning nephrons
+
+565
+00:36:26,330 --> 00:36:28,690
+and it is a
+rough measure of
+
+566
+00:36:28,690 --> 00:36:30,970
+the number of
+functioning nephrons.
+
+567
+00:36:31,190 --> 00:36:33,850
+The rate of filtration.
+
+568
+00:36:35,670 --> 00:36:42,210
+Serum creatinine
+and creatinine
+
+569
+00:36:42,210 --> 00:36:46,810
+clearance are
+estimates, biomarkers
+
+570
+00:36:46,810 --> 00:36:48,950
+of glomerular
+filtration rate.
+
+571
+00:36:50,370 --> 00:36:54,470
+Creatinine is the end
+product of creatine
+
+572
+00:36:54,470 --> 00:36:56,630
+metabolism from
+skeletal muscle.
+
+573
+00:36:56,630 --> 00:36:59,270
+Please don't confuse
+these two terms.
+
+574
+00:36:59,990 --> 00:37:03,010
+Creatinine
+production is stable.
+
+575
+00:37:03,570 --> 00:37:07,270
+Creatinine is filtered
+through the glomerulus
+
+576
+00:37:07,270 --> 00:37:10,130
+and a small amount
+is secreted and
+
+577
+00:37:10,130 --> 00:37:15,020
+it's not reabsorbed.
+So that's why measuring
+
+578
+00:37:15,170 --> 00:37:18,890
+creatinine in the
+blood or creatinine
+
+579
+00:37:18,890 --> 00:37:23,870
+in the urine is an
+estimate of glomerular
+
+580
+00:37:23,870 --> 00:37:26,610
+filtration rate. The
+rate at which creatinine
+
+581
+00:37:26,830 --> 00:37:31,270
+passes through is
+essentially equal
+
+582
+00:37:31,270 --> 00:37:35,350
+to GFR. And I'm saying
+essentially there
+
+583
+00:37:35,350 --> 00:37:38,990
+are drawbacks, but
+that's a lecture for a
+
+584
+00:37:38,990 --> 00:37:42,700
+later time. Nonetheless,
+it's still a
+
+585
+00:37:43,270 --> 00:37:48,770
+frequently used indicator
+of renal function,
+
+586
+00:37:48,770 --> 00:37:53,630
+and we use it for
+renal dosing, dosing
+
+587
+00:37:53,630 --> 00:37:56,470
+for individuals who
+have renal impairment.
+
+588
+00:37:59,060 --> 00:38:01,910
+I'm not going to ask
+you to memorize these
+
+589
+00:38:01,910 --> 00:38:05,070
+various equations
+and there are a
+
+590
+00:38:05,070 --> 00:38:10,930
+number of automatic
+equations that you can
+
+591
+00:38:11,070 --> 00:38:13,490
+get where you just
+put in the numbers and
+
+592
+00:38:13,490 --> 00:38:15,510
+the computer will
+work it out for you.
+
+593
+00:38:16,270 --> 00:38:18,670
+Creatinine clearance
+is determined by
+
+594
+00:38:18,670 --> 00:38:22,250
+collecting a timed
+urine sample. 24 hours
+
+595
+00:38:22,250 --> 00:38:26,510
+sample is the
+standard of care and
+
+596
+00:38:26,510 --> 00:38:28,550
+clearance is then
+expressed in milliliters
+
+597
+00:38:28,550 --> 00:38:31,210
+per minute. That's
+how we talk about GFR
+
+598
+00:38:31,710 --> 00:38:34,830
+and milliliters per
+minute of clearance.
+
+599
+00:38:36,510 --> 00:38:39,610
+So let's check the
+knowledge again. I invite
+
+600
+00:38:39,610 --> 00:38:43,510
+you to pause the video
+and see if you can
+
+601
+00:38:43,510 --> 00:38:45,930
+come up with these
+answers from your memory.
+
+602
+00:38:48,190 --> 00:38:50,530
+Okay so let us return.
+
+603
+00:38:51,710 --> 00:38:54,530
+What are the processes
+involved in renal
+
+604
+00:38:54,530 --> 00:38:56,710
+excretion of drugs
+and metabolites?
+
+605
+00:38:57,690 --> 00:39:01,090
+Molecules not bound to
+plasma proteins enter
+
+606
+00:39:01,090 --> 00:39:04,700
+the kidney via
+glomerular filtration or
+
+607
+00:39:04,700 --> 00:39:08,190
+act of secretion into
+the proximal tubule.
+
+608
+00:39:08,190 --> 00:39:10,470
+If lipophilic, they
+may be passively
+
+609
+00:39:10,470 --> 00:39:14,010
+reabsorbed in the distal
+tubule. If not, drugs
+
+610
+00:39:14,010 --> 00:39:16,650
+and metabolites are
+excreted in the urine.
+
+611
+00:39:17,250 --> 00:39:20,290
+What is the most
+frequently used biomarker
+
+612
+00:39:20,290 --> 00:39:24,930
+of kidney function serum
+creatinine also urine
+
+613
+00:39:24,930 --> 00:39:27,970
+creatinine which requires
+a urine collection
+
+614
+00:39:27,970 --> 00:39:32,270
+over time serum
+creatinine is a blood
+
+615
+00:39:32,270 --> 00:39:37,210
+test glomerular filtration
+rate shows how well
+
+616
+00:39:37,210 --> 00:39:41,170
+the kidneys are filtering
+and finally what
+
+617
+00:39:41,170 --> 00:39:44,250
+is the clinical
+relevance of gfr on drug
+
+618
+00:39:44,250 --> 00:39:48,310
+therapy A low GFR means
+kidney function is
+
+619
+00:39:48,310 --> 00:39:52,750
+impaired, which means
+drugs may not be excreted
+
+620
+00:39:52,750 --> 00:39:56,370
+at the usual rate
+and can accumulate in
+
+621
+00:39:56,370 --> 00:40:00,090
+the blood, increasing
+the risk of toxicity.
+
+622
+00:40:01,130 --> 00:40:02,810
+This is why we care.
+
+623
+00:40:03,170 --> 00:40:05,970
+Drug therapy may
+need to be adjusted,
+
+624
+00:40:05,970 --> 00:40:08,890
+and we call this
+renal dosing.
+
+625
+00:40:10,630 --> 00:40:13,630
+And finally, variation
+in drug response.
+
+626
+00:40:13,630 --> 00:40:17,610
+Many, many factors
+can impact the rate at
+
+627
+00:40:17,610 --> 00:40:23,130
+which drugs are cleared,
+are eliminated, and
+
+628
+00:40:23,850 --> 00:40:26,470
+these need to be taken
+into consideration
+
+629
+00:40:26,470 --> 00:40:29,610
+when considering
+drug therapy for your
+
+630
+00:40:29,610 --> 00:40:33,830
+individual patient,
+whether it's for adjustment
+
+631
+00:40:33,830 --> 00:40:37,350
+of dosing or possibly
+avoiding certain
+
+632
+00:40:37,350 --> 00:40:42,870
+drugs. This wheel lists
+all of these different
+
+633
+00:40:42,870 --> 00:40:46,810
+things that it could
+be and I'd like to
+
+634
+00:40:46,810 --> 00:40:55,270
+also add to it genetic
+variability. Don't
+
+635
+00:40:55,270 --> 00:41:00,290
+forget about that. This
+is becoming much easier
+
+636
+00:41:00,290 --> 00:41:05,170
+to identify as screening
+tests are becoming
+
+637
+00:41:05,170 --> 00:41:08,230
+more available and
+more affordable the
+
+638
+00:41:13,530 --> 00:41:15,970
+older patient and the
+neonates i'll focus
+
+639
+00:41:15,970 --> 00:41:19,690
+on them for the older
+patient there may
+
+640
+00:41:19,690 --> 00:41:22,190
+be multiple concurrent
+diseases that are
+
+641
+00:41:22,190 --> 00:41:24,610
+going to affect
+your drug therapy so
+
+642
+00:41:24,610 --> 00:41:28,830
+drug disease
+interactions intestinal
+
+643
+00:41:28,830 --> 00:41:31,670
+intestinal motility may
+be reduced blood flow
+
+644
+00:41:31,670 --> 00:41:34,210
+may be reduced muscle
+mass may reduced
+
+645
+00:41:34,210 --> 00:41:38,450
+body fat may be
+increased kidney function
+
+646
+00:41:38,450 --> 00:41:41,370
+reduction liver
+function reduction and
+
+647
+00:41:41,370 --> 00:41:43,610
+then just general
+structural and functional
+
+648
+00:41:43,610 --> 00:41:45,530
+changes in the brain
+that can occur.
+
+649
+00:41:45,890 --> 00:41:47,350
+In the neonate, they
+
+650
+00:41:47,350 --> 00:41:49,490
+have immature processes,
+
+651
+00:41:49,690 --> 00:41:51,830
+absorption, distribution,
+
+652
+00:41:51,830 --> 00:41:53,710
+metabolism,
+and excretion.
+
+653
+00:41:54,540 --> 00:41:57,080
+We have to be
+very, very careful
+
+654
+00:41:57,080 --> 00:41:57,970
+dosing them,
+and it should
+
+655
+00:41:57,970 --> 00:41:59,900
+be left to the
+neonatologist.
+
+656
+00:42:00,770 --> 00:42:03,190
+Blood flow, GI function,
+
+657
+00:42:03,630 --> 00:42:06,310
+they are just little
+bags of water,
+
+658
+00:42:06,310 --> 00:42:08,250
+especially the
+********* babies.
+
+659
+00:42:09,410 --> 00:42:12,570
+lower plasma protein
+binding capacity
+
+660
+00:42:12,570 --> 00:42:15,770
+because their livers
+are not producing them
+
+661
+00:42:15,770 --> 00:42:18,210
+to the same degree
+as in the older
+
+662
+00:42:18,210 --> 00:42:23,770
+child even the older
+infant low activity
+
+663
+00:42:23,770 --> 00:42:25,990
+of the drug
+metabolizing enzymes and
+
+664
+00:42:25,990 --> 00:42:29,100
+transporters they're
+not mature yet lower
+
+665
+00:42:29,100 --> 00:42:33,270
+glomerular filtration
+rate potentially or
+
+666
+00:42:33,270 --> 00:42:37,170
+even higher glomerular
+filtration rate.
+
+667
+00:42:38,810 --> 00:42:43,630
+So in summary, I have
+put you a little mind
+
+668
+00:42:43,630 --> 00:42:47,030
+map again. If you find
+these helpful, make
+
+669
+00:42:47,030 --> 00:42:48,890
+them yourself. You
+can make simple ones.
+
+670
+00:42:48,890 --> 00:42:51,470
+They don't have to be
+complicated and they
+
+671
+00:42:51,470 --> 00:42:54,590
+can help you connect
+the dots as it were.
+
+672
+00:42:56,170 --> 00:42:57,950
+Here's another one.
+
+673
+00:42:59,670 --> 00:43:02,390
+And biotransformation
+is a complex
+
+674
+00:43:02,390 --> 00:43:05,230
+process involving
+numerous enzyme systems
+
+675
+00:43:05,230 --> 00:43:08,730
+that usually detoxify
+the xenobiotics.
+
+676
+00:43:08,750 --> 00:43:13,850
+Xeno meaning
+foreign or not
+
+677
+00:43:13,920 --> 00:43:16,630
+occurring naturally
+in our bodies.
+
+678
+00:43:17,200 --> 00:43:20,410
+Phase I reactions include
+oxidation, reduction,
+
+679
+00:43:20,410 --> 00:43:23,470
+hydrolysis. These
+processes unmask a
+
+680
+00:43:23,470 --> 00:43:26,170
+polar functional group.
+And the products may
+
+681
+00:43:26,170 --> 00:43:31,850
+be inactive, usually,
+or active or toxic.
+
+682
+00:43:32,830 --> 00:43:35,410
+Phase II reactions
+involve the addition
+
+683
+00:43:35,410 --> 00:43:37,530
+of a subgroup, and
+that's called a
+
+684
+00:43:37,530 --> 00:43:41,630
+conjugation, with the
+drug or metabolite.
+
+685
+00:43:42,610 --> 00:43:46,050
+These are the
+glucuronide, I should
+
+686
+00:43:46,050 --> 00:43:48,170
+say glucuronide,
+not glucuronate,
+
+687
+00:43:48,430 --> 00:43:50,830
+acetate, sulfate,
+methylate,
+
+688
+00:43:50,830 --> 00:43:52,370
+and glycine groups.
+
+689
+00:43:52,610 --> 00:43:54,710
+The enzymes that
+catalyze the
+
+690
+00:43:54,710 --> 00:43:56,890
+reactions are
+called transferases.
+
+691
+00:44:00,770 --> 00:44:03,610
+they transfer the
+subgroup supplied
+
+692
+00:44:03,610 --> 00:44:05,770
+by a cofactor
+onto the substrate
+
+693
+00:44:05,770 --> 00:44:08,850
+phase two metabolites
+are significantly
+
+694
+00:44:08,850 --> 00:44:10,890
+more hydrophilic
+than the substrate
+
+695
+00:44:10,890 --> 00:44:13,530
+and are readily
+excreted usually
+
+696
+00:44:14,510 --> 00:44:18,450
+definitely most frequently
+in the urine drugs
+
+697
+00:44:18,700 --> 00:44:20,710
+metabolized by both
+phase one and phase
+
+698
+00:44:20,710 --> 00:44:24,130
+two reactions may undergo
+phase 1 before phase
+
+699
+00:44:24,130 --> 00:44:27,430
+2 or go directly to
+phase 2 or there may be
+
+700
+00:44:27,430 --> 00:44:30,910
+complicated metabolic
+reactions occurring.
+
+701
+00:44:31,310 --> 00:44:34,790
+Drug disposition is also
+affected by membrane
+
+702
+00:44:34,790 --> 00:44:37,010
+transport proteins
+which mediate the
+
+703
+00:44:37,010 --> 00:44:40,350
+cellular uptake and
+efflux of xenobiotics in
+
+704
+00:44:40,350 --> 00:44:44,050
+the liver, kidney, and
+many many many other
+
+705
+00:44:44,930 --> 00:44:50,050
+tissues. The Phase I
+CYP enzymes biotransform
+
+706
+00:44:50,050 --> 00:44:53,270
+most xenobiotics. CYPs
+are expressed in a
+
+707
+00:44:53,270 --> 00:44:55,910
+high concentration in
+the membrane of the
+
+708
+00:44:55,910 --> 00:44:58,910
+smooth endoplasmic
+reticulum of the liver and
+
+709
+00:44:58,910 --> 00:45:01,310
+in lower concentrations
+in other tissues.
+
+710
+00:45:01,750 --> 00:45:04,950
+CYPs are relatively
+non-selective. A
+
+711
+00:45:04,950 --> 00:45:08,950
+small number of P450
+isoforms metabolize
+
+712
+00:45:08,950 --> 00:45:11,230
+thousands and
+thousands of drugs.
+
+713
+00:45:12,250 --> 00:45:15,470
+CYP3A4 is the most
+abundant isoform
+
+714
+00:45:15,470 --> 00:45:18,770
+metabolizing in some
+estimates, in most
+
+715
+00:45:18,770 --> 00:45:21,410
+estimates, about
+50% of all drugs.
+
+716
+00:45:21,810 --> 00:45:25,250
+Enzyme activity can
+vary due to concurrent
+
+717
+00:45:25,250 --> 00:45:29,110
+administration of other
+drugs that inhibit
+
+718
+00:45:29,110 --> 00:45:32,330
+or induce the drug
+metabolizing enzymes.
+
+719
+00:45:32,850 --> 00:45:35,670
+Enzyme inhibition
+can reduce the
+
+720
+00:45:35,670 --> 00:45:37,890
+rate of metabolism
+of the substrate
+
+721
+00:45:37,890 --> 00:45:40,710
+drug, leading to
+increased systemic
+
+722
+00:45:40,710 --> 00:45:43,430
+levels, increased
+bioavailability.
+
+723
+00:45:44,360 --> 00:45:46,330
+Enzyme induction
+increases the
+
+724
+00:45:46,330 --> 00:45:48,910
+rate of metabolism
+of the substrates,
+
+725
+00:45:48,910 --> 00:45:51,770
+reducing bioavailability.
+
+726
+00:45:53,180 --> 00:45:55,770
+CYP enzyme activity
+is quite variable
+
+727
+00:45:55,770 --> 00:45:58,550
+due to pharmacogenetic
+variabilities.
+
+728
+00:45:59,050 --> 00:46:02,010
+These are genetic
+polymorphisms,
+
+729
+00:46:02,010 --> 00:46:05,230
+in other words,
+switches in the
+
+730
+00:46:05,230 --> 00:46:11,290
+amino acid positions
+in the DNA.
+
+731
+00:46:11,290 --> 00:46:14,430
+So these are genetic
+changes that exist
+
+732
+00:46:14,430 --> 00:46:16,730
+in at least 1% of
+the human population.
+
+733
+00:46:16,730 --> 00:46:24,450
+So this is the study
+of pharmacogenomics.
+
+734
+00:46:33,070 --> 00:46:35,710
+Most drugs are excreted
+in urine, either
+
+735
+00:46:35,710 --> 00:46:37,830
+as the parent compound,
+that is to say the
+
+736
+00:46:37,830 --> 00:46:41,790
+unchanged drug, active
+drug, or as metabolites
+
+737
+00:46:41,790 --> 00:46:44,270
+with polar characteristics.
+Minor routes
+
+738
+00:46:44,270 --> 00:46:46,850
+of excretion include
+sweat, saliva, tears,
+
+739
+00:46:46,850 --> 00:46:48,910
+skin, hair, and
+certainly breast milk.
+
+740
+00:46:49,550 --> 00:46:51,990
+Think baby.
+
+741
+00:46:55,550 --> 00:46:58,890
+The processes
+involved in renal
+
+742
+00:46:58,890 --> 00:47:00,910
+elimination are
+glomerular filtration
+
+743
+00:47:00,910 --> 00:47:04,130
+and or active
+tubular secretion,
+
+744
+00:47:04,130 --> 00:47:07,150
+passive tubular
+reabsorption of
+
+745
+00:47:07,150 --> 00:47:09,510
+lipophilic drugs,
+and then excretion in
+
+746
+00:47:09,510 --> 00:47:11,770
+urine. Only free
+drug molecules, those
+
+747
+00:47:11,770 --> 00:47:13,870
+that are not bound
+to plasma proteins,
+
+748
+00:47:13,870 --> 00:47:16,070
+are filtered by
+the glomerulus.
+
+749
+00:47:16,170 --> 00:47:19,210
+The concentration of
+drug excreted in urine
+
+750
+00:47:19,210 --> 00:47:21,330
+results from the amount
+of drug introduced
+
+751
+00:47:21,330 --> 00:47:24,670
+to the nephrons through
+glomerular filtration
+
+752
+00:47:24,670 --> 00:47:27,910
+and secretion in
+the proximal tubule,
+
+753
+00:47:28,180 --> 00:47:31,030
+minus the amount
+reabsorbed in the distal
+
+754
+00:47:31,030 --> 00:47:35,190
+tubule, and that gets
+excreted, obviously.
+
+755
+00:47:38,570 --> 00:47:42,070
+Interindividual
+variations can affect
+
+756
+00:47:42,070 --> 00:47:44,650
+the rate and extent
+of drug elimination.
+
+757
+00:47:45,670 --> 00:47:48,530
+Serum creatinine and
+creatinine clearance
+
+758
+00:47:48,530 --> 00:47:51,590
+are biomarkers of
+renal function. They
+
+759
+00:47:51,590 --> 00:47:54,890
+are used to estimate
+the glomerular
+
+760
+00:47:54,890 --> 00:47:58,190
+filtration rate in the
+assessment of kidney
+
+761
+00:47:58,190 --> 00:48:00,350
+function for the
+individual patient.
+
+762
+00:48:02,070 --> 00:48:05,050
+The dose and frequency
+of administration
+
+763
+00:48:05,050 --> 00:48:08,750
+required to achieve
+therapeutic blood and
+
+764
+00:48:08,750 --> 00:48:12,070
+tissue levels vary
+in different patients
+
+765
+00:48:12,070 --> 00:48:14,730
+because of the individual
+differences in drug
+
+766
+00:48:14,730 --> 00:48:16,790
+distribution, rates
+of drug metabolism,
+
+767
+00:48:16,790 --> 00:48:20,290
+and elimination. These
+are determined by
+
+768
+00:48:20,290 --> 00:48:23,630
+genetic factors and non
+-genetic variables such
+
+769
+00:48:23,630 --> 00:48:26,970
+as age, ***, liver
+size, liver function,
+
+770
+00:48:27,230 --> 00:48:29,910
+circadian rhythm,
+body temperature,
+
+771
+00:48:29,910 --> 00:48:32,190
+nutritional,
+environmental factors,
+
+772
+00:48:32,610 --> 00:48:34,830
+concomitant
+exposure to inducers
+
+773
+00:48:34,830 --> 00:48:37,850
+or inhibitors of
+drug metabolism.
+
+774
+00:48:39,140 --> 00:48:42,870
+Here's why we care.
+understanding and
+
+775
+00:48:42,870 --> 00:48:45,290
+employing pharmacokinetic
+principles can
+
+776
+00:48:45,290 --> 00:48:48,670
+increase the probability
+of therapeutic
+
+777
+00:48:48,670 --> 00:48:52,450
+success and reduce the
+occurrence of adverse
+
+778
+00:48:52,450 --> 00:48:54,610
+drug effects in the
+body for optimization
+
+779
+00:48:54,610 --> 00:48:56,690
+of drug therapy
+in the individual
+
+780
+00:48:56,690 --> 00:49:01,490
+patient. Please make
+this second nature.
+
+781
+00:49:02,130 --> 00:49:06,930
+And that concludes
+the absorption,
+
+782
+00:49:06,930 --> 00:49:09,390
+distribution,
+metabolism, and excretion
+
+783
+00:49:09,390 --> 00:49:12,270
+principles of
+pharmacokinetics.

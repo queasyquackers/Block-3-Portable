@@ -1,0 +1,4847 @@
+1
+00:00:01,050 --> 00:00:04,690
+Hello students. Welcome
+to Pharmacokinetics.
+
+2
+00:00:04,690 --> 00:00:06,910
+We will be
+talking about the
+
+3
+00:00:06,910 --> 00:00:10,310
+properties of
+absorption, distribution,
+
+4
+00:00:10,310 --> 00:00:13,530
+metabolism, and
+excretion. In this first
+
+5
+00:00:13,530 --> 00:00:16,110
+part, it will just
+be absorption and
+
+6
+00:00:16,110 --> 00:00:18,850
+distribution. Dr.
+Goldstein speaking.
+
+7
+00:00:21,750 --> 00:00:24,070
+Please contact
+me if you'd
+
+8
+00:00:24,070 --> 00:00:25,830
+like a pharmacology chat.
+
+9
+00:00:29,150 --> 00:00:32,570
+Recall the pharmacokinetics
+pharmacodynamics
+
+10
+00:00:32,570 --> 00:00:35,230
+relationship. The drug
+gets into the body,
+
+11
+00:00:35,230 --> 00:00:38,870
+gets distributed, goes
+to the pharmacologic
+
+12
+00:00:38,870 --> 00:00:43,210
+site of action, produces
+its effect, whether
+
+13
+00:00:43,210 --> 00:00:45,310
+it's a therapeutic
+effect or an adverse
+
+14
+00:00:45,310 --> 00:00:48,350
+effect. There is some
+sort of a clinical
+
+15
+00:00:48,350 --> 00:00:53,430
+response And that could
+be effectiveness, the
+
+16
+00:00:53,430 --> 00:00:57,370
+goal, or toxicity,
+something to be minimized.
+
+17
+00:00:57,510 --> 00:01:02,850
+The processes of
+pharmacokinetics are
+
+18
+00:01:02,850 --> 00:01:08,570
+absorption, indicated here
+by input, distribution,
+
+19
+00:01:08,610 --> 00:01:12,950
+and elimination. So
+elimination would be
+
+20
+00:01:13,970 --> 00:01:15,990
+biotransformation, in
+other words, metabolism
+
+21
+00:01:15,990 --> 00:01:22,810
+to an inactive
+metabolite or excreted.
+
+22
+00:01:27,570 --> 00:01:28,740
+The key factor?
+
+23
+00:01:30,510 --> 00:01:34,490
+Concentration. The
+concentration in the
+
+24
+00:01:34,490 --> 00:01:37,410
+plasma will determine
+the concentration at
+
+25
+00:01:37,410 --> 00:01:41,330
+the site of action and
+that will determine
+
+26
+00:01:41,330 --> 00:01:44,830
+the magnitude of the
+pharmacologic effect.
+
+27
+00:01:48,790 --> 00:01:50,070
+So,
+
+28
+00:01:50,190 --> 00:01:53,990
+how important really
+is pharmacokinetics?
+
+29
+00:01:54,430 --> 00:01:57,670
+It is the pharmacokinetic
+properties of
+
+30
+00:01:57,670 --> 00:02:02,310
+drugs that influence
+efficacy and safety.
+
+31
+00:02:02,910 --> 00:02:07,030
+The goal of therapy
+is to increase the
+
+32
+00:02:07,030 --> 00:02:09,530
+probability of therapeutic
+success, and this
+
+33
+00:02:09,530 --> 00:02:12,270
+is going to depend
+on the dose and
+
+34
+00:02:12,270 --> 00:02:15,250
+certain other factors,
+and to reduce the
+
+35
+00:02:15,250 --> 00:02:17,630
+occurrence of adverse
+effects in the body.
+
+36
+00:02:17,630 --> 00:02:21,550
+Sometimes we can't
+stop them, but we can
+
+37
+00:02:21,550 --> 00:02:25,570
+at least minimize them
+and mitigate them.
+
+38
+00:02:29,170 --> 00:02:31,030
+Here are the
+learning objectives,
+
+39
+00:02:31,030 --> 00:02:33,590
+and it's all related to
+
+40
+00:02:33,590 --> 00:02:36,770
+mechanisms,
+mechanisms, mechanisms.
+
+41
+00:02:37,230 --> 00:02:39,210
+Please read these over.
+
+42
+00:02:40,000 --> 00:02:42,670
+You don't need me
+to read them to you.
+
+43
+00:02:44,830 --> 00:02:46,790
+Preparation materials.
+
+44
+00:02:46,930 --> 00:02:48,890
+The only thing
+that I require
+
+45
+00:02:48,890 --> 00:02:50,550
+is the practice
+questions.
+
+46
+00:02:50,550 --> 00:02:56,230
+These are case vignettes
+and thought problems.
+
+47
+00:02:56,230 --> 00:03:00,630
+I will help you
+to apply the basic
+
+48
+00:03:00,630 --> 00:03:05,690
+concepts of pharmacology
+through practice
+
+49
+00:03:05,690 --> 00:03:08,870
+questions. And when you
+receive the answers,
+
+50
+00:03:09,360 --> 00:03:11,590
+then you will
+see the thought
+
+51
+00:03:11,590 --> 00:03:13,530
+processes and
+this will help you
+
+52
+00:03:13,530 --> 00:03:17,170
+to really learn
+pharmacology.
+
+53
+00:03:19,050 --> 00:03:21,170
+Here are some
+resources if you
+
+54
+00:03:21,170 --> 00:03:23,070
+choose to use them.
+I provided the
+
+55
+00:03:23,070 --> 00:03:25,710
+links. They are
+all available.
+
+56
+00:03:27,250 --> 00:03:30,170
+These textbook
+resources are all
+
+57
+00:03:30,170 --> 00:03:34,650
+available in our
+medical library.
+
+58
+00:03:38,570 --> 00:03:41,770
+I've provided
+some hints to help
+
+59
+00:03:41,770 --> 00:03:45,250
+you to actually
+master a topic
+
+60
+00:03:45,250 --> 00:03:49,470
+to avoid the
+illusion of knowing.
+
+61
+00:03:50,430 --> 00:03:54,330
+You may find them
+helpful as you go
+
+62
+00:03:54,330 --> 00:03:57,910
+through this difficult
+material. The material
+
+63
+00:03:57,910 --> 00:04:00,050
+itself isn't
+difficult, it's just
+
+64
+00:04:00,050 --> 00:04:02,230
+that you get so much
+of it all at once.
+
+65
+00:04:05,090 --> 00:04:06,930
+And here are some tips.
+
+66
+00:04:07,110 --> 00:04:11,590
+I really would like
+you to try them out.
+
+67
+00:04:14,750 --> 00:04:16,930
+Rephrase the main
+ideas in your own
+
+68
+00:04:16,930 --> 00:04:19,660
+words. It's about
+your own words.
+
+69
+00:04:21,430 --> 00:04:24,210
+You can make a
+question out of them.
+
+70
+00:04:24,490 --> 00:04:26,770
+That helps you
+think about it.
+
+71
+00:04:28,130 --> 00:04:30,170
+Relate the ideas
+to what you
+
+72
+00:04:30,170 --> 00:04:32,950
+already know and
+that will help
+
+73
+00:04:32,950 --> 00:04:36,430
+make it stick
+in your brain.
+
+74
+00:04:38,220 --> 00:04:40,230
+And here are
+some techniques.
+
+75
+00:04:46,010 --> 00:04:47,890
+The definitions
+are here to help
+
+76
+00:04:47,890 --> 00:04:50,470
+you with the language
+of pharmacology,
+
+77
+00:04:50,470 --> 00:04:52,610
+the language of medicine.
+
+78
+00:04:55,110 --> 00:04:56,730
+More terms.
+
+79
+00:04:57,550 --> 00:05:01,710
+I've provided this
+overview of really
+
+80
+00:05:01,710 --> 00:05:04,210
+of what you need to
+know and understand.
+
+81
+00:05:04,450 --> 00:05:08,530
+So you can focus
+on these concepts
+
+82
+00:05:08,530 --> 00:05:12,150
+and that will answer
+your question of
+
+83
+00:05:12,150 --> 00:05:14,310
+what do I need to
+know for the test.
+
+84
+00:05:15,890 --> 00:05:18,050
+And I have several slides
+
+85
+00:05:18,050 --> 00:05:20,410
+of concepts for you.
+
+86
+00:05:25,430 --> 00:05:26,790
+So let us begin.
+
+87
+00:05:30,930 --> 00:05:35,770
+The basic idea is
+a drug is given at
+
+88
+00:05:35,770 --> 00:05:39,330
+some particular dose.
+And how do we know
+
+89
+00:05:39,330 --> 00:05:41,830
+what dose to give?
+We look it up in the
+
+90
+00:05:41,830 --> 00:05:44,270
+drug monograph and
+that will guide us.
+
+91
+00:05:45,050 --> 00:05:49,090
+But we still have to
+remember about our
+
+92
+00:05:49,090 --> 00:05:52,190
+individual patient and
+there may need to be
+
+93
+00:05:52,190 --> 00:05:54,890
+adjustments of the doses
+that are recommended.
+
+94
+00:05:56,310 --> 00:06:02,850
+In the case of oral
+drugs especially, they
+
+95
+00:06:02,850 --> 00:06:05,970
+have to be liberated
+out of their tablet or
+
+96
+00:06:05,970 --> 00:06:08,830
+capsule or whatever
+form they're going in.
+
+97
+00:06:10,630 --> 00:06:17,370
+And then the drug
+itself must be absorbed.
+
+98
+00:06:18,190 --> 00:06:21,250
+If we're giving
+it by intravenous
+
+99
+00:06:21,250 --> 00:06:22,570
+administration, it's just
+
+100
+00:06:22,570 --> 00:06:24,150
+going straight
+into the vein.
+
+101
+00:06:26,730 --> 00:06:29,090
+An oral drug needs to
+
+102
+00:06:29,090 --> 00:06:30,590
+pass through the liver
+
+103
+00:06:31,310 --> 00:06:35,930
+and then it will
+go to the central
+
+104
+00:06:35,930 --> 00:06:39,470
+compartment, and that
+is the bloodstream
+
+105
+00:06:39,470 --> 00:06:42,130
+and the highly
+perfused organs.
+
+106
+00:06:42,130 --> 00:06:45,390
+If it is an IV
+drug, it just goes
+
+107
+00:06:45,390 --> 00:06:47,570
+straight into the
+central compartment.
+
+108
+00:06:48,430 --> 00:06:53,850
+Once there, the free
+drug will then move
+
+109
+00:06:53,850 --> 00:06:59,050
+to the site of
+action, move to be
+
+110
+00:06:59,100 --> 00:07:02,770
+stuck on tissue
+macromolecules, they call
+
+111
+00:07:02,770 --> 00:07:05,910
+that tissue
+reservoirs, can move to
+
+112
+00:07:05,910 --> 00:07:09,430
+areas that are not the
+therapeutic target,
+
+113
+00:07:09,430 --> 00:07:11,950
+but rather produce
+adverse effects.
+
+114
+00:07:12,810 --> 00:07:15,430
+Notice these
+two-way arrows.
+
+115
+00:07:16,790 --> 00:07:19,810
+The drug will move in and
+
+116
+00:07:19,810 --> 00:07:23,130
+out, in and
+out, in and out.
+
+117
+00:07:26,110 --> 00:07:31,110
+the drug can be bound
+to plasma proteins
+
+118
+00:07:31,110 --> 00:07:34,770
+and if it's bound to
+plasma proteins it will
+
+119
+00:07:34,770 --> 00:07:39,050
+be riding around on
+the protein bus in
+
+120
+00:07:39,050 --> 00:07:43,010
+the bloodstream and it
+will not move to the
+
+121
+00:07:43,010 --> 00:07:45,550
+site of action until
+it gets off the bus.
+
+122
+00:07:46,930 --> 00:07:51,950
+It can bind to the same
+idea of these inert
+
+123
+00:07:52,000 --> 00:07:55,690
+molecules in the tissues,
+the same concept.
+
+124
+00:07:59,550 --> 00:08:04,350
+Even an IV drug or
+anything that bypasses
+
+125
+00:08:04,350 --> 00:08:07,310
+the liver first and
+goes to the central
+
+126
+00:08:07,310 --> 00:08:10,090
+compartment will
+certainly pass through the
+
+127
+00:08:10,090 --> 00:08:14,580
+liver where it will
+undergo metabolism.
+
+128
+00:08:15,450 --> 00:08:19,110
+And then the
+metabolites, and that can
+
+129
+00:08:19,110 --> 00:08:21,610
+include a metabolite
+that's actually
+
+130
+00:08:21,610 --> 00:08:26,090
+active, toxic or
+inactive, will move into
+
+131
+00:08:26,090 --> 00:08:28,370
+the central compartment
+again from the
+
+132
+00:08:28,370 --> 00:08:30,710
+liver where it will
+go to be excreted,
+
+133
+00:08:30,710 --> 00:08:34,610
+but it may also be
+excreted straight
+
+134
+00:08:34,610 --> 00:08:41,130
+out of the liver to
+the biliary system.
+
+135
+00:08:43,070 --> 00:08:46,130
+So that's another
+route of excretion.
+
+136
+00:08:47,150 --> 00:08:50,550
+So this very simple
+figure really
+
+137
+00:08:50,550 --> 00:08:54,630
+sums up absorption,
+distribution,
+
+138
+00:08:54,690 --> 00:08:57,990
+metabolism, and
+excretion, and
+
+139
+00:08:57,990 --> 00:09:00,830
+how all are related
+to each other.
+
+140
+00:09:04,730 --> 00:09:08,810
+A drug must withstand
+digestive fluids
+
+141
+00:09:08,810 --> 00:09:11,010
+and enzymes. We're
+talking about drugs
+
+142
+00:09:11,010 --> 00:09:13,870
+that are swallowed
+into the GI tract and
+
+143
+00:09:13,870 --> 00:09:16,770
+the digestive fluids
+and enzymes are in
+
+144
+00:09:16,770 --> 00:09:21,910
+the stomach. The drug
+must move into the
+
+145
+00:09:21,910 --> 00:09:24,990
+intestine where it
+will be absorbed and
+
+146
+00:09:24,990 --> 00:09:27,910
+once it's absorbed
+it has and once it's
+
+147
+00:09:27,910 --> 00:09:29,970
+the intestine it has
+to be able to cross
+
+148
+00:09:29,970 --> 00:09:33,730
+the physiologic
+barriers to be absorbed
+
+149
+00:09:35,490 --> 00:09:37,630
+and to be distributed
+
+150
+00:09:37,630 --> 00:09:39,150
+to the site of action.
+
+151
+00:09:41,430 --> 00:09:44,690
+The drug must be
+able to exit the
+
+152
+00:09:44,690 --> 00:09:46,690
+site of action
+after providing
+
+153
+00:09:46,690 --> 00:09:49,210
+the specific
+therapeutic effect
+
+154
+00:09:50,050 --> 00:09:54,010
+and it must be
+eliminated either by
+
+155
+00:09:54,010 --> 00:09:57,170
+metabolism to inactive
+metabolites which is
+
+156
+00:09:57,170 --> 00:10:02,210
+certainly the most
+common, or it actually
+
+157
+00:10:02,210 --> 00:10:06,890
+may be metabolized to
+an active metabolite
+
+158
+00:10:06,890 --> 00:10:10,370
+or a toxic metabolite.
+In any case,
+
+159
+00:10:10,370 --> 00:10:15,430
+if it's metabolized to
+an active metabolite,
+
+160
+00:10:15,430 --> 00:10:19,030
+that will terminate
+the drug effect,
+
+161
+00:10:19,030 --> 00:10:23,270
+and that is equivalent
+to elimination
+
+162
+00:10:25,410 --> 00:10:27,910
+via metabolism.
+
+163
+00:10:30,750 --> 00:10:35,690
+The drug needs to
+be excreted and this
+
+164
+00:10:35,690 --> 00:10:40,610
+is by far most frequently
+via the kidney.
+
+165
+00:10:40,610 --> 00:10:41,830
+By far.
+
+166
+00:10:44,370 --> 00:10:45,890
+In the kidney,
+
+167
+00:10:46,070 --> 00:10:49,850
+through the kidney,
+inactive metabolites
+
+168
+00:10:49,850 --> 00:10:53,910
+or unchanged drug
+may pass through
+
+169
+00:10:53,910 --> 00:10:57,890
+or active metabolites
+may pass through
+
+170
+00:10:59,630 --> 00:11:03,470
+and then be excreted
+via the urine.
+
+171
+00:11:07,160 --> 00:11:09,670
+Let's begin with
+absorption. The movement
+
+172
+00:11:09,670 --> 00:11:12,010
+of substances
+across physiologic
+
+173
+00:11:12,010 --> 00:11:15,430
+barriers into the
+central circulation and
+
+174
+00:11:15,430 --> 00:11:17,630
+of course we're talking
+about the drugs.
+
+175
+00:11:18,960 --> 00:11:21,850
+There are a
+number of ways to
+
+176
+00:11:21,850 --> 00:11:24,330
+pass through
+physiologic barriers.
+
+177
+00:11:24,330 --> 00:11:29,310
+Passive diffusion
+through the membrane,
+
+178
+00:11:29,310 --> 00:11:35,450
+the lipophilic
+membrane, is the most
+
+179
+00:11:35,450 --> 00:11:40,650
+frequent method
+of diffusion, of
+
+180
+00:11:40,650 --> 00:11:43,650
+passage through the
+physiologic barriers.
+
+181
+00:11:43,910 --> 00:11:47,190
+Other mechanisms that
+many drugs may be
+
+182
+00:11:47,190 --> 00:11:50,910
+using are through
+transporters. So we see all
+
+183
+00:11:50,910 --> 00:11:53,270
+these various types
+of transporters listed
+
+184
+00:11:53,270 --> 00:11:56,030
+here. I won't go into
+it now because I'll
+
+185
+00:11:56,030 --> 00:11:58,850
+be talking about that
+a little bit later.
+
+186
+00:11:59,270 --> 00:12:02,370
+Another way is for
+molecules that are
+
+187
+00:12:02,370 --> 00:12:07,530
+dissolved in the plasma,
+small molecules, can
+
+188
+00:12:07,530 --> 00:12:11,910
+pass between cells,
+paracellular transport,
+
+189
+00:12:12,370 --> 00:12:14,430
+by solvent drag.
+
+190
+00:12:17,890 --> 00:12:20,550
+So first let's
+talk about passive
+
+191
+00:12:20,550 --> 00:12:23,010
+diffusion of the
+lipid-soluble
+
+192
+00:12:23,010 --> 00:12:26,790
+drugs across
+cell membranes.
+
+193
+00:12:27,110 --> 00:12:32,670
+The key driver is
+the concentration
+
+194
+00:12:32,670 --> 00:12:35,790
+gradient. The
+drug will pass
+
+195
+00:12:35,790 --> 00:12:39,390
+down an area of
+high concentration
+
+196
+00:12:40,760 --> 00:12:44,290
+to an area of low
+concentration.
+
+197
+00:12:46,750 --> 00:12:50,570
+When the number of
+molecules on one side
+
+198
+00:12:50,570 --> 00:12:52,910
+equals the number
+of molecules on the
+
+199
+00:12:52,910 --> 00:12:58,850
+other side, It will be
+in a dynamic equilibrium,
+
+200
+00:13:04,080 --> 00:13:09,250
+and there will be
+no net movement.
+
+201
+00:13:15,290 --> 00:13:18,830
+The rate, in
+pharmacokinetics, we're
+
+202
+00:13:18,830 --> 00:13:22,770
+talking about rate,
+and we will also talk
+
+203
+00:13:22,770 --> 00:13:26,230
+about the extent,
+how much, how fast
+
+204
+00:13:26,230 --> 00:13:29,410
+and how much the
+drug molecules move.
+
+205
+00:13:30,550 --> 00:13:33,630
+So the rate and
+extent of the flow of
+
+206
+00:13:33,630 --> 00:13:35,710
+the drug molecules
+are influenced by
+
+207
+00:13:35,710 --> 00:13:37,570
+the magnitude of
+the concentration
+
+208
+00:13:37,570 --> 00:13:40,570
+gradient across the
+membrane. The greater
+
+209
+00:13:40,570 --> 00:13:42,970
+the gradient, the
+faster the rate.
+
+210
+00:13:44,270 --> 00:13:47,230
+The lipid water
+partition coefficient
+
+211
+00:13:47,230 --> 00:13:50,390
+of the drug will
+determine its ability
+
+212
+00:13:50,390 --> 00:13:54,090
+to get through
+this lipid layer.
+
+213
+00:13:55,690 --> 00:13:59,470
+The membrane surface
+area of the drug,
+
+214
+00:13:59,470 --> 00:14:06,270
+so how much of the
+membrane is available
+
+215
+00:14:07,470 --> 00:14:10,070
+for passage? Is
+it a large amount
+
+216
+00:14:10,070 --> 00:14:13,510
+or is it just
+maybe, let's use the
+
+217
+00:14:13,510 --> 00:14:16,330
+other side, just
+maybe a small amount?
+
+218
+00:14:18,350 --> 00:14:20,410
+the permeability of the
+
+219
+00:14:20,410 --> 00:14:23,470
+membrane and
+the thickness.
+
+220
+00:14:23,650 --> 00:14:26,670
+If it's a thick
+membrane, let's make a
+
+221
+00:14:26,670 --> 00:14:30,710
+thick membrane, versus
+a thin membrane, it
+
+222
+00:14:30,710 --> 00:14:32,770
+will take longer to
+pass through the thick
+
+223
+00:14:32,770 --> 00:14:36,190
+membrane than thin
+membrane. So all kinds
+
+224
+00:14:36,190 --> 00:14:39,610
+of different features
+of the membrane
+
+225
+00:14:39,610 --> 00:14:42,810
+determine the rate and
+extent of the flow.
+
+226
+00:14:45,010 --> 00:14:50,130
+This is the basic
+concept that describes
+
+227
+00:14:50,130 --> 00:14:53,930
+the movement of drug
+across the membrane,
+
+228
+00:14:53,930 --> 00:14:56,910
+across the physiologic
+barrier. You do not
+
+229
+00:14:56,910 --> 00:15:01,310
+need to memorize
+this equation, this
+
+230
+00:15:01,310 --> 00:15:06,090
+relationship, but you
+should recognize, This is
+
+231
+00:15:06,090 --> 00:15:09,010
+the takeaway, that
+diffusion across the lipid
+
+232
+00:15:09,010 --> 00:15:12,390
+bilayer of cell
+membranes depends on the
+
+233
+00:15:12,390 --> 00:15:15,970
+drug's lipid water
+partition coefficient.
+
+234
+00:15:16,790 --> 00:15:19,170
+And that is going
+to determine how
+
+235
+00:15:19,170 --> 00:15:21,730
+readily the drug
+enters the lipid
+
+236
+00:15:21,730 --> 00:15:24,510
+membrane from the
+aqueous medium.
+
+237
+00:15:25,410 --> 00:15:29,390
+It's related to
+the concentration
+
+238
+00:15:29,390 --> 00:15:31,910
+gradient, the area, the
+
+239
+00:15:31,910 --> 00:15:33,970
+permeability, and
+the thickness.
+
+240
+00:15:34,930 --> 00:15:39,530
+of the drug and
+the membrane.
+
+241
+00:15:42,510 --> 00:15:45,410
+Weak acids and weak
+bases, the Henderson
+
+242
+00:15:45,410 --> 00:15:48,870
+-Hasselbalch equation
+and ion trapping.
+
+243
+00:15:50,590 --> 00:15:54,570
+For weak acids and
+weak bases, the pKa
+
+244
+00:15:54,570 --> 00:15:57,210
+of the drug and the
+pH of the medium
+
+245
+00:15:57,210 --> 00:16:00,190
+determine the ratio
+of molecules in
+
+246
+00:16:00,190 --> 00:16:03,650
+the charged or
+ionized form compared
+
+247
+00:16:03,650 --> 00:16:07,670
+to the uncharged and
+non-ionized form.
+
+248
+00:16:07,930 --> 00:16:10,310
+Here is the key.
+
+249
+00:16:12,890 --> 00:16:18,630
+The uncharged, non
+-ionized form is the more
+
+250
+00:16:18,630 --> 00:16:24,330
+lipid-soluble form of
+the drug. So a weak
+
+251
+00:16:24,330 --> 00:16:27,330
+acid and weak bases
+dissociate in fluid.
+
+252
+00:16:27,330 --> 00:16:30,570
+They dissociate to
+an uncharged form and
+
+253
+00:16:30,570 --> 00:16:33,970
+a charged form. It
+is the uncharged form
+
+254
+00:16:33,970 --> 00:16:37,150
+that will pass
+through the membranes.
+
+255
+00:16:37,970 --> 00:16:42,130
+Now, a greater
+fraction of the weak
+
+256
+00:16:42,130 --> 00:16:45,870
+acid will be in the
+lipid-soluble form
+
+257
+00:16:45,870 --> 00:16:53,690
+in the more acidic
+medium, where the
+
+258
+00:16:53,690 --> 00:16:58,250
+pH is lower than
+the pKa of the drug.
+
+259
+00:16:59,230 --> 00:17:02,070
+A greater fraction
+of the weak base
+
+260
+00:17:02,070 --> 00:17:05,450
+will be in the lipid
+-soluble B form, you
+
+261
+00:17:05,450 --> 00:17:07,270
+notice there's no
+proton on there,
+
+262
+00:17:07,270 --> 00:17:11,610
+in a more alkaline
+medium where the pH
+
+263
+00:17:11,610 --> 00:17:16,170
+is greater than the
+pKa of the drug.
+
+264
+00:17:16,470 --> 00:17:18,930
+I'm sure you're familiar
+with the Henderson
+
+265
+00:17:18,930 --> 00:17:22,050
+-Hasselbalch equation.
+What we're looking at
+
+266
+00:17:22,050 --> 00:17:28,110
+in pharmacology is the
+ratio of the unprotonated
+
+267
+00:17:28,110 --> 00:17:31,390
+form to the protonated
+form. How much
+
+268
+00:17:31,390 --> 00:17:35,530
+of the drug, of a weak
+acid or weak base,
+
+269
+00:17:35,530 --> 00:17:40,810
+is going to pass through
+the lipid membrane?
+
+270
+00:17:41,830 --> 00:17:44,030
+We know the pH.
+
+271
+00:17:44,490 --> 00:17:48,330
+pH is very in the
+body. We think about
+
+272
+00:17:48,330 --> 00:17:51,590
+plasma as 7.4, plasma
+and interstitial
+
+273
+00:17:51,590 --> 00:17:54,330
+fluids as 7.4, so
+we know the pH,
+
+274
+00:17:54,330 --> 00:17:57,210
+and we know the
+pKa of the drug, so
+
+275
+00:17:57,310 --> 00:18:01,450
+that leaves the ratio
+to be determined.
+
+276
+00:18:03,850 --> 00:18:05,390
+To repeat,
+
+277
+00:18:05,670 --> 00:18:08,150
+the lower the pH
+relative to the
+
+278
+00:18:08,150 --> 00:18:11,250
+pKa, the greater
+will be the fraction
+
+279
+00:18:11,250 --> 00:18:14,390
+of drug in the
+protonated form.
+
+280
+00:18:18,330 --> 00:18:21,350
+Weak acids are
+not ionized when
+
+281
+00:18:21,350 --> 00:18:23,550
+they're protonated
+and that's indicated
+
+282
+00:18:23,550 --> 00:18:26,470
+by A for acid
+and H for proton.
+
+283
+00:18:28,750 --> 00:18:32,270
+Weak bases are
+ionized when they are
+
+284
+00:18:32,270 --> 00:18:36,730
+protonated. B for
+base and H for proton.
+
+285
+00:18:39,150 --> 00:18:40,910
+Key concept.
+
+286
+00:18:42,470 --> 00:18:44,610
+Here it is illustrated.
+
+287
+00:18:45,530 --> 00:18:47,750
+We have our
+lipid bilayer.
+
+288
+00:18:49,490 --> 00:18:52,130
+We have our different
+body compartments.
+
+289
+00:18:53,670 --> 00:18:57,350
+The non-ionized
+form of the, sorry,
+
+290
+00:18:57,350 --> 00:18:59,390
+the ionized form of
+the acid indicated
+
+291
+00:18:59,390 --> 00:19:03,230
+located by A- will
+not pass through.
+
+292
+00:19:04,610 --> 00:19:07,270
+The HA form will
+pass through.
+
+293
+00:19:07,270 --> 00:19:09,230
+Here it is on
+the other side,
+
+294
+00:19:10,050 --> 00:19:12,270
+dissociating
+dependent on the
+
+295
+00:19:12,270 --> 00:19:15,610
+pKa and the pH
+of the fluid in
+
+296
+00:19:15,610 --> 00:19:17,590
+the body
+compartment it's in.
+
+297
+00:19:18,230 --> 00:19:19,730
+Weak base,
+
+298
+00:19:20,420 --> 00:19:24,050
+the protonated form
+will not pass through.
+
+299
+00:19:24,870 --> 00:19:27,450
+The non-protonated
+B form will
+
+300
+00:19:27,450 --> 00:19:29,970
+pass through and
+same concept,
+
+301
+00:19:29,970 --> 00:19:31,550
+just the weak
+base this time.
+
+302
+00:19:34,290 --> 00:19:38,020
+This figure here
+at the top shows
+
+303
+00:19:39,570 --> 00:19:42,010
+the pKa right here
+in the middle.
+
+304
+00:19:42,770 --> 00:19:48,090
+When the pH equals
+the pKa then And the
+
+305
+00:19:48,090 --> 00:19:53,470
+both forms, the
+ionized and non-ionized
+
+306
+00:19:53,470 --> 00:19:56,240
+forms, are in equal
+concentration.
+
+307
+00:20:00,730 --> 00:20:04,770
+Let's say the pKa
+of the weak acid is
+
+308
+00:20:04,770 --> 00:20:07,590
+right here. It doesn't
+have to be right
+
+309
+00:20:07,590 --> 00:20:11,530
+here. Let's say it's
+right here. Then we
+
+310
+00:20:12,050 --> 00:20:16,050
+have an increasing
+amount of the ionized
+
+311
+00:20:16,050 --> 00:20:19,770
+form as we move up.
+An increasing amount
+
+312
+00:20:19,770 --> 00:20:23,090
+of the non-ionized
+form as we move down.
+
+313
+00:20:24,010 --> 00:20:29,230
+But very few areas
+in the body have a pH
+
+314
+00:20:29,230 --> 00:20:32,450
+so low. The one
+exception is the stomach.
+
+315
+00:20:34,390 --> 00:20:35,950
+Let's say we have a weak
+
+316
+00:20:35,950 --> 00:20:37,770
+base of, let's say here.
+
+317
+00:20:40,290 --> 00:20:43,270
+then the majority
+of it will be in the
+
+318
+00:20:43,270 --> 00:20:49,090
+ionized form BH
+plus but as the pH
+
+319
+00:20:49,090 --> 00:20:51,710
+increases the majority
+will be in the B
+
+320
+00:20:51,710 --> 00:20:57,930
+non-ionized form but
+there the pH is in
+
+321
+00:20:57,930 --> 00:21:00,870
+this area are
+incompatible with life.
+
+322
+00:21:03,150 --> 00:21:06,830
+To repeat non-ionized
+molecules diffuse
+
+323
+00:21:06,830 --> 00:21:09,230
+used readily across
+the membrane.
+
+324
+00:21:14,850 --> 00:21:16,880
+So what do we do
+with this information
+
+325
+00:21:16,880 --> 00:21:20,530
+in terms of the
+clinical utilization
+
+326
+00:21:20,530 --> 00:21:23,250
+of it? It's all
+very interesting.
+
+327
+00:21:25,110 --> 00:21:28,430
+It's called ion
+trapping. Trapping
+
+328
+00:21:28,430 --> 00:21:32,590
+of the ionized
+form in a fluid
+
+329
+00:21:32,590 --> 00:21:35,590
+for the purpose, usually,
+
+330
+00:21:35,930 --> 00:21:38,350
+of increasing the rate of
+
+331
+00:21:38,350 --> 00:21:41,510
+excretion of a
+toxic compound.
+
+332
+00:21:44,530 --> 00:21:48,050
+We can also talk
+about it in terms of
+
+333
+00:21:48,050 --> 00:21:51,110
+how much drug is
+going to be excreted
+
+334
+00:21:51,110 --> 00:21:55,930
+in a particular pH
+of urine versus how
+
+335
+00:21:55,930 --> 00:21:58,110
+much will stay
+in. That can be
+
+336
+00:21:58,110 --> 00:22:00,590
+therapeutically important,
+but not commonly.
+
+337
+00:22:02,230 --> 00:22:05,130
+Starting on the
+left-hand side.
+
+338
+00:22:06,010 --> 00:22:09,210
+Blood pH, 7.4.
+
+339
+00:22:10,550 --> 00:22:18,210
+A drug in concentration
+of one micromolar
+
+340
+00:22:18,210 --> 00:22:24,230
+in the non-protonated
+form. This is a weak
+
+341
+00:22:24,230 --> 00:22:26,390
+base we're talking
+about in this example.
+
+342
+00:22:28,590 --> 00:22:33,490
+and the pH with this
+example which I took
+
+343
+00:22:33,490 --> 00:22:39,070
+from the basic and clinical
+pharmacology review
+
+344
+00:22:39,070 --> 00:22:44,450
+book it is a weight
+base with a pK of 7.0
+
+345
+00:22:47,260 --> 00:22:50,730
+the tendency
+is to be in the
+
+346
+00:22:50,730 --> 00:22:53,970
+non-ionized non
+-protonated form
+
+347
+00:22:55,530 --> 00:22:59,790
+and we still of course
+get a certain amount
+
+348
+00:22:59,790 --> 00:23:03,170
+in the protonated form
+so between the two
+
+349
+00:23:03,170 --> 00:23:08,050
+we have one micromole
+and the non-protonated
+
+350
+00:23:08,050 --> 00:23:12,210
+0.4 micromole and the
+protonated and here's
+
+351
+00:23:12,210 --> 00:23:17,270
+the total it is one
+drug after all the non
+
+352
+00:23:17,270 --> 00:23:20,310
+-protonated form readily
+crosses the membrane
+
+353
+00:23:20,310 --> 00:23:23,850
+you see here it can
+cross both directions.
+
+354
+00:23:24,830 --> 00:23:27,830
+The pH of the urine,
+however, is 6.0 in
+
+355
+00:23:27,830 --> 00:23:30,410
+this example, which
+is pretty common.
+
+356
+00:23:31,160 --> 00:23:33,070
+Urine tends to be acidic.
+
+357
+00:23:33,370 --> 00:23:36,450
+And we see this
+thicker arrow
+
+358
+00:23:36,450 --> 00:23:42,430
+pointing towards
+the protonated form.
+
+359
+00:23:42,790 --> 00:23:49,690
+Lower pH, more of
+the molecule of this
+
+360
+00:23:49,690 --> 00:23:52,570
+weak base will be in
+the protonated form.
+
+361
+00:23:52,590 --> 00:23:55,510
+So, we still have
+1 micromole of
+
+362
+00:23:55,510 --> 00:23:57,990
+the non-protonated,
+but we have 11
+
+363
+00:23:57,990 --> 00:24:02,370
+micromoles of the
+protonated form.
+
+364
+00:24:03,510 --> 00:24:05,910
+Therefore, we
+have a greater
+
+365
+00:24:05,910 --> 00:24:07,930
+amount that's
+not passing back
+
+366
+00:24:07,930 --> 00:24:13,650
+through, indicated
+by this arrow.
+
+367
+00:24:14,070 --> 00:24:16,830
+And it will
+pass out through
+
+368
+00:24:16,830 --> 00:24:19,050
+the urine and
+be excreted.
+
+369
+00:24:24,110 --> 00:24:26,090
+It's a basic idea
+of ion trapping.
+
+370
+00:24:26,090 --> 00:24:29,830
+This is actually
+a strategy used
+
+371
+00:24:29,830 --> 00:24:34,530
+most frequently for
+salicylate toxicity.
+
+372
+00:24:34,530 --> 00:24:36,890
+And salicylate
+is a weak acid.
+
+373
+00:24:38,470 --> 00:24:40,750
+So the whole
+idea then would
+
+374
+00:24:40,750 --> 00:24:49,170
+be to increase
+urine pH to 7 or
+
+375
+00:24:49,170 --> 00:24:51,770
+8, as high as
+we can get it,
+
+376
+00:24:52,070 --> 00:24:54,810
+so that we can trap
+the salicylate in the
+
+377
+00:24:54,810 --> 00:24:57,350
+urine and excrete it
+at a greater rate.
+
+378
+00:24:59,750 --> 00:25:02,250
+Let's talk about
+transporters now.
+
+379
+00:25:02,250 --> 00:25:04,710
+That's another way for
+drugs to pass through
+
+380
+00:25:04,710 --> 00:25:07,950
+physiologic barriers.
+Not all drugs have
+
+381
+00:25:07,950 --> 00:25:11,450
+the lipid solubility
+to be able to actually
+
+382
+00:25:11,450 --> 00:25:14,000
+pass through the
+bilayer. So there are
+
+383
+00:25:14,000 --> 00:25:16,270
+transporters. And these
+transporters, of course,
+
+384
+00:25:16,270 --> 00:25:20,630
+are present because our
+natural body processes
+
+385
+00:25:20,630 --> 00:25:23,810
+require them, but the
+drugs use them also.
+
+386
+00:25:24,130 --> 00:25:24,990
+Now,
+
+387
+00:25:25,130 --> 00:25:27,870
+membrane transporters
+are selective,
+
+388
+00:25:27,870 --> 00:25:31,310
+so a drug must
+actually need to be a
+
+389
+00:25:31,310 --> 00:25:35,670
+substrate of the
+transporter in order
+
+390
+00:25:35,670 --> 00:25:38,630
+for it to pass through
+the transporter.
+
+391
+00:25:41,400 --> 00:25:44,250
+and it is selective
+for a specific
+
+392
+00:25:44,250 --> 00:25:46,050
+conformational
+structure of the
+
+393
+00:25:46,050 --> 00:25:48,210
+drug. That's
+basically what we're
+
+394
+00:25:48,210 --> 00:25:51,170
+talking about,
+being a substrate.
+
+395
+00:25:51,590 --> 00:25:55,390
+They are saturable
+because they are
+
+396
+00:25:55,390 --> 00:25:58,530
+doors. They are
+doors across the
+
+397
+00:25:58,530 --> 00:26:02,750
+membrane and if
+they're busy, then
+
+398
+00:26:02,750 --> 00:26:04,790
+other drugs can't
+pass through them.
+
+399
+00:26:06,470 --> 00:26:12,190
+their expression can be
+increased or decreased
+
+400
+00:26:12,190 --> 00:26:16,610
+just like metabolic
+enzymes they are
+
+401
+00:26:16,610 --> 00:26:20,710
+subject to competitive
+inhibition as i said before
+
+402
+00:26:20,710 --> 00:26:24,070
+if they are busy
+another substrate is not
+
+403
+00:26:24,070 --> 00:26:26,150
+going to be able to
+pass through it because
+
+404
+00:26:26,150 --> 00:26:30,910
+it's busy it's saturated
+all of them saturated
+
+405
+00:26:30,910 --> 00:26:33,630
+It's not just one
+transporter, there are
+
+406
+00:26:33,630 --> 00:26:36,550
+probably hundreds of
+thousands, at least.
+
+407
+00:26:37,570 --> 00:26:40,730
+It is also subject
+to non-competitive
+
+408
+00:26:40,730 --> 00:26:43,650
+inhibition. In other
+words, a drug that
+
+409
+00:26:43,650 --> 00:26:47,210
+binds to an allosteric
+site can change
+
+410
+00:26:47,210 --> 00:26:49,490
+the conformation of
+the transporter such
+
+411
+00:26:49,490 --> 00:26:52,170
+that the substrate
+is unable to bind.
+
+412
+00:26:53,870 --> 00:26:55,930
+Excuse me, I pushed
+the wrong button.
+
+413
+00:26:57,450 --> 00:26:59,130
+Genetic variance.
+
+414
+00:27:00,510 --> 00:27:03,110
+Well we all have our
+certain appearances
+
+415
+00:27:03,110 --> 00:27:07,670
+based on our genes
+and the transporters
+
+416
+00:27:07,670 --> 00:27:11,530
+can be subject
+to mutations that
+
+417
+00:27:11,750 --> 00:27:14,670
+increase or decrease
+their effects.
+
+418
+00:27:17,460 --> 00:27:20,250
+There is a potential
+for adverse effects
+
+419
+00:27:20,250 --> 00:27:25,370
+and drug interactions
+based on the fact
+
+420
+00:27:25,370 --> 00:27:29,050
+that they can be
+induced, down-regulated,
+
+421
+00:27:29,050 --> 00:27:31,710
+competitive inhibition,
+non-competitive
+
+422
+00:27:31,710 --> 00:27:34,810
+inhibition, and
+genetic variants.
+
+423
+00:27:38,430 --> 00:27:42,130
+This figure
+here shows that
+
+424
+00:27:42,130 --> 00:27:44,950
+transporters really
+are everywhere.
+
+425
+00:27:45,290 --> 00:27:49,430
+There are two major
+families, the SLC
+
+426
+00:27:49,430 --> 00:27:53,250
+or solute carrier
+family. These are
+
+427
+00:27:53,250 --> 00:27:55,670
+the carrier proteins,
+the channels,
+
+428
+00:27:55,790 --> 00:27:58,310
+secondary active
+transporters.
+
+429
+00:27:58,550 --> 00:28:03,260
+The carrier proteins
+and channels just allow
+
+430
+00:28:03,340 --> 00:28:07,710
+passive diffusion,
+facilitative diffusion
+
+431
+00:28:07,710 --> 00:28:11,090
+and passive diffusion,
+down the concentration
+
+432
+00:28:11,090 --> 00:28:15,070
+gradient without the
+requirement of energy.
+
+433
+00:28:15,070 --> 00:28:18,690
+The drug molecule just
+moves through until
+
+434
+00:28:18,690 --> 00:28:22,450
+the concentrations on
+both sides are equal.
+
+435
+00:28:23,670 --> 00:28:26,190
+And then it
+would be no net
+
+436
+00:28:26,190 --> 00:28:29,890
+movement, a dynamic
+equilibrium.
+
+437
+00:28:31,610 --> 00:28:33,910
+And I'm writing this
+
+438
+00:28:33,910 --> 00:28:35,510
+again so you
+don't forget.
+
+439
+00:28:36,850 --> 00:28:40,730
+Secondary active
+transporters are the type
+
+440
+00:28:40,730 --> 00:28:46,070
+where two or more
+substances will use that
+
+441
+00:28:46,070 --> 00:28:49,130
+same transporter. One
+substance, frequently
+
+442
+00:28:49,130 --> 00:28:51,990
+sodium, moves down its
+concentration gradient,
+
+443
+00:28:51,990 --> 00:28:54,250
+in this case
+electrochemical gradient,
+
+444
+00:28:54,250 --> 00:28:56,910
+that supplies the
+energy for the
+
+445
+00:28:56,910 --> 00:28:58,730
+movement of
+another substance.
+
+446
+00:29:00,510 --> 00:29:04,950
+And the ABC
+superfamily, ATP.
+
+447
+00:29:05,170 --> 00:29:07,950
+All you have to really
+remember is AATP.
+
+448
+00:29:09,250 --> 00:29:12,490
+AATP. ATP
+requires energy.
+
+449
+00:29:12,490 --> 00:29:14,050
+I mean, it
+supplies energy.
+
+450
+00:29:14,610 --> 00:29:17,910
+for primary
+active transport
+
+451
+00:29:17,910 --> 00:29:20,850
+against the
+concentration gradient.
+
+452
+00:29:22,210 --> 00:29:29,050
+The ATPase is the
+enzyme that catalyzes
+
+453
+00:29:29,050 --> 00:29:34,210
+ATP hydrolysis supplying
+the energy. The
+
+454
+00:29:40,860 --> 00:29:44,910
+ABC superfamily
+of primary active
+
+455
+00:29:44,910 --> 00:29:51,010
+transporters provide active
+efflux of xenobiotics,
+
+456
+00:29:51,010 --> 00:29:53,010
+products that we
+put into our body
+
+457
+00:29:53,010 --> 00:29:56,690
+that are not natural
+to the body and get
+
+458
+00:29:56,690 --> 00:29:59,830
+pushed back against
+the concentration
+
+459
+00:29:59,830 --> 00:30:04,460
+gradient. A typical
+example would be the
+
+460
+00:30:04,460 --> 00:30:07,210
+intestine, where the
+drug goes into the
+
+461
+00:30:07,210 --> 00:30:10,190
+epithelial cells
+and gets pushed back
+
+462
+00:30:10,190 --> 00:30:13,450
+into the lumen. It
+should go like this.
+
+463
+00:30:15,290 --> 00:30:17,090
+And the liver.
+
+464
+00:30:20,950 --> 00:30:25,170
+There are active
+transporters for biliary
+
+465
+00:30:25,170 --> 00:30:29,090
+excretion to push them
+out of the hepatocytes
+
+466
+00:30:29,090 --> 00:30:32,350
+into the biliary
+system. for excretion.
+
+467
+00:30:32,630 --> 00:30:35,290
+Kidney, same thing. Blood
+
+468
+00:30:35,290 --> 00:30:39,170
+-brain barrier,
+and on and on.
+
+469
+00:30:42,270 --> 00:30:44,630
+Point out this
+little figure
+
+470
+00:30:44,630 --> 00:30:46,850
+here. This is,
+I believe, to
+
+471
+00:30:46,850 --> 00:30:48,790
+represent the
+placental barrier,
+
+472
+00:30:49,290 --> 00:30:51,430
+but I could be
+wrong about that.
+
+473
+00:30:51,590 --> 00:30:53,210
+Maybe you can tell.
+
+474
+00:30:58,580 --> 00:31:01,600
+Here we have figures
+of the various types of
+
+475
+00:31:01,600 --> 00:31:06,080
+transporters. We have
+carrier protein and
+
+476
+00:31:06,080 --> 00:31:12,640
+facilitated transport
+channel, all these
+
+477
+00:31:12,640 --> 00:31:17,660
+various solute carrier
+types of transporters for
+
+478
+00:31:17,660 --> 00:31:20,420
+passive transport,
+facilitated transport.
+
+479
+00:31:20,760 --> 00:31:25,820
+And our active
+transporters, this is called
+
+480
+00:31:25,820 --> 00:31:30,180
+a sodium potassium
+ATPase, and that is
+
+481
+00:31:30,180 --> 00:31:34,920
+the motor that powers
+active transport.
+
+482
+00:31:35,360 --> 00:31:37,260
+Here's our ATP,
+
+483
+00:31:37,440 --> 00:31:40,420
+goes to ADP,
+releases that
+
+484
+00:31:40,420 --> 00:31:41,820
+phosphate with energy.
+
+485
+00:31:43,580 --> 00:31:47,320
+This is an example
+of ion channels,
+
+486
+00:31:47,840 --> 00:31:51,640
+sodium ATPase
+again, sodium
+
+487
+00:31:51,640 --> 00:31:54,280
+potassium ATPase
+supplying the power,
+
+488
+00:31:55,280 --> 00:31:59,160
+sodium then goes down
+the concentration
+
+489
+00:31:59,160 --> 00:32:01,860
+gradient and that
+supplies the energy
+
+490
+00:32:01,860 --> 00:32:03,980
+for the movement,
+in this case of
+
+491
+00:32:03,980 --> 00:32:10,300
+bicarbonate, and in
+this case of an active,
+
+492
+00:32:10,470 --> 00:32:13,180
+sorry, this is an
+antipower, it goes the
+
+493
+00:32:13,180 --> 00:32:14,500
+different direction,
+the opposite
+
+494
+00:32:14,500 --> 00:32:17,950
+direction. And this is
+some other molecule.
+
+495
+00:32:20,680 --> 00:32:23,780
+Passive transport,
+secondary active
+
+496
+00:32:23,780 --> 00:32:26,580
+transport, and primary
+active transport.
+
+497
+00:32:28,360 --> 00:32:33,460
+The p-glycoprotein
+is one of
+
+498
+00:32:33,460 --> 00:32:36,760
+the most well
+-studied ATPases.
+
+499
+00:32:38,600 --> 00:32:43,640
+It is, this is a
+picture of it. You don't
+
+500
+00:32:43,640 --> 00:32:45,680
+have to memorize
+what it looks like.
+
+501
+00:32:45,680 --> 00:32:47,980
+You don't have to
+recreate that. What you
+
+502
+00:32:47,980 --> 00:32:51,260
+do need to know is
+that P-glycoprotein
+
+503
+00:32:51,380 --> 00:32:56,620
+is an ATP-dependent
+pump, active efflux
+
+504
+00:32:56,620 --> 00:32:59,340
+of drugs from the
+cell. We'll be talking
+
+505
+00:32:59,340 --> 00:33:02,260
+about this over and
+over and over and
+
+506
+00:33:02,260 --> 00:33:04,880
+over because it
+is essential for
+
+507
+00:33:04,880 --> 00:33:08,700
+understanding certain
+drug-drug interactions.
+
+508
+00:33:10,140 --> 00:33:13,400
+P-glycoprotein is located
+on the apical side
+
+509
+00:33:13,400 --> 00:33:16,040
+of plasma membranes
+right next to lumens.
+
+510
+00:33:18,260 --> 00:33:23,520
+It is expressed in
+intestine, liver,
+
+511
+00:33:23,520 --> 00:33:25,700
+kidney, brain capillaries,
+placenta, other
+
+512
+00:33:25,700 --> 00:33:28,860
+tissues. It is
+expressed on tumor
+
+513
+00:33:28,860 --> 00:33:33,700
+cells and confers
+multi-drug resistance.
+
+514
+00:33:33,980 --> 00:33:37,400
+And there are certain
+efflux transporters
+
+515
+00:33:37,400 --> 00:33:43,640
+on bacteria that pump
+our antibiotics out.
+
+516
+00:33:49,000 --> 00:33:50,570
+A little bit of a review.
+
+517
+00:33:50,780 --> 00:33:53,160
+The practice
+questions give more
+
+518
+00:33:53,160 --> 00:33:55,580
+interesting questions
+for application
+
+519
+00:33:55,580 --> 00:33:57,740
+of the knowledge.
+This is just a
+
+520
+00:33:57,740 --> 00:34:00,020
+check your knowledge
+review, and I
+
+521
+00:34:00,020 --> 00:34:02,400
+recommend that you
+pause the computer,
+
+522
+00:34:02,740 --> 00:34:06,580
+answer them in
+your own words from
+
+523
+00:34:06,580 --> 00:34:08,820
+your own memory,
+and then after you
+
+524
+00:34:08,820 --> 00:34:11,400
+try, look it
+up, and then try
+
+525
+00:34:11,400 --> 00:34:13,680
+answering from your
+own memory again.
+
+526
+00:34:14,260 --> 00:34:16,980
+So please pause
+if you wish.
+
+527
+00:34:18,360 --> 00:34:22,820
+And coming back now,
+what physicochemical
+
+528
+00:34:22,820 --> 00:34:25,380
+property determines the
+ability of a drug to
+
+529
+00:34:25,380 --> 00:34:28,420
+passively diffuse
+through lipid membranes?
+
+530
+00:34:29,240 --> 00:34:31,920
+By what mechanism
+can a hydrophilic
+
+531
+00:34:31,920 --> 00:34:34,380
+drug cross
+physiologic barriers?
+
+532
+00:34:35,490 --> 00:34:37,540
+For drugs that
+are weak acids and
+
+533
+00:34:37,540 --> 00:34:39,380
+weak bases, why
+is the pH of a
+
+534
+00:34:39,380 --> 00:34:41,940
+biologic fluid
+clinically important?
+
+535
+00:34:43,250 --> 00:34:45,030
+And here are the answers.
+
+536
+00:34:45,620 --> 00:34:48,040
+The lipid water
+coefficient of a
+
+537
+00:34:48,040 --> 00:34:50,060
+drug, which is the
+ratio of the drug
+
+538
+00:34:50,060 --> 00:34:52,240
+in the lipid and
+the aqueous phases,
+
+539
+00:34:52,610 --> 00:34:55,640
+determines how
+readily the drug
+
+540
+00:34:55,640 --> 00:34:58,740
+molecule moves across
+lipid membranes.
+
+541
+00:34:58,740 --> 00:35:01,100
+Lipid-soluble
+drugs passively
+
+542
+00:35:01,100 --> 00:35:02,620
+diffuse through the lipid
+
+543
+00:35:02,620 --> 00:35:04,680
+membranes, which
+are not saturable.
+
+544
+00:35:04,800 --> 00:35:08,060
+The rate of transfer, I'm
+
+545
+00:35:08,060 --> 00:35:09,560
+always talking
+about rates,
+
+546
+00:35:10,000 --> 00:35:12,700
+across the membranes
+from an area
+
+547
+00:35:12,700 --> 00:35:14,540
+of higher
+concentration to lower
+
+548
+00:35:14,540 --> 00:35:17,640
+concentration is
+directly proportional
+
+549
+00:35:17,640 --> 00:35:21,600
+to the lipid
+water coefficient.
+
+550
+00:35:23,520 --> 00:35:27,360
+A hydrophilic drug
+can cross physiologic
+
+551
+00:35:27,360 --> 00:35:29,280
+barriers via
+transport proteins.
+
+552
+00:35:29,280 --> 00:35:32,000
+Passive diffusion or
+facilitated transport
+
+553
+00:35:32,000 --> 00:35:33,960
+down the concentration
+gradient.
+
+554
+00:35:34,600 --> 00:35:37,860
+Or energy using
+active transport.
+
+555
+00:35:37,860 --> 00:35:40,360
+That would be
+secondary and primary.
+
+556
+00:35:40,720 --> 00:35:44,760
+Transporters are
+saturable. When all the
+
+557
+00:35:44,760 --> 00:35:49,680
+transporters are occupied,
+then nothing else
+
+558
+00:35:49,680 --> 00:35:52,470
+can get through until
+they are unoccupied.
+
+559
+00:35:52,900 --> 00:35:56,660
+They are at their
+maximum rate of transfer.
+
+560
+00:35:57,980 --> 00:36:00,720
+Weak acids and weak
+bases either gain or
+
+561
+00:36:00,720 --> 00:36:04,300
+lose electrical charge
+-bearing protons, depending
+
+562
+00:36:04,300 --> 00:36:07,920
+on their pKa and the
+pH of the medium.
+
+563
+00:36:09,230 --> 00:36:11,520
+only the uncharged
+form of the drug will
+
+564
+00:36:11,520 --> 00:36:14,080
+passively diffuse across
+the lipid bilayer while
+
+565
+00:36:14,080 --> 00:36:18,580
+the charged form does
+not this is called
+
+566
+00:36:18,580 --> 00:36:26,500
+ion ion trapping
+manipulation of urine ph may
+
+567
+00:36:26,500 --> 00:36:28,940
+be appropriate for
+increasing the rate of
+
+568
+00:36:28,940 --> 00:36:32,000
+excretion by ion
+trapping of certain drugs
+
+569
+00:36:32,000 --> 00:36:36,060
+such as toxic concentrations
+of salicylates.
+
+570
+00:36:41,320 --> 00:36:43,960
+Okay, so how do we
+introduce the drug
+
+571
+00:36:43,960 --> 00:36:46,920
+into the body? Looking
+at this figure,
+
+572
+00:36:46,920 --> 00:36:51,800
+it's easy to see
+that basically by any
+
+573
+00:36:51,800 --> 00:36:57,340
+method, any *******
+and injection into
+
+574
+00:36:58,580 --> 00:36:59,740
+everywhere,
+
+575
+00:36:59,920 --> 00:37:00,800
+basically.
+
+576
+00:37:01,960 --> 00:37:04,360
+Skin, veins,
+
+577
+00:37:04,480 --> 00:37:05,560
+arteries,
+
+578
+00:37:06,080 --> 00:37:07,440
+spine,
+
+579
+00:37:08,000 --> 00:37:09,040
+ventricles.
+
+580
+00:37:11,250 --> 00:37:13,640
+Selection of the
+root is determined by
+
+581
+00:37:13,640 --> 00:37:16,560
+the properties of the
+drug and therapeutic
+
+582
+00:37:16,570 --> 00:37:19,220
+objectives. What
+is the goal of
+
+583
+00:37:19,220 --> 00:37:21,440
+therapy? How quickly
+does the drug need
+
+584
+00:37:21,440 --> 00:37:26,900
+to be on board in
+therapeutic levels.
+
+585
+00:37:29,380 --> 00:37:32,380
+I'm not going to
+go through every
+
+586
+00:37:32,380 --> 00:37:34,600
+single route of
+administration.
+
+587
+00:37:36,200 --> 00:37:39,540
+I have a table at
+the end of this
+
+588
+00:37:39,540 --> 00:37:43,340
+PowerPoint with the
+benefits and disadvantages
+
+589
+00:37:43,340 --> 00:37:46,200
+of all of the
+various routes of
+
+590
+00:37:46,200 --> 00:37:49,320
+administration. You
+do need to know it.
+
+591
+00:37:52,460 --> 00:37:58,560
+need to know this
+is medicine. This is
+
+592
+00:37:58,560 --> 00:38:00,960
+how you are going
+to administer drugs
+
+593
+00:38:00,960 --> 00:38:05,160
+to your patient. So
+this is straightforward,
+
+594
+00:38:05,160 --> 00:38:08,680
+and you can look
+through that
+
+595
+00:38:08,680 --> 00:38:11,820
+on your own. You do
+need to learn it.
+
+596
+00:38:13,700 --> 00:38:17,340
+This is a quick
+overview. enteral roots
+
+597
+00:38:17,340 --> 00:38:21,460
+either so going through
+the mouth basically
+
+598
+00:38:21,460 --> 00:38:25,160
+or an enteral tube
+or at the other
+
+599
+00:38:25,160 --> 00:38:29,500
+end rectally going into
+the gut now sublingual
+
+600
+00:38:29,500 --> 00:38:32,700
+and buckle go into
+the mouth this
+
+601
+00:38:32,700 --> 00:38:34,860
+is tongue under the
+tongue this is between
+
+602
+00:38:34,860 --> 00:38:38,480
+the gum and cheek
+but they pass through
+
+603
+00:38:38,480 --> 00:38:40,620
+the mucous membranes
+of the mouth into
+
+604
+00:38:40,620 --> 00:38:45,020
+the venous drainage
+of the oral cavity.
+
+605
+00:38:45,980 --> 00:38:49,660
+The upper small
+intestine, upper
+
+606
+00:38:49,660 --> 00:38:52,280
+small intestine, is
+the major site of
+
+607
+00:38:52,280 --> 00:38:55,160
+oral drug absorption
+because the
+
+608
+00:38:55,160 --> 00:38:57,580
+intestine is made for
+absorption. That's
+
+609
+00:38:57,580 --> 00:38:59,960
+its job. It's an
+absorptive organ.
+
+610
+00:39:00,460 --> 00:39:03,320
+The stomach is
+not an absorptive
+
+611
+00:39:03,320 --> 00:39:06,940
+organ. It is a
+digestive organ.
+
+612
+00:39:09,980 --> 00:39:13,020
+Parenteral, so drugs
+that are injected.
+
+613
+00:39:13,630 --> 00:39:15,340
+I've indicated all the
+
+614
+00:39:15,340 --> 00:39:16,900
+various routes
+of injection.
+
+615
+00:39:18,220 --> 00:39:21,340
+Topical, we think
+of topical as
+
+616
+00:39:21,340 --> 00:39:23,260
+application for
+local effect.
+
+617
+00:39:23,260 --> 00:39:28,160
+Skin comes to mind
+readily, eyes, ears.
+
+618
+00:39:28,560 --> 00:39:29,400
+Lungs,
+
+619
+00:39:29,600 --> 00:39:32,060
+people who take
+inhalers for
+
+620
+00:39:32,060 --> 00:39:34,140
+lung disease.
+we're applying the
+
+621
+00:39:34,140 --> 00:39:35,980
+drug directly
+to lung tissue.
+
+622
+00:39:36,700 --> 00:39:39,360
+Gut, if the drug
+is not absorbed and
+
+623
+00:39:39,360 --> 00:39:40,900
+stays in the gut,
+it can actually
+
+624
+00:39:40,900 --> 00:39:44,060
+be used topically
+for gut problems.
+
+625
+00:39:44,620 --> 00:39:48,880
+And transdermal, this
+is transmucosal here,
+
+626
+00:39:51,300 --> 00:39:57,360
+transdermal is
+topical, however it's
+
+627
+00:39:57,360 --> 00:39:59,040
+intended to pass
+through the skin
+
+628
+00:39:59,040 --> 00:40:01,160
+layers for systemic
+circulation.
+
+629
+00:40:04,920 --> 00:40:09,940
+This little figure
+shows where the
+
+630
+00:40:09,940 --> 00:40:13,480
+needle is injected
+for various
+
+631
+00:40:13,480 --> 00:40:16,340
+parenteral roots
+through the skin.
+
+632
+00:40:19,080 --> 00:40:21,340
+So that's all I'm
+going to say about
+
+633
+00:40:21,340 --> 00:40:24,800
+absorption and
+administration, or I
+
+634
+00:40:24,800 --> 00:40:26,220
+should say routes
+of administration,
+
+635
+00:40:26,220 --> 00:40:29,260
+so please do learn
+that on your own.
+
+636
+00:40:29,480 --> 00:40:31,800
+So distribution
+is the process by
+
+637
+00:40:31,800 --> 00:40:33,600
+which a drug
+reversibly leaves the
+
+638
+00:40:33,600 --> 00:40:35,540
+bloodstream
+and enters the
+
+639
+00:40:35,540 --> 00:40:38,660
+interstitial and
+intracellular fluids.
+
+640
+00:40:38,960 --> 00:40:43,540
+Moving through the
+body, two targets.
+
+641
+00:40:44,820 --> 00:40:48,160
+First pass effect,
+bioavailability, and
+
+642
+00:40:48,160 --> 00:40:51,820
+extent of distribution.
+The first pass
+
+643
+00:40:51,820 --> 00:40:57,380
+effect is merely how
+much of the drug that's
+
+644
+00:40:57,380 --> 00:41:00,520
+taken ****** will
+pass through the gut
+
+645
+00:41:00,520 --> 00:41:04,180
+into the portal
+circulation, pass through
+
+646
+00:41:04,180 --> 00:41:09,660
+the liver and be
+metabolized within the
+
+647
+00:41:09,660 --> 00:41:13,560
+liver. So first pass
+effect is basically
+
+648
+00:41:13,560 --> 00:41:20,600
+the inactivation by
+drug metabolism and
+
+649
+00:41:20,600 --> 00:41:24,640
+a certain percent will
+then be distributed
+
+650
+00:41:24,640 --> 00:41:28,580
+however much manages
+to get through
+
+651
+00:41:28,580 --> 00:41:32,520
+that process to the
+systemic circulation.
+
+652
+00:41:33,060 --> 00:41:36,260
+So the first pass
+effect just to
+
+653
+00:41:36,260 --> 00:41:39,540
+reiterate so you won't
+be confused, is about
+
+654
+00:41:39,540 --> 00:41:44,060
+the inactivation by
+drug metabolizing.
+
+655
+00:41:44,060 --> 00:41:47,300
+Enzymes of oral
+drugs, because they
+
+656
+00:41:47,300 --> 00:41:50,580
+pass through the
+liver first before
+
+657
+00:41:50,580 --> 00:41:52,760
+going into the
+systemic circulation.
+
+658
+00:41:54,100 --> 00:41:57,200
+Now bioavailability
+is the amount
+
+659
+00:41:57,200 --> 00:41:59,940
+that actually
+passes through and
+
+660
+00:41:59,940 --> 00:42:02,220
+gets to the systemic
+circulation.
+
+661
+00:42:04,180 --> 00:42:09,000
+so it is the fraction
+of the dose of the
+
+662
+00:42:09,000 --> 00:42:11,560
+active drug that
+reaches the systemic
+
+663
+00:42:11,560 --> 00:42:14,820
+circulation so a drug
+that is taken ******
+
+664
+00:42:14,820 --> 00:42:17,780
+and is completely
+metabolized through by
+
+665
+00:42:17,780 --> 00:42:20,660
+the liver on the first
+pass is not a useful
+
+666
+00:42:20,660 --> 00:42:24,080
+drug because very
+little of it will
+
+667
+00:42:24,080 --> 00:42:28,300
+get to the systemic
+circulation So, all
+
+668
+00:42:28,300 --> 00:42:32,520
+drugs that are oral
+must have some degree
+
+669
+00:42:32,520 --> 00:42:36,160
+of bioavailability in
+order to be useful.
+
+670
+00:42:38,660 --> 00:42:43,000
+the rate and extent of
+distribution through
+
+671
+00:42:43,000 --> 00:42:46,940
+the body is determined
+by for the i don't
+
+672
+00:42:46,940 --> 00:42:49,080
+know how many times
+now 25th time or
+
+673
+00:42:49,080 --> 00:42:51,660
+something the physical
+physical chemical
+
+674
+00:42:51,660 --> 00:42:55,840
+properties of the
+drug and the patient's
+
+675
+00:42:55,840 --> 00:42:59,540
+physiologic factors is
+the patient young and
+
+676
+00:42:59,540 --> 00:43:02,860
+healthy? Does the
+patient have adequate
+
+677
+00:43:02,860 --> 00:43:06,440
+cardiac output, adequate
+regional blood flow?
+
+678
+00:43:07,060 --> 00:43:10,760
+How is the capillary
+permeability? That's
+
+679
+00:43:10,760 --> 00:43:13,480
+how drugs get into
+interstitial spaces.
+
+680
+00:43:15,000 --> 00:43:18,280
+And what is the volume
+of this patient,
+
+681
+00:43:18,280 --> 00:43:20,460
+the tissue volume?
+How large are
+
+682
+00:43:20,460 --> 00:43:23,540
+they? How much muscle
+mass do they have?
+
+683
+00:43:23,540 --> 00:43:26,500
+How much fat mass
+do they have, etc.
+
+684
+00:43:28,560 --> 00:43:31,580
+Now redistribution,
+that's certainly
+
+685
+00:43:31,580 --> 00:43:33,880
+an important concept
+in distribution.
+
+686
+00:43:33,880 --> 00:43:35,760
+We'll talk about
+redistribution.
+
+687
+00:43:35,780 --> 00:43:39,820
+This is so boards
+relevant. So
+
+688
+00:43:44,540 --> 00:43:46,660
+what is it? What
+we're talking
+
+689
+00:43:46,660 --> 00:43:51,130
+about is one dose
+of a highly lipid
+
+690
+00:43:51,130 --> 00:43:52,900
+soluble drug. So
+what kind of drug
+
+691
+00:43:52,900 --> 00:43:55,040
+is that? Let's
+say an anesthetic.
+
+692
+00:43:55,440 --> 00:43:57,560
+That's when we
+talk about it most
+
+693
+00:43:57,560 --> 00:43:59,920
+frequently. So we're
+talking about one
+
+694
+00:43:59,920 --> 00:44:02,800
+dose of an anesthetic.
+We might be
+
+695
+00:44:02,800 --> 00:44:05,160
+talking about an
+anti-seizure drug.
+
+696
+00:44:06,380 --> 00:44:10,580
+So we see on this figure,
+
+697
+00:44:10,580 --> 00:44:12,560
+the peak is right here.
+
+698
+00:44:13,940 --> 00:44:16,060
+So if it's an oral
+drug, it's going to
+
+699
+00:44:16,060 --> 00:44:18,540
+be a lag time. But
+let's talk about an
+
+700
+00:44:18,540 --> 00:44:22,180
+IV drug. It's administered
+IV, gets right
+
+701
+00:44:22,180 --> 00:44:26,040
+away into the
+bloodstream, and it will
+
+702
+00:44:27,020 --> 00:44:30,300
+be carried
+through the body
+
+703
+00:44:30,300 --> 00:44:33,880
+to the highly
+perfused organs.
+
+704
+00:44:33,880 --> 00:44:37,980
+So VRG stands for
+vessel-rich group.
+
+705
+00:44:39,100 --> 00:44:41,700
+And what is the
+vessel-rich group that
+
+706
+00:44:41,700 --> 00:44:43,880
+we're concerned with
+with an anesthetic?
+
+707
+00:44:43,880 --> 00:44:48,400
+The brain, CNS, brain,
+and spinal cord.
+
+708
+00:44:49,440 --> 00:44:51,300
+All right, this
+one dose of
+
+709
+00:44:51,300 --> 00:44:54,440
+drug travels to the brain
+
+710
+00:44:54,960 --> 00:44:57,800
+and because the
+brain tissue has no
+
+711
+00:44:57,800 --> 00:45:00,900
+molecules in it at
+that moment and the
+
+712
+00:45:00,900 --> 00:45:03,800
+concentration in blood
+is high, the drug will
+
+713
+00:45:03,800 --> 00:45:05,980
+move down its
+concentration gradient into
+
+714
+00:45:05,980 --> 00:45:08,820
+the CNS tissues and
+produce its effects.
+
+715
+00:45:09,460 --> 00:45:11,660
+And as the drug
+does that and
+
+716
+00:45:11,660 --> 00:45:12,900
+moves through
+the body, the
+
+717
+00:45:12,900 --> 00:45:16,180
+concentration in
+drug now decreases.
+
+718
+00:45:17,720 --> 00:45:21,100
+At the same time, the
+vessel-rich group,
+
+719
+00:45:21,100 --> 00:45:24,100
+including the CNS, is
+taking up the drug.
+
+720
+00:45:26,900 --> 00:45:30,880
+So the concentration
+increases in the vessel
+
+721
+00:45:30,880 --> 00:45:33,180
+-rich group, decreases
+in the bloodstream,
+
+722
+00:45:33,180 --> 00:45:35,240
+there's only a certain
+amount that has to go
+
+723
+00:45:35,240 --> 00:45:39,000
+around to everywhere,
+produces its effect.
+
+724
+00:45:39,320 --> 00:45:42,580
+And as the
+bloodstream, as
+
+725
+00:45:42,580 --> 00:45:45,180
+the drug in
+blood is reduced,
+
+726
+00:45:45,800 --> 00:45:47,500
+you see it's even
+going into the
+
+727
+00:45:47,500 --> 00:45:49,860
+skeletal muscles
+here, but much
+
+728
+00:45:49,860 --> 00:45:53,060
+more slowly because
+they're less
+
+729
+00:45:54,510 --> 00:45:57,500
+perfused than the
+vessel-rich group.
+
+730
+00:45:58,960 --> 00:46:01,760
+Now the drug is
+moving out of the CNS
+
+731
+00:46:01,760 --> 00:46:04,240
+tissues back into
+the blood because the
+
+732
+00:46:04,240 --> 00:46:06,660
+concentration gradient
+in the blood is lower.
+
+733
+00:46:07,120 --> 00:46:08,000
+Okay,
+
+734
+00:46:08,640 --> 00:46:10,720
+and drug moves to
+the other tissues
+
+735
+00:46:10,720 --> 00:46:14,000
+based on the level
+or perfusion. So the
+
+736
+00:46:14,000 --> 00:46:17,800
+point is, with
+redistribution, the drug
+
+737
+00:46:17,800 --> 00:46:21,260
+produces its CNS
+effect very rapidly.
+
+738
+00:46:22,410 --> 00:46:24,560
+And with the one dose,
+
+739
+00:46:25,060 --> 00:46:30,200
+as the concentration
+in plasma decreases,
+
+740
+00:46:30,380 --> 00:46:34,060
+the CNS effect decreases,
+
+741
+00:46:35,120 --> 00:46:37,320
+decreased CNS effect.
+
+742
+00:46:39,600 --> 00:46:42,520
+This phenomenon
+occurs primarily
+
+743
+00:46:42,520 --> 00:46:44,360
+when one dose
+of highly lipid
+
+744
+00:46:44,360 --> 00:46:46,600
+-soluble drug
+acting on the brain
+
+745
+00:46:47,740 --> 00:46:51,320
+and spinal cord is
+administered rapidly
+
+746
+00:46:51,320 --> 00:46:54,580
+by intravenous injection
+or by inhalation.
+
+747
+00:46:54,580 --> 00:46:56,900
+Many anesthetics,
+well, a few
+
+748
+00:46:56,900 --> 00:46:58,760
+anesthetics are
+by inhalation.
+
+749
+00:46:59,240 --> 00:47:02,520
+The drug rapidly
+distributes to the CNS,
+
+750
+00:47:02,520 --> 00:47:05,680
+moves down the
+concentration gradient into
+
+751
+00:47:05,680 --> 00:47:08,860
+the CNS tissues, and
+produces its effect.
+
+752
+00:47:09,920 --> 00:47:13,430
+The drug then moves
+back into the blood
+
+753
+00:47:13,430 --> 00:47:15,920
+as it is taken up
+by the less vascular
+
+754
+00:47:15,920 --> 00:47:19,400
+tissues, which, and
+here's the key point,
+
+755
+00:47:19,620 --> 00:47:22,780
+terminates the
+CNS effect.
+
+756
+00:47:26,960 --> 00:47:31,020
+But, IV administration
+of drug moves to
+
+757
+00:47:31,020 --> 00:47:36,820
+CNS, produces its
+effect, then it quickly
+
+758
+00:47:37,690 --> 00:47:40,200
+terminates the CNS
+effect as it moves
+
+759
+00:47:40,200 --> 00:47:42,220
+out of the CNS
+tissue back into the
+
+760
+00:47:42,220 --> 00:47:46,400
+bloodstream. Now,
+this is not related to
+
+761
+00:47:46,400 --> 00:47:49,400
+the drug moving out
+of the body, being
+
+762
+00:47:49,400 --> 00:47:53,040
+excreted by the
+body. It's just the
+
+763
+00:47:53,040 --> 00:47:58,060
+redistribution into
+the peripheral tissues.
+
+764
+00:47:58,060 --> 00:48:00,040
+That's the concept.
+
+765
+00:48:00,920 --> 00:48:04,460
+Termination of
+CNS effect of
+
+766
+00:48:04,460 --> 00:48:06,540
+this highly lipid
+-soluble drug.
+
+767
+00:48:06,960 --> 00:48:09,840
+One dose by
+redistribution
+
+768
+00:48:09,840 --> 00:48:11,680
+to the peripheral
+tissues.
+
+769
+00:48:12,220 --> 00:48:13,200
+That's it.
+
+770
+00:48:18,260 --> 00:48:21,240
+Distribution across
+the placenta. The fetus
+
+771
+00:48:21,240 --> 00:48:23,700
+is to some extent
+exposed to all drugs,
+
+772
+00:48:23,700 --> 00:48:26,300
+or nearly all drugs,
+taken by the mother.
+
+773
+00:48:28,090 --> 00:48:30,680
+Placental transfer
+of drugs across the
+
+774
+00:48:30,680 --> 00:48:34,200
+placenta may cause
+anomalies in the developing
+
+775
+00:48:34,200 --> 00:48:37,380
+fetus. So the general
+determinants of
+
+776
+00:48:37,380 --> 00:48:43,700
+drugs that can produce
+important levels
+
+777
+00:48:43,700 --> 00:48:47,640
+in the fetus's
+bloodstream, systemic
+
+778
+00:48:47,640 --> 00:48:51,340
+circulation, are the
+lipid solubility of the
+
+779
+00:48:51,340 --> 00:48:54,580
+drug. If it's lipid
+-soluble, it can, as
+
+780
+00:48:54,580 --> 00:48:57,560
+you know, can cross
+physiologic membranes.
+
+781
+00:48:58,180 --> 00:49:01,380
+If the drug is
+highly protein-bound,
+
+782
+00:49:01,520 --> 00:49:05,920
+then there is a
+lower amount of free
+
+783
+00:49:05,920 --> 00:49:08,820
+drug that can
+cross the lipid
+
+784
+00:49:09,340 --> 00:49:11,900
+membranes. But it
+could still be enough.
+
+785
+00:49:13,640 --> 00:49:16,480
+Fetal plasma is
+slightly more acidic
+
+786
+00:49:16,520 --> 00:49:18,700
+than the mother,
+so thinking
+
+787
+00:49:18,700 --> 00:49:20,920
+about ion-trapping
+of basic drugs.
+
+788
+00:49:24,120 --> 00:49:28,800
+P-glycoprotein and other
+export transporters
+
+789
+00:49:28,800 --> 00:49:33,340
+are part of that blood
+placenta barrier.
+
+790
+00:49:34,220 --> 00:49:37,980
+So they function
+to limit the fetal
+
+791
+00:49:37,980 --> 00:49:41,480
+exposure of certain
+drugs. Drugs that
+
+792
+00:49:41,480 --> 00:49:44,360
+are substrates of
+poor P-glycoprotein.
+
+793
+00:49:47,540 --> 00:49:50,140
+Now drug reservoirs.
+
+794
+00:49:50,920 --> 00:49:53,840
+I've mentioned this
+a few times by now.
+
+795
+00:49:54,500 --> 00:49:56,520
+Drug reservoirs
+and other, think
+
+796
+00:49:56,520 --> 00:49:59,900
+about storage
+sites, storage.
+
+797
+00:50:02,420 --> 00:50:05,520
+Reversible binding,
+and that's how
+
+798
+00:50:05,520 --> 00:50:11,660
+these are. The
+drugs are 99.999999%
+
+799
+00:50:11,660 --> 00:50:15,600
+reversible binding
+to the inert plasma
+
+800
+00:50:15,600 --> 00:50:19,160
+proteins and inert
+tissue macromolecules
+
+801
+00:50:19,160 --> 00:50:22,780
+tends to sequester
+the drug in those
+
+802
+00:50:22,780 --> 00:50:24,180
+compartments. So
+what does that mean?
+
+803
+00:50:26,920 --> 00:50:35,500
+Drugs on inert
+molecules are not free.
+
+804
+00:50:36,500 --> 00:50:40,200
+They are not free
+to be metabolized.
+
+805
+00:50:40,200 --> 00:50:42,360
+They are not free
+to be excreted. They
+
+806
+00:50:42,360 --> 00:50:45,720
+are not free to
+travel to their
+
+807
+00:50:45,720 --> 00:50:49,060
+site of action or
+anywhere else. They
+
+808
+00:50:49,060 --> 00:50:52,520
+are riding around
+on the albumin bus.
+
+809
+00:50:53,040 --> 00:50:57,400
+Albumin is the major
+plasma protein that
+
+810
+00:50:57,400 --> 00:50:59,820
+we're thinking about
+when it comes to
+
+811
+00:50:59,820 --> 00:51:03,720
+sequestering of drugs
+on plasma proteins.
+
+812
+00:51:05,770 --> 00:51:09,480
+Drugs that bind to tissue
+
+813
+00:51:09,480 --> 00:51:12,660
+macromolecules stay
+in the tissues.
+
+814
+00:51:12,960 --> 00:51:15,240
+Now this is
+reversible, don't
+
+815
+00:51:15,240 --> 00:51:17,040
+forget, reversible
+binding.
+
+816
+00:51:17,040 --> 00:51:18,680
+So the drugs can be on
+
+817
+00:51:18,680 --> 00:51:23,500
+and off and on and off.
+
+818
+00:51:23,680 --> 00:51:28,940
+And the extent
+depends on their
+
+819
+00:51:28,940 --> 00:51:31,320
+affinity for those
+plasma proteins
+
+820
+00:51:31,320 --> 00:51:33,820
+and the concentration
+of drug.
+
+821
+00:51:38,650 --> 00:51:41,510
+Looking at our plasma
+protein concept here,
+
+822
+00:51:43,350 --> 00:51:45,130
+we have our drug protein
+
+823
+00:51:45,130 --> 00:51:47,390
+complex and free drug.
+
+824
+00:51:48,210 --> 00:51:50,150
+This is in dynamic
+
+825
+00:51:50,150 --> 00:51:54,050
+equilibrium at
+steady state.
+
+826
+00:51:54,130 --> 00:51:59,230
+So steady state
+occurs with continuous
+
+827
+00:51:59,230 --> 00:52:03,110
+dosing. Either it's an
+IV dose that's going
+
+828
+00:52:03,110 --> 00:52:06,750
+in by continuous
+infusion or it's dosed
+
+829
+00:52:06,750 --> 00:52:09,990
+by any route of
+administration that goes in
+
+830
+00:52:09,990 --> 00:52:15,530
+at a frequency, at
+a regular frequency.
+
+831
+00:52:15,570 --> 00:52:17,830
+So that's what we
+mean by continuous
+
+832
+00:52:17,830 --> 00:52:19,770
+dosing. And it
+gets to the point
+
+833
+00:52:19,770 --> 00:52:23,650
+where there is
+dynamic equilibrium.
+
+834
+00:52:26,380 --> 00:52:28,630
+Here's our free
+drug molecules in
+
+835
+00:52:28,630 --> 00:52:31,170
+plasma in this figure,
+and you can see
+
+836
+00:52:31,170 --> 00:52:34,530
+they pass through the
+spaces and capillaries
+
+837
+00:52:34,530 --> 00:52:36,370
+and they move
+into the tissues.
+
+838
+00:52:36,450 --> 00:52:39,390
+The bound drug does not.
+
+839
+00:52:42,910 --> 00:52:45,310
+That's the basic idea.
+
+840
+00:52:46,080 --> 00:52:47,590
+We'll talk more about
+
+841
+00:52:47,590 --> 00:52:49,150
+that in a future lecture.
+
+842
+00:52:51,410 --> 00:52:52,970
+Oh, sorry.
+
+843
+00:52:54,330 --> 00:52:55,410
+Okay.
+
+844
+00:52:57,430 --> 00:53:00,190
+Okay, so some of
+the features of drug
+
+845
+00:53:00,190 --> 00:53:02,470
+binding to these inert
+molecules, meaning
+
+846
+00:53:02,470 --> 00:53:05,430
+they don't have a
+regulatory effect,
+
+847
+00:53:05,430 --> 00:53:08,030
+they're important,
+but they don't cause,
+
+848
+00:53:08,650 --> 00:53:10,890
+when they're, they
+don't have, they're
+
+849
+00:53:10,890 --> 00:53:12,870
+not activated and
+producing some
+
+850
+00:53:12,870 --> 00:53:18,490
+biologic effect as on
+molecules, on cells.
+
+851
+00:53:20,140 --> 00:53:24,210
+drug binding is non
+-selective so that
+
+852
+00:53:24,210 --> 00:53:28,770
+means a wide variety
+of different chemical
+
+853
+00:53:28,770 --> 00:53:33,470
+structures can
+be bound to the
+
+854
+00:53:33,470 --> 00:53:38,100
+plasma protein it's
+variable saturable
+
+855
+00:53:38,100 --> 00:53:41,030
+there are only just
+so many molecules of
+
+856
+00:53:41,030 --> 00:53:44,350
+albumin floating
+around in the blood it
+
+857
+00:53:44,350 --> 00:53:46,930
+is non-linear meaning
+it's saturable
+
+858
+00:53:48,150 --> 00:53:50,470
+and it is reversible.
+
+859
+00:53:50,470 --> 00:53:56,650
+So on and off
+and on and off
+
+860
+00:53:56,650 --> 00:53:58,530
+in a dynamic equilibrium.
+
+861
+00:53:58,930 --> 00:54:03,150
+The fraction bound is
+determined by how much
+
+862
+00:54:03,150 --> 00:54:05,830
+drug there is. So the
+drug concentration.
+
+863
+00:54:08,110 --> 00:54:12,290
+What is the affinity
+of that plasma protein
+
+864
+00:54:12,290 --> 00:54:14,070
+for the drug? If
+it has no affinity,
+
+865
+00:54:14,070 --> 00:54:16,350
+it won't bind the
+drug. or it might have
+
+866
+00:54:16,350 --> 00:54:18,470
+high affinity and
+bind the drug tightly,
+
+867
+00:54:18,470 --> 00:54:20,610
+but it's usually
+somewhere in the middle.
+
+868
+00:54:21,770 --> 00:54:26,370
+And albumin has a
+number of binding sites.
+
+869
+00:54:27,090 --> 00:54:28,950
+It could be
+binding a number of
+
+870
+00:54:28,950 --> 00:54:31,230
+different molecules
+at the same time.
+
+871
+00:54:31,370 --> 00:54:34,410
+So if there are
+a large number,
+
+872
+00:54:34,410 --> 00:54:37,370
+then it's got a big
+capacity to bind
+
+873
+00:54:37,370 --> 00:54:38,810
+drugs. If there's
+a small number
+
+874
+00:54:38,810 --> 00:54:41,370
+available, then a
+smaller capacity.
+
+875
+00:54:43,790 --> 00:54:46,590
+Competition and
+disease related factors
+
+876
+00:54:46,590 --> 00:54:49,510
+can determine the
+extent of drug binding.
+
+877
+00:54:53,550 --> 00:54:56,310
+So here's a check
+your knowledge
+
+878
+00:54:56,310 --> 00:54:59,770
+and perhaps you
+would like to
+
+879
+00:55:01,030 --> 00:55:03,610
+pause the video
+and try and answer
+
+880
+00:55:03,610 --> 00:55:06,470
+these on your own.
+So you may pause now.
+
+881
+00:55:08,050 --> 00:55:10,410
+and welcome back. I hope
+
+882
+00:55:10,410 --> 00:55:12,270
+you gave this
+some thought.
+
+883
+00:55:12,570 --> 00:55:14,570
+Oral drugs are
+absorbed mainly
+
+884
+00:55:14,570 --> 00:55:16,430
+from what part
+of the intestine?
+
+885
+00:55:17,110 --> 00:55:19,810
+What is the clinical
+significance of the
+
+886
+00:55:19,810 --> 00:55:22,590
+phenomenon of redistribution
+when applied to
+
+887
+00:55:22,590 --> 00:55:25,390
+highly lipophilic drugs
+such as anesthetics?
+
+888
+00:55:25,570 --> 00:55:28,170
+What is the concern
+about drugs that
+
+889
+00:55:28,170 --> 00:55:30,250
+can cross the blood
+placenta barrier?
+
+890
+00:55:30,570 --> 00:55:32,750
+And what is the
+clinical relevance
+
+891
+00:55:32,750 --> 00:55:34,150
+of drug binding to plasma
+
+892
+00:55:34,150 --> 00:55:36,570
+proteins and tissue
+macromolecules.
+
+893
+00:55:39,760 --> 00:55:41,810
+Drugs are absorbed
+mainly from the
+
+894
+00:55:41,810 --> 00:55:44,030
+upper small intestine,
+which has a very
+
+895
+00:55:44,030 --> 00:55:46,210
+large surface
+area for absorbing
+
+896
+00:55:46,210 --> 00:55:50,070
+nutrients and drugs,
+because of villi along
+
+897
+00:55:50,070 --> 00:55:52,210
+the length of the
+small intestine.
+
+898
+00:55:53,810 --> 00:55:58,790
+The redistribution
+refers to a drug that
+
+899
+00:55:58,790 --> 00:56:02,570
+will go immediately
+to the CNS, produce
+
+900
+00:56:02,570 --> 00:56:06,310
+the CNS effect,
+and as the drug is
+
+901
+00:56:07,630 --> 00:56:10,250
+redistributed to the
+peripheral tissue,
+
+902
+00:56:10,250 --> 00:56:14,550
+the plasma concentration
+of the drug is
+
+903
+00:56:14,550 --> 00:56:18,770
+reduced and the CNS
+effect is diminished.
+
+904
+00:56:20,950 --> 00:56:24,290
+Drugs able to cross the
+blood placenta barrier
+
+905
+00:56:24,290 --> 00:56:28,130
+can lead to fetal
+exposure of the drug.
+
+906
+00:56:28,480 --> 00:56:31,650
+Practitioners need to
+know what drugs are
+
+907
+00:56:31,650 --> 00:56:36,370
+safe, what drugs are
+toxic to the fetus, and
+
+908
+00:56:36,370 --> 00:56:41,190
+at which stages of the
+pregnancy. This is a
+
+909
+00:56:41,190 --> 00:56:45,990
+must-know that we will
+talk about as we go
+
+910
+00:56:45,990 --> 00:56:50,130
+through these various
+drug classes later on.
+
+911
+00:56:51,410 --> 00:56:53,350
+Plasma proteins
+and tissue
+
+912
+00:56:53,350 --> 00:56:55,610
+macromolecules
+are inert. They do
+
+913
+00:56:55,610 --> 00:56:57,650
+not regulate
+cellular actions.
+
+914
+00:56:57,830 --> 00:57:02,310
+Drugs reversibly bound
+to plasma proteins
+
+915
+00:57:02,310 --> 00:57:04,750
+or tissue macromolecules
+are sequestered.
+
+916
+00:57:04,750 --> 00:57:07,750
+They're not free
+to be metabolized,
+
+917
+00:57:07,750 --> 00:57:09,750
+excreted, or reach
+the site of action.
+
+918
+00:57:09,890 --> 00:57:13,250
+As the concentration
+of free drug decreases
+
+919
+00:57:13,250 --> 00:57:15,790
+due to elimination,
+drug molecules
+
+920
+00:57:15,790 --> 00:57:18,770
+dissociate, which
+maintains the free drug
+
+921
+00:57:18,770 --> 00:57:22,250
+concentration at a
+constant fraction.
+
+922
+00:57:25,890 --> 00:57:31,610
+And in summary, this
+is a little mind
+
+923
+00:57:31,610 --> 00:57:35,810
+map of the
+pharmacokinetic processes.
+
+924
+00:57:37,410 --> 00:57:40,490
+The physicochemical
+characteristics of
+
+925
+00:57:40,490 --> 00:57:42,890
+a drug determine its
+ability to withstand
+
+926
+00:57:42,890 --> 00:57:45,390
+digestive fluids
+and enzymes and be
+
+927
+00:57:45,390 --> 00:57:48,250
+absorbed from the
+GI tract, cross
+
+928
+00:57:48,250 --> 00:57:51,230
+physiologic barriers,
+survive metabolic
+
+929
+00:57:51,230 --> 00:57:54,030
+processes. distribute
+to the site of action
+
+930
+00:57:54,030 --> 00:57:57,110
+in therapeutic
+concentrations and exit
+
+931
+00:57:57,110 --> 00:58:00,130
+the site of action
+and be eliminated.
+
+932
+00:58:00,680 --> 00:58:02,790
+Drugs move along
+their concentration
+
+933
+00:58:02,790 --> 00:58:05,210
+gradients by passive
+diffusion across the
+
+934
+00:58:05,210 --> 00:58:08,090
+lipid bilayer of
+cell membranes or by
+
+935
+00:58:08,090 --> 00:58:11,730
+carrier or channel
+-mediated transport.
+
+936
+00:58:11,940 --> 00:58:14,890
+Drugs may also be
+pumped out by energy
+
+937
+00:58:14,890 --> 00:58:18,770
+-dependent active
+transport. very large
+
+938
+00:58:18,770 --> 00:58:22,710
+or lipid-insoluble
+drugs may enter or exit
+
+939
+00:58:22,710 --> 00:58:25,990
+cells by endocytosis
+or pinocytosis,
+
+940
+00:58:25,990 --> 00:58:29,090
+which I didn't actually
+mention before.
+
+941
+00:58:29,410 --> 00:58:32,750
+This applies to
+so few drugs.
+
+942
+00:58:34,490 --> 00:58:37,890
+The rate and extent of
+flow of drug molecules
+
+943
+00:58:37,890 --> 00:58:41,180
+are influenced by
+the magnitude of a
+
+944
+00:58:42,020 --> 00:58:46,500
+concentration gradient
+across the membrane, lipid
+
+945
+00:58:46,500 --> 00:58:49,950
+solubility, that is
+to say lipid water
+
+946
+00:58:49,950 --> 00:58:52,830
+partition coefficient,
+membrane surface area,
+
+947
+00:58:52,830 --> 00:58:56,210
+thickness, and
+permeability. Weak acids and
+
+948
+00:58:56,210 --> 00:58:58,490
+weak bases are present
+in solution as both a
+
+949
+00:58:58,490 --> 00:59:01,610
+non-ionized and ionized
+species. The non
+
+950
+00:59:01,610 --> 00:59:04,810
+-ionized molecules usually
+are more lipid soluble
+
+951
+00:59:04,810 --> 00:59:06,850
+and can diffuse
+readily across the cell
+
+952
+00:59:06,850 --> 00:59:10,050
+membrane, whereas the
+ionized molecules usually
+
+953
+00:59:10,050 --> 00:59:12,350
+are less able to
+********* the lipid
+
+954
+00:59:12,350 --> 00:59:15,650
+membrane because of their
+low lipid solubility.
+
+955
+00:59:16,230 --> 00:59:18,270
+Transmembrane
+distribution is
+
+956
+00:59:18,270 --> 00:59:21,710
+determined by the
+drugs pKa and the
+
+957
+00:59:21,710 --> 00:59:25,090
+pH gradient across
+the membrane.
+
+958
+00:59:26,710 --> 00:59:28,670
+Different routes
+of administration
+
+959
+00:59:28,670 --> 00:59:30,690
+are used in clinical
+medicine for
+
+960
+00:59:30,690 --> 00:59:33,410
+various reasons,
+such as convenience,
+
+961
+00:59:33,410 --> 00:59:35,930
+rapid onset of
+action, maximizing
+
+962
+00:59:35,930 --> 00:59:38,090
+concentration at
+the site of action,
+
+963
+00:59:38,350 --> 00:59:40,310
+avoiding first
+-pass effect,
+
+964
+00:59:40,310 --> 00:59:43,090
+and minimizing
+adverse effects.
+
+965
+00:59:43,150 --> 00:59:45,890
+The rate and extent
+of drug distribution
+
+966
+00:59:45,890 --> 00:59:47,910
+are determined by
+the physico-chemical
+
+967
+00:59:47,910 --> 00:59:51,870
+properties of the drug and
+the physiologic factors
+
+968
+00:59:51,870 --> 00:59:55,550
+of cardiac output,
+regional blood flow,
+
+969
+00:59:55,670 --> 00:59:58,990
+capillary permeability,
+and tissue volume.
+
+970
+00:59:59,430 --> 01:00:02,050
+Extensive binding to
+inert proteins and
+
+971
+01:00:02,050 --> 01:00:05,050
+other macromolecules
+may slow the rate at
+
+972
+01:00:05,050 --> 01:00:07,090
+which a drug reaches
+the site of action
+
+973
+01:00:07,090 --> 01:00:10,670
+and may prolong the
+duration of action as
+
+974
+01:00:10,670 --> 01:00:14,230
+the drugs are sequestered
+in the tissues.
+
+975
+01:00:16,870 --> 01:00:19,970
+These are the tables
+I mentioned before.
+
+976
+01:00:20,510 --> 01:00:24,230
+It tells you the
+root, the absorption
+
+977
+01:00:24,230 --> 01:00:26,290
+pattern, what
+they're useful
+
+978
+01:00:26,290 --> 01:00:30,990
+for, and potential
+disadvantages.
+
+979
+01:00:32,850 --> 01:00:35,990
+There are lots of
+roots. Most of this is
+
+980
+01:00:35,990 --> 01:00:38,450
+intuitive. you probably
+know it already,
+
+981
+01:00:40,180 --> 01:00:43,430
+but you do need to know
+it. As a physician,
+
+982
+01:00:43,430 --> 01:00:47,900
+it's so so important
+to be able to
+
+983
+01:00:47,900 --> 01:00:50,040
+select the right route
+of administration.
+
+984
+01:00:51,670 --> 01:00:56,050
+And that concludes
+part one of our
+
+985
+01:00:56,050 --> 01:01:00,470
+pharmacokinetics
+ADME, administration,
+
+986
+01:01:00,470 --> 01:01:03,230
+distribution, metabolism,
+and excretion.

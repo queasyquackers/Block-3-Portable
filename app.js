@@ -818,14 +818,13 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const handleSelectAnswer = (e) => {
-        const state = getCurrentTestState();
-        if (!state || state.examFinished) return;
+        // Find the closest button with a data-index attribute
         const selectedButton = e.target.closest('button[data-index]');
-        if (!selectedButton || state.examFinished || state.userAnswers[state.currentQuestionIndex].isSubmitted) return;
+        // If no button found, or if it's not a data-index button, exit
+        if (!selectedButton) return;
+        
         const selectedIndex = parseInt(selectedButton.dataset.index);
-        state.userAnswers[state.currentQuestionIndex].selectedIndex = selectedIndex;
-        displayQuestion();
-        saveState();
+        selectOption(selectedIndex);
     };
 
     const showModal = () => {
@@ -1308,7 +1307,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const targetBtn = document.querySelector(`.option-btn[data-index="${index}"]`);
         if (targetBtn) targetBtn.classList.add('option-btn-selected');
         
-        updateQuestionGrid(); // Update sidebar dots
+        updateSidebarState(); // Update sidebar dots
         saveState();
     }
 

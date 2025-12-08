@@ -59,7 +59,10 @@ const PDF_MAPPING = {
     "L109L110_Quiz": "pdfs/L109L110_Quiz_Ans.pdf",
     "L115L116_Quiz": "pdfs/L115L116_Quiz_Ans.pdf",
     "L117L118_Quiz": "pdfs/L117L118_Quiz_Ans.pdf",
-    "L120L123_Quiz": "pdfs/L120L123_Quiz_Ans.pdf"
+    "L120L123_Quiz": "pdfs/L120L123_Quiz_Ans.pdf",
+
+    // Human Readable Mappings (for tests using pdfPage without slideImagePath)
+    "Pharmacokinetics": "pdfs/L109110.pdf"
 };
 
 // Expose to global scope

@@ -12,7 +12,6 @@
     <script>
         pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
     </script>
-    <link rel="stylesheet" href="enhancements.css">
 
     <style>
         :root {
@@ -247,6 +246,7 @@
             border-color: var(--accent-color);
         }
     </style>
+    <link rel="stylesheet" href="enhancements.css">
 </head>
 
 <body class="antialiased min-h-screen pb-12">
@@ -306,12 +306,7 @@
             <aside class="lg:col-span-3 space-y-6">
                 <div class="card p-6 sticky top-28 glass-panel rounded-2xl">
                     <div class="flex justify-between items-center mb-6">
-                        <h2 class="text-lg font-bold text-secondary uppercase tracking-wider text-xs">Control Center
-                        </h2>
-                        <div class="flex items-center gap-2">
-                            <span class="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
-                            <span class="text-xs font-medium text-green-600 dark:text-green-400">Active</span>
-                        </div>
+                        <h2 class="text-lg font-bold text-secondary uppercase tracking-wider text-xs">Control Center</h2>
                     </div>
 
                     <div class="subtle-card text-center p-6 mb-6">
@@ -368,6 +363,9 @@
 
                     <div id="main-content-area" class="p-6 lg:p-10 flex-grow">
                         <div id="test-view" class="animate-fade-in">
+                            <div class="progress-container mb-6">
+                                <div id="exam-progress-bar" class="progress-bar"></div>
+                            </div>
                             <div id="question-header" class="flex justify-between items-center mb-8">
                                 <span id="question-counter"
                                     class="text-sm font-bold uppercase tracking-wider text-secondary px-3 py-1 rounded-full"
@@ -525,9 +523,9 @@
     <script src="Test37.js"></script>
 
     <script src="scripts/pdf_mapping.js"></script>
-    <script src="scripts/welcome-screen.js"></script>
     <script src="config.js"></script>
     <script src="app.js"></script>
+    <script src="scripts/welcome-screen.js"></script>
 </body>
 
 </html>

@@ -2,6 +2,14 @@ Act as a board question writer with expertise in creating high-quality USMLE Ste
 
 - Use both the PDF slides and transcript to create contextually rich questions.
 
+**CRITICAL - Question Depth (2nd & 3rd Order):**
+- **AVOID First-Order Questions:** Do NOT ask for simple recall (e.g., "What is the diagnosis?" or "What is the treatment?").
+- **CREATE Second-Order Questions:** Describe a clinical vignette and ask for the *mechanism of action* of the treatment, or the *pathophysiolgical basis* of the disease.
+  - *Example:* Instead of asking "What is the drug?", describe the patient, imply the diagnosis, and ask "Which of the following describes the mechanism of action of the first-line therapy?"
+- **CREATE Third-Order Questions:** Describe a patient, imply a diagnosis, imply a treatment, and ask for a *potential side effect* or *contraindication* of that treatment.
+  - *Example:* "A patient presents with [Symptoms X, Y]. Which of the following adverse effects is most associated with the medication that inhibits [Enzyme Z]?"
+- **Clinical Vignettes:** meaningful vignettes are required. Include age, gender, presenting symptoms, and relevant history.
+
 Answer & Explanation Formatting Rules:
 - Clearly identify the correct answer.
 - Provide a 1-2 sentence explanation for why the correct answer is right.

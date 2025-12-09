@@ -4,11 +4,11 @@ window.Test32 = [
     "category": "Glutamate Excitotoxicity",
     "questionText": "A patient typically recovers well after a brief ischemic stroke, but a second patient with a similar blockage has severe, permanent neuronal damage. The difference in outcome is attributed to a massive influx of Calcium into neurons during the ischemic event. This pathological process is mediated primarily by the over-activation of:",
     "options": [
-      {"text": "Nicotinic Acetylcholine Receptors", "explanation": "ACh is not the primary driver of ischemic excitotoxicity."},
-      {"text": "NMDA-type Glutamate Receptors", "explanation": "Ischemia causes energy failure -> depolarization -> massive Glutamate release. Glutamate over-activates NMDA receptors (which pass Calcium), leading to Calcium overload and necrotic cell death (Excitotoxicity)."},
-      {"text": "GABA-A Receptors", "explanation": "Inhibitory (Cl- influx), protective against seizures/damage."},
-      {"text": "Dopamine D2 Receptors", "explanation": "This value is not correct for the parameter described in this clinical scenario."},
-      {"text": "Histamine H1 Receptors", "explanation": "This value is not correct for the parameter described in this clinical scenario."}
+      {"text": "Nicotinic Acetylcholine Receptors", "explanation": "Incorrect. This receptor passes Nations, but is not the primary culprit in ischemic excitotoxicity. This would be the correct answer if muscular paralysis was involved."},
+      {"text": "NMDA-type Glutamate Receptors", "explanation": "Correct. Ischemia causes energy failure -> depolarization -> massive Glutamate release. Glutamate over-activates NMDA receptors (which pass Calcium), leading to Calcium overload and necrotic cell death (Excitotoxicity)."},
+      {"text": "GABA-A Receptors", "explanation": "Incorrect. This allows Cl- influx (Hyperpolarization), which is protective. This would be the correct answer if the patient had seizures due to lack of inhibition."},
+      {"text": "Dopamine D2 Receptors", "explanation": "Incorrect. GPCR. This would be the correct answer for psychosis mechanism."},
+      {"text": "Histamine H1 Receptors", "explanation": "Incorrect. GPCR. This would be the correct answer for allergic reaction/drowsiness."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Glutamate Excitotoxicity is the 'Angel of Death' in stroke. Energy failure -> Glutamate Dumping -> NMDA activation -> Calcium Overload -> Cell Death.",
@@ -20,11 +20,11 @@ window.Test32 = [
     "category": "Alcohol Withdrawal Mechanism",
     "questionText": "A chronic alcoholic abruptly stops drinking. 24 hours later, he experiences tremors and generalized tonic-clonic seizures. These symptoms occur because chronic alcohol use caused compensatory downregulation of GABA-A receptors and upregulation of:",
     "options": [
-      {"text": "Dopamine receptors", "explanation": "Involved in craving, not withdrawal seizures."},
-      {"text": "NMDA-type Glutamate Receptors", "explanation": "Alcohol acts like a GABA agonist and NMDA antagonist. Chronic presence leads to homeostasis: Downregulate GABA, Upregulate NMDA. Removal of alcohol unmasks this excitatory bias (Too much NMDA, Too little GABA) -> Seizures."},
-      {"text": "Nicotinic receptors", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "Opioid receptors", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "Histamine receptors", "explanation": "This represents a different molecular pathway or signaling mechanism."}
+      {"text": "Dopamine receptors", "explanation": "Incorrect. Involved in craving/reward. This would be the correct answer for the addictive drive."},
+      {"text": "NMDA-type Glutamate Receptors", "explanation": "Correct. Alcohol acts like a GABA agonist and NMDA antagonist. Chronic presence leads to homeostasis: Downregulate GABA, Upregulate NMDA. Removal of alcohol unmasks this excitatory bias (Too much NMDA, Too little GABA) -> Seizures."},
+      {"text": "Nicotinic receptors", "explanation": "Incorrect. This would be the correct answer for tobacco withdrawal."},
+      {"text": "Opioid receptors", "explanation": "Incorrect. This would be the correct answer for heroin withdrawal."},
+      {"text": "Histamine receptors", "explanation": "Incorrect. This would be the correct answer for rebound insomnia (maybe)."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Withdrawal is the physiological opposite of Intoxication. Alcohol (Sedative) Withdrawal = Excitability (Seizures) due to NMDA rebound.",
@@ -36,11 +36,11 @@ window.Test32 = [
     "category": "Benzodiazepine Pharmacology",
     "questionText": "A patient with anxiety is prescribed Diazepam. This drug is effective because it binds to the GABA-A receptor and:",
     "options": [
-      {"text": "Directly opens the Chloride channel", "explanation": "That's what GABA (or Barbiturates at high dose) does. Benzos are modulators."},
-      {"text": "Increases the frequency of Chloride channel opening", "explanation": "Benzodiazepines are Positive Allosteric Modulators (PAMs). They bind to a separate site and make GABA work *better* (increasing frequency of opening), but they require GABA to be present."},
-      {"text": "Blocks Calcium influx", "explanation": "This is not an effective or appropriate treatment for this specific condition."},
-      {"text": "Inhibits GABA reuptake", "explanation": "This is not an effective or appropriate treatment for this specific condition."},
-      {"text": "Blocks Glutamate release", "explanation": "This is not an effective or appropriate treatment for this specific condition."}
+      {"text": "Directly opens the Chloride channel", "explanation": "Incorrect. Barbiturates (at high doses) can do this. Benzos cannot open the channel alone; they need GABA. This would be the correct answer for Barbiturates."},
+      {"text": "Increases the frequency of Chloride channel opening", "explanation": "Correct. Benzodiazepines are Positive Allosteric Modulators (PAMs). They bind to a separate site and make GABA work *better* (increasing frequency of opening), but they require GABA to be present."},
+      {"text": "Blocks Calcium influx", "explanation": "Incorrect. This is not the mechanism. This would be the correct answer for Gabapentin (Voltage gated Ca channels)."},
+      {"text": "Inhibits GABA reuptake", "explanation": "Incorrect. This is Tiagabine. This would be the correct answer for Tiagabine."},
+      {"text": "Blocks Glutamate release", "explanation": "Incorrect. This allows excitation."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Benzodiazepines 'Frequency' (Ben has Frenz). Barbiturates 'Duration' (Barbs Dure). Both potentiate GABA-A Chloride current.",
@@ -52,11 +52,11 @@ window.Test32 = [
     "category": "Huntington's Disease Pathophysiology",
     "questionText": "A 45-year-old man presents with chorea (uncontrollable dance-like movements). MRI reveals atrophy of the Caudate nucleus. This movement disorder is caused by the selective degeneration of neurons that release:",
     "options": [
-      {"text": "Dopamine", "explanation": "Parkinson's is Loss of Dopamine. Huntington's is Loss of GABA (Medium Spiny Neurons)."},
-      {"text": "Serotonin", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "GABA", "explanation": "The striatum (Caudate/Putamen) is 95% GABAergic. In Huntington's, these inhibitory neurons die, removing the 'brakes' on movement -> Excessive movement (Chorea)."},
-      {"text": "Acetylcholine", "explanation": "Interneurons die too, but GABA is the main output loss."},
-      {"text": "Norepinephrine", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+      {"text": "Dopamine", "explanation": "Incorrect. Loss causes Parkinson's (Akinesia). This would be the correct answer for Parkinson's Disease."},
+      {"text": "Serotonin", "explanation": "Incorrect. Loss causes depression. This would be the correct answer for Depression."},
+      {"text": "GABA", "explanation": "Correct. The striatum (Caudate/Putamen) is 95% GABAergic. In Huntington's, these inhibitory neurons die, removing the 'brakes' on movement -> Excessive movement (Chorea)."},
+      {"text": "Acetylcholine", "explanation": "Incorrect. Loss causes Alzheimer's. This would be the correct answer for Alzheimer's."},
+      {"text": "Norepinephrine", "explanation": "Incorrect. Loss causes lack of arousal."}
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Huntington's = Loss of Inhibition (GABA) -> Chorea. Parkinson's = Loss of Initiation (Dopamine) -> Akinesia.",
@@ -68,11 +68,11 @@ window.Test32 = [
     "category": "Alzheimer's Treatment Rationale",
     "questionText": "Donepezil is used to treat mild Alzheimer's disease. It improves memory by:",
     "options": [
-      {"text": "Increasing Dopamine synthesis", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Inhibiting Acetylcholinesterase", "explanation": "In Alzheimer's, cholinergic neurons in the Nucleus Basalis die. We can't bring them back, but we can 'turn up the volume' of the survivors by stopping the breakdown of ACh (Inhibiting AChE) in the synapse."},
-      {"text": "Blocking NMDA receptors", "explanation": "Memantine does this (for severe AD), but Donepezil is an AChE inhibitor."},
-      {"text": "Activating Serotonin receptors", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Blocking GABA receptors", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+      {"text": "Increasing Dopamine synthesis", "explanation": "Incorrect. This is L-Dopa. This would be the correct answer for Parkinson's treatment."},
+      {"text": "Inhibiting Acetylcholinesterase", "explanation": "Correct. In Alzheimer's, cholinergic neurons in the Nucleus Basalis die. We can't bring them back, but we can 'turn up the volume' of the survivors by stopping the breakdown of ACh (Inhibiting AChE) in the synapse."},
+      {"text": "Blocking NMDA receptors", "explanation": "Incorrect. This is Memantine (for severe AD). This would be the correct answer for Memantine."},
+      {"text": "Activating Serotonin receptors", "explanation": "Incorrect. This is Buspirone/Psychedelics. This would be the correct answer for Anxiolytics."},
+      {"text": "Blocking GABA receptors", "explanation": "Incorrect. This causes seizures."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Standard Alzheimer's therapy (Donepezil/Rivastigmine) = AChE Inhibitors. Goal is to boost Acetylcholine levels.",
@@ -84,11 +84,11 @@ window.Test32 = [
     "category": "Organophosphate Poisoning",
     "questionText": "A farmer is brought to the ED foaming at the mouth, with pinpoint pupils, lacrimation, and muscle fasciculations. He was spraying crops. The toxic mechanism involves:",
     "options": [
-      {"text": "Blockade of Nicotinic Receptors", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
-      {"text": "Irreversible inhibition of Acetylcholinesterase", "explanation": "Organophosphates (Pesticides/Nerve Gas) irreversibly bind AChE. ACh accumulates everywhere (Muscarinic = Wet/DUMBBELSS, Nicotinic = Twitching/Paralysis)."},
-      {"text": "Inhibition of Choline Acetyltransferase", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
-      {"text": "Blockade of Muscarinic Receptors", "explanation": "Atropine (which is the antidote, not the toxin)."},
-      {"text": "Inhibition of Dopamine Reuptake", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."}
+      {"text": "Blockade of Nicotinic Receptors", "explanation": "Incorrect. This causes flaccid paralysis (Curare). This would be the correct answer for Curare."},
+      {"text": "Irreversible inhibition of Acetylcholinesterase", "explanation": "Correct. Organophosphates (Pesticides/Nerve Gas) irreversibly bind AChE. ACh accumulates everywhere (Muscarinic = Wet/DUMBBELSS, Nicotinic = Twitching/Paralysis)."},
+      {"text": "Inhibition of Choline Acetyltransferase", "explanation": "Incorrect. This would reduce ACh. This would be the correct answer for Hemicholinium (indirectly)."},
+      {"text": "Blockade of Muscarinic Receptors", "explanation": "Incorrect. This causes 'Dry as a bone' (Atropine). This would be the correct answer for Atropine overdose."},
+      {"text": "Inhibition of Dopamine Reuptake", "explanation": "Incorrect. This causes euphoria/agitation (Cocaine). This would be the correct answer for Cocaine."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "DUMBBELSS (Diarrhea, Urination, Miosis, Bradycardia, Bronchospasm, Emesis, Lacrimation, Salivation, Sweating) = Cholinergic Crisis due to AChE Inhibition.",
@@ -100,11 +100,11 @@ window.Test32 = [
     "category": "Parkinson's Treatment",
     "questionText": "Levodopa (L-Dopa) is given to Parkinson's patients instead of Dopamine because:",
     "options": [
-      {"text": "Dopamine is toxic to the stomach", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Dopamine cannot cross the Blood-Brain Barrier", "explanation": "Dopamine is too polar/charged. L-Dopa (the precursor) has a specific transporter (LAT-1) that allows it to cross the BBB, where it is converted to Dopamine by Dopa Decarboxylase."},
-      {"text": "L-Dopa directly activates D2 receptors", "explanation": "This value is not correct for the parameter described in this clinical scenario."},
-      {"text": "L-Dopa inhibits MAO", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "L-Dopa prevents peripheral breakdown", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+      {"text": "Dopamine is toxic to the stomach", "explanation": "Incorrect. While it causes nausea, that's not the main reason."},
+      {"text": "Dopamine cannot cross the Blood-Brain Barrier", "explanation": "Correct. Dopamine is too polar/charged. L-Dopa (the precursor) has a specific transporter (LAT-1) that allows it to cross the BBB, where it is converted to Dopamine by Dopa Decarboxylase."},
+      {"text": "L-Dopa directly activates D2 receptors", "explanation": "Incorrect. It is a prodrug precursor. This would be the correct answer for Dopamine Agonists (Pramipexole)."},
+      {"text": "L-Dopa inhibits MAO", "explanation": "Incorrect. This is Selegiline. This would be the correct answer for MAO Is."},
+      {"text": "L-Dopa prevents peripheral breakdown", "explanation": "Incorrect. Carbidopa does this. This would be the correct answer for Carbidopa."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "You can't just give Dopamine (it doesn't cross the BBB). You have to give the precursor (L-Dopa).",
@@ -116,11 +116,11 @@ window.Test32 = [
     "category": "Antipsychotic Side Effects",
     "questionText": "A schizophrenic patient is treated with Haloperidol (a D2 receptor antagonist). Weeks later, she develops milky nipple discharge (Galactorrhea). This side effect occurs because blocking Dopamine in the Tuberoinfundibular pathway leads to:",
     "options": [
-      {"text": "Decreased Growth Hormone", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "Increased Prolactin secretion", "explanation": "Dopamine is 'Prolactin Inhibiting Factor'. It normally keeps Prolactin brake on. Blocking Dopamine (Antipsychotics) releases the brake -> Hyperprolactinemia -> Galactorrhea/Gynecomastia."},
-      {"text": "Increased Cortisol", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "Decreased TSH", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "Increased Insulin", "explanation": "This represents a different molecular pathway or signaling mechanism."}
+      {"text": "Decreased Growth Hormone", "explanation": "Incorrect."},
+      {"text": "Increased Prolactin secretion", "explanation": "Correct. Dopamine is 'Prolactin Inhibiting Factor'. It normally keeps Prolactin brake on. Blocking Dopamine (Antipsychotics) releases the brake -> Hyperprolactinemia -> Galactorrhea/Gynecomastia."},
+      {"text": "Increased Cortisol", "explanation": "Incorrect."},
+      {"text": "Decreased TSH", "explanation": "Incorrect."},
+      {"text": "Increased Insulin", "explanation": "Incorrect."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Dopamine inhibits Prolactin. Therefore, Antipsychotics (DA Blockers) cause Hyperprolactinemia.",
@@ -132,11 +132,11 @@ window.Test32 = [
     "category": "Adrenergic Receptors",
     "questionText": "Prazosin is an alpha-1 adrenergic antagonist used to treat PTSD nightmares. It works by blocking the effects of Norepinephrine in the CNS. The cell bodies producing this Norepinephrine are located in the:",
     "options": [
-      {"text": "Substantia Nigra", "explanation": "This cell type or cellular mechanism is not primarily involved in this process."},
-      {"text": "Raphe Nuclei", "explanation": "This cell type or cellular mechanism is not primarily involved in this process."},
-      {"text": "Locus Coeruleus", "explanation": "The Locus Coeruleus ('Blue Spot') in the pons is the primary source of Norepinephrine for the entire brain involved in Arousal/Alarm/Attention."},
-      {"text": "Nucleus Basalis of Meynert", "explanation": "This cell type or cellular mechanism is not primarily involved in this process."},
-      {"text": "Ventral Tegmental Area", "explanation": "This cell type or cellular mechanism is not primarily involved in this process."}
+      {"text": "Substantia Nigra", "explanation": "Incorrect. Dopamine. This would be the correct answer for Dopamine."},
+      {"text": "Raphe Nuclei", "explanation": "Incorrect. Serotonin. This would be the correct answer for Serotonin."},
+      {"text": "Locus Coeruleus", "explanation": "Correct. The Locus Coeruleus ('Blue Spot') in the pons is the primary source of Norepinephrine for the entire brain involved in Arousal/Alarm/Attention."},
+      {"text": "Nucleus Basalis of Meynert", "explanation": "Incorrect. Acetylcholine. This would be the correct answer for ACh."},
+      {"text": "Ventral Tegmental Area", "explanation": "Incorrect. Dopamine. This would be the correct answer for Dopamine (Mesolimbic)."}
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Locus Coeruleus = Norepinephrine (Alarm). Raphe = Serotonin (Mood). Substantia Nigra = Dopamine (Movement).",
@@ -148,11 +148,11 @@ window.Test32 = [
     "category": "Serotonin & Depression",
     "questionText": "A patient with depression is started on Fluoxetine. The immediate pharmacological effect is:",
     "options": [
-      {"text": "Increased synthesis of Serotonin", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Blockade of the Serotonin Reuptake Transporter (SERT)", "explanation": "SSRIs immediately block the transporter, increasing 5-HT in the cleft. However, the therapeutic effect (mood improvement) takes weeks (likely due to downstream receptor downregulation/neuroplasticity)."},
-      {"text": "Agonism of 5-HT receptors", "explanation": "This value is not correct for the parameter described in this clinical scenario."},
-      {"text": "Inhibition of MAO", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Increased release of Serotonin", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+      {"text": "Increased synthesis of Serotonin", "explanation": "Incorrect. This takes time."},
+      {"text": "Blockade of the Serotonin Reuptake Transporter (SERT)", "explanation": "Correct. SSRIs immediately block the transporter, increasing 5-HT in the cleft. However, the therapeutic effect (mood improvement) takes weeks (likely due to downstream receptor downregulation/neuroplasticity)."},
+      {"text": "Agonism of 5-HT receptors", "explanation": "Incorrect. Psychedelics/Buspirone do this. This would be the correct answer for LSD."},
+      {"text": "Inhibition of MAO", "explanation": "Incorrect. MAOIs do this. This would be the correct answer for Phenelzine."},
+      {"text": "Increased release of Serotonin", "explanation": "Incorrect. Amphetamines/MDMA do this. This would be the correct answer for MDMA."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Mechanism is immediate (Reuptake Blockade), but Relief is delayed (weeks).",
@@ -164,11 +164,11 @@ window.Test32 = [
     "category": "Histamine Function",
     "questionText": "Diphenhydramine (Benadryl) causes drowsiness, while Loratadine (Claritin) does not. This is because Diphenhydramine crosses the BBB and blocks H1 receptors in the:",
     "options": [
-      {"text": "Cerebellum", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
-      {"text": "Tuberomammillary Nucleus (Hypothalamus)", "explanation": "The Tuberomammillary Nucleus is the sole source of Histamine in the brain, responsible for Arousal/Wakefulness. Blocking central H1 receptors puts you to sleep."},
-      {"text": "Hippocampus", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
-      {"text": "Striatum", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
-      {"text": "Spinal Cord", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."}
+      {"text": "Cerebellum", "explanation": "Incorrect. Coordination."},
+      {"text": "Tuberomammillary Nucleus (Hypothalamus)", "explanation": "Correct. The Tuberomammillary Nucleus is the sole source of Histamine in the brain, responsible for Arousal/Wakefulness. Blocking central H1 receptors puts you to sleep."},
+      {"text": "Hippocampus", "explanation": "Incorrect. Memory."},
+      {"text": "Striatum", "explanation": "Incorrect. Movement."},
+      {"text": "Spinal Cord", "explanation": "Incorrect. Reflexes."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Histamine = Wakefulness (think about how Antihistamines make you sleepy). It comes from the Tuberomammillary Nucleus.",
@@ -180,11 +180,11 @@ window.Test32 = [
     "category": "Opioid Peptides",
     "questionText": "A marathon runner experiences a 'runner's high' and reduced pain sensitivity after a long race. This phenomenon is mediated by the release of Endorphins, which allow analgesia by binding to:",
     "options": [
-      {"text": "NMDA receptors", "explanation": "NMDA receptors is not the primary characteristic or cause of the condition described in this question."},
-      {"text": "Mu (μ) Opioid Receptors", "explanation": "Beta-Endorphin (endogenous morphine) binds to Mu receptors in the PAG/Spinal cord to inhibit pain transmission."},
-      {"text": "D2 receptors", "explanation": "D2 receptors is not the primary characteristic or cause of the condition described in this question."},
-      {"text": "Nicotinic receptors", "explanation": "Nicotinic receptors is not the primary characteristic or cause of the condition described in this question."},
-      {"text": "CB1 receptors", "explanation": "Cannabinoids (also involved, but Endorphin -> Mu is the classic pathway described here)."}
+      {"text": "NMDA receptors", "explanation": "Incorrect."},
+      {"text": "Mu (μ) Opioid Receptors", "explanation": "Correct. Beta-Endorphin (endogenous morphine) binds to Mu receptors in the PAG/Spinal cord to inhibit pain transmission."},
+      {"text": "D2 receptors", "explanation": "Incorrect."},
+      {"text": "Nicotinic receptors", "explanation": "Incorrect."},
+      {"text": "CB1 receptors", "explanation": "Incorrect. This is Endocannabinoids (Runner's high involves both, but Endorphin->Mu is the classic peptide link). This would be the correct answer for Anandamide."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Endorphins are our internal Morphine. They bind Mu receptors.",
@@ -196,11 +196,11 @@ window.Test32 = [
     "category": "Nitric Oxide Signaling",
     "questionText": "Sildenafil (Viagra) works by prolonging the effect of Nitric Oxide (NO). It does this by inhibiting phosphodiesterase type 5 (PDE5), leading to increased levels of:",
     "options": [
-      {"text": "cAMP", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "cGMP", "explanation": "NO activates Guanylyl Cyclase to make cGMP (Vasodilator). PDE5 breaks down cGMP. Blocking PDE5 = More cGMP = More Vasodilation (Erection)."},
-      {"text": "IP3", "explanation": "This value is not correct for the parameter described in this clinical scenario."},
-      {"text": "Calcium", "explanation": "No, decreased calcium leads to relaxation."},
-      {"text": "Adenosine", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+      {"text": "cAMP", "explanation": "Incorrect. This regulates Heart rate (Beta-1). This would be the correct answer for Rolipram (PDE4 inhibitor)."},
+      {"text": "cGMP", "explanation": "Correct. NO activates Guanylyl Cyclase to make cGMP (Vasodilator). PDE5 breaks down cGMP. Blocking PDE5 = More cGMP = More Vasodilation (Erection)."},
+      {"text": "IP3", "explanation": "Incorrect. Ca pathway."},
+      {"text": "Calcium", "explanation": "Incorrect. Constriction."},
+      {"text": "Adenosine", "explanation": "Incorrect."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "NO -> cGMP -> Relaxation. Viagra keeps the cGMP party going by blocking the cleanup crew (PDE5).",
@@ -212,11 +212,11 @@ window.Test32 = [
     "category": "Caffeine Mechanism",
     "questionText": "A medical student accidentally drinks 5 cups of coffee. He feels jittery and awake. This is because Caffeine acts as an antagonist at receptors for:",
     "options": [
-      {"text": "Dopamine", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "Adenosine", "explanation": "Adenosine is a byproduct of ATP breakdown that accumulates during the day to signal 'Sleep Pressure'. Caffeine blocks these receptors, masking the fatigue sign."},
-      {"text": "Serotonin", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "GABA", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "Glutamate", "explanation": "This represents a different molecular pathway or signaling mechanism."}
+      {"text": "Dopamine", "explanation": "Incorrect. It increases DA signaling indirectly."},
+      {"text": "Adenosine", "explanation": "Correct. Adenosine is a byproduct of ATP breakdown that accumulates during the day to signal 'Sleep Pressure'. Caffeine blocks these receptors, masking the fatigue sign."},
+      {"text": "Serotonin", "explanation": "Incorrect."},
+      {"text": "GABA", "explanation": "Incorrect."},
+      {"text": "Glutamate", "explanation": "Incorrect."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Adenosine = 'Sleep Pressure'. Caffeine = Adenosine Blocker.",
@@ -228,11 +228,11 @@ window.Test32 = [
     "category": "Peptide Synthesis vs Small Molecule",
     "questionText": "Substance P is a neuropeptide involved in pain. Unlike Glutamate, Substance P must be:",
     "options": [
-      {"text": "Synthesized in the nerve terminal", "explanation": "Small molecules (Glu/GABA) are made in terminal."},
-      {"text": "Synthesized in the Cell Body and transported down", "explanation": "Peptides are proteins. They require DNA/RNA/Ribosomes (Soma). They are packaged in dense core vesicles and shipped via Fast Axonal Transport to the terminal."},
-      {"text": "Recycled by reuptake", "explanation": "Peptides aren't recycled. They diffuse away or are degraded."},
-      {"text": "Released only at active zones", "explanation": "While Released at active zones may be involved, this answer is incomplete and misses other essential components."},
-      {"text": "Always inhibitory", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+      {"text": "Synthesized in the nerve terminal", "explanation": "Incorrect. Small molecules are made there. This would be the correct answer for Glutamate."},
+      {"text": "Synthesized in the Cell Body and transported down", "explanation": "Correct. Peptides are proteins. They require DNA/RNA/Ribosomes (Soma). They are packaged in dense core vesicles and shipped via Fast Axonal Transport to the terminal."},
+      {"text": "Recycled by reuptake", "explanation": "Incorrect. Peptides are degraded. This would be the correct answer for Serotonin."},
+      {"text": "Released only at active zones", "explanation": "Incorrect. Can be released extrasynaptically."},
+      {"text": "Always inhibitory", "explanation": "Incorrect. Excitatory."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Small Molecules = Cheap, made locally, recycled. Peptides = Expensive, made centrally (Soma), single use (no reuptake).",
@@ -244,11 +244,11 @@ window.Test32 = [
     "category": "Astrocyte-Neuron Coupling",
     "questionText": "During intense neuronal activity, neurons release Glutamate. Astrocytes prevent excitotoxicity by taking up this Glutamate and converting it into:",
     "options": [
-      {"text": "GABA", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Glutamine", "explanation": "The Glutamate-Glutamine Cycle. Astrocytes mop up dangerous Glutamate, turn it into safe/inert Glutamine (via Glutamine Synthetase), and shuttle it back to neurons to be recycled."},
-      {"text": "Glucose", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Lactate", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Aspartate", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+      {"text": "GABA", "explanation": "Incorrect. Neurons make GABA. This would be the correct answer for inhibitory synthesis."},
+      {"text": "Glutamine", "explanation": "Correct. The Glutamate-Glutamine Cycle. Astrocytes mop up dangerous Glutamate, turn it into safe/inert Glutamine (via Glutamine Synthetase), and shuttle it back to neurons to be recycled."},
+      {"text": "Glucose", "explanation": "Incorrect. From blood."},
+      {"text": "Lactate", "explanation": "Incorrect. Astrocytes provide Lactate to neurons as fuel."},
+      {"text": "Aspartate", "explanation": "Incorrect."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Astrocytes are the 'Kidneys' of the brain. They detoxify Glutamate into Glutamine.",
@@ -260,11 +260,11 @@ window.Test32 = [
     "category": "Metabotropic Receptor Speed",
     "questionText": "A G-protein coupled receptor (GPCR) response (like Muscarinic ACh) is slower than a Ligand-gated channel response (Nicotinic ACh) because:",
     "options": [
-      {"text": "It involves gene transcription", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "It requires the production of Second Messengers (cAMP, IP3)", "explanation": "Metabotropic = Metabolic steps. Signal -> Receptor -> G-protein -> Effector -> Second Messenger -> Kinase -> Target. This cascade takes time (100s of ms to seconds)."},
-      {"text": "The receptor is far away", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "It uses electrical transmission", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "The neurotransmitter is different", "explanation": "Same NT (ACh) can be fast or slow depending on receptor."}
+      {"text": "It involves gene transcription", "explanation": "Incorrect. That takes hours."},
+      {"text": "It requires the production of Second Messengers (cAMP, IP3)", "explanation": "Correct. Metabotropic = Metabolic steps. Signal -> Receptor -> G-protein -> Effector -> Second Messenger -> Kinase -> Target. This cascade takes time (100s of ms to seconds)."},
+      {"text": "The receptor is far away", "explanation": "Incorrect."},
+      {"text": "It uses electrical transmission", "explanation": "Incorrect."},
+      {"text": "The neurotransmitter is different", "explanation": "Incorrect."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Metabotropic (GPCR) = Slow, Amplified, Long-lasting. Ionotropic = Fast, Transient.",
@@ -276,11 +276,11 @@ window.Test32 = [
     "category": "Volume Transmission",
     "questionText": "Unlike the precise wiring of the Neuromuscular Junction, monoamines like Serotonin and Norepinephrine are often released from 'varicosities' along the axon. This allows:",
     "options": [
-      {"text": "Faster transmission", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Volume Transmission (Neuromodulation) of many cells at once", "explanation": "Instead of a 1-to-1 conversation, this is a PA system broadcast. The NT diffuses to affect thousands of neurons/glia in the vicinity, setting the 'state' (mood/arousal) of the network."},
-      {"text": "Avoidance of enzymatic breakdown", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Specific excitation of a single neuron", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Electrical coupling", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+      {"text": "Faster transmission", "explanation": "Incorrect."},
+      {"text": "Volume Transmission (Neuromodulation) of many cells at once", "explanation": "Correct. Instead of a 1-to-1 conversation, this is a PA system broadcast. The NT diffuses to affect thousands of neurons/glia in the vicinity, setting the 'state' (mood/arousal) of the network."},
+      {"text": "Avoidance of enzymatic breakdown", "explanation": "Incorrect."},
+      {"text": "Specific excitation of a single neuron", "explanation": "Incorrect. That is synaptic transmission."},
+      {"text": "Electrical coupling", "explanation": "Incorrect. Gap Junctions."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Modulators (DA, NE, 5HT) are 'Sprinklers' (Volume transmission). Drivers (Glu, GABA) are 'Wires' (Point-to-point).",
@@ -292,11 +292,11 @@ window.Test32 = [
     "category": "MAO Inhibitor Risk",
     "questionText": "A patient taking Phenelzine (an MAO Inhibitor) for depression eats a meal rich in Tyramine (Aged cheese/Wine). She presents to the ER with a Hypertensive Crisis. This occurred because:",
     "options": [
-      {"text": "Tyramine directly stimulates Beta-1 receptors", "explanation": "This value is not correct for the parameter described in this clinical scenario."},
-      {"text": "Tyramine displaces Norepinephrine from vesicles, and MAO is not there to degrade it", "explanation": "Normally, gut MAO breaks down Tyramine. With MAOIs, Tyramine enters blood, gets into nerve terminals, and displaces NE. The massive NE release causes vasoconstriction/HTN (Cheese Effect)."},
-      {"text": "Tyramine inhibits Serotonin reuptake", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Tyramine blocks Muscarinic receptors", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Tyramine is a false neurotransmitter", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+      {"text": "Tyramine directly stimulates Beta-1 receptors", "explanation": "Incorrect."},
+      {"text": "Tyramine displaces Norepinephrine from vesicles, and MAO is not there to degrade it", "explanation": "Correct. Normally, gut MAO breaks down Tyramine. With MAOIs, Tyramine enters blood, gets into nerve terminals, and displaces NE. The massive NE release causes vasoconstriction/HTN (Cheese Effect)."},
+      {"text": "Tyramine inhibits Serotonin reuptake", "explanation": "Incorrect."},
+      {"text": "Tyramine blocks Muscarinic receptors", "explanation": "Incorrect."},
+      {"text": "Tyramine is a false neurotransmitter", "explanation": "Incorrect. It displaces the real one."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "The 'Cheese Effect': MAOIs prevent breakdown of dietary Tyramine -> Massive Norepinephrine Release -> Hypertensive Crisis.",
@@ -308,11 +308,11 @@ window.Test32 = [
     "category": "Substance P & Co-transmission",
     "questionText": "Substance P is often co-released with which classical neurotransmitter in pain pathways?",
     "options": [
-      {"text": "Dopamine", "explanation": "Dopamine is not the primary characteristic or cause of the condition described in this question."},
-      {"text": "GABA", "explanation": "GABA is not the primary characteristic or cause of the condition described in this question."},
-      {"text": "Glutamate", "explanation": "Pain fibers (A-delta/C fibers) seek to maximally excite the spinal cord. They use Glutamate (Fast AMOA/NMDA) AND Substance P (Slow NK1) to wind up the pain signal."},
-      {"text": "Acetylcholine", "explanation": "Acetylcholine is not the primary characteristic or cause of the condition described in this question."},
-      {"text": "Glycine", "explanation": "Glycine is not the primary characteristic or cause of the condition described in this question."}
+      {"text": "Dopamine", "explanation": "Incorrect."},
+      {"text": "GABA", "explanation": "Incorrect."},
+      {"text": "Glutamate", "explanation": "Correct. Pain fibers (A-delta/C fibers) seek to maximally excite the spinal cord. They use Glutamate (Fast AMOA/NMDA) AND Substance P (Slow NK1) to wind up the pain signal."},
+      {"text": "Acetylcholine", "explanation": "Incorrect."},
+      {"text": "Glycine", "explanation": "Incorrect."}
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Co-transmission: Neurons can release 'One from Column A (Small)' and 'One from Column B (Peptide)'. Pain = Glu + Substance P.",
@@ -324,11 +324,11 @@ window.Test32 = [
     "category": "Autoreceptors",
     "questionText": "Alpha-2 adrenergic receptors are often located on the pre-synaptic nerve terminal. When Norepinephrine binds to them, it inhibits further NE release. This is an example of:",
     "options": [
-      {"text": "Positive Feedback", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "Negative Feedback (Autoreceptcr)", "explanation": "The neuron 'hears' its own voice. If there is too much NT in the cleft, it binds the presynaptic Autoreceptor to say 'Quiet down, there's enough out here'."},
-      {"text": "Heteroreceptor", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "Post-synaptic Potentiation", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "Desensitization", "explanation": "This represents a different molecular pathway or signaling mechanism."}
+      {"text": "Positive Feedback", "explanation": "Incorrect."},
+      {"text": "Negative Feedback (Autoreceptor)", "explanation": "Correct. The neuron 'hears' its own voice. If there is too much NT in the cleft, it binds the presynaptic Autoreceptor to say 'Quiet down, there's enough out here'."},
+      {"text": "Heteroreceptor", "explanation": "Incorrect. That would be responding to a DIFFERENT NT."},
+      {"text": "Post-synaptic Potentiation", "explanation": "Incorrect."},
+      {"text": "Desensitization", "explanation": "Incorrect."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Autoreceptors are the 'Thermostat' of the synapse. They prevent over-release.",
@@ -340,11 +340,11 @@ window.Test32 = [
     "category": "GABA Receptor Subtypes",
     "questionText": "Baclofen is a muscle relaxant that works by activating GABA-B receptors. Unlike GABA-A activity, GABA-B activation results in:",
     "options": [
-      {"text": "Chloride influx", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "Opening of K+ channels via G-proteins", "explanation": "GABA-B is Metabotropic. It activates Gi -> Opens GIRK (Potassium) channels -> Hyperpolarization. It is slower/longer lasting than GABA-A."},
-      {"text": "Sodium influx", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "Calcium influx", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "cAMP increase", "explanation": "This represents a different molecular pathway or signaling mechanism."}
+      {"text": "Chloride influx", "explanation": "Incorrect. This is GABA-A. This would be the correct answer for Benzos."},
+      {"text": "Opening of K+ channels via G-proteins", "explanation": "Correct. GABA-B is Metabotropic. It activates Gi -> Opens GIRK (Potassium) channels -> Hyperpolarization. It is slower/longer lasting than GABA-A."},
+      {"text": "Sodium influx", "explanation": "Incorrect. Excitatory."},
+      {"text": "Calcium influx", "explanation": "Incorrect. This would cause release."},
+      {"text": "cAMP increase", "explanation": "Incorrect. Gi decreases cAMP."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "GABA-A = Ionotropic (Cl-). GABA-B = Metabotropic (K+). Both inhibit, but via different mechanisms.",
@@ -356,11 +356,11 @@ window.Test32 = [
     "category": "Choline Acetyltransferase",
     "questionText": "In a post-mortem analysis of a patient with Alzheimer's disease, staining for which enzyme would show the most significant reduction in the Cortex and Hippocampus?",
     "options": [
-      {"text": "Tyrosine Hydroxylase", "explanation": "Tyrosine Hydroxylase is not the primary characteristic or cause of the condition described in this question."},
-      {"text": "Choline Acetyltransferase (ChAT)", "explanation": "ChAT is the marker for Cholinergic neurons. Loss of ChAT activity correlates with dementia severity."},
-      {"text": "Glutamic Acid Decarboxylase (GAD)", "explanation": "Glutamic Acid Decarboxylase (GAD) is not the primary characteristic or cause of the condition described in this question."},
-      {"text": "Tryptophan Hydroxylase", "explanation": "Tryptophan Hydroxylase is not the primary characteristic or cause of the condition described in this question."},
-      {"text": "Dopa Decarboxylase", "explanation": "Dopa Decarboxylase is not the primary characteristic or cause of the condition described in this question."}
+      {"text": "Tyrosine Hydroxylase", "explanation": "Incorrect. Marker for Dopamine/NE. This would be the correct answer for Parkinson's."},
+      {"text": "Choline Acetyltransferase (ChAT)", "explanation": "Correct. ChAT is the marker for Cholinergic neurons. Loss of ChAT activity correlates with dementia severity."},
+      {"text": "Glutamic Acid Decarboxylase (GAD)", "explanation": "Incorrect. Marker for GABA. This would be the correct answer for Huntington's."},
+      {"text": "Tryptophan Hydroxylase", "explanation": "Incorrect. Marker for Serotonin. This would be the correct answer for Depression (synapse loss)."},
+      {"text": "Dopa Decarboxylase", "explanation": "Incorrect. Dopamine."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "ChAT = Aceytlcholine Maker. AChE = Acetylcholine Breaker. In Alzheimer's, the Makers die, so we inhibit the Breakers.",
@@ -372,11 +372,11 @@ window.Test32 = [
     "category": "Dopamine Pathways",
     "questionText": "The Mesolimbic Dopamine pathway projects from the VTA to the Nucleus Accumbens. Hyperactivity of this pathway is associated with:",
     "options": [
-      {"text": "Parkinson's Disease", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "Schizophrenia (Positive Symptoms) and Addiction", "explanation": "This is the 'Reward' pathway. Excess DA here causes 'Salience' problems (assigning importance to random things -> Delusions) and Addiction (chasing the spike)."},
-      {"text": "Lactation", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "Memory Loss", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "Sleep", "explanation": "This represents a different molecular pathway or signaling mechanism."}
+      {"text": "Parkinson's Disease", "explanation": "Incorrect. Hypoactivity of Nigrostriatal. This would be the correct answer for Nigrostriatal loss."},
+      {"text": "Schizophrenia (Positive Symptoms) and Addiction", "explanation": "Correct. This is the 'Reward' pathway. Excess DA here causes 'Salience' problems (assigning importance to random things -> Delusions) and Addiction (chasing the spike)."},
+      {"text": "Lactation", "explanation": "Incorrect. Hypoactivity of Tuberoinfundibular. This would be the correct answer for Milk production."},
+      {"text": "Memory Loss", "explanation": "Incorrect."},
+      {"text": "Sleep", "explanation": "Incorrect."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Mesolimbic = Madness (Psychosis/Addiction). Nigrostriatal = Movement. Tuberoinfundibular = Tits (Milk).",
@@ -388,11 +388,11 @@ window.Test32 = [
     "category": "Tetanus vs Botulism",
     "questionText": "Both Tetanus and Botulinum toxins cleave SNARE proteins. Why do they produce opposite clinical pictures (Spastic vs Flaccid paralysis)?",
     "options": [
-      {"text": "They target different SNAREs", "explanation": "Sometimes, but not the main reason."},
-      {"text": "Tetanus Toxin undergoes retrograde transport to the CNS", "explanation": "Botox stays local at the NMJ (blocking ACh -> Flaccid). Tetanus toxin hitches a ride up the motor axon (Retrograde), jumps to the inhibitory interneuron (Renshaw cell), and blocks Glycine release. No inhibition = Spasticity."},
-      {"text": "Tetanus blocks Sodium channels", "explanation": "This is not the correct anatomical location or site for this process."},
-      {"text": "Botulism affects the brainstem only", "explanation": "While Botulism affects the brainstem may be involved, this answer is incomplete and misses other essential components."},
-      {"text": "Tetanus stimulates ACh release", "explanation": "This is not the correct anatomical location or site for this process."}
+      {"text": "They target different SNAREs", "explanation": "Incorrect. Not the main reason."},
+      {"text": "Tetanus Toxin undergoes retrograde transport to the CNS", "explanation": "Correct. Botox stays local at the NMJ (blocking ACh -> Flaccid). Tetanus toxin hitches a ride up the motor axon (Retrograde), jumps to the inhibitory interneuron (Renshaw cell), and blocks Glycine release. No inhibition = Spasticity."},
+      {"text": "Tetanus blocks Sodium channels", "explanation": "Incorrect."},
+      {"text": "Botulism affects the brainstem only", "explanation": "Incorrect. Systemic or local."},
+      {"text": "Tetanus stimulates ACh release", "explanation": "Incorrect."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "It's all about the Destination. Botox stays at the muscle (Flaccid). Tetanus travels to the Spinal Cord to kill the inhibitory guard (Spastic).",
@@ -404,11 +404,11 @@ window.Test32 = [
     "category": "Neuropeptide Y",
     "questionText": "A patient with Prader-Willi syndrome has insatiable hunger (Hyperphagia). This drive involves overexpression or dysregulation of hypothalamic peptides, including:",
     "options": [
-      {"text": "Leptin", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Neuropeptide Y (NPY)", "explanation": "NPY is a potent Orexigenic (Appetite stimulating) peptide. 'NPY says YUM'."},
-      {"text": "CCK", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Bombesin", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Somatostatin", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+      {"text": "Leptin", "explanation": "Incorrect. Leptin suppresses hunger. This would be the correct answer if Leptin was missing."},
+      {"text": "Neuropeptide Y (NPY)", "explanation": "Correct. NPY is a potent Orexigenic (Appetite stimulating) peptide. 'NPY says YUM'."},
+      {"text": "CCK", "explanation": "Incorrect. Suppresses hunger. This would be the correct answer for satiety."},
+      {"text": "Bombesin", "explanation": "Incorrect. Suppresses hunger."},
+      {"text": "Somatostatin", "explanation": "Incorrect. Glucagon/Insulin regulation."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "NPY and Agouti-related protein Stimulate Hunger. CCK and Bombesin Inhibit Hunger.",
@@ -420,11 +420,11 @@ window.Test32 = [
     "category": "Narcolepsy Deficit",
     "questionText": "Narcolepsy with Cataplexy is caused by the selective loss of neurons in the lateral hypothalamus that produce:",
     "options": [
-      {"text": "Dopamine", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Orexin (Hypocretin)", "explanation": "Orexins stabilize the 'Wake' switch. Loss of Orexin neurons leads to sleep intrusion (Narcolepsy) and muscle tone loss (Cataplexy) during waking."},
-      {"text": "Melatonin", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "GABA", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Histamine", "explanation": "Involved, but primary loss is Orexin."}
+      {"text": "Dopamine", "explanation": "Incorrect. Keeps you awake, but not the specific loss here."},
+      {"text": "Orexin (Hypocretin)", "explanation": "Correct. Orexins stabilize the 'Wake' switch. Loss of Orexin neurons leads to sleep intrusion (Narcolepsy) and muscle tone loss (Cataplexy) during waking."},
+      {"text": "Melatonin", "explanation": "Incorrect. Triggers sleep. This would be the correct answer if you couldn't fall asleep."},
+      {"text": "GABA", "explanation": "Incorrect."},
+      {"text": "Histamine", "explanation": "Incorrect. Involved, but secondary loss."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Orexin = Awake. Loss = Narcolepsy.",
@@ -436,11 +436,11 @@ window.Test32 = [
     "category": "Neurotransmitter Termination",
     "questionText": "Which neurotransmitter action is terminated primarily by enzymatic degradation in the cleft rather than reuptake?",
     "options": [
-      {"text": "Serotonin", "explanation": "Serotonin is not the primary characteristic or cause of the condition described in this question."},
-      {"text": "Dopamine", "explanation": "Dopamine is not the primary characteristic or cause of the condition described in this question."},
-      {"text": "Acetylcholine", "explanation": "AChE (Degradation). Choline is taken up, but the NT signal is killed by the enzyme."},
-      {"text": "GABA", "explanation": "GABA is not the primary characteristic or cause of the condition described in this question."},
-      {"text": "Glutamate", "explanation": "Glutamate is not the primary characteristic or cause of the condition described in this question."}
+      {"text": "Serotonin", "explanation": "Incorrect. Reuptake (SERT). This would be the correct answer for SSRI target."},
+      {"text": "Dopamine", "explanation": "Incorrect. Reuptake (DAT). This would be the correct answer for Cocaine target."},
+      {"text": "Acetylcholine", "explanation": "Correct. AChE (Degradation). Choline is taken up, but the NT signal is killed by the enzyme."},
+      {"text": "GABA", "explanation": "Incorrect. Reuptake (GAT)."},
+      {"text": "Glutamate", "explanation": "Incorrect. Reuptake (EAAT)."}
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "ACh is the odd one out. Monoamines/Amino Acids use Vacuum Cleaners (Transporters). ACh uses Scissors (AChE).",
@@ -452,11 +452,11 @@ window.Test32 = [
     "category": "NO Synthesis",
     "questionText": "Since Nitric Oxide is a gas and cannot be stored in vesicles, its release is triggered 'on demand' by:",
     "options": [
-      {"text": "Sodium influx", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Calcium influx activating Nitric Oxide Synthase (NOS)", "explanation": "NMDA receptor activation -> Calcium Influx -> Calcium-Calmodulin binds NOS -> NOS makes NO -> NO diffuses away. The Calcium spike is the trigger."},
-      {"text": "Potassium efflux", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Vesicle fusion", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "ATP hydrolysis", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+      {"text": "Sodium influx", "explanation": "Incorrect."},
+      {"text": "Calcium influx activating Nitric Oxide Synthase (NOS)", "explanation": "Correct. NMDA receptor activation -> Calcium Influx -> Calcium-Calmodulin binds NOS -> NOS makes NO -> NO diffuses away. The Calcium spike is the trigger."},
+      {"text": "Potassium efflux", "explanation": "Incorrect."},
+      {"text": "Vesicle fusion", "explanation": "Incorrect. Gas bypasses membranes."},
+      {"text": "ATP hydrolysis", "explanation": "Incorrect."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "NO is 'Made to Order'. Calcium is the order ticket.",
@@ -468,11 +468,11 @@ window.Test32 = [
     "category": "Glycine Location",
     "questionText": "Strychnine is a rat poison that causes convulsions by blocking Glycine receptors. In the human CNS, Glycine is the primary inhibitory neurotransmitter in the:",
     "options": [
-      {"text": "Cerebral Cortex", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
-      {"text": "Spinal Cord and Brainstem", "explanation": "GABA rules the Brain. Glycine rules the Spine."},
-      {"text": "Basal Ganglia", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
-      {"text": "Hippocampus", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
-      {"text": "Cerebellum", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."}
+      {"text": "Cerebral Cortex", "explanation": "Incorrect. GABA. This would be the correct answer for Seizures."},
+      {"text": "Spinal Cord and Brainstem", "explanation": "Correct. GABA rules the Brain. Glycine rules the Spine."},
+      {"text": "Basal Ganglia", "explanation": "Incorrect. GABA. This would be the correct answer for Huntington's."},
+      {"text": "Hippocampus", "explanation": "Incorrect. GABA."},
+      {"text": "Cerebellum", "explanation": "Incorrect. GABA/Glu."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Brain = GABA. Spine = Glycine. Both = Chloride Influx (Inhibition).",
@@ -484,11 +484,11 @@ window.Test32 = [
     "category": "Ketamine Mechanism",
     "questionText": "Ketamine is used as an anesthetic and antidepressant. It functions as:",
     "options": [
-      {"text": "A GABA agonist", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "An NMDA Receptor Antagonist", "explanation": "Ketamine blocks the pore of the NMDA receptor. This 'Disconnects' the cortex (Dissociative Anesthesia) and triggers rapid plasticity (Antidepressant)."},
-      {"text": "A Serotonin Agonist", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "A Dopamine Antagonist", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "An Opioid Agonist", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+      {"text": "A GABA agonist", "explanation": "Incorrect. This is Propofol/Benzos. This would be the correct answer for Propofol."},
+      {"text": "An NMDA Receptor Antagonist", "explanation": "Correct. Ketamine blocks the pore of the NMDA receptor. This 'Disconnects' the cortex (Dissociative Anesthesia) and triggers rapid plasticity (Antidepressant)."},
+      {"text": "A Serotonin Agonist", "explanation": "Incorrect. This is LSD. This would be the correct answer for Psychedelics."},
+      {"text": "A Dopamine Antagonist", "explanation": "Incorrect. This is Haloperidol. This would be the correct answer for Antipsychotics."},
+      {"text": "An Opioid Agonist", "explanation": "Incorrect. This is Morphine. This would be the correct answer for Opioids."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Ketamine = NMDA Blocker. Special K is a 'Disconnection' drug.",
@@ -500,11 +500,11 @@ window.Test32 = [
     "category": "Endocannabinoid Action",
     "questionText": "Endocannabinoids (Anandamide) differ from classical neurotransmitters because they:",
     "options": [
-      {"text": "Are stored in large vesicles", "explanation": "Lipids (can't be stored in vesicles)."},
-      {"text": "Function as Retrograde Messengers (Post -> Pre)", "explanation": "They are made in the Post-synaptic membrane, diffuse BACK to the Pre-synaptic CB1 receptor, and shut down neurotransmitter release ('Negative Feedback')."},
-      {"text": "Are peptides", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Act on Nicotinic receptors", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Are exclusively excitatory", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+      {"text": "Are stored in large vesicles", "explanation": "Incorrect. They are Lipids (made on demand). This would be the correct answer for Peptides."},
+      {"text": "Function as Retrograde Messengers (Post -> Pre)", "explanation": "Correct. They are made in the Post-synaptic membrane, diffuse BACK to the Pre-synaptic CB1 receptor, and shut down neurotransmitter release ('Negative Feedback')."},
+      {"text": "Are peptides", "explanation": "Incorrect. Lipids."},
+      {"text": "Act on Nicotinic receptors", "explanation": "Incorrect."},
+      {"text": "Are exclusively excitatory", "explanation": "Incorrect. Inhibitory (on release)."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Endocannabinoids are the 'Reverse Gear' of the synapse. They tell the presynaptic neuron to 'Shut up' (Depolarization Induced Suppression of Inhibition/Excitation).",
@@ -516,11 +516,11 @@ window.Test32 = [
     "category": "Tripartite Synapse",
     "questionText": "The 'Tripartite Synapse' concept implies that synaptic transmission is regulated not just by the pre- and post-synaptic neurons, but also by:",
     "options": [
-      {"text": "Microglia", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Astrocytes", "explanation": "Astrocytes wrap around the synapse, controlling K+ buffering, NT uptake, and even releasing gliotransmitters (ATP/Glutamate). They are active participants."},
-      {"text": "Oligodendrocytes", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Ependymal Cells", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Pericytes", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+      {"text": "Microglia", "explanation": "Incorrect. Immune cells."},
+      {"text": "Astrocytes", "explanation": "Correct. Astrocytes wrap around the synapse, controlling K+ buffering, NT uptake, and even releasing gliotransmitters (ATP/Glutamate). They are active participants."},
+      {"text": "Oligodendrocytes", "explanation": "Incorrect. Myelin."},
+      {"text": "Ependymal Cells", "explanation": "Incorrect. Lining of ventricles."},
+      {"text": "Pericytes", "explanation": "Incorrect. Blood vessels."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "The Brain is not just wires (Neurons). It's Wires + Insulation (Oligos) + Support Staff (Astrocytes). The Staff manages the environment.",
@@ -532,11 +532,11 @@ window.Test32 = [
     "category": "Raphe Nuclei",
     "questionText": "In a study of brainstem anatomy, a lesion is made in the Raphe Nuclei. This would result in widespread depletion of:",
     "options": [
-      {"text": "Dopamine", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Norepinephrine", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Serotonin", "explanation": "The Raphe ('Seam') Nuclei along the midline of the brainstem work the serotonin factories projecting to the entire brain."},
-      {"text": "Acetylcholine", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Histamine", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+      {"text": "Dopamine", "explanation": "Incorrect. Substantia Nigra/VTA. This would be the correct answer for SN."},
+      {"text": "Norepinephrine", "explanation": "Incorrect. Locus Coeruleus. This would be the correct answer for LC."},
+      {"text": "Serotonin", "explanation": "Correct. The Raphe ('Seam') Nuclei along the midline of the brainstem work the serotonin factories projecting to the entire brain."},
+      {"text": "Acetylcholine", "explanation": "Incorrect. Nucleus Basalis. This would be the correct answer for Basalis."},
+      {"text": "Histamine", "explanation": "Incorrect. Tuberomammillary. This would be the correct answer for Hypothalamus."}
     ],
     "correctAnswerIndex": 2,
     "clinicalPearl": "Raphe = Serotonin. Locus Coeruleus = Norepinephrine. Substantia Nigra = Dopamine.",
@@ -548,11 +548,11 @@ window.Test32 = [
     "category": "Myelin vs Axon",
     "questionText": "Guillain-Barre Syndrome (demyelination) and Tetrodotoxin poisoning (Channel Block) both cause weakness, but via different mechanisms. TTX prevents:",
     "options": [
-      {"text": "Signal propagation between nodes", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
-      {"text": "Action Potential generation at the node", "explanation": "TTX destroys the 'car' (Na+ Channel). Even if the highway is perfect, the car won't start. No Na+ influx = No AP."},
-      {"text": "Vesicle fusion", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
-      {"text": "Muscle contraction directly", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
-      {"text": "Repolarization", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."}
+      {"text": "Signal propagation between nodes", "explanation": "Incorrect. This is Demyelination (GBS/MS). This would be the correct answer for GBS."},
+      {"text": "Action Potential generation at the node", "explanation": "Correct. TTX destroys the 'car' (Na+ Channel). Even if the highway is perfect, the car won't start. No Na+ influx = No AP."},
+      {"text": "Vesicle fusion", "explanation": "Incorrect. Botox. This would be the correct answer for Botox."},
+      {"text": "Muscle contraction directly", "explanation": "Incorrect. Ryanodine. This would be the correct answer for Myopathy."},
+      {"text": "Repolarization", "explanation": "Incorrect. TEA/Dendrotoxin. This would be the correct answer for K blocker."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Myelin Disorders = Slow/Failed Conduction. Channel Disorders = Failed Initiation.",
@@ -564,11 +564,11 @@ window.Test32 = [
     "category": "Purinergic Receptor Types",
     "questionText": "ATP acts as a neurotransmitter by binding to P2X and P2Y receptors. P2X receptors are:",
     "options": [
-      {"text": "G-protein coupled", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "Ligand-gated Cation Channels", "explanation": "P2X receptors are Ionotropic. ATP binding opens the pore Ca2+/Na+ influx -> Fast Depolarization."},
-      {"text": "Kinase receptors", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "Nuclear receptors", "explanation": "This represents a different molecular pathway or signaling mechanism."},
-      {"text": "Transporters", "explanation": "This represents a different molecular pathway or signaling mechanism."}
+      {"text": "G-protein coupled", "explanation": "Incorrect. This is P2Y. This would be the correct answer for P2Y."},
+      {"text": "Ligand-gated Cation Channels", "explanation": "Correct. P2X receptors are Ionotropic. ATP binding opens the pore Ca2+/Na+ influx -> Fast Depolarization."},
+      {"text": "Kinase receptors", "explanation": "Incorrect. BDNF."},
+      {"text": "Nuclear receptors", "explanation": "Incorrect. Steroids."},
+      {"text": "Transporters", "explanation": "Incorrect."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "P2X = Ion Channel (Fast). P2Y = GPCR (Slow). Both bind ATP.",
@@ -580,11 +580,11 @@ window.Test32 = [
     "category": "Substance P Function",
     "questionText": "Capsaicin (hot pepper extract) depletes Substance P from nerve terminals. This mechanism explains its use in treating:",
     "options": [
-      {"text": "Muscle weakness", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
-      {"text": "Neuropathic Pain", "explanation": "Substance P transmits pain. Capsaicin initially causes burning (release) then long-term analgesia (depletion/desensitization of the pain fiber)."},
-      {"text": "Memory loss", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
-      {"text": "Depression", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
-      {"text": "Seizures", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."}
+      {"text": "Muscle weakness", "explanation": "Incorrect."},
+      {"text": "Neuropathic Pain", "explanation": "Correct. Substance P transmits pain. Capsaicin initially causes burning (release) then long-term analgesia (depletion/desensitization of the pain fiber)."},
+      {"text": "Memory loss", "explanation": "Incorrect."},
+      {"text": "Depression", "explanation": "Incorrect."},
+      {"text": "Seizures", "explanation": "Incorrect."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "Substance P = Pain. No Substance P = No Pain.",
@@ -596,11 +596,11 @@ window.Test32 = [
     "category": "COMT Inhibitors",
     "questionText": "Entacapone (a COMT inhibitor) is added to Levodopa therapy in Parkinson's disease to:",
     "options": [
-      {"text": "Block Dopamine receptors", "explanation": "This is not an effective or appropriate treatment for this specific condition."},
-      {"text": "Inhibit the breakdown of L-Dopa/Dopamine", "explanation": "COMT and MAO degrade Catecholamines. Blocking COMT extends the half-life of L-Dopa and Dopamine, giving the patient more 'On' time."},
-      {"text": "Increase Serotonin", "explanation": "This is not an effective or appropriate treatment for this specific condition."},
-      {"text": "Block Acetylcholine", "explanation": "This is not an effective or appropriate treatment for this specific condition."},
-      {"text": "Treat depression", "explanation": "This is not an effective or appropriate treatment for this specific condition."}
+      {"text": "Block Dopamine receptors", "explanation": "Incorrect. That worsens Parkinson's."},
+      {"text": "Inhibit the breakdown of L-Dopa/Dopamine", "explanation": "Correct. COMT and MAO degrade Catecholamines. Blocking COMT extends the half-life of L-Dopa and Dopamine, giving the patient more 'On' time."},
+      {"text": "Increase Serotonin", "explanation": "Incorrect."},
+      {"text": "Block Acetylcholine", "explanation": "Incorrect. Benztropine does this. This would be the correct answer for Benztropine."},
+      {"text": "Treat depression", "explanation": "Incorrect."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "We want Dopamine to last longer. So we block the enzymes that eat it: MAO and COMT.",
@@ -612,11 +612,11 @@ window.Test32 = [
     "category": "Schizophrenia Hypothesis",
     "questionText": "The 'Dopamine Hypothesis' of Schizophrenia is supported by the fact that Amphatamines (which release DA) can induce psychosis, while drugs that block _______ alleviate psychosis.",
     "options": [
-      {"text": "D2 Receptors", "explanation": "All effective antipsychotics block D2 receptors. The correlation between D2 binding affinity and clinical potency is the cornerstone of this hypothesis."},
-      {"text": "5-HT receptors", "explanation": "Atypical antipsychotics target 5HT2A, but D2 is the common denominator."},
-      {"text": "NMDA receptors", "explanation": "NMDA blockade CAUSES psychosis (PCP model)."},
-      {"text": "GABA receptors", "explanation": "GABA receptors is not the primary characteristic or cause of the condition described in this question."},
-      {"text": "Nicotinic receptors", "explanation": "Nicotinic receptors is not the primary characteristic or cause of the condition described in this question."}
+      {"text": "D2 Receptors", "explanation": "Correct. All effective antipsychotics block D2 receptors. The correlation between D2 binding affinity and clinical potency is the cornerstone of this hypothesis."},
+      {"text": "5-HT receptors", "explanation": "Incorrect. Atypical antipsychotics target 5HT2A, but D2 is the common denominator."},
+      {"text": "NMDA receptors", "explanation": "Incorrect. NMDA blockade CAUSES psychosis (PCP model)."},
+      {"text": "GABA receptors", "explanation": "Incorrect."},
+      {"text": "Nicotinic receptors", "explanation": "Incorrect."}
     ],
     "correctAnswerIndex": 0,
     "clinicalPearl": "Too much Dopamine = Psychosis. Block D2 = Cure Psychosis (but cause Parkinsonism).",
@@ -628,11 +628,11 @@ window.Test32 = [
     "category": "Blood Brain Barrier Transport",
     "questionText": "Why can glucose and amino acids enter the brain efficiently while Penicillin cannot?",
     "options": [
-      {"text": "They are smaller", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "They have specific transporters (GLUT1, LAT1)", "explanation": "The BBB is a tight wall. You only get in if you are Lipid Soluble (O2, CO2, Heroin) OR if you have a Ticket (Transporter). Glucose and Amino Acids have tickets. Penicillin does not."},
-      {"text": "They are lipid soluble", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Glia make them", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
-      {"text": "Neurons don't need Penicillin", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+      {"text": "They are smaller", "explanation": "Incorrect. Penicillin is small too."},
+      {"text": "They have specific transporters (GLUT1, LAT1)", "explanation": "Correct. The BBB is a tight wall. You only get in if you are Lipid Soluble (O2, CO2, Heroin) OR if you have a Ticket (Transporter). Glucose and Amino Acids have tickets. Penicillin does not."},
+      {"text": "They are lipid soluble", "explanation": "Incorrect. Glucose is water soluble."},
+      {"text": "Glia make them", "explanation": "Incorrect."},
+      {"text": "Neurons don't need Penicillin", "explanation": "Incorrect."}
     ],
     "correctAnswerIndex": 1,
     "clinicalPearl": "The BBB protects the brain, but it means drugs must be designed to be lipid soluble or use an existing transporter.",

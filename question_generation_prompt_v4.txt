@@ -16,9 +16,10 @@ Act as a board question writer with expertise in creating high-quality USMLE Ste
 - **Bad:** Options include 2 Nerves, 2 Muscles, and 1 Artery.
 
 **CRITICAL - "Rule-Out" Explanations:**
-- For EACH wrong answer choice, the explanation MUST explain **under what specific clinical scenario that answer WOULD be correct**.
-- Do NOT just say "This is wrong."
-- **Format:** "This would be the correct answer if the patient presented with [Symptom A] and [Lab Finding B], indicating [Condition Y]."
+- For EACH wrong answer choice, the explanation MUST:
+  1. **Explain Why Incorrect:** Briefly state why it does not fit the current patient's presentation (e.g., "This patient lacks [Cardinal Symptom]...").
+  2. **Rule-Out (When Correct):** Explain **under what specific clinical scenario that answer WOULD be correct**.
+- **Format:** "Incorrect. [Why it is wrong]. This would be the correct answer if the patient presented with [Symptom A] and [Lab Finding B], indicating [Condition Y]."
 - **Goal:** Teach the student the *differential diagnosis* by contrasting the current case with the classic presentation for the distractor.
 
 **Answer & Explanation Formatting Rules:**

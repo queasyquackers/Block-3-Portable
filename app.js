@@ -46,6 +46,42 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const getEl = (id) => document.getElementById(id);
 
+    // --- Helper for Clinical Pearls ---
+    const renderClinicalPearl = (text) => {
+        if (!text) return '';
+        
+        // Simple Markdown parsing: **bold** -> <strong>bold</strong>
+        // Also supports __bold__
+        const parsedText = text
+            .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+            .replace(/__(.*?)__/g, '<strong>$1</strong>');
+
+        return `
+            <div class="mt-6 mb-4 overflow-hidden rounded-xl bg-white dark:bg-[#073642] border border-[#d3d0c8] dark:border-orange-500/30 shadow-sm dark:shadow-[0_2px_8px_-1px_rgba(249,115,22,0.1)] group relative transition-colors duration-300">
+                <div class="absolute top-0 left-0 w-1.5 h-full bg-gradient-to-b from-orange-400 to-orange-600"></div>
+                <div class="p-5 flex gap-4">
+                    <div class="flex-shrink-0">
+                        <div class="w-10 h-10 rounded-full bg-[#fdf6e3] dark:bg-orange-500/10 flex items-center justify-center text-orange-600 dark:text-orange-500 shadow-sm border border-[#d3d0c8] dark:border-orange-500/20">
+                            <!-- Gem/Diamond Icon -->
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"></path>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="flex-1">
+                        <div class="flex items-center gap-2 mb-1.5">
+                            <span class="text-xs font-bold tracking-wider text-orange-600 dark:text-orange-400 uppercase bg-[#fdf6e3] dark:bg-orange-500/10 px-2 py-0.5 rounded-full border border-[#d3d0c8] dark:border-orange-500/20">High Yield</span>
+                            <h4 class="font-bold text-gray-900 dark:text-gray-100 text-sm">Clinical Pearl</h4>
+                        </div>
+                        <p class="text-gray-700 dark:text-gray-300 text-[15px] leading-relaxed font-medium">
+                            ${parsedText}
+                        </p>
+                    </div>
+                </div>
+            </div>
+        `;
+    };
+
     // --- Theme Handling ---
     const savedTheme = localStorage.getItem('theme');
     if (savedTheme === 'dark') {
@@ -549,33 +585,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // --- CLINICAL PEARL (High-Yield Takeaway) ---
         if ((answerState.isSubmitted || state.examFinished) && question.clinicalPearl) {
-            const pearlContainer = document.createElement('div');
-            // Premium Card Design: Amber/Gold theme for "Gold Standard" knowledge
-            pearlContainer.className = "mt-6 mb-4 overflow-hidden rounded-xl bg-white dark:bg-[#073642] border border-[#d3d0c8] dark:border-orange-500/30 shadow-sm dark:shadow-[0_2px_8px_-1px_rgba(249,115,22,0.1)] group relative transition-colors duration-300";
-
-            pearlContainer.innerHTML = `
-                <div class="absolute top-0 left-0 w-1.5 h-full bg-gradient-to-b from-orange-400 to-orange-600"></div>
-                <div class="p-5 flex gap-4">
-                    <div class="flex-shrink-0">
-                        <div class="w-10 h-10 rounded-full bg-[#fdf6e3] dark:bg-orange-500/10 flex items-center justify-center text-orange-600 dark:text-orange-500 shadow-sm border border-[#d3d0c8] dark:border-orange-500/20">
-                            <!-- Gem/Diamond Icon -->
-                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"></path>
-                            </svg>
-                        </div>
-                    </div>
-                    <div class="flex-1">
-                        <div class="flex items-center gap-2 mb-1.5">
-                            <span class="text-xs font-bold tracking-wider text-orange-600 dark:text-orange-400 uppercase bg-[#fdf6e3] dark:bg-orange-500/10 px-2 py-0.5 rounded-full border border-[#d3d0c8] dark:border-orange-500/20">High Yield</span>
-                            <h4 class="font-bold text-gray-900 dark:text-gray-100 text-sm">Clinical Pearl</h4>
-                        </div>
-                        <p class="text-gray-700 dark:text-gray-300 text-[15px] leading-relaxed font-medium">
-                            ${question.clinicalPearl}
-                        </p>
-                    </div>
-                </div>
-            `;
-            questionContainer.appendChild(pearlContainer);
+            const tempDiv = document.createElement('div');
+            tempDiv.innerHTML = renderClinicalPearl(question.clinicalPearl);
+            if (tempDiv.firstElementChild) {
+                questionContainer.appendChild(tempDiv.firstElementChild);
+            }
         }
 
         // --- PDF REFERENCE LOGIC (NO IMAGE DISPLAY) ---
@@ -940,6 +954,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 <p class="font-semibold text-secondary">Question ${originalIndex + 1} (${q.category})</p>
                 <p class="font-bold text-lg mt-1">${q.questionText}</p>
                 <div class="mt-4 space-y-2">${optionsHtml}</div>`;
+
+            if (q.clinicalPearl) {
+                 questionEl.innerHTML += renderClinicalPearl(q.clinicalPearl);
+            }
 
             // --- PDF / Visual Aid Logic ---
             let shouldShowPDF = false;
@@ -1577,23 +1595,20 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         // Prepare Back Content
-        const correctOpt = question.options[question.correctAnswerIndex];
-        let backHtml = `<div class="text-lg font-bold mb-4 text-green-700">${String.fromCharCode(65 + question.correctAnswerIndex)}. ${correctOpt.text}</div>`;
-        backHtml += `<div class="w-full h-px bg-gray-200 dark:bg-gray-700 mb-4"></div>`;
-        backHtml += `<div class="text-base text-secondary leading-relaxed mb-4">${correctOpt.explanation}</div>`;
+        if (question.correctAnswerIndex != null && question.options[question.correctAnswerIndex]) {
+            const correctOpt = question.options[question.correctAnswerIndex];
+            let backHtml = `<div class="text-lg font-bold mb-4 text-green-700 dark:text-green-400">${String.fromCharCode(65 + question.correctAnswerIndex)}. ${correctOpt.text}</div>`;
+            backHtml += `<div class="w-full h-px bg-gray-300 dark:bg-gray-700 mb-4"></div>`;
+            backHtml += `<div class="text-base text-gray-800 dark:text-gray-200 leading-relaxed mb-4">${correctOpt.explanation}</div>`;
 
-        if (question.clinicalPearl) {
-            backHtml += `
-                <div class="mt-4 p-3 bg-blue-50 dark:bg-blue-900/30 border-l-4 border-blue-500 rounded-r text-sm">
-                    <strong class="block text-blue-700 dark:text-blue-300 mb-1">💡 Clinical Pearl</strong>
-                    <span class="text-blue-800 dark:text-blue-200">${question.clinicalPearl}</span>
-                </div>
-             `;
+            if (question.clinicalPearl) {
+                backHtml += renderClinicalPearl(question.clinicalPearl);
+            }
+
+            getEl('flashcard-back-answer').innerHTML = backHtml;
+            // Clear old explanation container since we merged it
+            getEl('flashcard-back-explanation').innerHTML = '';
         }
-
-        getEl('flashcard-back-answer').innerHTML = backHtml;
-        // Clear old explanation container since we merged it
-        getEl('flashcard-back-explanation').innerHTML = '';
 
         // Reset Flip
         getEl('flashcard-inner').classList.remove('flip');

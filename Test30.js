@@ -299,7 +299,7 @@ window.L136 = [
       {"text": "Cortex; Medulla", "explanation": "This cell type or cellular mechanism is not primarily involved in this process."}
     ],
     "correctAnswerIndex": 1,
-    "clinicalPearl": "Basal Ganglia is a misnomer; they are actually nuclei (CNS). Generally: Nucleus (CNS) vs Ganglion (PNS). Tract (CNS) vs Nerve (PNS).",
+    "clinicalPearl": "Basal Ganglia is an exception. Generally: Nucleus (CNS) vs Ganglion (PNS). Tract (CNS) vs Nerve (PNS).",
     "pdfPage": 4,
     "slideImageDescription": "The slide 'Anatomical Organization of the Nervous System' lists Ganglia under PNS (with exception Basal Ganglia) and Nucleus under CNS."
   },

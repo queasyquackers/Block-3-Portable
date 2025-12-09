@@ -11,6 +11,7 @@ window.L105 = [
       {"text": "Levator Palpebrae Superioris", "explanation": "Innervated by CN III, causing the ptosis."}
     ],
     "correctAnswerIndex": 3,
+    "clinicalPearl": "CN III Palsy: 'Down and Out' eye + Ptosis + Mydriasis. (Unopposed Lateral Rectus & Sup Oblique).",
     "slideImagePath": "images/L105_slide_4.jpg",
     "slideImageDescription": "The slide titled 'Oculomotor palsy examples' illustrates the 'Complete lesion' presentation. It visually depicts the patient's eye deviation 'Down and out' and lists the cause as 'weakness or paralysis of 4 of the 6 extraocular muscles'. Specifically, it notes that the 'Unopposed muscles [Lateral Rectus and Superior Oblique] pull eye down and out', directly supporting the answer."
   },
@@ -26,6 +27,7 @@ window.L105 = [
       {"text": "General Sensory", "explanation": "CN III has no general sensory component."}
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "CN III Compression (e.g. Aneurysm): Parasympathetic pupil fibers are superficial -> 'Blown Pupil' is early sign.",
     "slideImagePath": "images/L105_slide_4.jpg",
     "slideImageDescription": "The slide displays an image of David Bowie to illustrate 'Anisocoria'. The text describes the condition as 'Weakness or paralysis of sphincter pupillae' causing the affected eye to remain 'more dilated'. This confirms the involvement of the pupillary sphincter, which is innervated by the visceral motor (parasympathetic) component of CN III."
   },
@@ -41,6 +43,7 @@ window.L105 = [
       {"text": "CN V", "explanation": "Sensory nerve."}
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "CN IV (Trochlear) Palsy: Vertical Diplopia. Head tilt AWAY from lesion (to compensate for lack of intorsion).",
     "slideImagePath": "images/L105_slide_6.jpg",
     "slideImageDescription": "The slide 'Trochlear palsy' shows a patient with a 'Compensatory head tilt'. The text explains that the patient tilts their head 'Away from the side of the lesion' to align the eyes, due to the paralysis of the Superior Oblique muscle innervated by the Trochlear nerve."
   },
@@ -56,6 +59,7 @@ window.L105 = [
       {"text": "The Optic Nerve", "explanation": "Affects vision, not alignment."}
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "CN VI (Abducens) Palsy: Medial Strabismus (Esotropia). Eye turned IN + Cannot Abduct (Lateral Rectus paralysis).",
     "slideImagePath": "images/L105_slide_8.jpg",
     "slideImageDescription": "The slide 'Abducens palsy' visually depicts the 'Affected eye resting in adduction' (turned inward). The text states this is due to 'Paralysis of lateral rectus' and the 'Unopposed pull of medial rectus', pointing directly to an Abducens nerve lesion."
   },
@@ -71,6 +75,7 @@ window.L105 = [
       {"text": "Glossopharyngeal (CN IX)", "explanation": "Exits Jugular foramen."}
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "CN V3 (Mandibular): The ONLY division of Trigeminal with Motor fibers (Muscles of Mastication). Exits Foramen Ovale.",
     "slideImagePath": "images/L105_slide_23.jpg",
     "slideImageDescription": "The slide 'Trigeminal (CN V)' outlines the three divisions. For 'Mandibular (V3)', it lists the exit as 'foramen ovale' and the function as 'Sensory + Motor', specifically naming the 'muscles of mastication' under the motor component."
   },
@@ -86,6 +91,7 @@ window.L105 = [
       {"text": "Inferior Alveolar Nerve", "explanation": "Supplies teeth."}
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Anterior 2/3 Tongue Sensation: Touch/Pain = CN V3 (Lingual Nerve). Taste = CN VII (Chorda Tympani).",
     "slideImagePath": "images/L105_slide_11.jpg",
     "slideImageDescription": "The slide shows the distribution of the 'Mandibular Division (V3)'. It identifies the 'Lingual n.' and describes its function as 'General sensation to anterior 2/3 of tongue'. This distinguishes it from the Chorda Tympani (mentioned elsewhere for taste), confirming the answer."
   },
@@ -101,6 +107,7 @@ window.L105 = [
       {"text": "Posterior scalp", "explanation": "Cervical nerves (Occipital)."}
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Herpes Zoster Ophthalmicus (V1): Rash on Forehead & Upper Eyelid. Hutchinson's Sign (Nose tip) = Higher ocular risk.",
     "slideImagePath": "images/L105_slide_14.jpg",
     "slideImageDescription": "The slide 'Dermatomes of the Head & Neck' color-codes the sensory regions. The Green region representing 'V1 (Ophthalmic)' covers the forehead, upper eyelids, and nose, visually confirming the area affected by a V1 lesion."
   },
@@ -116,6 +123,7 @@ window.L105 = [
       {"text": "Stylohyoid", "explanation": "Branch is distal."}
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Hyperacusis in Bell's Palsy: Lesion proximal to Stapedius nerve branch. (Stapedius dampens loud sounds).",
     "slideImagePath": "images/L105_slide_43.jpg",
     "slideImageDescription": "The slide 'Facial Nerve (CN VII): Intracranial branching' shows the nerve's course. It identifies the 'Nerve to Stapedius' branching off within the temporal bone. The text notes the Stapedius function is to 'dampen loud noises', linking its dysfunction to hyperacusis."
   },
@@ -131,6 +139,7 @@ window.L105 = [
       {"text": "Clench their teeth", "explanation": "Tests Trigeminal (V3)."}
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "CN VII Temporal Branch: Innervates Frontalis. Test: 'Raise Eyebrows'. (Spared in UMN Stroke, Lost in LMN Bell's Palsy).",
     "slideImagePath": "images/L105_slide_42.jpg",
     "slideImageDescription": "The slide 'Facial Nerve (CN VII): Extracranial branching' displays the 'Five terminal motor branches'. The 'Temporal' branch is shown extending superiorly to the forehead region. The associated action listed for testing is 'Raise eyebrows', confirming the correct physical exam maneuver."
   },
@@ -146,6 +155,7 @@ window.L105 = [
       {"text": "CN VI", "explanation": "Lateral rectus."}
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Corneal Reflex: Afferent (Sensory) = CN V1 (Ophthalmic). Efferent (Blink) = CN VII (Orbicularis Oculi).",
     "slideImagePath": "images/L105_slide_40.jpg",
     "slideImageDescription": "The slide 'Facial Nerve (CN VII): Clinical Testing' lists the 'Corneal Reflex'. It explicitly identifies the 'Efferent limb' as 'CN VII (Orbicularis Oculi)', explaining that the facial nerve is responsible for the motor act of blinking in this reflex."
   },
@@ -161,6 +171,7 @@ window.L105 = [
       {"text": "Ciliary Ganglion", "explanation": "Parasympathetic to pupil (CN III)."}
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Parotid Secretion: CN IX -> Otic Ganglion -> Auriculotemporal Nerve (V3) -> Parotid Gland.",
     "slideImagePath": "images/L105_slide_35.jpg",
     "slideImageDescription": "The slide 'Glossopharyngeal (CN IX): Visceral Motor' diagrams the pathway. It shows fibers traveling via the 'Lesser petrosal nerve' to synapse in the 'Otic ganglion', and then postganglionic fibers hitchhiking on V3 to reach the 'Parotid Gland'. This confirms the Otic ganglion as the relay station."
   },
@@ -176,6 +187,7 @@ window.L105 = [
       {"text": "CN XII", "explanation": "Motor to tongue."}
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Gag Reflex: Afferent (Sensory) = CN IX (Glossopharyngeal). Efferent (Motor) = CN X (Vagus).",
     "slideImagePath": "images/L105_slide_70.jpg",
     "slideImageDescription": "The slide titled 'Gag Reflex' breaks down the reflex arc. It explicitly labels the 'Afferent limb' as 'CN IX', stating it 'sends response to CNS' when an object touches the pharynx. It contrasts this with the 'Efferent limb (CN X)', clarifying the distinct roles."
   },
@@ -191,6 +203,7 @@ window.L105 = [
       {"text": "Auricular Branch", "explanation": "Sensory to ear."}
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Recurrent Laryngeal Nerve (CN X): Innervates all intrinsic laryngeal muscles (except Cricothyroid). Lesion = Hoarseness.",
     "slideImagePath": "images/L105_slide_60.jpg",
     "slideImageDescription": "The slide 'Vagus (CN X): Somatic Motor' lists the 'Recurrent laryngeal n.' It notes that it innervates 'all intrinsic laryngeal muscles (except cricothyroid)'. It specifically mentions 'Lesion: hoarseness/dysphonia' and 'vocal cord paralysis', directly matching the clinical vignette."
   },
@@ -206,6 +219,7 @@ window.L105 = [
       {"text": "The Left Hypoglossal Nerve", "explanation": "Affects the tongue."}
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "CN X (Vagus) Lesion: Uvula deviated AWAY from lesion. (e.g. Right deviation = Left CN X lesion).",
     "slideImagePath": "images/L105_slide_62.jpg",
     "slideImageDescription": "The slide 'Vagus (CN X): Somatic Motor' includes a 'Clinical testing' section. It states: 'Uvula deviates AWAY from the side of the lesion'. Therefore, deviation to the right implies the left side is weak (Left CN X lesion), validating the answer."
   },
@@ -221,6 +235,7 @@ window.L105 = [
       {"text": "Right CN V", "explanation": "Mastication."}
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "CN XI (Accessory) Lesion: Weak Shoulder Shrug (Trapezius) + Weak Head Turn to OPPOSITE side (SCM).",
     "slideImagePath": "images/L105_slide_64.jpg",
     "slideImageDescription": "The slide 'Accessory (CN XI)' outlines its function as 'Branchial Motor to Sternocleidomastoid (SCM) & Trapezius'. It describes the action of SCM as 'turns head to contralateral side'. The clinical testing section notes that a lesion causes 'weakness shrugging shoulder' and 'weakness turning head to opposite side', confirming the diagnosis of a Right CN XI lesion."
   },
@@ -236,6 +251,7 @@ window.L105 = [
       {"text": "Left Vagus Nerve", "explanation": "Palate deviation."}
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "CN XII (Hypoglossal) Lesion: Tongue deviates TOWARD the lesion ('Lick the lesion'). Atrophy/Fasciculations present.",
     "slideImagePath": "images/L105_slide_68.jpg",
     "slideImageDescription": "The slide 'Hypoglossal (CN XII)' states its function is 'Somatic Motor to intrinsic and extrinsic muscles of tongue'. The 'Clinical testing' section clearly states: 'Tongue deviates TOWARD the side of the lesion'. Thus, right deviation indicates a right-sided lesion."
   },
@@ -251,6 +267,7 @@ window.L105 = [
       {"text": "CN V", "explanation": "Does not carry its own parasympathetics."}
     ],
     "correctAnswerIndex": 3,
+    "clinicalPearl": "CN III (Oculomotor) Parasympathetics: Synapse in Ciliary Ganglion -> Sphincter Pupillae (Constriction) + Ciliary Muscle (Accommodation).",
     "slideImagePath": "images/L105_slide_53.jpg",
     "slideImageDescription": "The slide 'Oculomotor (CN III)' lists the 'Inferior division' functions. It includes 'Visceral Motor (parasympathetic)' fibers traveling to the 'ciliary ganglion'. This confirms the Ciliary ganglion is the relay for CN III."
   },
@@ -266,6 +283,7 @@ window.L105 = [
       {"text": "Auriculotemporal Nerve", "explanation": "Carries postganglionic fibers from Otic ganglion."}
     ],
     "correctAnswerIndex": 0,
+    "clinicalPearl": "Lacrimation (Tearing): CN VII -> Greater Petrosal Nerve -> Pterygopalatine Ganglion -> Lacrimal Gland.",
     "slideImagePath": "images/L105_slide_42.jpg",
     "slideImageDescription": "The slide 'Facial Nerve (CN VII): Visceral Motor' diagrams the pathway. It shows the 'Greater Petrosal n.' originating from CN VII and terminating in the 'Pterygopalatine ganglion'. The output is shown going to the 'Lacrimal gland' for 'Lacrimation', confirming the pathway."
   },
@@ -281,6 +299,7 @@ window.L105 = [
       {"text": "C1 via CN XII", "explanation": "Geniohyoid."}
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Digastric Muscle Innervation: Anterior Belly = CN V3 (Arch 1). Posterior Belly = CN VII (Arch 2).",
     "slideImagePath": "images/L105_slide_30.jpg",
     "slideImageDescription": "The slide 'Mandibular Division (V3): Branchial Motor' lists the muscles innervated. It includes 'Muscles of Mastication' and specifically lists 'Mylohyoid' and 'Anterior belly of digastric' under the domain of V3, supporting the answer."
   },
@@ -296,6 +315,7 @@ window.L105 = [
       {"text": "CN XII", "explanation": "Motor."}
     ],
     "correctAnswerIndex": 3,
+    "clinicalPearl": "CN X (Vagus): Sensation (Tactile + Taste) from Epiglottis and extreme base of tongue.",
     "slideImagePath": "images/L105_slide_57.jpg",
     "slideImageDescription": "The slide 'Vagus (CN X): Sensory' lists its sensory distribution. It explicitly includes 'Special Sensory (Taste)' from the 'Epiglottis/root of tongue', verifying that CN X covers this specific region."
   },
@@ -311,6 +331,7 @@ window.L105 = [
       {"text": "Parasympathetic to parotid and sensation to pharynx.", "explanation": "CN IX."}
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Chorda Tympani (CN VII): Taste (Ant 2/3 Tongue) + Parasympathetics (Submandibular & Sublingual Glands).",
     "slideImagePath": "images/L105_slide_44.jpg",
     "slideImageDescription": "The slide 'Facial Nerve (CN VII): Chorda Tympani' details the function of this specific branch. It lists 'Special Sensory: Taste to anterior 2/3 tongue' and 'Visceral Motor: Parasympathetic to Submandibular/Sublingual glands', providing a complete functional definition."
   },
@@ -326,8 +347,9 @@ window.L105 = [
       {"text": "Lingual nerve (V3)", "explanation": "Tongue sensation."}
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Mental Nerve (branch of V3): Sensation to Skin of Chin & Lower Lip. Exits Mental Foramen.",
     "slideImagePath": "images/L105_slide_27.jpg",
-    "slideImageDescription": "The slide 'Mandibular Division (V3): Somatic Sensory' shows the branching. It displays the 'Inferior Alveolar n.' traveling through the mandible and giving rise to the 'Mental n.' which supplies the 'skin of chin and lower lip', confirming the anatomical relationship."
+    "slideImageDescription": "The slide covering 'Mandibular Division (V3): Somatic Sensory' shows the branching. It displays the 'Inferior Alveolar n.' traveling through the mandible and giving rise to the 'Mental n.' which supplies the 'skin of chin and lower lip', confirming the anatomical relationship."
   },
   {
     "id": 23,
@@ -341,6 +363,7 @@ window.L105 = [
       {"text": "Geniohyoid", "explanation": "C1."}
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Stylopharyngeus: The ONLY muscle innervated by CN IX (Glossopharyngeal). All other pharyngeal muscles are CN X.",
     "slideImagePath": "images/L105_slide_52.jpg",
     "slideImageDescription": "The slide 'Glossopharyngeal (CN IX): Branchial Motor' identifies its single motor target. It states: 'Innervates ONE muscle: Stylopharyngeus'. A diagram highlights this muscle, reinforcing it as the unique motor contribution of CN IX."
   },
@@ -356,6 +379,7 @@ window.L105 = [
       {"text": "XI, XII", "explanation": "XI uses Jugular, XII uses Hypoglossal canal."}
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Jugular Foramen Contents: CN IX (Glossopharyngeal), CN X (Vagus), CN XI (Accessory) + Internal Jugular Vein.",
     "slideImagePath": "images/L105_slide_52.jpg",
     "slideImageDescription": "The slide introducing 'Cranial Nerves IX, X, XI' explicitly states: 'All exit the endocranium via the Jugular Foramen'. This grouping is a key anatomical fact for skull base foramina."
   },
@@ -371,6 +395,7 @@ window.L105 = [
       {"text": "CN XII", "explanation": "No role here."}
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Carotid Body (Chemo) & Carotid Sinus (Baro): Innervated by CN IX (Hering's Nerve). (Aortic Body/Sinus = CN X).",
     "slideImagePath": "images/L105_slide_35.jpg",
     "slideImageDescription": "The slide 'Glossopharyngeal (CN IX): Visceral Sensory' lists its targets. It identifies the 'Carotid Body (chemoreceptor)' and 'Carotid Sinus (baroreceptor)' as being innervated by CN IX, confirming its role in these homeostatic reflexes."
   },
@@ -386,6 +411,7 @@ window.L105 = [
       {"text": "Auriculotemporal Nerve", "explanation": "Temple/Ear sensation."}
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Numb Chin Syndrome: Neuropathy of Mental Nerve (V3). Can be a sign of metastatic cancer.",
     "slideImagePath": "images/L105_slide_27.jpg",
     "slideImageDescription": "The slide covering 'Mandibular Division (V3)' shows the 'Mental n.' exiting the mental foramen. The text defines its sensory field as 'skin of chin and lower lip'. Therefore, numbness in this specific area identifies the Mental nerve as the affected structure."
   },
@@ -401,6 +427,7 @@ window.L105 = [
       {"text": "CN XII", "explanation": "Hypoglossal canal."}
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Facial Nerve (CN VII) Path: Internal Acoustic Meatus -> Facial Canal -> Stylomastoid Foramen (Motor Exit).",
     "slideImagePath": "images/L105_slide_40.jpg",
     "slideImageDescription": "The slide 'Facial Nerve (CN VII): Pathway' traces the nerve's course. It shows the entry at the 'Internal Acoustic Meatus' and the exit of the motor branch at the 'Stylomastoid Foramen', visually and textually confirming the anatomical path."
   },
@@ -416,6 +443,7 @@ window.L105 = [
       {"text": "CN VII", "explanation": "Minor contribution."}
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Gag Reflex: Afferent (Sensory) = CN IX. Efferent (Motor) = CN X.",
     "slideImagePath": "images/L105_slide_70.jpg",
     "slideImageDescription": "The 'Gag Reflex' slide diagrams the reflex arc. It identifies 'Efferent limb (CN X)' as sending the 'motor signal to pharyngeal constrictors', establishing the Vagus nerve as the motor component."
   },
@@ -431,6 +459,7 @@ window.L105 = [
       {"text": "Glossopharyngeal Nerve", "explanation": "Head/neck only."}
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "CN X (Vagus) Parasympathetics: Supply Heart, Lungs, and GI Tract up to the Splenic Flexure (Distal Transverse Colon).",
     "slideImagePath": "images/L105_slide_54.jpg",
     "slideImageDescription": "The slide 'Vagus (CN X): Overview' describes its broad distribution. It notes that it 'Wanders into the thorax and abdomen', supplying parasympathetics to the 'Heart, Lungs, GI tract'. This confirms its extensive visceral role."
   },
@@ -446,6 +475,7 @@ window.L105 = [
       {"text": "Foramen Rotundum", "explanation": "V2."}
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "CN XI Path: Enters Skull via Foramen Magnum. Exits Skull via Jugular Foramen.",
     "slideImagePath": "images/L105_slide_63.jpg",
     "slideImageDescription": "The slide regarding 'Accessory (CN XI)' details its unique pathway. It states: 'Enters endocranium via Foramen Magnum... Exits endocranium via Jugular Foramen', providing the definitive anatomical answer."
   }

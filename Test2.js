@@ -11,6 +11,7 @@ window.L102 = [
       {"text": "L3 Flexed, Rotated Right, Sidebent Right (FRS R)", "explanation": "The **posterior left TP** means rotation ease is **Right** (vertebral body rotates toward the posterior TP side). Improvement in flexion (Child's Pose) names it **Flexed**. Following Type II mechanics, rotation and sidebending are coupled to the same side. Thus: **FRS R** (Flexed, Rotated Right, Sidebent Right)."}
     ],
     "correctAnswerIndex": 4,
+    "clinicalPearl": "Diagnosis Rule: Asymmetry improves in Flexion = Flexed Dysfunction (FRS). Asymmetry improves in Extension = Extended Dysfunction (ERS).",
     "slideImagePath": "images/L102_slide_18.jpg",
     "slideImageDescription": "The slide illustrates the procedure for 'Testing segment for Flexion.' It displays a photo of a patient in 'Child's Pose' (bending forward on knees), which is used to flex the lumbar spine. The text instructs the physician to motion test the segment in this position to see if the 'asymmetry improved.' This visual context connects the 'Child's Pose' maneuver directly to the diagnosis of a Flexed dysfunction (where asymmetry improves in flexion), supporting the diagnosis of an FRS lesion."
   },
@@ -26,6 +27,7 @@ window.L102 = [
       {"text": "Sacral sulci", "explanation": "The sacral sulci are palpable just above the sacrum, near the L5-S1 junction, but S2 is marked by the PSIS."}
     ],
     "correctAnswerIndex": 3,
+    "clinicalPearl": "Landmark Rule: Iliac Crests = L4 Vertebral Level (Intercristal Line). PSIS = S2.",
     "slideImagePath": "images/L102_slide_8.jpg",
     "slideImageDescription": "This slide, titled 'Lumbar Dysfunction Diagnosis,' features a detailed posterior view of the human skeleton with various anatomical landmarks labeled. A specific line points to the top of the 'Iliac crest' and explicitly labels it as being at the 'level of L4.' This visual diagram serves as the definitive reference for correlating the iliac crest landmark with the L4 vertebral segment."
   },
@@ -41,6 +43,7 @@ window.L102 = [
       {"text": "Asymmetry of the iliac crests", "explanation": "Iliac crest asymmetry is a diagnostic finding (TART: Asymmetry) and an indication for treatment, not a contraindication."}
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Contraindications for Soft Tissue OMT: Acute DVT (Risk of Embolism), Infection/Abscess, Malignancy, Fracture.",
     "slideImagePath": "images/L102_slide_33.jpg",
     "slideImageDescription": "The slide lists 'Contraindications to Soft Tissue.' Under the section specifically titled 'Cautions and relative contraindications for local application,' item E is listed as 'DVT' (Deep Vein Thrombosis). This text directly confirms that the presence of a DVT is a recognized relative contraindication for performing local soft tissue techniques, ensuring patient safety."
   },
@@ -56,6 +59,7 @@ window.L102 = [
       {"text": "L1-L4 N Rr Sl", "explanation": "A posterior TP on the right indicates **Rotation Right (Rr)** freedom of motion. In **Type I (Neutral) mechanics**, rotation and sidebending are coupled to **opposite sides**. Therefore, the sidebending freedom is **Sidebent Left (Sl)**."}
     ],
     "correctAnswerIndex": 4,
+    "clinicalPearl": "Type I (Neutral) Mechanics: Group Curve, Long Restrictors. Sidebending & Rotation are OPPOSITE.",
     "slideImagePath": "images/L102_slide_24.jpg",
     "slideImageDescription": "This slide explains the 'Type 1 Somatic dysfunction Documentation.' It provides an example where posterior transverse processes on the *Left* correspond to a diagnosis of 'Neutral Side bent Right and Rotated Left' (N Sr Rl). By applying the inverse logic presented in this example (posterior TP on the Right), one can deduce that the rotation is to the Right and, following Type 1 mechanics (opposite coupling), the sidebending must be to the Left, resulting in the notation N Rr Sl."
   },
@@ -71,6 +75,7 @@ window.L102 = [
       {"text": "\"Structure governs function.\"", "explanation": "This is one of the four key osteopathic tenets, but does not specifically refer to the circulatory goals of soft tissue techniques."}
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "A.T. Still: 'We suffer from two things: the want of supply (Arterial) and a burden of dead deposits (Venous/Lymphatic).'",
     "slideImagePath": "images/L102_slide_32.jpg",
     "slideImageDescription": "The slide is titled 'Goals of Soft Tissue Techniques' and lists physiological objectives such as improving circulation and lymph drainage. It prominently displays the quote by Andrew Taylor Still: 'We suffer from two things: the want of supply and a burden of dead deposits.' This quote serves as the foundational philosophy underpinning the goal of improving arterial supply and venous/lymphatic drainage, pointing directly to the correct answer."
   },
@@ -86,6 +91,7 @@ window.L102 = [
       {"text": "Rotation motion is restricted to the left", "explanation": "The motion is restricted to the right (cannot be pushed anteriorly on the left, to rotate right); somatic dysfunctions are named for the ease of motion (rotation left), not the restriction."}
     ],
     "correctAnswerIndex": 0,
+    "clinicalPearl": "Segmental Motion Testing: Resistance to anterior pressure on a TP = Posterior TP = Side of Rotation Ease.",
     "slideImagePath": "images/L102_slide_12.jpg",
     "slideImageDescription": "The slide demonstrates the 'Rotational segmental motion examination' with photos of a physician palpating a model spine. The text clearly explains the interpretation of the test: 'The side that resists your downward/ anterior pressure = the side of the posterior TP = the direction of that vertebra's rotation dysfunction.' This rule confirms that if the left TP resists pressure, it is posterior, and the vertebra is rotated to the left."
   },
@@ -101,6 +107,7 @@ window.L102 = [
       {"text": "The paraspinal musculature is hypertonic or ropey", "explanation": "Hypertonicity is a TART finding (Tissue Texture Change), not the specific finding of the spring test."}
     ],
     "correctAnswerIndex": 3,
+    "clinicalPearl": "Lumbosacral Spring Test: Resistance/Stiffness = POSITIVE Test (indicates Extension Dysfunction / Restriction). Compliance = NEGATIVE Test.",
     "slideImagePath": "images/L102_slide_29.jpg",
     "slideImageDescription": "This slide describes the 'Lumbosacral Spring Test.' It details the procedure of applying an anterior push and evaluating for compliance. It explicitly states, 'Resistance (stiffness) to this springing motion is described as a positive test,' while compliance is a negative test. This text provides the direct criteria for identifying a positive result."
   },
@@ -116,6 +123,7 @@ window.L102 = [
       {"text": "Lateral Recumbent Myofascial Release", "explanation": "This technique is performed with the patient lying on their side (lateral recumbent), not supine, and is not one of the techniques specifically covered in this lab."}
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Supine Extension (Kneading): Physician uses elbows as a fulcrum to stretch paraspinal muscles laterally (Perpendicular stretch).",
     "slideImagePath": "images/L102_slide_30.jpg",
     "slideImageDescription": "The slide illustrates the 'Supine Extension' technique. The image shows the physician's forearms positioned underneath the supine patient's lower back, with hands contacting the paraspinal muscles. The position of the physician's arms clearly demonstrates the use of the elbows against the table as a fulcrum to generate the levering force required for the lateral stretch, matching the technique described in the question."
   },
@@ -131,6 +139,7 @@ window.L102 = [
       {"text": "Gluteus Maximus and Hamstrings", "explanation": "These are large muscles of the hip/buttocks, involved in hip extension and posture, but not directly involved in maintaining a single vertebral segment dysfunction."}
     ],
     "correctAnswerIndex": 3,
+    "clinicalPearl": "Type II Dysfunction (Single Segment): Maintained by Short Restrictors (Rotatores, Intertransversarii). Type I = Long Restrictors.",
     "slideImagePath": "images/L102_slide_7.jpg",
     "slideImageDescription": "The slide titled 'Osteopathic Lumbar Diagnosis: Fryette's 2nd Principle' discusses Type II dysfunctions. It lists key characteristics, including 'Occur as a result of trauma/abrupt twisting' and explicitly states they are 'Maintained by short restrictors - (rotatores brevis and intertransversarii muscles).' This text directly identifies the specific muscle groups responsible for maintaining Type II somatic dysfunctions."
   },
@@ -146,6 +155,7 @@ window.L102 = [
       {"text": "Asking the patient if the palpated spinous process is painful (Tenderness)", "explanation": "This is checking the 'T' (Tenderness) component of TART, but relies on subjective report/palpation, not visual inspection."}
     ],
     "correctAnswerIndex": 0,
+    "clinicalPearl": "TART Diagnostic Criteria: T=Tissue Texture Change, A=Asymmetry (Static/Visual), R=Restriction of Motion, T=Tenderness.",
     "slideImagePath": "images/L102_slide_4.jpg",
     "slideImageDescription": "The slide 'Look at the Lumbar Spine Region' instructs on the visual component of the exam. It lists various anatomical landmarks to check, such as 'Shoulders,' 'Waist crease,' and notably 'Iliac crest' and 'PSIS.' The context of 'Look at...' and checking if landmarks are 'level' indicates a visual assessment of static Asymmetry ('A' in TART), distinguishing it from palpatory assessments."
   }

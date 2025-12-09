@@ -11,6 +11,7 @@ window.L104 = [
       { "text": "Pharyngeal Arch 6 (\"Pulmonary\")", "explanation": "Arch 6 derivatives are intrinsic laryngeal muscles and pulmonary arteries, not the tensor tympani or malleus." }
     ],
     "correctAnswerIndex": 0,
+    "clinicalPearl": "Pharyngeal Arch 1 (Mandibular) -> CN V -> Malleus, Incus, Tensor Tympani, Muscles of Mastication.",
     "slideImagePath": "images/L104_slide_7.jpg",
     "slideImageDescription": "The slide titled 'Pharyngeal Arch 1: \"Mandibular\"' explicitly lists its derivatives. Under 'Cartilage & Bone,' it lists 'malleus, incus'. Under 'Muscles,' it lists 'tensor tympani' along with the muscles of mastication. The diagram visually highlights the Tensor Tympani muscle and Malleus bone in the middle ear, confirming that both structures originate from the first pharyngeal arch."
   },
@@ -26,6 +27,7 @@ window.L104 = [
       { "text": "Intact CN VII (Arch 2) for touch; Lost CN IX (Arch 3) for taste.", "explanation": "CN VII supplies taste, not general sensation/touch, to the anterior two-thirds of the tongue." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Tongue Sensory Innervation (Ant 2/3): General Sensation = CN V3 (Arch 1). Taste = CN VII (Arch 2).",
     "slideImagePath": "images/L104_slide_45.jpg",
     "slideImageDescription": "The 'Tongue Development' slide illustrates the sensory innervation of the tongue. It colors the anterior two-thirds differently and labels it with 'CN V3: Somatic sensory (SA)' from Arch 1 and 'CN VII: Taste (VA)' from Arch 2. This visual distinction clarifies that general sensation and taste in this region are carried by two different cranial nerves derived from different embryonic arches, explaining the potential for dissociated sensory loss."
   },
@@ -41,6 +43,7 @@ window.L104 = [
       { "text": "Pharyngeal Cleft 1", "explanation": "Cleft 1 (ectodermal) forms the external auditory meatus." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Pharyngeal Pouch 2 -> Palatine Tonsils. (Pouch 1 = Ear, Pouch 3 = Thymus/Inf Para, Pouch 4 = Sup Para/C-cells).",
     "slideImagePath": "images/L104_slide_7.jpg",
     "slideImageDescription": "The slide 'Pharyngeal Pouch 2' displays a diagram of the pharyngeal pouches. It highlights Pouch 2 with a red box and explicitly states 'pouch 2 > palatine tonsils'. The anatomical diagram shows the tonsil located between the arches, confirming the embryological origin of this lymphoid tissue."
   },
@@ -56,6 +59,7 @@ window.L104 = [
       { "text": "Pharyngeal Arch 6", "explanation": "Arch 6 is innervated by the recurrent laryngeal branch of CN X and forms the intrinsic laryngeal muscles (except cricothyroid)." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Pharyngeal Arch 4 (Systemic) -> CN X (Superior Laryngeal N.) -> Cricothyroid Muscle + Pharyngeal Constrictors.",
     "slideImagePath": "images/L104_slide_7.jpg",
     "slideImageDescription": "The slide titled 'Pharyngeal Arch 4: \"Systemic\"' lists the derivatives of the fourth arch. Under 'Muscles,' it specifically lists 'cricothyroid', along with pharyngeal constrictors. It also identifies the associated nerve as 'vagus (CN X): superior laryngeal n.', directly linking the muscle weakness and nerve involvement to Arch 4."
   },
@@ -71,6 +75,7 @@ window.L104 = [
       { "text": "Ultimobranchial body remnant", "explanation": "The ultimobranchial body gives rise to C-cells/parafollicular cells and is related to the thyroid gland's lateral origin, not a midline cyst." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Thyroglossal Duct Cyst: Midline neck mass. Moves UP with swallowing / tongue protrusion. (Branchial Cyst is Lateral).",
     "slideImagePath": "images/L104_slide_50.jpg",
     "slideImageDescription": "The 'Thyroglossal Duct Cyst' slide illustrates the descent of the thyroid gland. Figure A shows the path of the thyroglossal duct and a cyst located 'just inferior to the hyoid bone'. The text notes that the cyst forms from 'incomplete closure of the thyroglossal duct' in the 'midline (not lateral) of the neck', which perfectly matches the clinical presentation."
   },
@@ -86,6 +91,7 @@ window.L104 = [
       { "text": "Notochord", "explanation": "The notochord is mesoderm-derived and provides positional signals, but does not form facial bone or connective tissue." }
     ],
     "correctAnswerIndex": 3,
+    "clinicalPearl": "Viscerocranium (Facial Bones) = Neural Crest Cell Origin. (Unlike most skeletal bone which is Mesodermal).",
     "slideImagePath": "images/L104_slide_64.jpg",
     "slideImageDescription": "The 'Neural Crest Derivatives in Head and Neck' slide breaks down derivatives by category. Under 'Cartilage & Bone', it lists 'facial bones (frontal, nasal, maxilla, zygomatic, mandible...)' and 'middle ear ossicles'. It also lists 'dermis and hypodermis of face and neck' under 'Other'. The slide header and diagram emphasize that these are Neural Crest derivatives, confirming NCCs as the source of facial skeletal and connective tissues."
   },
@@ -101,6 +107,7 @@ window.L104 = [
       { "text": "Arch 6 (Pulmonary): Vagus Nerve (CN X)", "explanation": "Correct match: Arch 6 muscles (intrinsic laryngeal muscles, except cricothyroid) are innervated by CN X (Recurrent Laryngeal branch)." }
     ],
     "correctAnswerIndex": 3,
+    "clinicalPearl": "Pharyngeal Arch Innervation: 1=V, 2=VII, 3=IX, 4=X (Sup Laryngeal), 6=X (Recurrent Laryngeal).",
     "slideImagePath": "images/L104_slide_34.jpg",
     "slideImageDescription": "This summary slide lists 'Nerves' for each arch. It explicitly states: 'Arch 1: trigeminal (CN V)', 'Arch 2: facial (CN VII)', 'Arch 3: glossopharyngeal (CN IX)', and 'Arch 4 & 6: vagus (CN X)'. This directly contradicts the option pairing Arch 4 with the Hypoglossal Nerve (CN XII), identifying it as the incorrect match."
   },
@@ -116,6 +123,7 @@ window.L104 = [
       { "text": "Foramen cecum of the tongue", "explanation": "The foramen cecum is the origin point of the thyroid diverticulum, not the pituitary gland." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Anterior Pituitary (Adenohypophysis) = Oral Ectoderm (Rathke's Pouch). Posterior Pituitary (Neurohypophysis) = Neuroectoderm.",
     "slideImagePath": "images/L104_slide_60.jpg",
     "slideImageDescription": "The slide titled 'Pituitary' uses diagrams to show its dual origin. It labels the 'Anterior lobe' as coming from the 'Hypophyseal pouch (future anterior pituitary)', which is described as an 'upgrowth of ectodermal roof of the mouth'. This structure is synonymous with Rathke's pouch, confirming its origin for the adenohypophysis."
   },
@@ -131,6 +139,7 @@ window.L104 = [
       { "text": "Pharyngeal Arch 6", "explanation": "Arch 6 forms laryngeal cartilages (except epiglottis)." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Pharyngeal Arch 2 (Hyoid) -> CN VII -> Stapes, Styloid Process, Lesser Horn Hyoid + Muscles of Facial Expression.",
     "slideImagePath": "images/L104_slide_7.jpg",
     "slideImageDescription": "The slide 'Pharyngeal Arch 2: \"Hyoid\"' lists its derivatives. Under 'Cartilage & Bone,' the first item is 'stapes'. The accompanying diagram of the middle ear clearly colors the stapes to correspond with Arch 2 derivatives, verifying the correct answer."
   },
@@ -146,6 +155,7 @@ window.L104 = [
       { "text": "Craniosynostosis due to premature closure of the sagittal suture", "explanation": "Craniosynostosis is a different skull development disorder involving premature suture closure." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Treacher Collins Syndrome: Failed Neural Crest migration in Arches 1 & 2 -> Mandibulofacial Dysostosis (Small jaw/face).",
     "slideImagePath": "images/L104_slide_66.jpg",
     "slideImageDescription": "The 'Clinical Correlate: Treacher Collins Syndrome' slide describes the condition. It states it involves 'faulty migration of NCC in pharyngeal arches 1 and 2'. The listed symptoms include 'Hypoplasia (underdevelopment) of midface' and 'Micrognathia (small lower jaw)', which are direct consequences of the failed development of Arch 1 (mandible/maxilla) and Arch 2 structures."
   },
@@ -161,6 +171,7 @@ window.L104 = [
       { "text": "Aortic Arch 6 (Pulmonary)", "explanation": "Arch 6 forms the proximal pulmonary arteries and the ductus arteriosus." }
     ],
     "correctAnswerIndex": 3,
+    "clinicalPearl": "Aortic Arch 4 Derivatives: Left = Arch of Aorta. Right = Proximal Subclavian Artery.",
     "slideImagePath": "images/L104_slide_11.jpg",
     "slideImageDescription": "The diagram 'Pharyngeal Apparatus Derivatives: Arteries' shows the embryonic aortic arches transforming into adult vessels. It clearly labels the '4th' aortic arch. On the left side, the 4th arch becomes the 'Arch of aorta'. On the right side, the 4th arch becomes the 'Right subclavian artery'. This visual mapping confirms Arch 4 as the origin of these systemic arteries."
   },
@@ -176,6 +187,7 @@ window.L104 = [
       { "text": "Pharyngeal Membrane 1", "explanation": "Membrane 1 forms the tympanic membrane (eardrum), not the meatus itself." }
     ],
     "correctAnswerIndex": 0,
+    "clinicalPearl": "Pharyngeal Cleft 1 = External Auditory Meatus. (All other clefts obliterate or form Cervical Sinus if persistent).",
     "slideImagePath": "images/L104_slide_38.jpg",
     "slideImageDescription": "The slide 'Pharyngeal Pouch, Cleft, Membrane 1' clearly identifies the derivatives of the first set of pharyngeal structures. It states: 'cleft 1 > external auditory meatus'. The accompanying diagram shows the first cleft invaginating to form the ear canal, providing direct evidence for the correct answer."
   },
@@ -191,6 +203,7 @@ window.L104 = [
       { "text": "An upgrowth of the oral ectoderm that fuses with endoderm from Arch 4.", "explanation": "This describes the origin of the anterior pituitary lobe (Rathke's pouch) from oral ectoderm." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Thyroid Descent: Starts at Foramen Cecum (Tongue Base) -> Descends midline through neck -> Anterior Trachea.",
     "slideImagePath": "images/L104_slide_48.jpg",
     "slideImageDescription": "The 'Thyroid Development' slide diagrams the process. Figure B shows the 'Thyroid primordium' originating at the 'Foramen cecum of tongue' and descending via the 'Thyroglossal duct' anterior to the hyoid and larynx. The text states: 'The thyroid primordium (diverticulum) descends... from the foramen cecum to its final position'. This confirms the midline, anterior descent pathway from the pharyngeal floor."
   },
@@ -206,6 +219,7 @@ window.L104 = [
       { "text": "Pharyngeal Arch 6", "explanation": "Arch 6 forms the intrinsic laryngeal muscles (except cricothyroid) and is innervated by the recurrent laryngeal nerve." }
     ],
     "correctAnswerIndex": 4,
+    "clinicalPearl": "Pharyngeal Arch 6 (Pulmonary) -> Recurrent Laryngeal Nerve -> Intrinsic Laryngeal Muscles (Speaking).",
     "slideImagePath": "images/L104_slide_12.jpg",
     "slideImageDescription": "The slide 'Pharyngeal Arch 6: \"Pulmonary\"' lists its derivatives. Under 'Muscles,' it explicitly lists 'intrinsic laryngeal muscles except cricothyroid'. It also identifies the associated nerve as 'vagus (CN X): recurrent laryngeal n.', confirming that the majority of laryngeal muscles responsible for phonation are Arch 6 derivatives."
   },
@@ -221,6 +235,7 @@ window.L104 = [
       { "text": "Obliteration of the thyroglossal duct with the formation of the hyoid bone.", "explanation": "This is related to thyroid descent, not facial fusion defects." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Cleft Lip = Failure of fusion: Maxillary Prominence + Medial Nasal Prominence (Intermaxillary segment).",
     "slideImagePath": "images/L104_slide_52.jpg",
     "slideImageDescription": "The slide 'Cleft Lip, Cleft Palate' illustrates the fusion process. The diagrams show the 'Intermaxillary segment' (from medial nasal prominences) fusing with the 'Maxillary prominences' to form the upper lip. The text notes 'Cleft Lip... caused by incomplete closure of the maxilla' (and associated lip structures), implying the failure of these specific prominences to merge."
   },
@@ -236,6 +251,7 @@ window.L104 = [
       { "text": "Hypobranchial eminence (Glossopharyngeal nerve connection)", "explanation": "The hypobranchial eminence forms the posterior 1/3 mucosa, not the deep musculature." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Tongue Muscles = Occipital Somites (Myoblasts) -> Innervated by CN XII (Hypoglossal). (NOT from Pharyngeal Arches).",
     "slideImagePath": "images/L104_slide_10.jpg",
     "slideImageDescription": "The 'Pharyngeal Apparatus Derivatives: Muscles' slide includes a section on 'Somitomeres'. It explicitly states: 'The tongue muscles originate from more caudal somites, hence their innervation from CN XII (hypoglossal n.)'. This clearly distinguishes the tongue musculature's origin from the pharyngeal arch mesoderm that forms other head/neck muscles."
   },
@@ -251,6 +267,7 @@ window.L104 = [
       { "text": "Pouch 1 gives rise to the ultimobranchial body, which forms the C-cells of the thyroid.", "explanation": "Pouch 1 forms the middle ear/auditory tube. The ultimobranchial body is derived from Pouch 4." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Parathyroid Paradox: Pouch 3 (Inferior Paras) ends up BELOW Pouch 4 (Superior Paras) due to Thymus migration.",
     "slideImagePath": "images/L104_slide_40.jpg",
     "slideImageDescription": "The slide 'Pharyngeal Pouches 3 & 4' clearly lists the derivatives. Under 'Pouch 3', it lists 'inferior parathyroid glands'. Under 'Pouch 4', it lists 'superior parathyroid glands'. The diagram shows the Pouch 3 derivative (inferior parathyroid) migrating past the Pouch 4 derivative to reach a lower position on the thyroid gland, confirming the inverted final anatomy."
   },
@@ -266,6 +283,7 @@ window.L104 = [
       { "text": "Failure of obliteration of the secondary palate.", "explanation": "This causes cleft palate." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Microcephaly = Primary Brain Development Defect -> Secondary Small Skull. (Craniosynostosis = Primary Skull Defect).",
     "slideImagePath": "images/L104_slide_58.jpg",
     "slideImageDescription": "The 'Clinical Correlate: Craniosynostosis, Microcephaly, Hydrocephalus' slide defines Microcephaly. It explicitly states: 'caused by abnormal development of the brain, rather than premature closure of sutures.' This distinction clarifies that the small skull is secondary to the small brain, not a primary skeletal defect."
   },
@@ -281,6 +299,7 @@ window.L104 = [
       { "text": "Dentine of Teeth: Primary Mesoderm", "explanation": "Dentine is derived from Neural Crest Cells (mesectoderm)." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Placodes (Ectoderm) -> Special Sensory Organs. Otic Placode -> Inner Ear (Vestibulocochlear). Lens Placode -> Eye Lens.",
     "slideImagePath": "images/L104_slide_51.jpg",
     "slideImageDescription": "The 'Placodes' slide defines placodes as 'ectodermal discs that form special sense organs'. It specifically lists 'otic placode > vestibule & cochlea of the ear'. This matches the option pairing the inner ear structures with their ectodermal placode origin."
   },
@@ -296,6 +315,7 @@ window.L104 = [
       { "text": "Aortic Arch 3 artery", "explanation": "The Arch 3 artery forms the carotid arteries." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Ductus Arteriosus -> Ligamentum Arteriosum. Derived from Distal Left 6th Aortic Arch.",
     "slideImagePath": "images/L104_slide_11.jpg",
     "slideImageDescription": "The diagram of 'Pharyngeal Apparatus Derivatives: Arteries' shows the fate of the aortic arches. On the left side, the 6th arch is labeled 'Ductus arteriosus', connecting the pulmonary trunk to the aorta. This anatomical arrangement and label directly identify the structure in question."
   },
@@ -311,6 +331,7 @@ window.L104 = [
       { "text": "Sphenomandibular ligament", "explanation": "The sphenomandibular ligament is a derivative/remnant of Meckel's cartilage, not the cartilage itself." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Meckel's Cartilage (Arch 1): Scaffold for Mandible. Remnants = Malleus, Incus, Sphenomandibular Ligament.",
     "slideImagePath": "images/L104_slide_7.jpg",
     "slideImageDescription": "The slide 'Pharyngeal Arch 1: \"Mandibular\"' lists 'Cartilage & Bone' derivatives. It identifies 'cartilaginous precursor of mandible' (known as Meckel's cartilage) and notes it also forms the malleus and incus. The transient nature of this cartilage scaffold is a key developmental feature associated with Arch 1."
   },
@@ -326,6 +347,7 @@ window.L104 = [
       { "text": "In the midline, inferior to the hyoid bone.", "explanation": "This is the location of the thyroglossal duct cyst." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Branchial Fistula/Cyst: Persistent Cervical Sinus. Location = Anterior border of Sternocleidomastoid (Lateral neck).",
     "slideImagePath": "images/L104_slide_41.jpg",
     "slideImageDescription": "The 'Clinical Correlates: Branchial Fistula & Cyst' slide describes the condition caused by a 'persistent cervical sinus'. It explicitly states: 'external fistula opens on the skin of the neck anterior to the sternocleidomastoid m.', providing the exact anatomical location for the external opening."
   },
@@ -341,6 +363,7 @@ window.L104 = [
       { "text": "CN XII (Hypoglossal)", "explanation": "CN XII provides motor innervation to the tongue muscles." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "CN VII (Facial) -> Chorda Tympani -> Taste to Anterior 2/3 of Tongue. (Overgrown Arch 2 contribution).",
     "slideImagePath": "images/L104_slide_45.jpg",
     "slideImageDescription": "The 'Tongue Development' slide lists the nerve supply. It specifically labels 'CN VII: Taste (VA)' for the anterior two-thirds. The text notes: 'Arch 2 is overgrown by arch 3 but provides taste innervation to anterior 2/3'. This explains why CN VII (the nerve of Arch 2) supplies taste despite the arch itself being obscured."
   },
@@ -356,6 +379,7 @@ window.L104 = [
       { "text": "Meckel's Cartilage", "explanation": "Meckel's cartilage is a specific cartilaginous precursor for the mandible/middle ear ossicles." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Chondrocranium (Cranial Base) forms via Endochondral Ossification (Cartilage Model).",
     "slideImagePath": "images/L104_slide_56.jpg",
     "slideImageDescription": "The slide 'Skull Development' categorizes the skull into three components. It defines 'chondrocranium' as the 'endochondral cranial base that later ossifies' and lists 'occipital, sphenoid, ethmoid, temporal (petrous part)' as its constituents. This definition aligns perfectly with the description in the question."
   },
@@ -371,6 +395,7 @@ window.L104 = [
       { "text": "Submandibular gland hypertrophy.", "explanation": "The submandibular gland is a salivary gland unrelated to the thyroglossal duct." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Pyramidal Lobe of Thyroid: Common normal variant. Remnant of the caudal end of the Thyroglossal Duct.",
     "slideImagePath": "images/L104_slide_50.jpg",
     "slideImageDescription": "The slide regarding 'Ectopic Thyroid Gland' includes an illustration of the thyroid gland with a 'Pyramidal lobe' extending upwards from the isthmus. The diagram labels this as the 'Pyramidal lobe of thyroid gland' and shows it lying along the 'Former tract of thyroglossal duct', identifying it as the common remnant/ectopic tissue in this location."
   },
@@ -386,6 +411,7 @@ window.L104 = [
       { "text": "Carotid Arteries and Stylopharyngeus.", "explanation": "These are Arch 3 derivatives, innervated by CN IX." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "CN X (Vagus) = Pharynx (Swallow), Larynx (Voice). (Arches 4 & 6 derivatives including Esophagus striated muscle).",
     "slideImagePath": "images/L104_slide_28.jpg",
     "slideImageDescription": "The summary slide for 'Muscles' lists 'Arch 4 & 6' as forming 'mm. of larynx, esophagus'. It connects these arches to the 'vagus (CN X)' nerve. This confirms that the Vagus nerve innervates the musculature of the larynx and esophagus, which are derived from these specific arches."
   },
@@ -401,6 +427,7 @@ window.L104 = [
       { "text": "Parotid Gland.", "explanation": "Parotid gland is derived from Ectoderm." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Endoderm Derivatives: Epithelial lining of GI tract, Respiratory tract, Pharyngeal Pouches (Tonsil/Thymus/Parathyroid), and Bladder.",
     "slideImagePath": "images/L104_slide_41.jpg",
     "slideImageDescription": "The slide on 'Pharyngeal Pouch 2' states: 'pouch 2 > palatine tonsils'. Since pharyngeal pouches are lined by endoderm (as established in slide 62), the mucosal component of the tonsil is endodermal. Other options like dentine (NCC) or lens (Ectoderm placode) are from different germ layers."
   },
@@ -416,6 +443,7 @@ window.L104 = [
       { "text": "Adrenal medullary cells (produces epinephrine).", "explanation": "These cells are derived from Neural Crest Cells, but form the adrenal medulla." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Parafollicular C-Cells (Calcitonin) = Ultimobranchial Body (Pouch 4) + Neural Crest Cells.",
     "slideImagePath": "images/L104_slide_40.jpg",
     "slideImageDescription": "The slide 'Pharyngeal Pouches 3 & 4' lists 'Ultimobranchial body' under Pouch 4. It explicitly states that this structure is the 'future C cells of thyroid gland' (parafollicular cells), directly linking the embryological structure to the specific cell type."
   },
@@ -431,6 +459,7 @@ window.L104 = [
       { "text": "Ultimobranchial body (from Pouch 4).", "explanation": "This fuses with the thyroid and remains in the neck, not migrating as extensively as the inferior parathyroid gland." }
     ],
     "correctAnswerIndex": 0,
+    "clinicalPearl": "Inferior Parathyroid Glands (Pouch 3) migrate with Tymus to lower neck. Superior Parathyroid Glands (Pouch 4) stay higher.",
     "slideImagePath": "images/L104_slide_40.jpg",
     "slideImageDescription": "The diagram on slide 40 shows the migration paths. It illustrates the 'Inferior parathyroid' (from Pouch 3) migrating inferiorly past the 'Superior parathyroid' (from Pouch 4). The text labels 'Parathyroid III' as 'future inferior parathyroid gland', confirming that the derivative of the third pouch ends up in the more caudal position."
   },
@@ -446,6 +475,7 @@ window.L104 = [
       { "text": "Ethmoid bone", "explanation": "The ethmoid bone is formed via endochondral ossification (Chondrocranium)." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Skeletal Origin: Face (Maxilla/Mandible) = Viscerocranium (NCC). Skull Base = Chondrocranium (Endochondral).",
     "slideImagePath": "images/L104_slide_56.jpg",
     "slideImageDescription": "The 'Skull Development' slide defines 'viscerocranium' as being 'derived from pharyngeal arches via membranous ossification'. It explicitly lists 'maxilla' (along with zygomatic and mandible) as an example of a bone formed this way, directly supporting the correct answer."
   }

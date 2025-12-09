@@ -1,4 +1,4 @@
-window.L109L110 = [
+﻿window.L109L110 = [
   // --- L109: Absorption & Distribution (25 Questions) ---
 
   // 1. Introduction Concept
@@ -14,6 +14,7 @@ window.L109L110 = [
       { "text": "Clearance", "explanation": "Clearance refers to the volume of plasma from which the drug is removed per unit time." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Pharmacodynamics: Relationship between Concentration at site of action and Effect. (What drug does to body).",
     "pdfPage": 46,
     "slideImageDescription": "This slide defines the Pharmacokinetic/Pharmacodynamic Relationship. It shows two distinct boxes. The 'Pharmacokinetics' box points from Dose to Concentration. The 'Pharmacodynamics' box points from Concentration to Effect. The question asks about the concentration-effect relationship, which the slide explicitly labels as Pharmacodynamics."
   },
@@ -29,6 +30,7 @@ window.L109L110 = [
       { "text": "Elimination", "explanation": "Elimination comprises both metabolism and excretion." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Absorption: Movement from site of administration across barriers into Central Compartment (blood).",
     "pdfPage": 64,
     "slideImageDescription": "The slide titled 'Absorption' defines it as the movement of substances across physiologic barriers into the central circulation. It emphasizes that for oral drugs, this involves crossing from the GI tract into the bloodstream."
   },
@@ -44,6 +46,7 @@ window.L109L110 = [
       { "text": "Molecular weight (if large)", "explanation": "Larger molecules generally diffuse slower, though this is less dominant than lipid solubility for small deviations." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Passive Diffusion (Fick's Law): Rate is directly proportional to Lipid Solubility (Partition Coefficient).",
     "pdfPage": 68,
     "slideImageDescription": "The slide on Fick's Law of Diffusion displays the equation: Flux = (C1 - C2) * (Area * Permeability) / Thickness. It explicitly lists the 'lipid:water partition coefficient' as a key determinant of permeability, stating that higher lipid solubility increases the rate of diffusion."
   },
@@ -59,6 +62,7 @@ window.L109L110 = [
       { "text": "Endocytosis", "explanation": "Endocytosis involves engulfing the molecule in a vesicle, distinct from carrier-mediated transport." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Active Transport: Against concentration gradient. Requires Carrier + Energy (ATP).",
     "pdfPage": 78,
     "slideImageDescription": "The slide 'Active Transport' illustrates a solute being moved from an area of low concentration to high concentration. The text highlights 'Requires Energy (ATP)' and remains distinct from Facilitated Diffusion which is passive."
   },
@@ -74,6 +78,7 @@ window.L109L110 = [
       { "text": "It does not require energy input.", "explanation": "Facilitated diffusion is a passive process driven by the concentration gradient and does not require energy input, distinguishing it from active transport." }
     ],
     "correctAnswerIndex": 4,
+    "clinicalPearl": "Facilitated Diffusion vs Active Transport: Facilitated is Passive (No Energy), moves Down gradient. Both are saturable/carrier-mediated.",
     "pdfPage": 75,
     "slideImageDescription": "The slide comparing transport mechanisms lists Facilitated Diffusion. Key features noted are 'Carrier-mediated', 'Saturable', and 'No Energy Required'. This contrasts with the Active Transport column which lists 'Energy Required'."
   },
@@ -89,6 +94,7 @@ window.L109L110 = [
       { "text": "Equal amounts of ionized and non-ionized forms", "explanation": "Equal amounts exist only when pH = pKa." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Weak Acid Absorption: In stomach (pH < pKa), predominates in Non-ionized (Protonated, HA) form -> Increased Absorption.",
     "pdfPage": 70,
     "slideImageDescription": "The slide dealing with pH and pKa for Weak Acids shows the equilibrium: HA <-> H+ + A-. It states 'Protonated form (HA) is non-ionized and lipid soluble'. A chart or rule of thumb indicates that when pH < pKa, equilibrium shifts left (towards HA), facilitating absorption."
   },
@@ -104,6 +110,7 @@ window.L109L110 = [
       { "text": "There is no change in the ionization state.", "explanation": "Ionization is pH dependent." }
     ],
     "correctAnswerIndex": 0,
+    "clinicalPearl": "Weak Base Absorption: As pH increases (Duodenum > Stomach), Non-ionized fraction (B) increases. (Approaching pKa).",
     "pdfPage": 70,
     "slideImageDescription": "The slide for Weak Bases shows the equilibrium: BH+ <-> B + H+. It notes that 'Non-protonated form (B) is non-ionized and lipid soluble'. Moving from pH 2 to pH 6.4 reduces the [H+], shifting equilibrium to the right (towards B), thus increasing the non-ionized fraction."
   },
@@ -119,6 +126,7 @@ window.L109L110 = [
       { "text": "Bicarbonate inhibits the renal transporters for the drug.", "explanation": "The mechanism is physicochemical (diffusion), not transport inhibition." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Ion Trapping (Weak Acid): Alkalinize urine (Bicarb) -> Converts acid to Ionized (A-) form -> Trapped in tubule -> Increased Excretion.",
     "pdfPage": 29,
     "slideImageDescription": "The slide titled 'Ion Trapping' illustrates the kidney tubule. It shows that by manipulating the urine pH, one can force a weak acid into its ionized state (A-). The diagram shows A- bouncing off the tubule wall, unable to be reabsorbed, and subsequently excreted."
   },
@@ -134,6 +142,7 @@ window.L109L110 = [
       { "text": "0 mg", "explanation": "Some drug reaches circulation." }
     ],
     "correctAnswerIndex": 3,
+    "clinicalPearl": "Bioavailability Calculation: F = 20% (0.2). Amount = 100mg * 0.2 = 20mg.",
     "pdfPage": 83,
     "slideImageDescription": "The slide on 'Bioavailability (F)' defines the formula: F = (AUC oral / AUC IV) * 100. It explicitly states that F represents the fraction of the administered dose that reaches the systemic circulation unchanged. 20% of 100mg is 20mg."
   },
@@ -149,6 +158,7 @@ window.L109L110 = [
       { "text": "Hepatic artery injection", "explanation": "This delivers drug directly to the liver." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "First Pass Effect: Oral drugs enter Portal circulation -> Liver. IV bypasses this completely (100% Bioavailability).",
     "pdfPage": 99,
     "slideImageDescription": "The slide 'First Pass Effect' compares routes. It shows 'Oral' goes Stomach -> Portal Vein -> Liver -> Systemic. It contrasts this with 'Intravenous', which goes directly to the systemic circulation. A star or highlight typically marks IV as the standard for 100% bioavailability (F=1)."
   },
@@ -164,6 +174,7 @@ window.L109L110 = [
       { "text": "Gastric emptying rate", "explanation": "This affects absorption, not IV distribution." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Central Compartment (Distribution): Highly perfused organs (Heart, Liver, Kidney, Brain) receive drug first.",
     "pdfPage": 62,
     "slideImageDescription": "The slide on 'Drug Distribution' categorizes tissues. It lists 'Well-perfused organs' (Heart, Liver, Kidney, Brain) as the Vacuum/Central compartment that receives drug first. It explicitly links this to 'High Blood Flow'."
   },
@@ -179,6 +190,7 @@ window.L109L110 = [
       { "text": "Decreased volume of distribution of Warfarin.", "explanation": "Vd might increase slightly as free drug moves to tissues, but it doesn't decrease." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Protein Binding Displacement: Displacement from Albumin -> Increased Free (Active) Drug Concentration -> Potential Toxicity.",
     "pdfPage": 37,
     "slideImageDescription": "The 'Protein Binding' slide illustrates the concept of bound vs. free drug. It emphasizes that 'Only Free Drug is Active'. A specific bullet point or diagram regarding 'Displacement' notes that displacing a highly bound drug spikes the free drug levels, potentially leading to toxicity."
   },
@@ -194,6 +206,7 @@ window.L109L110 = [
       { "text": "It cannot cross the blood-brain barrier.", "explanation": "Vd doesn't explicitly tell us about the BBB, but high Vd usually suggests high lipophilicity/tissue penetration." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Volume of Distribution (Vd): High Vd (> TBW) = Extensive Tissue Distribution (sequestered in fat/muscle).",
     "pdfPage": 31,
     "slideImageDescription": "The slide on 'Volume of Distribution (Vd)' provides reference values. It states: 'High Vd (> Total Body Water)' indicates drug is 'Concentrated in Tissues'. It contrasts this with 'Low Vd' (Plasma)."
   },
@@ -209,6 +222,7 @@ window.L109L110 = [
       { "text": "Development of acute tolerance (tachyphylaxis)", "explanation": "While possible, redistribution is the pharmacokinetic 'mechanism' for the drop in brain concentration." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Redistribution: Termination of highly lipophilic drugs (Thiopental) due to movement from Brain -> Muscle/Fat.",
     "pdfPage": 90,
     "slideImageDescription": "The slide 'Redistribution' shows a graph with three curves: Blood (rapid peak/fall), Brain (rapid peak/fall), and Muscle/Fat (slow rise). The text explains that the termination of action of highly lipophilic drugs (like Thiopental) is due to redistribution to tissue reservoirs, not metabolism."
   },
@@ -224,6 +238,7 @@ window.L109L110 = [
       { "text": "High plasma protein binding", "explanation": "Protein-bound drugs cannot cross." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Blood Brain Barrier (BBB Entry): Requires High Lipid Solubility to cross tight junctions.",
     "pdfPage": 92,
     "slideImageDescription": "The 'Blood Brain Barrier' slide depicts the tight junctions between endothelial cells. It lists 'Factors favoring CNS entry': 'High Lipid Solubility', 'Low Ionization', 'No Transporter Efflux'."
   },
@@ -239,6 +254,7 @@ window.L109L110 = [
       { "text": "100 : 1", "explanation": "This would mean pH was 2 units above pKa." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Henderson-Hasselbalch: pH 2.5, pKa 3.5. pH = pKa - 1. Ratio Ionized/Non = 0.1 (1:10).",
     "pdfPage": 56,
     "slideImageDescription": "The slide 'Henderson-Hasselbalch Equation' shows the formula. A sample calculation table might show that when pH is 1 unit below pKa, the ratio of Ionized/Non-ionized is 0.1 (or 10% ionized, 90% non-ionized approx). This matches the 1:10 ratio."
   },
@@ -254,6 +270,7 @@ window.L109L110 = [
       { "text": "It allows the drug to be ionized.", "explanation": "Irrelevant." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Sublingual Administration: Bypasses First-Pass Metabolism (drains to SVC). Ideal for Nitroglycerin.",
     "pdfPage": 98,
     "slideImageDescription": "The 'Alternative Routes' slide lists 'Sublingual' and explicitly states 'Bypasses First Pass Effect'. Nitroglycerin is often cited as the classic example of a drug requiring this route due to extensive hepatic clearance."
   },
@@ -269,6 +286,7 @@ window.L109L110 = [
       { "text": "Chemically different", "explanation": "They are the same drug." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Bioequivalence: Requires similar Rate (Cmax, Tmax) and Extent (AUC). Different Tmax = Bioinequivalent.",
     "pdfPage": 55,
     "slideImageDescription": "The slide on 'Bioequivalence' shows two curves. It states that for two drugs to be bioequivalent, they must have comparable Rate (Cmax, Tmax) and Extent (AUC). If Tmax differs, their rate of absorption differs."
   },
@@ -284,6 +302,7 @@ window.L109L110 = [
       { "text": "Decreased renal excretion", "explanation": "P-gp pumps drug into urine; induction would increase excretion." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "P-glycoprotein (MDR1): Efflux transporter (pumps out). Induction = Increased Pumping = Decreased Bioavailability.",
     "pdfPage": 77,
     "slideImageDescription": "The slide 'P-glycoprotein (MDR1)' defines it as an 'Efflux Transporter'. A diagram shows drug entering a cell and being pumped back out. Text bullet points note: 'Limits absorption in gut', 'Protects brain'. Induction = More Pumping = Less Drug in Body."
   },
@@ -299,6 +318,7 @@ window.L109L110 = [
       { "text": "Bound form", "explanation": "Protein bound drugs cannot diffuse." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Weak Base Solubility: Unprotonated form (B) is Non-ionized and Lipid Soluble.",
     "pdfPage": 70,
     "slideImageDescription": "The slide 'Weak Bases' clearly equates 'Unprotonated (B)' with 'Non-ionized' and 'Lipid Soluble'. It contrasts this with 'Protonated (BH+)' which is 'Ionized' and 'Water Soluble'."
   },
@@ -314,6 +334,7 @@ window.L109L110 = [
       { "text": "5000 L", "explanation": "Math error." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Vd Calculation: Vd = Dose / Cp0 = 500 / 10 = 50 L.",
     "pdfPage": 46,
     "slideImageDescription": "The slide 'Calculating Vd' presents the formula: Vd = Dose / Cp0. It provides a sample calculation."
   },
@@ -329,6 +350,7 @@ window.L109L110 = [
       { "text": "Hemoglobin", "explanation": "Carries oxygen/CO2." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Plasma Proteins: Albumin binds Acidic drugs. Alpha-1 Acid Glycoprotein binds Basic drugs.",
     "pdfPage": 86,
     "slideImageDescription": "The slide 'Plasma Proteins' lists Albumin. Bullet point: 'Binds Acidic Drugs'. Below it, 'Alpha-1 Acid Glycoprotein' is listed as 'Binds Basic Drugs'."
   },
@@ -344,6 +366,7 @@ window.L109L110 = [
       { "text": "Receptor antagonist", "explanation": "Incorrect." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Prodrug: Inactive precursor metabolized to Active drug (Levodopa -> Dopamine).",
     "pdfPage": 35,
     "slideImageDescription": "The slide 'Metabolism: Prodrugs' defines them as 'Inactive drugs metabolized to Active drugs'. Levodopa is often listed as the example."
   },
@@ -359,6 +382,7 @@ window.L109L110 = [
       { "text": "Redistribution", "explanation": "Redistribution is tissue to tissue." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Enterohepatic Recirculation: Liver -> Bile -> Gut -> Reabsorption. Prolongs drug action.",
     "pdfPage": 21,
     "slideImageDescription": "The slide 'Enterohepatic Recirculation' diagrams the loop: Liver -> Bile Duct -> Intestine -> Portal Vein -> Liver. It notes that bacterial enzymes can reverse conjugation, allowing reabsorption."
   },
@@ -374,10 +398,10 @@ window.L109L110 = [
       { "text": "Test for allergic reactions.", "explanation": "Irrelevant." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Loading Dose: Use to rapidly fill Vd and achieve Target Concentration (Steady State) quickly.",
     "pdfPage": 17,
     "slideImageDescription": "The slide 'Dosing Regimens' contrasts Loading Dose vs Maintenance Dose. Loading Dose is defined as 'Fill the tank (Vd) to reach Css quickly'."
   },
-
   // --- L110: Metabolism & Excretion (25 Questions) ---
 
   // 26. Metabolism Purpose
@@ -393,6 +417,7 @@ window.L109L110 = [
       { "text": "Protein bound", "explanation": "Metabolism doesn't aim for this." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Metabolism Goal: Convert Lipophilic drugs to Hydrophilic (Water soluble) metabolites for Excretion.",
     "pdfPage": 59,
     "slideImageDescription": "The slide 'Purpose of Metabolism' (Biotransformation) has a flowchart: Lipophilic Drug -> Metabolism -> Hydrophilic Metabolite -> Excretion. Key concept: 'Make it water soluble'."
   },
@@ -408,6 +433,7 @@ window.L109L110 = [
       { "text": "Methylation", "explanation": "Phase 2." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Phase I Metabolism: Oxidation (CYP450), Reduction, Hydrolysis. Functionalization.",
     "pdfPage": 11,
     "slideImageDescription": "The slide 'Phase I vs Phase II' lists the reaction types. Phase I: Oxidation (CYP450), Reduction, Hydrolysis. Phase II: Conjugation reactions."
   },
@@ -423,6 +449,7 @@ window.L109L110 = [
       { "text": "Selenium", "explanation": "No." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "CYP450 Cofactor: Heme Iron (Fe) binds Oxygen.",
     "pdfPage": 15,
     "slideImageDescription": "The slide 'CYP450 Mechanism' shows the catalytic cycle. The 'Heme Iron' is explicitly shown binding the Drug and Oxygen."
   },
@@ -438,6 +465,7 @@ window.L109L110 = [
       { "text": "Alcohol dehydrogenase (ADH)", "explanation": "Phase 1 non-CYP." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Glucuronidation: Phase II reaction. Enzyme: UGT (UDP-glucuronosyltransferase).",
     "pdfPage": 3,
     "slideImageDescription": "The slide 'Phase II Enzymes' lists UGTs as the Transferases for Glucuronidation. It emphasizes them as the 'Major Phase II pathway'."
   },
@@ -453,6 +481,7 @@ window.L109L110 = [
       { "text": "Resistance to inhibition", "explanation": "They are easily inhibited." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "CYP Enzymes: Low Substrate Specificity (promiscuous). Metabolize diverse structures.",
     "pdfPage": 14,
     "slideImageDescription": "The slide 'CYP Characteristics' noted 'Low Substrate Specificity'. It explains that this allows the liver to handle the wide variety of xenobiotics we encounter."
   },
@@ -468,6 +497,7 @@ window.L109L110 = [
       { "text": "Induction of Simvastatin metabolism", "explanation": "Ketoconazole is an inhibitor, not inducer." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Enzyme Inhibition (CYP): Inhibitor blocks metabolism -> Increased Substrate Concentration -> Toxicity.",
     "pdfPage": 36,
     "slideImageDescription": "The slide 'Enzyme Inhibition' shows a diagram where the 'Inhibitor' blocks the enzyme. The graph shows the 'Substrate' levels rising significantly (AUC increases)."
   },
@@ -483,6 +513,7 @@ window.L109L110 = [
       { "text": "Only affects Phase 2 enzymes", "explanation": "Affects CYPs (Phase 1) prominently." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Enzyme Induction: Upregulation of enzyme synthesis. Delayed effect (days/weeks). Decreases substrate levels.",
     "pdfPage": 36,
     "slideImageDescription": "The slide 'Enzyme Induction' contrasts with Inhibition. It states 'Time Course: Delayed'. 'Mechanism: New Protein Synthesis'. Effect: 'Decreased Substrate Levels'."
   },
@@ -498,6 +529,7 @@ window.L109L110 = [
       { "text": "Allergic reaction", "explanation": "Unrelated." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Poor Metabolizer (CYP2D6): Prodrug (Codeine) failure. Cannot convert to active form (Morphine) -> No Analgesia.",
     "pdfPage": 4,
     "slideImageDescription": "The slide 'Pharmacogenomics: CYP2D6' uses Codeine as the case study. A table shows: PM (Poor Metabolizer) -> Minimal Morphine -> No Pain Relief. UM (Ultra Metabolizer) -> Spike in Morphine -> Toxicity."
   },
@@ -513,6 +545,7 @@ window.L109L110 = [
       { "text": "The bioavailablity is 0.", "explanation": "No." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Ultra-Rapid Metabolizer (CYP2D6): Rapid conversion of Prodrug -> Toxicity (Respiratory Depression) from standard dose.",
     "pdfPage": 112,
     "slideImageDescription": "Same slide as above. The UM row highlights 'Toxicity' and 'Respiratory Depression'."
   },
@@ -528,6 +561,7 @@ window.L109L110 = [
       { "text": "Blue Baby Syndrome", "explanation": "Methemoglobinemia." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Grey Baby Syndrome: Neonatal Chloramphenicol toxicity due to Immature Phase II (Glucuronidation) enzymes.",
     "pdfPage": 117,
     "slideImageDescription": "The 'Age-Related Metabolism' slide highlights 'Neonates'. Bullet: 'Deficient Glucuronidation'. Example: 'Chloramphenicol -> Grey Baby Syndrome'."
   },
@@ -543,6 +577,7 @@ window.L109L110 = [
       { "text": "Clearance", "explanation": "The result of the processes." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Tubular Reabsorption: Passive diffusion of Lipid Soluble drugs back into blood. (Target of ion trapping).",
     "pdfPage": 37,
     "slideImageDescription": "The slide 'Renal Excretion' details 3 steps: 1. Filtration (Free drug only). 2. Secretion (Active). 3. Reabsorption (Passive, Lipid Soluble)."
   },
@@ -558,6 +593,7 @@ window.L109L110 = [
       { "text": "Hepatic blood flow", "explanation": "Unrelated." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Clearance = GFR: Occurs if drug is freely filtered, not secreted, not reabsorbed (e.g., Creatinine).",
     "pdfPage": 37,
     "slideImageDescription": "The slide 'Clearance Concepts' uses Creatinine as the marker. C = GFR if no secretion/reabsorption."
   },
@@ -573,6 +609,7 @@ window.L109L110 = [
       { "text": "Increased metabolism", "explanation": "Interaction is renal." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Tubular Secretion Interaction: Probenecid blocks OAT secretion of Penicillin -> Increased Levels/Half-life.",
     "pdfPage": 25,
     "slideImageDescription": "The slide 'Tubular Secretion' mentions OAT (Organic Anion Transporters). The Clinical Note cites 'Probenecid + Penicillin' as a beneficial interaction increasing half-life."
   },
@@ -588,6 +625,7 @@ window.L109L110 = [
       { "text": "Zero protein binding", "explanation": "Unrelated." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Biliary Excretion: Favors High MW (>500) and Polar/Conjugated molecules.",
     "pdfPage": 35,
     "slideImageDescription": "The slide 'Biliary Excretion' lists characteristics: 'MW > 500', 'Polar groups', 'Active Transport required'."
   },
@@ -603,6 +641,7 @@ window.L109L110 = [
       { "text": "Enzymes are saturated.", "explanation": "Zero-Order." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "First Order Elimination: Constant Fraction eliminated per time. Rate proportional to concentration.",
     "pdfPage": 83,
     "slideImageDescription": "The slide 'First Order vs Zero Order' has a comparison table. First Order: 'Constant Fraction', 'Linear', 'Independent Half-life'. Zero Order: 'Constant Amount', 'Saturable', 'Dose-dependent Half-life'."
   },
@@ -618,6 +657,7 @@ window.L109L110 = [
       { "text": "First-pass effect is 100%.", "explanation": "Irrelevant." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Zero Order Kinetics (Ethanol): Saturated Enzymes. Constant Amount eliminated per time.",
     "pdfPage": 57,
     "slideImageDescription": "The 'Zero Order' slide shows a linear decay on a linear scale. Key concept: 'Saturation of Enzymes'. Example: 'Ethanol, Phenytoin, Aspirin (high dose)'."
   },
@@ -633,6 +673,7 @@ window.L109L110 = [
       { "text": "It depends on the dose.", "explanation": "Time to steady state depends ONLY on half-life, not dose." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Time to Steady State: 4-5 Half-lives (Independent of Dose).",
     "pdfPage": 72,
     "slideImageDescription": "The slide 'Time to Steady State' states the rule: '4-5 Half-lives to reach ~95% of steady state'."
   },
@@ -648,6 +689,7 @@ window.L109L110 = [
       { "text": "Depending on renal function alone", "explanation": "Renal function changes the half-life, but the *rule* of 4-5 half-lives applies to whatever the half-life is." }
     ],
     "correctAnswerIndex": 3,
+    "clinicalPearl": "Time to Washout: 4-5 Half-lives to eliminate >95%.",
     "pdfPage": 143,
     "slideImageDescription": "The slide 'Washout' shows the mirror image of the accumulation curve. '4-5 half-lives to eliminate'."
   },
@@ -663,6 +705,7 @@ window.L109L110 = [
       { "text": "Digoxin", "explanation": "Renal elimination." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Slow Acetylators (NAT2): Risk of Drug-Induced Lupus (Hydralazine, Procainamide).",
     "pdfPage": 95,
     "slideImageDescription": "The slide 'Pharmacogenomics: NAT2' lists 'Slow Acetylators'. Clinical consequence: 'Isoniazid (Neuropathy)', 'Hydralazine/Procainamide (Lupus)'."
   },
@@ -678,6 +721,7 @@ window.L109L110 = [
       { "text": "Acidify the urine", "explanation": "Though acidic, this isn't the major interaction mechanism." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Grapefruit Juice: Inhibits Intestinal CYP3A4 -> Increases Bioavailability of substrates.",
     "pdfPage": 97,
     "slideImageDescription": "The 'Food-Drug Interactions' slide features a picture of a Grapefruit. Text: 'Inhibits intestinal CYP3A4'. Consequence: 'Increased F (Bioavailability)'."
   },
@@ -693,6 +737,7 @@ window.L109L110 = [
       { "text": "Biliary clearance", "explanation": "No." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Creatinine Clearance: Surrogate marker for GFR.",
     "pdfPage": 37,
     "slideImageDescription": "The slide 'Estimating Renal Function' highlights 'Creatinine Clearance'. It equates CrCl approx GFR. The Cockcroft-Gault equation is often displayed."
   },
@@ -708,6 +753,7 @@ window.L109L110 = [
       { "text": "Increased First Pass effect", "explanation": "Hepatic flow decreases." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Geriatric PK: Reduced TBW, Increased Fat -> Increased Vd for Lipophilic drugs.",
     "pdfPage": 78,
     "slideImageDescription": "The slide 'Geriatric PK' lists 'Body Composition Changes': Lower TBW, Higher Body Fat. Consequences: Increased Vd for lipid soluble drugs (longer half-life)."
   },
@@ -723,6 +769,7 @@ window.L109L110 = [
       { "text": "Protein Binding", "explanation": "Factor in clearance." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Maintenance Dose: Dependent on Clearance (to replace loss). MD = CL * TargetCss.",
     "pdfPage": 36,
     "slideImageDescription": "The 'Maintenance Dose' slide shows the formula: MD = CL * Css * DosingInterval. The key variable driving the rate is Clearance (CL)."
   },
@@ -738,6 +785,7 @@ window.L109L110 = [
       { "text": "Zero order kinetics", "explanation": "Unrelated." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Drug Accumulation: Occurs when Dosing Interval < 4-5 Half-lives. Plateaus at Steady State.",
     "pdfPage": 46,
     "slideImageDescription": "The slide 'Drug Accumulation' shows a step-ladder curve rising and plateauing. 'Dosing interval < elimination time leads to accumulation and steady state'."
   },
@@ -753,6 +801,7 @@ window.L109L110 = [
       { "text": "The total amount of drug excreted in urine.", "explanation": "Recovery." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Clearance Definition: Volume of plasma completely cleared of drug per unit time.",
     "pdfPage": 29,
     "slideImageDescription": "The slide 'Clearance (CL)' gives the definition: 'Volume of blood cleared of drug per unit time'. Units: Volume/Time (e.g., L/hr or ml/min)."
   }

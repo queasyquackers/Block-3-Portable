@@ -72,7 +72,7 @@ window.L105 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L105_slide_23.jpg",
-    "slideImageDescription": "The slide 'Trigeminal (CN V)' outlines the three divisions. For 'Mandibular ($V_3$)', it lists the exit as 'foramen ovale' and the function as 'Sensory + Motor', specifically naming the 'muscles of mastication' under the motor component."
+    "slideImageDescription": "The slide 'Trigeminal (CN V)' outlines the three divisions. For 'Mandibular (V3)', it lists the exit as 'foramen ovale' and the function as 'Sensory + Motor', specifically naming the 'muscles of mastication' under the motor component."
   },
   {
     "id": 6,
@@ -87,7 +87,7 @@ window.L105 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L105_slide_11.jpg",
-    "slideImageDescription": "The slide shows the distribution of the 'Mandibular Division ($V_3$)'. It identifies the 'Lingual n.' and describes its function as 'General sensation to anterior 2/3 of tongue'. This distinguishes it from the Chorda Tympani (mentioned elsewhere for taste), confirming the answer."
+    "slideImageDescription": "The slide shows the distribution of the 'Mandibular Division (V3)'. It identifies the 'Lingual n.' and describes its function as 'General sensation to anterior 2/3 of tongue'. This distinguishes it from the Chorda Tympani (mentioned elsewhere for taste), confirming the answer."
   },
   {
     "id": 7,
@@ -102,7 +102,7 @@ window.L105 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L105_slide_14.jpg",
-    "slideImageDescription": "The slide 'Dermatomes of the Head & Neck' color-codes the sensory regions. The Green region representing '$V_1$ (Ophthalmic)' covers the forehead, upper eyelids, and nose, visually confirming the area affected by a V1 lesion."
+    "slideImageDescription": "The slide 'Dermatomes of the Head & Neck' color-codes the sensory regions. The Green region representing 'V1 (Ophthalmic)' covers the forehead, upper eyelids, and nose, visually confirming the area affected by a V1 lesion."
   },
   {
     "id": 8,
@@ -282,7 +282,7 @@ window.L105 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L105_slide_30.jpg",
-    "slideImageDescription": "The slide 'Mandibular Division ($V_3$): Branchial Motor' lists the muscles innervated. It includes 'Muscles of Mastication' and specifically lists 'Mylohyoid' and 'Anterior belly of digastric' under the domain of V3, supporting the answer."
+    "slideImageDescription": "The slide 'Mandibular Division (V3): Branchial Motor' lists the muscles innervated. It includes 'Muscles of Mastication' and specifically lists 'Mylohyoid' and 'Anterior belly of digastric' under the domain of V3, supporting the answer."
   },
   {
     "id": 20,
@@ -327,7 +327,7 @@ window.L105 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L105_slide_27.jpg",
-    "slideImageDescription": "The slide 'Mandibular Division ($V_3$): Somatic Sensory' shows the branching. It displays the 'Inferior Alveolar n.' traveling through the mandible and giving rise to the 'Mental n.' which supplies the 'skin of chin and lower lip', confirming the anatomical relationship."
+    "slideImageDescription": "The slide 'Mandibular Division (V3): Somatic Sensory' shows the branching. It displays the 'Inferior Alveolar n.' traveling through the mandible and giving rise to the 'Mental n.' which supplies the 'skin of chin and lower lip', confirming the anatomical relationship."
   },
   {
     "id": 23,
@@ -387,7 +387,7 @@ window.L105 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L105_slide_27.jpg",
-    "slideImageDescription": "The slide covering 'Mandibular Division ($V_3$)' shows the 'Mental n.' exiting the mental foramen. The text defines its sensory field as 'skin of chin and lower lip'. Therefore, numbness in this specific area identifies the Mental nerve as the affected structure."
+    "slideImageDescription": "The slide covering 'Mandibular Division (V3)' shows the 'Mental n.' exiting the mental foramen. The text defines its sensory field as 'skin of chin and lower lip'. Therefore, numbness in this specific area identifies the Mental nerve as the affected structure."
   },
   {
     "id": 27,

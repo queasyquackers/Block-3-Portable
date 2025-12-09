@@ -12,7 +12,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L120_slide_10.jpg",
-    "slideImageDescription": "The slide 'Mechanism of Action of Beta-Lactams' displays a diagram of the bacterial cell wall. It explicitly labels 'Penicillin-Binding Proteins (PBPs)' as enzymes responsible for the 'Cross-linking of peptidoglycan'. The text states that Beta-lactams 'bind to PBPs', which 'Inhibits transpeptidation', thereby blocking the cross-linking process. This leads to 'Autolysin activation' and cell lysis, confirming the mechanism."
+    "clinicalPearl": "The slide 'Mechanism of Action of Beta-Lactams' displays a diagram of the bacterial cell wall. It explicitly labels 'Penicillin-Binding Proteins (PBPs)' as enzymes responsible for the 'Cross-linking of peptidoglycan'. The text states that Beta-lactams 'bind to PBPs', which 'Inhibits transpeptidation', thereby blocking the cross-linking process. This leads to 'Autolysin activation' and cell lysis, confirming the mechanism.",
+    "slideImageDescription": "The slide 'Mechanism of Action of Beta-Lactams' displays a diagram of the bacterial cell wall. It explicitly labels 'Penicillin-Binding Proteins (PBPs)' as enzymes responsible for the 'Cross-linking of peptidoglycan'. The text states that Beta-lactams 'bind to PBPs', which 'Inhibits transpeptidation', thereby blocking the cross-linking process. This leads to 'Autolysin activation' and cell lysis, confirming the mechanism.",
+    pdfPage: 10
   },
   {
     "id": 2,
@@ -27,7 +29,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L120_slide_37.jpg",
-    "slideImageDescription": "The slide 'Penicillins G and V' contrasts the two forms. Under 'Pharmacokinetics', it notes that Penicillin G is 'Acid labile' and 'Destroyed by gastric acid', necessitating IV or IM use. In contrast, Penicillin V is described as 'Acid stable' and 'Oral', supporting its use for oral therapy."
+    "clinicalPearl": "The slide 'Penicillins G and V' contrasts the two forms. Under 'Pharmacokinetics', it notes that Penicillin G is 'Acid labile' and 'Destroyed by gastric acid', necessitating IV or IM use. In contrast, Penicillin V is described as 'Acid stable' and 'Oral', supporting its use for oral therapy.",
+    "slideImageDescription": "The slide 'Penicillins G and V' contrasts the two forms. Under 'Pharmacokinetics', it notes that Penicillin G is 'Acid labile' and 'Destroyed by gastric acid', necessitating IV or IM use. In contrast, Penicillin V is described as 'Acid stable' and 'Oral', supporting its use for oral therapy.",
+    pdfPage: 48
   },
   {
     "id": 3,
@@ -42,7 +46,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L120_slide_61.jpg",
-    "slideImageDescription": "The slide lists 'Depot forms' of Penicillin G, specifically 'Benzathine penicillin G'. It states this formulation provides 'Low persistent levels (1-3 weeks)'. Under 'Therapeutic Uses', it links Benzathine penicillin G directly to the treatment of 'Syphilis', confirming the pharmacokinetic rationale for this specific clinical application."
+    "clinicalPearl": "The slide lists 'Depot forms' of Penicillin G, specifically 'Benzathine penicillin G'. It states this formulation provides 'Low persistent levels (1-3 weeks)'. Under 'Therapeutic Uses', it links Benzathine penicillin G directly to the treatment of 'Syphilis', confirming the pharmacokinetic rationale for this specific clinical application.",
+    "slideImageDescription": "The slide lists 'Depot forms' of Penicillin G, specifically 'Benzathine penicillin G'. It states this formulation provides 'Low persistent levels (1-3 weeks)'. Under 'Therapeutic Uses', it links Benzathine penicillin G directly to the treatment of 'Syphilis', confirming the pharmacokinetic rationale for this specific clinical application.",
+    pdfPage: 28
   },
   {
     "id": 4,
@@ -57,7 +63,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_10.jpg",
-    "slideImageDescription": "The 'Excretion' slide states that penicillins are eliminated via 'Tubular secretion (90%)' and 'Glomerular filtration (10%)'. It explicitly mentions the 'Clinical Correlate' that 'Probenecid blocks tubular secretion', which serves to 'prolong the duration of action' of penicillins. This confirms the mechanism of the interaction at the OAT."
+    "clinicalPearl": "The 'Excretion' slide states that penicillins are eliminated via 'Tubular secretion (90%)' and 'Glomerular filtration (10%)'. It explicitly mentions the 'Clinical Correlate' that 'Probenecid blocks tubular secretion', which serves to 'prolong the duration of action' of penicillins. This confirms the mechanism of the interaction at the OAT.",
+    "slideImageDescription": "The 'Excretion' slide states that penicillins are eliminated via 'Tubular secretion (90%)' and 'Glomerular filtration (10%)'. It explicitly mentions the 'Clinical Correlate' that 'Probenecid blocks tubular secretion', which serves to 'prolong the duration of action' of penicillins. This confirms the mechanism of the interaction at the OAT.",
+    pdfPage: 10
   },
   {
     "id": 5,
@@ -72,7 +80,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 0,
     "slideImagePath": "images/L120_slide_29.jpg",
-    "slideImageDescription": "The 'Adverse Reactions' slide details 'Hypersensitivity'. It explains that the 'Degradation product = penicilloic acid' acts as a 'Hapten'. It identifies this penicilloic acid-protein complex as the 'Major determinant' that reacts with IgE to cause anaphylaxis."
+    "clinicalPearl": "The 'Adverse Reactions' slide details 'Hypersensitivity'. It explains that the 'Degradation product = penicilloic acid' acts as a 'Hapten'. It identifies this penicilloic acid-protein complex as the 'Major determinant' that reacts with IgE to cause anaphylaxis.",
+    "slideImageDescription": "The 'Adverse Reactions' slide details 'Hypersensitivity'. It explains that the 'Degradation product = penicilloic acid' acts as a 'Hapten'. It identifies this penicilloic acid-protein complex as the 'Major determinant' that reacts with IgE to cause anaphylaxis.",
+    pdfPage: 29
   },
   {
     "id": 6,
@@ -87,7 +97,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 3,
     "slideImagePath": "images/L120_slide_50.jpg",
-    "slideImageDescription": "The 'Adverse Reactions' slide lists 'Jarisch-Herxheimer reaction'. It describes the symptoms as 'fever, chills, myalgia' and notes it is due to the 'release of pyrogens from dying spirochetes'. The specific context given is the 'treatment of syphilis', matching the question vignette."
+    "clinicalPearl": "The 'Adverse Reactions' slide lists 'Jarisch-Herxheimer reaction'. It describes the symptoms as 'fever, chills, myalgia' and notes it is due to the 'release of pyrogens from dying spirochetes'. The specific context given is the 'treatment of syphilis', matching the question vignette.",
+    "slideImageDescription": "The 'Adverse Reactions' slide lists 'Jarisch-Herxheimer reaction'. It describes the symptoms as 'fever, chills, myalgia' and notes it is due to the 'release of pyrogens from dying spirochetes'. The specific context given is the 'treatment of syphilis', matching the question vignette.",
+    pdfPage: 50
   },
   {
     "id": 7,
@@ -102,7 +114,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L120_slide_64.jpg",
-    "slideImageDescription": "The slide 'Mechanisms of Resistance' illustrates 'Inactivation by beta-lactamase'. It shows the enzyme cleaving the beta-lactam ring. The text notes this is the mechanism for 'Penicillinase-producing *S. aureus*', which renders natural penicillins ineffective but leaves penicillinase-resistant penicillins (like nafcillin) effective."
+    "clinicalPearl": "The slide 'Mechanisms of Resistance' illustrates 'Inactivation by beta-lactamase'. It shows the enzyme cleaving the beta-lactam ring. The text notes this is the mechanism for 'Penicillinase-producing *S. aureus*', which renders natural penicillins ineffective but leaves penicillinase-resistant penicillins (like nafcillin) effective.",
+    "slideImageDescription": "The slide 'Mechanisms of Resistance' illustrates 'Inactivation by beta-lactamase'. It shows the enzyme cleaving the beta-lactam ring. The text notes this is the mechanism for 'Penicillinase-producing *S. aureus*', which renders natural penicillins ineffective but leaves penicillinase-resistant penicillins (like nafcillin) effective.",
+    pdfPage: 11
   },
   {
     "id": 8,
@@ -117,7 +131,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L120_slide_64.jpg",
-    "slideImageDescription": "The slide 'Methicillin-Resistant S. aureus (MRSA)' explicitly states the mechanism: 'Acquisition of *mecA* gene'. This gene 'encodes for a novel PBP (PBP2a)'. The text explains that PBP2a has a 'low affinity for beta-lactams', allowing cell wall synthesis to proceed despite the presence of the antibiotic."
+    "clinicalPearl": "The slide 'Methicillin-Resistant S. aureus (MRSA)' explicitly states the mechanism: 'Acquisition of *mecA* gene'. This gene 'encodes for a novel PBP (PBP2a)'. The text explains that PBP2a has a 'low affinity for beta-lactams', allowing cell wall synthesis to proceed despite the presence of the antibiotic.",
+    "slideImageDescription": "The slide 'Methicillin-Resistant S. aureus (MRSA)' explicitly states the mechanism: 'Acquisition of *mecA* gene'. This gene 'encodes for a novel PBP (PBP2a)'. The text explains that PBP2a has a 'low affinity for beta-lactams', allowing cell wall synthesis to proceed despite the presence of the antibiotic.",
+    pdfPage: 53
   },
   {
     "id": 9,
@@ -132,7 +148,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L120_slide_11.jpg",
-    "slideImageDescription": "The slide 'Antistaphylococcal Penicillins' (Nafcillin, Oxacillin, Dicloxacillin) explains their structural advantage. It states they have a 'Bulky R-group side chain'. The significance is that this 'Blocks access of beta-lactamase to the beta-lactam ring', conferring resistance to the bacterial enzyme."
+    "clinicalPearl": "The slide 'Antistaphylococcal Penicillins' (Nafcillin, Oxacillin, Dicloxacillin) explains their structural advantage. It states they have a 'Bulky R-group side chain'. The significance is that this 'Blocks access of beta-lactamase to the beta-lactam ring', conferring resistance to the bacterial enzyme.",
+    "slideImageDescription": "The slide 'Antistaphylococcal Penicillins' (Nafcillin, Oxacillin, Dicloxacillin) explains their structural advantage. It states they have a 'Bulky R-group side chain'. The significance is that this 'Blocks access of beta-lactamase to the beta-lactam ring', conferring resistance to the bacterial enzyme.",
+    pdfPage: 11
   },
   {
     "id": 10,
@@ -147,7 +165,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_65.jpg",
-    "slideImageDescription": "The slide 'Extended-Spectrum Penicillins (Aminopenicillins)' lists Amoxicillin and Ampicillin. It explains that the 'Amino group makes them hydrophilic', which allows them to 'pass through porins of gram-negative bacteria'. The spectrum is listed as 'Same as Pen G PLUS gram-negative rods', specifically citing *H. influenzae*, *E. coli*, *Listeria*, *Proteus*, and *Salmonella* (HELPS mnemonic)."
+    "clinicalPearl": "The slide 'Extended-Spectrum Penicillins (Aminopenicillins)' lists Amoxicillin and Ampicillin. It explains that the 'Amino group makes them hydrophilic', which allows them to 'pass through porins of gram-negative bacteria'. The spectrum is listed as 'Same as Pen G PLUS gram-negative rods', specifically citing *H. influenzae*, *E. coli*, *Listeria*, *Proteus*, and *Salmonella* (HELPS mnemonic).",
+    "slideImageDescription": "The slide 'Extended-Spectrum Penicillins (Aminopenicillins)' lists Amoxicillin and Ampicillin. It explains that the 'Amino group makes them hydrophilic', which allows them to 'pass through porins of gram-negative bacteria'. The spectrum is listed as 'Same as Pen G PLUS gram-negative rods', specifically citing *H. influenzae*, *E. coli*, *Listeria*, *Proteus*, and *Salmonella* (HELPS mnemonic).",
+    pdfPage: 52
   },
   {
     "id": 11,
@@ -162,7 +182,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_61.jpg",
-    "slideImageDescription": "The slide regarding 'Aminopenicillins' contrasts the two drugs. It notes that 'Amoxicillin is better absorbed orally' compared to Ampicillin. It explicitly states a consequence: 'Amoxicillin causes less diarrhea' because less unabsorbed drug remains in the gut to irritate it or alter flora."
+    "clinicalPearl": "The slide regarding 'Aminopenicillins' contrasts the two drugs. It notes that 'Amoxicillin is better absorbed orally' compared to Ampicillin. It explicitly states a consequence: 'Amoxicillin causes less diarrhea' because less unabsorbed drug remains in the gut to irritate it or alter flora.",
+    "slideImageDescription": "The slide regarding 'Aminopenicillins' contrasts the two drugs. It notes that 'Amoxicillin is better absorbed orally' compared to Ampicillin. It explicitly states a consequence: 'Amoxicillin causes less diarrhea' because less unabsorbed drug remains in the gut to irritate it or alter flora.",
+    pdfPage: 57
   },
   {
     "id": 12,
@@ -177,7 +199,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 3,
     "slideImagePath": "images/L120_slide_65.jpg",
-    "slideImageDescription": "The slide 'Antipseudomonal Penicillins' identifies 'Piperacillin' as the key agent. Under 'Spectrum of Activity', it highlights 'Pseudomonas aeruginosa' and 'Gram-negative rods'. It notes that it is 'Used in combination with a beta-lactamase inhibitor' (Tazobactam)."
+    "clinicalPearl": "The slide 'Antipseudomonal Penicillins' identifies 'Piperacillin' as the key agent. Under 'Spectrum of Activity', it highlights 'Pseudomonas aeruginosa' and 'Gram-negative rods'. It notes that it is 'Used in combination with a beta-lactamase inhibitor' (Tazobactam).",
+    "slideImageDescription": "The slide 'Antipseudomonal Penicillins' identifies 'Piperacillin' as the key agent. Under 'Spectrum of Activity', it highlights 'Pseudomonas aeruginosa' and 'Gram-negative rods'. It notes that it is 'Used in combination with a beta-lactamase inhibitor' (Tazobactam).",
+    pdfPage: 65
   },
   {
     "id": 13,
@@ -192,7 +216,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_41.jpg",
-    "slideImageDescription": "The slide 'Beta-Lactamase Inhibitors' lists Clavulanic acid, Sulbactam, and Tazobactam. It describes their MOA as 'Suicide inhibitors'. They 'Bind irreversibly to beta-lactamases', thereby 'Protecting the penicillin from destruction'. It clarifies they have 'No intrinsic antibacterial activity'."
+    "clinicalPearl": "The slide 'Beta-Lactamase Inhibitors' lists Clavulanic acid, Sulbactam, and Tazobactam. It describes their MOA as 'Suicide inhibitors'. They 'Bind irreversibly to beta-lactamases', thereby 'Protecting the penicillin from destruction'. It clarifies they have 'No intrinsic antibacterial activity'.",
+    "slideImageDescription": "The slide 'Beta-Lactamase Inhibitors' lists Clavulanic acid, Sulbactam, and Tazobactam. It describes their MOA as 'Suicide inhibitors'. They 'Bind irreversibly to beta-lactamases', thereby 'Protecting the penicillin from destruction'. It clarifies they have 'No intrinsic antibacterial activity'.",
+    pdfPage: 41
   },
   {
     "id": 14,
@@ -207,7 +233,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_55.jpg",
-    "slideImageDescription": "The slide 'Beta-Lactam/Beta-Lactamase Inhibitor Combinations' details the spectrum of Amoxicillin/Clavulanate. It lists 'MSSA' (Staph), '*H. influenzae*', and '*Bacteroides* species' (anaerobes) as organisms covered by the combination but not the lone antibiotic. It lists 'Dog bites' as a specific clinical use."
+    "clinicalPearl": "The slide 'Beta-Lactam/Beta-Lactamase Inhibitor Combinations' details the spectrum of Amoxicillin/Clavulanate. It lists 'MSSA' (Staph), '*H. influenzae*', and '*Bacteroides* species' (anaerobes) as organisms covered by the combination but not the lone antibiotic. It lists 'Dog bites' as a specific clinical use.",
+    "slideImageDescription": "The slide 'Beta-Lactam/Beta-Lactamase Inhibitor Combinations' details the spectrum of Amoxicillin/Clavulanate. It lists 'MSSA' (Staph), '*H. influenzae*', and '*Bacteroides* species' (anaerobes) as organisms covered by the combination but not the lone antibiotic. It lists 'Dog bites' as a specific clinical use.",
+    pdfPage: 55
   },
   {
     "id": 15,
@@ -222,7 +250,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 3,
     "slideImagePath": "images/L120_slide_65.jpg",
-    "slideImageDescription": "The slide describing 'Piperacillin + Tazobactam' highlights its 'Broadest spectrum'. It lists coverage for '*Pseudomonas aeruginosa*' and 'Gram-negative rods'. Crucially, it also lists 'Anaerobes' such as '*Bacteroides fragilis*', confirming its utility in mixed infections involving gut flora."
+    "clinicalPearl": "The slide describing 'Piperacillin + Tazobactam' highlights its 'Broadest spectrum'. It lists coverage for '*Pseudomonas aeruginosa*' and 'Gram-negative rods'. Crucially, it also lists 'Anaerobes' such as '*Bacteroides fragilis*', confirming its utility in mixed infections involving gut flora.",
+    "slideImageDescription": "The slide describing 'Piperacillin + Tazobactam' highlights its 'Broadest spectrum'. It lists coverage for '*Pseudomonas aeruginosa*' and 'Gram-negative rods'. Crucially, it also lists 'Anaerobes' such as '*Bacteroides fragilis*', confirming its utility in mixed infections involving gut flora.",
+    pdfPage: 59
   },
   {
     "id": 16,
@@ -237,7 +267,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L120_slide_50.jpg",
-    "slideImageDescription": "The slide 'Penicillins G and V: Therapeutic Uses' explicitly links 'Benzathine penicillin G' to the treatment of 'Syphilis (*Treponema pallidum*)'. The 'Depot forms' section reinforces that this formulation is used for this specific indication."
+    "clinicalPearl": "The slide 'Penicillins G and V: Therapeutic Uses' explicitly links 'Benzathine penicillin G' to the treatment of 'Syphilis (*Treponema pallidum*)'. The 'Depot forms' section reinforces that this formulation is used for this specific indication.",
+    "slideImageDescription": "The slide 'Penicillins G and V: Therapeutic Uses' explicitly links 'Benzathine penicillin G' to the treatment of 'Syphilis (*Treponema pallidum*)'. The 'Depot forms' section reinforces that this formulation is used for this specific indication.",
+    pdfPage: 50
   },
   {
     "id": 17,
@@ -252,7 +284,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_64.jpg",
-    "slideImageDescription": "The slide 'Antistaphylococcal Penicillins' lists Nafcillin. Under 'Therapeutic Uses', it specifies 'Infections caused by penicillinase-producing Staphylococci'. It explicitly lists 'Endocarditis' and 'Osteomyelitis' as indications, confirming Nafcillin as the choice for MSSA."
+    "clinicalPearl": "The slide 'Antistaphylococcal Penicillins' lists Nafcillin. Under 'Therapeutic Uses', it specifies 'Infections caused by penicillinase-producing Staphylococci'. It explicitly lists 'Endocarditis' and 'Osteomyelitis' as indications, confirming Nafcillin as the choice for MSSA.",
+    "slideImageDescription": "The slide 'Antistaphylococcal Penicillins' lists Nafcillin. Under 'Therapeutic Uses', it specifies 'Infections caused by penicillinase-producing Staphylococci'. It explicitly lists 'Endocarditis' and 'Osteomyelitis' as indications, confirming Nafcillin as the choice for MSSA.",
+    pdfPage: 64
   },
   {
     "id": 18,
@@ -267,7 +301,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_65.jpg",
-    "slideImageDescription": "The 'Aminopenicillins' slide lists 'Amoxicillin'. Under 'Therapeutic Uses', it explicitly lists 'Otitis media' and 'Sinusitis'. The spectrum section confirms activity against the relevant pathogens: 'Streptococci' and 'H. influenzae', supporting it as the first-line choice."
+    "clinicalPearl": "The 'Aminopenicillins' slide lists 'Amoxicillin'. Under 'Therapeutic Uses', it explicitly lists 'Otitis media' and 'Sinusitis'. The spectrum section confirms activity against the relevant pathogens: 'Streptococci' and 'H. influenzae', supporting it as the first-line choice.",
+    "slideImageDescription": "The 'Aminopenicillins' slide lists 'Amoxicillin'. Under 'Therapeutic Uses', it explicitly lists 'Otitis media' and 'Sinusitis'. The spectrum section confirms activity against the relevant pathogens: 'Streptococci' and 'H. influenzae', supporting it as the first-line choice.",
+    pdfPage: 65
   },
   {
     "id": 19,
@@ -282,7 +318,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_9.jpg",
-    "slideImageDescription": "The 'Aminopenicillins' slide lists specific bacteria in the spectrum. It includes '*Listeria monocytogenes*'. Under 'Therapeutic Uses', it lists 'Meningitis caused by Listeria', identifying Ampicillin as the specific agent for this indication."
+    "clinicalPearl": "The 'Aminopenicillins' slide lists specific bacteria in the spectrum. It includes '*Listeria monocytogenes*'. Under 'Therapeutic Uses', it lists 'Meningitis caused by Listeria', identifying Ampicillin as the specific agent for this indication.",
+    "slideImageDescription": "The 'Aminopenicillins' slide lists specific bacteria in the spectrum. It includes '*Listeria monocytogenes*'. Under 'Therapeutic Uses', it lists 'Meningitis caused by Listeria', identifying Ampicillin as the specific agent for this indication.",
+    pdfPage: 9
   },
   {
     "id": 20,
@@ -297,7 +335,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 4,
     "slideImagePath": "images/L120_slide_65.jpg",
-    "slideImageDescription": "The slide 'Antipseudomonal Penicillins' is dedicated to Piperacillin. It highlights '*Pseudomonas aeruginosa*' as the primary target organism in its spectrum. It notes that it is 'Used in combination with a beta-lactamase inhibitor', pointing to Zosyn as the effective treatment."
+    "clinicalPearl": "The slide 'Antipseudomonal Penicillins' is dedicated to Piperacillin. It highlights '*Pseudomonas aeruginosa*' as the primary target organism in its spectrum. It notes that it is 'Used in combination with a beta-lactamase inhibitor', pointing to Zosyn as the effective treatment.",
+    "slideImageDescription": "The slide 'Antipseudomonal Penicillins' is dedicated to Piperacillin. It highlights '*Pseudomonas aeruginosa*' as the primary target organism in its spectrum. It notes that it is 'Used in combination with a beta-lactamase inhibitor', pointing to Zosyn as the effective treatment.",
+    pdfPage: 65
   },
   {
     "id": 21,
@@ -312,7 +352,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 3,
     "slideImagePath": "images/L120_slide_65.jpg",
-    "slideImageDescription": "The slide comparing spectrums shows that natural Penicillins have 'Poor' activity against *Bacteroides*. However, the slide for 'Piperacillin + Tazobactam' explicitly lists '*Bacteroides fragilis*' and 'Anaerobes' as part of its broad spectrum, confirming it is the appropriate choice for this gut anaerobe."
+    "clinicalPearl": "The slide comparing spectrums shows that natural Penicillins have 'Poor' activity against *Bacteroides*. However, the slide for 'Piperacillin + Tazobactam' explicitly lists '*Bacteroides fragilis*' and 'Anaerobes' as part of its broad spectrum, confirming it is the appropriate choice for this gut anaerobe.",
+    "slideImageDescription": "The slide comparing spectrums shows that natural Penicillins have 'Poor' activity against *Bacteroides*. However, the slide for 'Piperacillin + Tazobactam' explicitly lists '*Bacteroides fragilis*' and 'Anaerobes' as part of its broad spectrum, confirming it is the appropriate choice for this gut anaerobe.",
+    pdfPage: 65
   },
   {
     "id": 22,
@@ -327,7 +369,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L120_slide_10.jpg",
-    "slideImageDescription": "The slide 'Mechanism of Action' includes a 'Synergy' text box. It explains: 'Cell wall inhibitors (Beta-lactams) alter the cell wall, allowing Aminoglycosides to penetrate'. This mechanism 'enhances the bactericidal effect', specifically cited for 'Enterococcal endocarditis'."
+    "clinicalPearl": "The slide 'Mechanism of Action' includes a 'Synergy' text box. It explains: 'Cell wall inhibitors (Beta-lactams) alter the cell wall, allowing Aminoglycosides to penetrate'. This mechanism 'enhances the bactericidal effect', specifically cited for 'Enterococcal endocarditis'.",
+    "slideImageDescription": "The slide 'Mechanism of Action' includes a 'Synergy' text box. It explains: 'Cell wall inhibitors (Beta-lactams) alter the cell wall, allowing Aminoglycosides to penetrate'. This mechanism 'enhances the bactericidal effect', specifically cited for 'Enterococcal endocarditis'.",
+    pdfPage: 25
   },
   {
     "id": 23,
@@ -342,7 +386,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L120_slide_67.jpg",
-    "slideImageDescription": "The slide 'Distribution' states: 'Penetration into CSF is poor with normal meninges'. However, it clarifies: 'With inflammation (meningitis), penetration is increased'. This physiological change allows the drug to be effective for this condition."
+    "clinicalPearl": "The slide 'Distribution' states: 'Penetration into CSF is poor with normal meninges'. However, it clarifies: 'With inflammation (meningitis), penetration is increased'. This physiological change allows the drug to be effective for this condition.",
+    "slideImageDescription": "The slide 'Distribution' states: 'Penetration into CSF is poor with normal meninges'. However, it clarifies: 'With inflammation (meningitis), penetration is increased'. This physiological change allows the drug to be effective for this condition.",
+    pdfPage: 67
   },
   {
     "id": 24,
@@ -357,7 +403,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_64.jpg",
-    "slideImageDescription": "The 'Excretion' slide notes that most penicillins are renally eliminated. It highlights the 'Exception: Nafcillin and Oxacillin'. These are 'Eliminated by the liver (biliary excretion)'. The clinical implication 'No dose adjustment in renal failure' is explicitly stated for these drugs."
+    "clinicalPearl": "The 'Excretion' slide notes that most penicillins are renally eliminated. It highlights the 'Exception: Nafcillin and Oxacillin'. These are 'Eliminated by the liver (biliary excretion)'. The clinical implication 'No dose adjustment in renal failure' is explicitly stated for these drugs.",
+    "slideImageDescription": "The 'Excretion' slide notes that most penicillins are renally eliminated. It highlights the 'Exception: Nafcillin and Oxacillin'. These are 'Eliminated by the liver (biliary excretion)'. The clinical implication 'No dose adjustment in renal failure' is explicitly stated for these drugs.",
+    pdfPage: 53
   },
   {
     "id": 25,
@@ -372,7 +420,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L120_slide_53.jpg",
-    "slideImageDescription": "The 'Antistaphylococcal Penicillins' slide lists 'Methicillin' with a strikethrough, noting it is 'Not used clinically'. The reason given under adverse effects is 'Interstitial Nephritis', identifying this specific toxicity as the cause for its discontinuation."
+    "clinicalPearl": "The 'Antistaphylococcal Penicillins' slide lists 'Methicillin' with a strikethrough, noting it is 'Not used clinically'. The reason given under adverse effects is 'Interstitial Nephritis', identifying this specific toxicity as the cause for its discontinuation.",
+    "slideImageDescription": "The 'Antistaphylococcal Penicillins' slide lists 'Methicillin' with a strikethrough, noting it is 'Not used clinically'. The reason given under adverse effects is 'Interstitial Nephritis', identifying this specific toxicity as the cause for its discontinuation.",
+    pdfPage: 53
   },
   {
     "id": 26,
@@ -387,7 +437,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_57.jpg",
-    "slideImageDescription": "The 'Aminopenicillins' slide lists Adverse Effects. It specifically mentions 'Maculopapular rash'. It notes this is 'High frequency in patients with Mononucleosis (EBV)'. It clarifies this is a 'Non-allergic' reaction, distinguishing it from hives/anaphylaxis."
+    "clinicalPearl": "The 'Aminopenicillins' slide lists Adverse Effects. It specifically mentions 'Maculopapular rash'. It notes this is 'High frequency in patients with Mononucleosis (EBV)'. It clarifies this is a 'Non-allergic' reaction, distinguishing it from hives/anaphylaxis.",
+    "slideImageDescription": "The 'Aminopenicillins' slide lists Adverse Effects. It specifically mentions 'Maculopapular rash'. It notes this is 'High frequency in patients with Mononucleosis (EBV)'. It clarifies this is a 'Non-allergic' reaction, distinguishing it from hives/anaphylaxis.",
+    pdfPage: 57
   },
   {
     "id": 27,
@@ -402,7 +454,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_50.jpg",
-    "slideImageDescription": "The 'Adverse Reactions' slide lists 'Neurotoxicity'. It specifies 'Seizures' as the manifestation. It identifies the risk factors: 'High blood levels' and 'Renal failure', confirming the mechanism described in the question."
+    "clinicalPearl": "The 'Adverse Reactions' slide lists 'Neurotoxicity'. It specifies 'Seizures' as the manifestation. It identifies the risk factors: 'High blood levels' and 'Renal failure', confirming the mechanism described in the question.",
+    "slideImageDescription": "The 'Adverse Reactions' slide lists 'Neurotoxicity'. It specifies 'Seizures' as the manifestation. It identifies the risk factors: 'High blood levels' and 'Renal failure', confirming the mechanism described in the question.",
+    pdfPage: 50
   },
   {
     "id": 28,
@@ -417,7 +471,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_25.jpg",
-    "slideImageDescription": "The 'Mechanisms of Resistance' slide lists 'Impaired penetration'. It explains this occurs via 'Mutation/Deletion of Porin channels'. It notes this prevents the drug from reaching the 'PBP target', specifically in 'Gram-negative' organisms like Pseudomonas."
+    "clinicalPearl": "The 'Mechanisms of Resistance' slide lists 'Impaired penetration'. It explains this occurs via 'Mutation/Deletion of Porin channels'. It notes this prevents the drug from reaching the 'PBP target', specifically in 'Gram-negative' organisms like Pseudomonas.",
+    "slideImageDescription": "The 'Mechanisms of Resistance' slide lists 'Impaired penetration'. It explains this occurs via 'Mutation/Deletion of Porin channels'. It notes this prevents the drug from reaching the 'PBP target', specifically in 'Gram-negative' organisms like Pseudomonas.",
+    pdfPage: 25
   },
   {
     "id": 29,
@@ -432,7 +488,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L120_slide_25.jpg",
-    "slideImageDescription": "The slide lists 'Efflux pumps' as a resistance mechanism. It describes the action as 'Active transport of drug out of cell'. It cites 'Gram-negative organisms' as the primary users of this mechanism."
+    "clinicalPearl": "The slide lists 'Efflux pumps' as a resistance mechanism. It describes the action as 'Active transport of drug out of cell'. It cites 'Gram-negative organisms' as the primary users of this mechanism.",
+    "slideImageDescription": "The slide lists 'Efflux pumps' as a resistance mechanism. It describes the action as 'Active transport of drug out of cell'. It cites 'Gram-negative organisms' as the primary users of this mechanism.",
+    pdfPage: 25
   },
   {
     "id": 30,
@@ -447,7 +505,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_65.jpg",
-    "slideImageDescription": "The slide dealing with 'Antipseudomonal Penicillins' (Piperacillin) describes its spectrum as 'Extended spectrum'. It contrasts this with earlier slides describing Penicillin G's limited Gram-positive focus, confirming the 'Narrow vs Extended' comparison."
+    "clinicalPearl": "The slide dealing with 'Antipseudomonal Penicillins' (Piperacillin) describes its spectrum as 'Extended spectrum'. It contrasts this with earlier slides describing Penicillin G's limited Gram-positive focus, confirming the 'Narrow vs Extended' comparison.",
+    "slideImageDescription": "The slide dealing with 'Antipseudomonal Penicillins' (Piperacillin) describes its spectrum as 'Extended spectrum'. It contrasts this with earlier slides describing Penicillin G's limited Gram-positive focus, confirming the 'Narrow vs Extended' comparison.",
+    pdfPage: 65
   },
   {
     "id": 31,
@@ -462,7 +522,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_61.jpg",
-    "slideImageDescription": "The slide for 'Penicillin V' lists its 'Therapeutic Uses'. It explicitly includes 'Oropharyngeal infections', which encompasses dental abscesses caused by the typical oral flora."
+    "clinicalPearl": "The slide for 'Penicillin V' lists its 'Therapeutic Uses'. It explicitly includes 'Oropharyngeal infections', which encompasses dental abscesses caused by the typical oral flora.",
+    "slideImageDescription": "The slide for 'Penicillin V' lists its 'Therapeutic Uses'. It explicitly includes 'Oropharyngeal infections', which encompasses dental abscesses caused by the typical oral flora.",
+    pdfPage: 61
   },
   {
     "id": 32,
@@ -477,7 +539,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_60.jpg",
-    "slideImageDescription": "The slide 'Penicillin G: Therapeutic Uses' lists 'Prophylaxis' as an indication. Specifically, it mentions 'Rheumatic fever recurrence'. The 'Depot form' (Benzathine) is linked to this long-term prophylactic use."
+    "clinicalPearl": "The slide 'Penicillin G: Therapeutic Uses' lists 'Prophylaxis' as an indication. Specifically, it mentions 'Rheumatic fever recurrence'. The 'Depot form' (Benzathine) is linked to this long-term prophylactic use.",
+    "slideImageDescription": "The slide 'Penicillin G: Therapeutic Uses' lists 'Prophylaxis' as an indication. Specifically, it mentions 'Rheumatic fever recurrence'. The 'Depot form' (Benzathine) is linked to this long-term prophylactic use.",
+    pdfPage: 60
   },
   {
     "id": 33,
@@ -492,7 +556,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_13.jpg",
-    "slideImageDescription": "The slide describing 'Amoxicillin/Clavulanate' lists its specific clinical indications. 'Dog bites' (and human bites) are explicitly listed. The reason is the coverage of the polymicrobial mix including *Pasteurella*, Staph, and anaerobes."
+    "clinicalPearl": "The slide describing 'Amoxicillin/Clavulanate' lists its specific clinical indications. 'Dog bites' (and human bites) are explicitly listed. The reason is the coverage of the polymicrobial mix including *Pasteurella*, Staph, and anaerobes.",
+    "slideImageDescription": "The slide describing 'Amoxicillin/Clavulanate' lists its specific clinical indications. 'Dog bites' (and human bites) are explicitly listed. The reason is the coverage of the polymicrobial mix including *Pasteurella*, Staph, and anaerobes.",
+    pdfPage: 13
   },
   {
     "id": 34,
@@ -507,7 +573,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_60.jpg",
-    "slideImageDescription": "The 'Aminopenicillins' slide lists 'Therapeutic Uses'. It explicitly mentions '*H. pylori* eradication' (in combination) as a key use for Amoxicillin."
+    "clinicalPearl": "The 'Aminopenicillins' slide lists 'Therapeutic Uses'. It explicitly mentions '*H. pylori* eradication' (in combination) as a key use for Amoxicillin.",
+    "slideImageDescription": "The 'Aminopenicillins' slide lists 'Therapeutic Uses'. It explicitly mentions '*H. pylori* eradication' (in combination) as a key use for Amoxicillin.",
+    pdfPage: 11
   },
   {
     "id": 35,
@@ -522,7 +590,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_8.jpg",
-    "slideImageDescription": "The 'Aminopenicillins' slide lists 'Lyme Disease' under Therapeutic Uses. It notes that Amoxicillin is the alternative for 'children < 8 yrs and pregnant women', providing the specific clinical context for this choice."
+    "clinicalPearl": "The 'Aminopenicillins' slide lists 'Lyme Disease' under Therapeutic Uses. It notes that Amoxicillin is the alternative for 'children < 8 yrs and pregnant women', providing the specific clinical context for this choice.",
+    "slideImageDescription": "The 'Aminopenicillins' slide lists 'Lyme Disease' under Therapeutic Uses. It notes that Amoxicillin is the alternative for 'children < 8 yrs and pregnant women', providing the specific clinical context for this choice.",
+    pdfPage: 11
   },
   {
     "id": 36,
@@ -537,7 +607,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_41.jpg",
-    "slideImageDescription": "The slide 'Beta-Lactamase Inhibitors' explicitly states: 'Have **no intrinsic antibacterial activity**'. This fact is crucial for understanding why they are always prescribed in combination, never alone."
+    "clinicalPearl": "The slide 'Beta-Lactamase Inhibitors' explicitly states: 'Have **no intrinsic antibacterial activity**'. This fact is crucial for understanding why they are always prescribed in combination, never alone.",
+    "slideImageDescription": "The slide 'Beta-Lactamase Inhibitors' explicitly states: 'Have **no intrinsic antibacterial activity**'. This fact is crucial for understanding why they are always prescribed in combination, never alone.",
+    pdfPage: 41
   },
   {
     "id": 37,
@@ -552,7 +624,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_64.jpg",
-    "slideImageDescription": "The 'MRSA' slide identifies the 'Acquisition of *mecA* gene' as the resistance mechanism. It states this gene 'encodes for a novel PBP (PBP2a)'. It explains that PBP2a has 'low affinity for beta-lactams', rendering the drugs ineffective."
+    "clinicalPearl": "The 'MRSA' slide identifies the 'Acquisition of *mecA* gene' as the resistance mechanism. It states this gene 'encodes for a novel PBP (PBP2a)'. It explains that PBP2a has 'low affinity for beta-lactams', rendering the drugs ineffective.",
+    "slideImageDescription": "The 'MRSA' slide identifies the 'Acquisition of *mecA* gene' as the resistance mechanism. It states this gene 'encodes for a novel PBP (PBP2a)'. It explains that PBP2a has 'low affinity for beta-lactams', rendering the drugs ineffective.",
+    pdfPage: 25
   },
   {
     "id": 38,
@@ -567,7 +641,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_69.jpg",
-    "slideImageDescription": "The slide 'Penicillin G' displays dosing examples. It lists doses in 'Units' (e.g., '5-24 million **units**'), reflecting the historical and current convention for this specific drug."
+    "clinicalPearl": "The slide 'Penicillin G' displays dosing examples. It lists doses in 'Units' (e.g., '5-24 million **units**'), reflecting the historical and current convention for this specific drug.",
+    "slideImageDescription": "The slide 'Penicillin G' displays dosing examples. It lists doses in 'Units' (e.g., '5-24 million **units**'), reflecting the historical and current convention for this specific drug.",
+    pdfPage: 69
   },
   {
     "id": 39,
@@ -582,7 +658,9 @@ window.L120 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L120_slide_25.jpg",
-    "slideImageDescription": "The slide 'Bacteria Classification' lists 'Atypicals' like *Mycoplasma*. It explicitly notes: 'No cell wall'. Since beta-lactams are 'Cell Wall Inhibitors', the absence of the target structure explains the intrinsic resistance."
+    "clinicalPearl": "The slide 'Bacteria Classification' lists 'Atypicals' like *Mycoplasma*. It explicitly notes: 'No cell wall'. Since beta-lactams are 'Cell Wall Inhibitors', the absence of the target structure explains the intrinsic resistance.",
+    "slideImageDescription": "The slide 'Bacteria Classification' lists 'Atypicals' like *Mycoplasma*. It explicitly notes: 'No cell wall'. Since beta-lactams are 'Cell Wall Inhibitors', the absence of the target structure explains the intrinsic resistance.",
+    pdfPage: 25
   },
   {
     "id": 40,

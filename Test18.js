@@ -1,573 +1,752 @@
 window.L124 = [
   {
-    "id": 1,
-    "category": "Aminoglycosides: PK/Clinical Use",
-    "questionText": "A 60-year-old male with liver cirrhosis presents with confusion and asterixis, consistent with hepatic encephalopathy. The physician prescribes oral neomycin. Why is the *oral* formulation of this highly toxic antibiotic used for this specific condition?",
-    "options": [
-      {"text": "It is absorbed from the GI tract and metabolized by the healthy liver.", "explanation": "This is incorrect. Neomycin is not absorbed from the GI tract, which is the entire basis for its oral use."},
-      {"text": "It is not absorbed from the GI tract and acts locally to eliminate ammonia-producing bacteria.", "explanation": "This is correct. Oral neomycin is not absorbed and is used to eliminate ammonia-producing bacteria in the gut, thereby reducing the ammonia load that contributes to hepatic encephalopathy."},
-      {"text": "It binds irreversibly to the 16S rRNA of human gut cells.", "explanation": "This is incorrect. It targets bacterial ribosomes, not human cells."},
-      {"text": "It is a prodrug that is converted to gentamicin in the gut.", "explanation": "This is incorrect. Neomycin is its own active drug, not a prodrug."},
-      {"text": "It is less nephrotoxic when given orally compared to IV.", "explanation": "This is incorrect. It's not given orally because it's *less* toxic, but because it is *not absorbed* and thus avoids systemic toxicity altogether while achieving a local effect."}
+    id: 1,
+    category: "Aminoglycosides: Mechanism",
+    questionText: "A researcher investigating the mechanism of action of Gentamicin observes that it binds irreversibly to the bacterial ribosome. Which specific subunit and effect are primarily responsible for its bactericidal activity?",
+    options: [
+      { text: "50S subunit; inhibiting peptide bond formation", explanation: "Incorrect. This describes Macrolides/Chloramphenicol." },
+      { text: "30S subunit; preventing tRNA binding", explanation: "Incorrect. Tetracyclines bind the 30S and block tRNA binding (reversible)." },
+      { text: "30S subunit; causing misreading of mRNA and blocking initiation", explanation: "Correct. Aminoglycosides bind the 16S rRNA of the 30S subunit, causing misreading of the genetic code and inhibiting the initiation complex." },
+      { text: "50S subunit; blocking the exit tunnel", explanation: "Incorrect. Macrolides." },
+      { text: "DNA gyrase; inhibiting supercoiling", explanation: "Incorrect. Fluoroquinolones." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_slide_11.jpg",
-    "slideImageDescription": "The slide titled 'Key points' details the therapeutic uses of various aminoglycosides. The bullet point for Neomycin explicitly states: 'Oral neomycin, which is not absorbed from the GI tract, is approved... to eliminate ammonia-producing bacteria in the management of hepatic encephalopathy.' This text directly confirms the rationale for using the oral formulation in this specific condition."
+    correctAnswerIndex: 2,
+    clinicalPearl: "Aminoglycosides are bactericidal because they bind IRREVERSIBLY to the 30S subunit, causing production of toxic, junk proteins.",
+    pdfPage: 9,
   },
   {
-    "id": 2,
-    "category": "Aminoglycosides: Pharmacokinetics",
-    "questionText": "A 70-year-old male is being treated with gentamicin for a gram-negative infection. His renal function begins to decline, and his serum creatinine rises from 1.0 mg/dL to 2.5 mg/dL. How will this change in renal function affect the pharmacokinetics of gentamicin?",
-    "options": [
-      {"text": "The drug's half-life will significantly shorten.", "explanation": "This is incorrect. A decrease in renal function will decrease clearance and *prolong* the half-life."},
-      {"text": "The drug will be eliminated via biliary excretion instead.", "explanation": "This is incorrect. Aminoglycosides are not eliminated via the biliary system."},
-      {"text": "The drug's half-life will significantly lengthen, requiring dose adjustment.", "explanation": "This is correct. Aminoglycosides are excreted as active drug via glomerular filtration, so clearance is proportional to creatinine clearance. Renal impairment will dramatically increase the half-life from 2-3 hours to 24-48 hours, necessitating dose adjustment."},
-      {"text": "It will have no effect, as the drug is metabolized by the liver.", "explanation": "This is incorrect. Aminoglycosides are not metabolized."},
-      {"text": "It will increase the drug's oral bioavailability.", "explanation": "This is incorrect. Aminoglycosides are not given orally for systemic infections as they are not absorbed."}
+    id: 2,
+    category: "Aminoglycosides: Pharmacokinetics",
+    questionText: "A patient with cystic fibrosis requires Tobramycin therapy. Why is oral administration effective only for gut decontamination and not for systemic or pulmonary infections in this context?",
+    options: [
+      { text: "It is rapidly metabolized by the liver", explanation: "Incorrect." },
+      { text: "It is highly polar and not absorbed from the GI tract", explanation: "Correct. Aminoglycosides are polycations (highly polar) and have <1% oral bioavailability." },
+      { text: "It causes severe vomiting significantly reducing absorption", explanation: "Incorrect." },
+      { text: "It is degraded by stomach acid", explanation: "Incorrect." },
+      { text: "It binds to calcium in the gut", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L124_slide_16.jpg",
-    "slideImageDescription": "The slide 'PK Properties of Aminoglycosides' outlines the elimination kinetics. It states that elimination is via 'Rapid renal elimination (glomerular filtration)'. It provides a specific comparison for half-life: 't1/2 normally: 2-3 hours' versus 't1/2 significant renal impairment: 24-48 hrs'. This data point directly supports the need for dose adjustment due to the prolonged half-life in renal failure."
+    correctAnswerIndex: 1,
+    clinicalPearl: "Aminoglycosides are too polar to cross membranes. IV/IM for systemic use, Inhaled for lungs, Oral only for gut effects (e.g., Neomycin).",
+    pdfPage: 24,
   },
   {
-    "id": 3,
-    "category": "Aminoglycosides: Pharmacokinetics",
-    "questionText": "A 65-year-old female with septic shock and significant anasarca (fluid overload) requires treatment with an aminoglycoside. How will this patient's fluid status likely alter the volume of distribution (Vd) for this class of drugs?",
-    "options": [
-      {"text": "The Vd will decrease, requiring a lower dose.", "explanation": "This is incorrect. The Vd will increase because the drug distributes in extracellular fluid."},
-      {"text": "The Vd will increase, requiring a higher dose.", "explanation": "This is correct. Aminoglycosides distribute in body water/extracellular fluid. In patients with edema or fluid overload, the Vd is increased, which may necessitate a higher loading dose."},
-      {"text": "The Vd will be unchanged, as the drug is protein-bound.", "explanation": "This is incorrect. The drug has minor plasma protein binding and its Vd is highly dependent on fluid status."},
-      {"text": "The drug will be trapped in the inner ear, decreasing Vd.", "explanation": "This is incorrect. While it does accumulate in the inner ear, this doesn't decrease the overall Vd in a fluid-overloaded patient."},
-      {"text": "The drug will be unable to leave the plasma, decreasing Vd.", "explanation": "This is incorrect. The drug is polar but distributes well in the extracellular fluid."}
+    id: 3,
+    category: "Aminoglycosides: Toxicity",
+    questionText: "A 65-year-old male on Gentamicin for pyelonephritis reports new-onset difficulty hearing high-pitched sounds and a sensation of room spinning. Damage to which structure explains these symptoms?",
+    options: [
+      { text: "Optic nerve", explanation: "Incorrect. Streptomycin can cause scotomas, but this is auditory/vestibular." },
+      { text: "Tympanic membrane", explanation: "Incorrect." },
+      { text: "Hair cells in the cochlea and vestibular apparatus", explanation: "Correct. Aminoglycosides accumulate in the endolymph/perilymph, destroying hair cells (Ototoxicity). This is often irreversible." },
+      { text: "Ossicles", explanation: "Incorrect." },
+      { text: "Eustachian tube", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_slide_8.jpg",
-    "slideImageDescription": "On the 'PK Properties of Aminoglycosides' slide, a prominent text box labeled 'THINK:' explicitly states: '↑ Vd in edema, fluid overload'. The slide body reinforces this by noting the drugs are 'Distributed in extracellular fluid', explaining why an increase in total body water (anasarca) would expand the volume of distribution."
+    correctAnswerIndex: 2,
+    clinicalPearl: "Ototoxicity from Aminoglycosides affects both Cochlear (hearing loss) and Vestibular (balance) function. It causes hair cell death.",
+    pdfPage: 12,
   },
   {
-    "id": 4,
-    "category": "Aminoglycosides: Pharmacokinetics/Toxicity",
-    "questionText": "The major toxicities of aminoglycosides (nephrotoxicity and ototoxicity) are directly related to their pharmacokinetic property of accumulating in high concentrations within which two specific locations?",
-    "options": [
-      {"text": "Renal tubular cells and endolymph/perilymph of the inner ear", "explanation": "This is correct. Aminoglycosides are actively taken up and accumulate in the proximal renal tubular cells and the endolymph/perilymph, leading to cellular damage and toxicity in these organs."},
-      {"text": "Adipose tissue and the central nervous system", "explanation": "This is incorrect. As polar, water-soluble drugs, they have poor penetration into adipose tissue and the CNS."},
-      {"text": "Bile and the gastrointestinal lumen", "explanation": "This is incorrect. They are cleared renally, not via bile, and are not absorbed from the GI lumen."},
-      {"text": "Pulmonary surfactant and skin", "explanation": "This is incorrect. Inactivation by pulmonary surfactant is characteristic of daptomycin, not aminoglycosides."},
-      {"text": "Red blood cells and bone marrow", "explanation": "This is incorrect. Bone marrow suppression is not a characteristic toxicity of this class."}
+    id: 4,
+    category: "Aminoglycosides: Synergism",
+    questionText: "Ampicillin and Gentamicin are used together for the treatment of *Enterococcus faecalis* endocarditis. What is the mechanism of this synergy?",
+    options: [
+      { text: "Gentamicin prevents the renal excretion of Ampicillin", explanation: "Incorrect." },
+      { text: "Ampicillin breaks down the cell wall, allowing Gentamicin entry", explanation: "Correct. Enterococci have thick cell walls that exclude AGs. Beta-lactams damage the wall, facilitating AG update." },
+      { text: "Gentamicin inhibits beta-lactamase", explanation: "Incorrect." },
+      { text: "They bind to the same ribosomal subunit", explanation: "Incorrect." },
+      { text: "Ampicillin increases the pH of the cytoplasm", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 0,
-    "slideImagePath": "images/L124_slide_12.jpg",
-    "slideImageDescription": "The slide lists the distribution properties of aminoglycosides. It specifically notes: 'High concentrations accumulate in renal tubular cells and endolymph and perilymph of inner ear'. A 'THINK: TOXICITIES' box adjacent to this point visually reinforces the direct connection between this specific tissue accumulation and the drug's primary adverse effect profile."
+    correctAnswerIndex: 1,
+    clinicalPearl: "Synergy in Endocarditis: The Beta-lactam opens the door (cell wall), the Aminoglycoside walks in and kills the ribosome.",
+    pdfPage: 23,
   },
   {
-    "id": 5,
-    "category": "Aminoglycosides: Pharmacodynamics",
-    "questionText": "A 40-year-old male is being treated for a severe *P. aeruginosa* infection. The pharmacist recommends a high-dose, extended-interval (once-daily) dosing strategy for the aminoglycoside. What is the primary rationale for this approach?",
-    "options": [
-      {"text": "It is less expensive and easier for nursing staff.", "explanation": "This is incorrect. While it may be easier, the primary reason is pharmacodynamic and toxicity-related."},
-      {"text": "It maintains a T>MIC, which is optimal for this class.", "explanation": "This is incorrect. T>MIC is the driver for beta-lactams; aminoglycosides are concentration-dependent."},
-      {"text": "It maximizes concentration-dependent killing and is associated with *less* nephrotoxicity.", "explanation": "This is correct. This strategy achieves a high Cmax/MIC, maximizing concentration-dependent killing, and allows a long trough period, which is associated with *less* nephrotoxicity than divided-dose regimens."},
-      {"text": "It is the only way to overcome enzymatic inactivation.", "explanation": "This is incorrect. This dosing does not overcome transferase enzyme resistance."},
-      {"text": "It prevents the drug from crossing the placenta.", "explanation": "This is incorrect. Dosing strategy does not prevent the drug from crossing the placenta."}
+    id: 5,
+    category: "Aminoglycosides: Resistance",
+    questionText: "A strain of *Klebsiella pneumoniae* is resistant to Gentamicin. The most common mechanism of acquired resistance involves:",
+    options: [
+      { text: "Efflux pumps", explanation: "Incorrect. Possible, but not the most common." },
+      { text: "Target modification (methylation of binding site)", explanation: "Incorrect. Less common for AGs, more for Macrolides." },
+      { text: "Enzymatic modification (Transferases)", explanation: "Correct. Bacteria produce Acetyl-, Phosphoryl-, or Adenyl-transferases that modify the drug so it cannot bind the ribosome." },
+      { text: "Porin loss", explanation: "Incorrect." },
+      { text: "Thickened peptidoglycan", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L124_slide_18.jpg",
-    "slideImageDescription": "The slide titled 'Applying aminoglycosides PK-PD profile' describes 'High-dose, extended interval dosing'. It explicitly lists the rationale: 'Enhanced efficacy compared to lower dose regimens' (due to concentration-dependent killing) and 'Associated with less nephrotoxicity'. This directly supports the clinical decision to use once-daily dosing for both efficacy and safety."
+    correctAnswerIndex: 2,
+    clinicalPearl: "Aminoglycoside Resistance = TRANSFERASES. The bacteria tag the drug with a chemical group so it won't fit the target.",
+    pdfPage: 32,
   },
   {
-    "id": 6,
-    "category": "Aminoglycosides: Dosing/Synergy",
-    "questionText": "A 55-year-old male is diagnosed with infective endocarditis caused by *Enterococcus faecalis*. The treatment plan includes ampicillin plus low-dose, divided-interval (e.g., every 8 hours) gentamicin. Why is this specific dosing regimen used for this indication?",
-    "options": [
-      {"text": "This regimen is used for all gram-positive infections.", "explanation": "This is incorrect. This specific regimen is an exception, not the rule."},
-      {"text": "High-dose, extended-interval dosing is ineffective against *Enterococcus*.", "explanation": "This is incorrect. The rationale is for synergy, and this is the traditional, proven method for it."},
-      {"text": "This regimen is *more* nephrotoxic but required for synergy.", "explanation": "This is incorrect. This regimen is an exception to the 'high-dose is less nephrotoxic' rule; it is used for achieving synergy, not because it's more toxic."},
-      {"text": "Once-daily dosing is not used for infective endocarditis synergy.", "explanation": "This is correct. High-dose, extended-interval dosing is the preferred method for most indications, but *not* for the treatment of infective endocarditis, where traditional, lower-dose, divided-interval dosing is still used for synergy."},
-      {"text": "This regimen is required to achieve a high Cmax/MIC.", "explanation": "This is incorrect. This regimen results in a *lower* Cmax (peak) than once-daily dosing."}
+    id: 6,
+    category: "Aminoglycosides: Transport",
+    questionText: "Why are Aminoglycosides ineffective against *Bacteroides fragilis* and other anaerobes?",
+    options: [
+      { text: "Anaerobes lack ribosomes", explanation: "Incorrect." },
+      { text: "Anaerobes produce specific beta-lactamases", explanation: "Incorrect." },
+      { text: "Aminoglycoside uptake requires an oxygen-dependent pump", explanation: "Correct. Entry into the bacterial cytoplasm is an energy-dependent process requiring Oxygen. Anaerobes lack this." },
+      { text: "The pH of anaerobic abscesses is too high", explanation: "Incorrect. It is usually too low, which also hinders AGs, but the lack of O2 pump is the primary intrinsic resistance factor." },
+      { text: "Anaerobes possess impermeable outer membranes", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 3,
-    "slideImagePath": "images/L124_slide_18.jpg",
-    "slideImageDescription": "The slide discussing dosing strategies contains a crucial exception. While advocating for high-dose extended interval dosing generally, it explicitly states this is preferred 'but not for... treatment of infective endocarditis'. This exception is a critical clinical pearl for aminoglycoside dosing, validating the use of the traditional regimen in this specific scenario."
+    correctAnswerIndex: 2,
+    clinicalPearl: "Aminoglycosides need OXYGEN to enter the cell. They fail against Anaerobes (and in abscesses).",
+    pdfPage: 9,
   },
   {
-    "id": 7,
-    "category": "Aminoglycosides: Pharmacodynamics",
-    "questionText": "The bactericidal activity of aminoglycosides increases as the drug concentration rises significantly above the MIC. This property, which is the basis for high-dose, extended-interval dosing, is known as:",
-    "options": [
-      {"text": "Time-dependent killing", "explanation": "This is incorrect. This describes beta-lactams, where efficacy is driven by time above the MIC, not the height of the peak."},
-      {"text": "Post-antibiotic effect (PAE)", "explanation": "This is incorrect. PAE is the *persistent* effect after the drug falls below the MIC, not the killing action related to the peak concentration."},
-      {"text": "Concentration-dependent killing", "explanation": "This is correct. Aminoglycosides exhibit concentration-dependent killing, where the rate and extent of bacterial killing increase with higher drug concentrations (i.e., a higher Cmax/MIC ratio)."},
-      {"text": "Bacteriostatic activity", "explanation": "This is incorrect. Aminoglycosides are bactericidal."},
-      {"text": "Synergistic killing", "explanation": "This is incorrect. Synergy describes the interaction of two drugs, not the intrinsic PD property of a single drug."}
+    id: 7,
+    category: "Aminoglycosides: Contraindications",
+    questionText: "A patient with Myasthenia Gravis is hospitalized for a serious Gram-negative infection. Aminoglycosides should be avoided if possible because they can:",
+    options: [
+      { text: "Induce a cholinergic crisis", explanation: "Incorrect." },
+      { text: "Block neuromuscular transmission pre-synaptically", explanation: "Correct. AGs block calcium channels at the pre-synaptic nerve terminal, inhibiting Acetylcholine release, which can cause respiratory paralysis in MG patients." },
+      { text: "Directly damage muscle fibers", explanation: "Incorrect. That's Daptomycin/Statins." },
+      { text: "Lower the seizure threshold", explanation: "Incorrect. That's Carbapenems/Fluoroquinolones." },
+      { text: "Cause autoimmune hemolysis", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L124_slide_18.jpg",
-    "slideImageDescription": "The slide 'Applying aminoglycosides PK-PD profile' defines 'Peak / MIC (Cmax/MIC)' as 'Concentration-dependent killing'. It elaborates that '↑ [Drug] -> ↑ rate and ↑ extent of bacterial killing'. This definition serves as the direct answer to the question regarding the pharmacodynamic property associated with peak concentration."
+    correctAnswerIndex: 1,
+    clinicalPearl: "Aminoglycosides cause Neuromuscular Blockade. Absolute caution in Myasthenia Gravis (can cause respiratory failure).",
+    pdfPage: 33,
   },
   {
-    "id": 8,
-    "category": "Aminoglycosides: Pharmacodynamics",
-    "questionText": "A patient is receiving once-daily gentamicin. The drug's concentration is measured and found to be below the MIC for 8 hours of the 24-hour dosing interval. However, bacterial growth remains suppressed. This phenomenon, which supports extended-interval dosing, is called:",
-    "options": [
-      {"text": "Prolonged persistent effects (Post-antibiotic effect)", "explanation": "This is correct. Aminoglycosides exhibit a prolonged post-antibiotic effect (PAE), where antibacterial activity persists for several hours *after* the drug concentration falls below the MIC."},
-      {"text": "Concentration-dependent killing", "explanation": "This is incorrect. This refers to the rate of killing at high concentrations, not the persistent effect after the concentration drops."},
-      {"text": "Intrinsic resistance", "explanation": "This is incorrect. This would imply the drug isn't working at all."},
-      {"text": "Toxicity threshold", "explanation": "This is incorrect. This is the level above which adverse effects are more likely, not a measure of efficacy."},
-      {"text": "Bacteriostatic suppression", "explanation": "This is incorrect. While it is suppression, the specific term for this persistent effect is PAE."}
+    id: 8,
+    category: "Aminoglycosides: Dosing",
+    questionText: "Aminoglycosides demonstrate 'Concentration-Dependent Killing'. This pharmacodynamic property supports which dosing strategy?",
+    options: [
+      { text: "Continuous low-dose infusion", explanation: "Incorrect. This maximizes Time > MIC ( Beta-lactams)." },
+      { text: "Once-daily (Extended Interval) dosing", explanation: "Correct. Giving a huge dose once daily maximizes the Peak/MIC ratio (killing) and allows a 'washout' period to reduce toxicity." },
+      { text: "Frequent small doses (every 6 hours)", explanation: "Incorrect. This increases toxicity risk without adding efficacy." },
+      { text: "Oral administration", explanation: "Incorrect." },
+      { text: "Loading doses followed by low maintenance", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 0,
-    "slideImagePath": "images/L124_slide_8.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "High Peak = Dead Bugs. Low Trough = Happy Kidneys. Use Once-Daily Dosing.",
+    pdfPage: 8,
   },
   {
-    "id": 9,
-    "category": "Aminoglycosides: Pharmacodynamics",
-    "questionText": "A 50-year-old male with diabetes has a large, purulent abscess. The abscess is drained, and the pH of the purulent material is measured at 6.0. How does this acidic environment affect the activity of an aminoglycoside like gentamicin?",
-    "options": [
-      {"text": "It significantly enhances activity.", "explanation": "This is incorrect. Aminoglycosides are less active in acidic environments."},
-      {"text": "It significantly reduces activity.", "explanation": "This is correct. Aminoglycosides are polycationic molecules that are more active at alkaline pH. An acidic environment (low pH) impairs their activity."},
-      {"text": "It has no effect on activity.", "explanation": "This is incorrect. pH is a critical factor for aminoglycoside activity."},
-      {"text": "It converts the drug from bactericidal to bacteriostatic.", "explanation": "This is incorrect. It simply reduces its overall bactericidal efficacy."},
-      {"text": "It prevents the drug from causing nephrotoxicity.", "explanation": "This is incorrect. The local pH of an abscess does not affect the systemic risk of nephrotoxicity."}
+    id: 9,
+    category: "Aminoglycosides: Spectrum",
+    questionText: "Which Aminoglycoside is generally preferred for *Pseudomonas aeruginosa* infections due to slightly superior intrinsic activity?",
+    options: [
+      { text: "Gentamicin", explanation: "Incorrect. Good for Serratia/E. coli, less potent for Pseudomonas." },
+      { text: "Streptomycin", explanation: "Incorrect. TB/Zoonoses." },
+      { text: "Tobramycin", explanation: "Correct. Tobramycin is slightly more active against Pseudomonas than Gentamicin." },
+      { text: "Neomycin", explanation: "Incorrect. Too toxic for systemic use." },
+      { text: "Kanamycin", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_page-0015.jpg",
-    "slideImageDescription": "The slide titled 'Aminoglycosides (AGs) are...' lists general properties of the class. It explicitly states they are 'more active in alkaline pH than at acid pH'. This direct pharmacological principle allows the student to infer that the acidic environment of an abscess (low pH) would reduce the drug's activity."
+    correctAnswerIndex: 2,
+    clinicalPearl: "Tobramycin > Gentamicin for Pseudomonas. (Think 'T' for 'Totally Pseudomonas').",
+    pdfPage: 24,
   },
   {
-    "id": 10,
-    "category": "Aminoglycosides: Mechanism of Action",
-    "questionText": "An aminoglycoside enters a gram-negative bacterium and exerts its bactericidal effect. It does this by binding *irreversibly* to which specific target within the bacterial ribosome?",
-    "options": [
-      {"text": "The 23S rRNA of the 50S subunit", "explanation": "This is incorrect. This is the location of the peptidyl transferase center, the target for macrolides and chloramphenicol."},
-      {"text": "The 16S rRNA of the 30S subunit", "explanation": "This is correct. Aminoglycosides bind irreversibly to the 16S rRNA component of the 30S ribosomal subunit."},
-      {"text": "The 50S subunit's exit tunnel", "explanation": "This is incorrect. This is a target for macrolides."},
-      {"text": "DNA gyrase (Topoisomerase II)", "explanation": "This is incorrect. This is the target of fluoroquinolones."},
-      {"text": "Penicillin-binding proteins (PBPs)", "explanation": "This is incorrect. This is the target of beta-lactam antibiotics."}
+    id: 10,
+    category: "Aminoglycosides: Zoonoses",
+    questionText: "Streptomycin is the drug of choice (or primary alternative) for which zoonotic infections?",
+    options: [
+      { text: "Lyme disease and Babesiosis", explanation: "Incorrect." },
+      { text: "Tularemia (Francisella) and Plague (Yersinia)", explanation: "Correct. Streptomycin is the classic treatment for these serious zoonoses." },
+      { text: "Cat scratch disease and Bartonella", explanation: "Incorrect." },
+      { text: "Q fever and Psittacosis", explanation: "Incorrect." },
+      { text: "Anthrax and Listeria", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_slide_20.jpg",
-    "slideImageDescription": "The slide illustrates the 'Aminoglycoside-treated bacterial cell' with diagrams. The text clearly states: 'AGs bind the bacterial polysomes at the 16S rRNA on the 30S ribosome'. This explicitly identifies the molecular target and subunit, confirming the correct answer."
+    correctAnswerIndex: 1,
+    clinicalPearl: "Streptomycin is for the 'Old World' diseases: TB, Plague, and Tularemia.",
+    pdfPage: 11,
   },
   {
-    "id": 11,
-    "category": "Aminoglycosides: Mechanism of Action",
-    "questionText": "A gram-negative bacterium, *E. coli*, is exposed to gentamicin. The drug crosses the outer membrane via porins. What is the next step for its entry into the cytoplasm, which also explains why this drug is ineffective against anaerobes?",
-    "options": [
-      {"text": "Passive diffusion across the lipid bilayer", "explanation": "This is incorrect. As a polar molecule, it cannot passively diffuse across the lipid membrane."},
-      {"text": "Oxygen-dependent active transport across the cytoplasmic membrane", "explanation": "This is correct. Aminoglycosides are actively transported across the inner cytoplasmic membrane by an oxygen-dependent mechanism. This is why they are ineffective against anaerobes, which lack this system."},
-      {"text": "Binding to D-Ala-D-Ala on the membrane", "explanation": "This is incorrect. This describes vancomycin's mechanism of action."},
-      {"text": "Uptake via the bacterial iron transport system", "explanation": "This is incorrect. This describes the unique entry mechanism of cefiderocol."},
-      {"text": "Disruption of the membrane, causing potassium efflux", "explanation": "This is incorrect. This describes the mechanism of daptomycin."}
+    id: 11,
+    category: "Aminoglycosides: Nephrotoxicity",
+    questionText: "Aminoglycoside-induced nephrotoxicity typically manifests as:",
+    options: [
+      { text: "Chronic interstitial nephritis", explanation: "Incorrect." },
+      { text: "Glomerulonephritis", explanation: "Incorrect." },
+      { text: "Acute Tubular Necrosis (ATN)", explanation: "Correct. AGs accumulate in proximal tubule cells, causing ATN. It is typically non-oliguric and reversible." },
+      { text: "Post-renal obstruction", explanation: "Incorrect." },
+      { text: "Renal artery stenosis", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_slide_9.jpg",
-    "slideImageDescription": "The slide 'Key points' explains the entry mechanism. It states AGs 'enter gram-negative bacteria across porins' and are then 'actively transported across the bacterial cytoplasmic membrane by an oxygen-dependent mechanism'. This sentence directly links the transport mechanism to oxygen, explaining why anaerobes (which lack this) are resistant."
+    correctAnswerIndex: 2,
+    clinicalPearl: "AGs cause ATN. Monitor Creatinine. It usually recovers after stopping the drug.",
+    pdfPage: 12,
   },
   {
-    "id": 12,
-    "category": "Aminoglycosides: Mechanism of Action (Synergy)",
-    "questionText": "A patient with *Enterococcus faecalis* endocarditis is treated with ampicillin and gentamicin. What is the rationale for adding gentamicin to the ampicillin regimen?",
-    "options": [
-      {"text": "Gentamicin covers anaerobic bacteria that ampicillin misses.", "explanation": "This is incorrect. Gentamicin is *not* active against anaerobes."},
-      {"text": "Ampicillin inhibits the transferase enzymes that inactivate gentamicin.", "explanation": "This is incorrect. Ampicillin does not inhibit these enzymes."},
-      {"text": "Gentamicin inhibits the beta-lactamase enzymes that inactivate ampicillin.", "explanation": "This is incorrect. Gentamicin is not a beta-lactamase inhibitor."},
-      {"text": "Ampicillin damages the cell wall, enhancing gentamicin's penetration to the ribosome.", "explanation": "This is correct. Aminoglycosides poorly penetrate the thick cell wall of gram-positives. A cell wall inhibitor (like ampicillin) damages the wall, enhancing penetration and providing a synergistic bactericidal effect."},
-      {"text": "Both drugs are needed to cause misreading of the mRNA.", "explanation": "This is incorrect. Only gentamicin causes misreading; ampicillin inhibits cell wall synthesis."}
+    id: 12,
+    category: "Aminoglycosides: Post-Antibiotic Effect",
+    questionText: "Even when serum levels of Gentamicin drop below the MIC, bacterial growth remains suppressed for hours. This phenomenon is called:",
+    options: [
+      { text: "Tachyphylaxis", explanation: "Incorrect." },
+      { text: "Post-Antibiotic Effect (PAE)", explanation: "Correct. AGs have a long PAE, which allows for extended interval dosing despite a short half-life." },
+      { text: "Synergy", explanation: "Incorrect." },
+      { text: "Tolerance", explanation: "Incorrect." },
+      { text: "Bioaccumulation", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 3,
-    "slideImagePath": "images/L124_slide_9.jpg",
-    "slideImageDescription": "The slide discusses the spectrum of action. It notes that while AGs are active against aerobic gram-positive bacteria, they 'poorly penetrate thick cell wall'. It then explains that they are 'Administered with a cell wall inhibitor for enhanced uptake of the AG and synergistic effect', specifically citing 'gram-positive infections'. This confirms the mechanism of synergy."
+    correctAnswerIndex: 1,
+    clinicalPearl: "Post-Antibiotic Effect means the bugs stay stunned even when drug levels are low. Allows Q24H dosing.",
+    pdfPage: 8,
   },
   {
-    "id": 13,
-    "category": "Aminoglycosides: Mechanism of Action",
-    "questionText": "Once bound to the 30S ribosome, aminoglycosides are believed to have at least three distinct mechanisms of inhibiting protein synthesis. Which mechanism involves disrupting the assembly of the 70S ribosome from its subunits?",
-    "options": [
-      {"text": "Blocking the initiation complex", "explanation": "This is correct. One of the three recognized mechanisms is that aminoglycosides interfere with the initiation complex, which inhibits the assembly of the functional ribosomal apparatus."},
-      {"text": "Blocking translocation on the mRNA", "explanation": "This is incorrect. This is a separate, distinct mechanism of aminoglycosides."},
-      {"text": "Causing misreading of the mRNA", "explanation": "This is incorrect. This is also a separate, distinct mechanism of aminoglycosides."},
-      {"text": "Inhibiting peptidyl transferase", "explanation": "This is incorrect. This is the action of 50S inhibitors like chloramphenicol, not aminoglycosides."},
-      {"text": "Preventing tRNA from binding to the A-site", "explanation": "This is incorrect. This is the mechanism of tetracyclines."}
+    id: 13,
+    category: "Aminoglycosides: MDR Agents",
+    questionText: "Which Aminoglycoside is resistant to many bacterial transferase enzymes and is reserved for multi-drug resistant Gram-negative infections?",
+    options: [
+      { text: "Gentamicin", explanation: "Incorrect." },
+      { text: "Amikacin", explanation: "Correct. Amikacin has a bulky side chain that protects it from enzymatic inactivation." },
+      { text: "Streptomycin", explanation: "Incorrect." },
+      { text: "Neomycin", explanation: "Incorrect." },
+      { text: "Paromomycin", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 0,
-    "slideImagePath": "images/L124_page-0020.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "Amikacin is the 'Big Gun' Aminoglycoside. Use it when Gentamicin/Tobramycin fail.",
+    pdfPage: 11,
   },
   {
-    "id": 14,
-    "category": "Aminoglycosides: Mechanism of Action",
-    "questionText": "A scientist observes that when an aminoglycoside is added to a bacterial culture, the bacteria begin to produce abnormal, nonfunctional proteins. This is due to which unique mechanism of action for this drug class?",
-    "options": [
-      {"text": "Blocking the initiation complex", "explanation": "This is incorrect. Blocking the initiation complex would prevent protein synthesis from starting, not create abnormal proteins."},
-      {"text": "Blocking translocation", "explanation": "This is incorrect. This would halt protein synthesis, not create abnormal proteins."},
-      {"text": "Misreading of the mRNA and incorporation of incorrect amino acids", "explanation": "This is correct. A key mechanism of aminoglycosides is to cause misreading of the mRNA, which leads to the incorporation of incorrect amino acids and the production of abnormal or nonfunctional proteins."},
-      {"text": "Inhibiting the 50S peptidyl transferase center", "explanation": "This is incorrect. This would halt peptide bond formation, not cause misreading."},
-      {"text": "Binding irreversibly to DNA gyrase", "explanation": "This is incorrect. This describes fluoroquinolones."}
+    id: 14,
+    category: "Aminoglycosides: Tuberculosis",
+    questionText: "Which Aminoglycoside is a first-line agent (historically) or second-line agent (currently) for Tuberculosis treatment?",
+    options: [
+      { text: "Gentamicin", explanation: "Incorrect." },
+      { text: "Streptomycin", explanation: "Correct. Streptomycin was the first cure for TB and is still used for resistant cases." },
+      { text: "Tobramycin", explanation: "Incorrect." },
+      { text: "Neomycin", explanation: "Incorrect." },
+      { text: "Plazomycin", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L124_page-0020.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "Streptomycin targets TB. (Mechanism: 30S).",
+    pdfPage: 32,
   },
   {
-    "id": 15,
-    "category": "Spectinomycin: Board Review",
-    "questionText": "A 28-year-old patient has a *Neisseria gonorrhoeae* infection that is resistant to ceftriaxone. Although not available in the US, which alternative IM drug (an aminocyclitol) works by binding the 30S subunit but does *not* cause misreading of mRNA?",
-    "options": [
-      {"text": "Gentamicin", "explanation": "This is incorrect. Gentamicin is an aminoglycoside and *does* cause misreading."},
-      {"text": "Amikacin", "explanation": "This is incorrect. Amikacin is an aminoglycoside and *does* cause misreading."},
-      {"text": "Spectinomycin", "explanation": "This is correct. Spectinomycin is an aminocyclitol (not an AG) used almost exclusively for drug-resistant gonorrhea. It binds the 30S subunit but does not cause misreading, and there is no cross-resistance."},
-      {"text": "Streptomycin", "explanation": "This is incorrect. Streptomycin is an aminoglycoside and *does* cause misreading."},
-      {"text": "Daptomycin", "explanation": "This is incorrect. Daptomycin targets the cell membrane, not the ribosome."}
+    id: 15,
+    category: "Aminoglycosides: Neomycin",
+    questionText: "Neomycin is too nephrotoxic for parenteral use. Its primary indicated uses include topical application and:",
+    options: [
+      { text: "Inhalation for Cystic Fibrosis", explanation: "Incorrect. That's Tobramycin." },
+      { text: "Oral administration for hepatic encephalopathy", explanation: "Correct. It reduces ammonia-producing gut bacteria." },
+      { text: "IV for meningitis", explanation: "Incorrect." },
+      { text: "IM for gonorrhea", explanation: "Incorrect." },
+      { text: "Subcutaneous for abscesses", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L124_page-0013.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "Neomycin: Topical (Neosporin) or Oral (Bowel Prep/Hepatic Encephalopathy). NEVER IV.",
+    pdfPage: 11,
   },
   {
-    "id": 16,
-    "category": "Aminoglycosides: MOA",
-    "questionText": "While most protein synthesis inhibitors (e.g., tetracyclines, macrolides) are bacteriostatic, aminoglycosides are bactericidal. This is primarily because they bind in what way to the ribosome?",
-    "options": [
-      {"text": "Reversibly to the 50S subunit", "explanation": "This is incorrect. They bind to the 30S subunit, and their binding is irreversible."},
-      {"text": "Irreversibly to the 30S subunit", "explanation": "This is correct. Aminoglycosides bind irreversibly to the 30S ribosome, leading to a bactericidal effect, whereas most other protein synthesis inhibitors bind reversibly and are bacteriostatic."},
-      {"text": "Reversibly to the 30S subunit", "explanation": "This is incorrect. This describes tetracyclines."},
-      {"text": "By competing with calcium", "explanation": "This is incorrect. This relates to their neuromuscular blockade adverse effect, not their bactericidal MOA."},
-      {"text": "By chelating iron", "explanation": "This is incorrect. This describes cefiderocol's entry mechanism."}
+    id: 16,
+    category: "Aminoglycosides: Pregnancy",
+    questionText: "Why are Aminoglycosides generally contraindicated in pregnancy (Category D)?",
+    options: [
+      { text: "They cause kernicterus", explanation: "Incorrect. Sulfas/Ceftriaxone." },
+      { text: "They cause fetal deafness (Ototoxicity)", explanation: "Correct. They cross the placenta and can destroy fetal hair cells." },
+      { text: "They cause grey baby syndrome", explanation: "Incorrect. Chloramphenicol." },
+      { text: "They cause bone deformities", explanation: "Incorrect. Tetracyclines/FQs." },
+      { text: "They cause neural tube defects", explanation: "Incorrect. Folate antagonists." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_page-0007.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "AGs in pregnancy = Fetal Deafness. Avoid.",
+    pdfPage: 30,
   },
   {
-    "id": 17,
-    "category": "Aminoglycosides: Spectrum (Resistance)",
-    "questionText": "A 52-year-old male has an intra-abdominal abscess. Cultures grow *Bacteroides fragilis*. The physician knows that aminoglycosides are *not* effective for this infection. What is the mechanism of this intrinsic resistance?",
-    "options": [
-      {"text": "*B. fragilis* produces transferase enzymes.", "explanation": "This is incorrect. This is an *acquired* resistance mechanism, not the reason for *intrinsic* resistance in all anaerobes."},
-      {"text": "*B. fragilis* lacks the oxygen-dependent active transport mechanism.", "explanation": "This is correct. Anaerobic bacteria (and facultative anaerobes in anaerobic environments) are intrinsically resistant because they lack the oxygen-dependent transport system required to move the aminoglycoside across the cytoplasmic membrane."},
-      {"text": "*B. fragilis* has an altered 16S rRNA target site.", "explanation": "This is incorrect. This is a rare acquired resistance mechanism, not the basis for intrinsic anaerobic resistance."},
-      {"text": "*B. fragilis* has a cell wall that is impermeable to aminoglycosides.", "explanation": "This is incorrect. This is a partial reason for poor G+ activity, not for G- anaerobe resistance."},
-      {"text": "*B. fragilis* is an atypical bacterium without a cell wall.", "explanation": "This is incorrect. *B. fragilis* is a gram-negative anaerobe with a cell wall."}
+    id: 17,
+    category: "Aminoglycosides: Chemical Structure",
+    questionText: "The chemical structure of Aminoglycosides (amino sugars + glycosidic bonds) renders them:",
+    options: [
+      { text: "Highly lipophilic", explanation: "Incorrect." },
+      { text: "Highly hydrophilic (Polar)", explanation: "Correct. This limits their volume of distribution to extracellular fluid." },
+      { text: "Unstable in solution", explanation: "Incorrect." },
+      { text: "Able to cross the BBB easily", explanation: "Incorrect." },
+      { text: "Metabolized extensively by CYP450", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_page-0022.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "AGs are Polar Bears (Water loving). They stay in the blood/urine, don't enter fat or cells easily.",
+    pdfPage: 8,
   },
   {
-    "id": 18,
-    "category": "Aminoglycosides: Spectrum of Activity",
-    "questionText": "A patient is started on an aminoglycoside. This class of antibiotics provides excellent coverage for which of the following types of organisms?",
-    "options": [
-      {"text": "Aerobic gram-negative bacilli", "explanation": "This is correct. The primary spectrum of activity for aminoglycosides is aerobic gram-negative bacteria, including Enterobacterales and *Pseudomonas*."},
-      {"text": "Atypical bacteria (e.g., *Mycoplasma*)", "explanation": "This is incorrect. Aminoglycosides, like beta-lactams, are ineffective against atypicals."},
-      {"text": "Obligate anaerobes (e.g., *C. difficile*)", "explanation": "This is incorrect. They are intrinsically resistant due to the lack of oxygen-dependent transport."},
-      {"text": "Fungi (e.g., *Candida albicans*)", "explanation": "This is incorrect. Aminoglycosides are antibacterial, not antifungal."},
-      {"text": "Gram-positive cocci (as monotherapy)", "explanation": "This is incorrect. They are not reliably effective when used *alone* (as monotherapy) for gram-positive infections due to poor penetration of the thick cell wall."}
+    id: 18,
+    category: "Plazomycin",
+    questionText: "Plazomycin is a next-generation aminoglycoside FDA approved for:",
+    options: [
+      { text: "Community-acquired pneumonia", explanation: "Incorrect." },
+      { text: "Complicated Urinary Tract Infections (cUTI)", explanation: "Correct. It targets MDR Enterobacteriaceae (CRE/ESBL) in the urinary tract." },
+      { text: "Skin and soft tissue infections", explanation: "Incorrect." },
+      { text: "Meningitis", explanation: "Incorrect." },
+      { text: "Gonorrhea", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 0,
-    "slideImagePath": "images/L124_page-0022.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "Plazomycin = The AG for Complicated UTIs when nothing else works.",
+    pdfPage: 3,
   },
   {
-    "id": 19,
-    "category": "Aminoglycosides: Resistance",
-    "questionText": "A hospital's antibiogram shows high rates of gentamicin resistance among *Klebsiella pneumoniae* isolates. What is the *principal mechanism* by which these gram-negative bacteria acquire resistance to aminoglycosides?",
-    "options": [
-      {"text": "Modification of the PBP target site", "explanation": "This is incorrect. This is the mechanism of beta-lactam resistance."},
-      {"text": "Expression of drug-inactivating transferase enzymes", "explanation": "This is correct. The principal mechanism of acquired resistance is the production of transferase enzymes (acetyl-, phospho-, or adenyltransferases) that modify and inactivate the drug."},
-      {"text": "Modification of the binding target to D-Ala-D-Lactate", "explanation": "This is incorrect. This is the mechanism of vancomycin resistance in VRE."},
-      {"text": "Mutation of the 16S rRNA binding site", "explanation": "This is incorrect. This is an uncommon mechanism, except notably for streptomycin resistance in *M. tuberculosis*."},
-      {"text": "Complete deletion of the 30S ribosome", "explanation": "This is incorrect. This would be lethal to the bacterium."}
+    id: 19,
+    category: "Aminoglycosides: Monitoring",
+    questionText: "To assess for accumulation and risk of toxicity in traditional dosing, when should serum levels be drawn?",
+    options: [
+      { text: "Peak (30 mins after dose)", explanation: "Incorrect. Trough is more predictive of toxicity." },
+      { text: "Trough (Right before next dose)", explanation: "Correct. An elevated trough indicates the drug isn't clearing, increasing toxicity risk." },
+      { text: "Mid-interval", explanation: "Incorrect." },
+      { text: "Random level", explanation: "Incorrect." },
+      { text: "2 hours after dose", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_page-0022.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "High Trough levels = Toxicity. The kidney needs a break (drug-free period) to recover.",
+    pdfPage: 12,
   },
   {
-    "id": 20,
-    "category": "Aminoglycosides: Resistance",
-    "questionText": "A patient has multidrug-resistant tuberculosis (MDR-TB). The organism is found to be resistant to streptomycin. This specific resistance is most commonly due to which of the following mechanisms?",
-    "options": [
-      {"text": "Production of a transferase enzyme", "explanation": "This is incorrect. While this is the main mechanism for GNBs, it is not the primary mechanism for streptomycin resistance in TB."},
-      {"text": "Alteration or deletion of ribosomal receptor protein (target alteration)", "explanation": "This is correct. Alteration (mutation) of the 30S ribosomal binding site is the primary mechanism of *M. tuberculosis* resistance to streptomycin."},
-      {"text": "Impaired drug entry via porin deletion", "explanation": "This is incorrect. This is another possible mechanism, but target alteration is the primary one cited for this specific bug-drug pair."},
-      {"text": "Lack of an oxygen-dependent transport system", "explanation": "This is incorrect. *M. tuberculosis* is an obligate aerobe."},
-      {"text": "Inactivation by lung surfactant", "explanation": "This is incorrect. This describes daptomycin."}
+    id: 20,
+    category: "Neuromuscular Blockade Mechanism",
+    questionText: "The neuromuscular blockade caused by aminoglycosides can be reversed by administering:",
+    options: [
+      { text: "Atropine", explanation: "Incorrect." },
+      { text: "Calcium gluconate AND/OR Neostigmine", explanation: "Correct. Calcium overcomes the channel blockade; Neostigmine increases ACh levels." },
+      { text: "Magnesium sulfate", explanation: "Incorrect. Mg worsens the blockade!" },
+      { text: "Dantrolene", explanation: "Incorrect." },
+      { text: "Flumazenil", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_page-0022.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "Reversal of AG paralysis: Calcium + Neostigmine. (Magnesium makes it WORSE).",
+    pdfPage: 12,
   },
   {
-    "id": 21,
-    "category": "Aminoglycosides: Clinical Use (Resistance)",
-    "questionText": "A patient in the ICU has a ventilator-associated pneumonia (VAP) caused by a gram-negative rod that is resistant to both gentamicin and tobramycin. Which other aminoglycoside is specifically noted to be active against many gentamicin- and tobramycin-resistant strains?",
-    "options": [
-      {"text": "Neomycin", "explanation": "This is incorrect. Neomycin is too toxic for parenteral use and is not used for VAP."},
-      {"text": "Streptomycin", "explanation": "This is incorrect. Streptomycin resistance is widespread, and it is not typically used for these types of GNB infections."},
-      {"text": "Amikacin", "explanation": "This is correct. Amikacin (and plazomicin) is active against many strains that are resistant to gentamicin and tobramycin, often due to its structure being less susceptible to transferase enzymes."},
-      {"text": "Paromomycin", "explanation": "This is incorrect. Paromomycin is used for parasitic infections."},
-      {"text": "Spectinomycin", "explanation": "This is incorrect. Spectinomycin is not an aminoglycoside and is used for gonorrhea."}
+    id: 21,
+    category: "Aminoglycosides: Excretion",
+    questionText: "Aminoglycosides have a linear relationship between their clearance and:",
+    options: [
+      { text: "Liver enzymes (AST/ALT)", explanation: "Incorrect." },
+      { text: "Creatinine Clearance (GFR)", explanation: "Correct. Distinct renal elimination via glomerular filtration." },
+      { text: "Serum Albumin", explanation: "Incorrect." },
+      { text: "Body fat percentage", explanation: "Incorrect." },
+      { text: "Urine pH", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L124_page-0024.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "AG Clearance ≈ GFR. If GFR drops, AG levels skyrocket.",
+    pdfPage: 32,
   },
   {
-    "id": 22,
-    "category": "Aminoglycosides: Clinical Use (Comparison)",
-    "questionText": "A physician is choosing between gentamicin and tobramycin for an empiric VAP regimen. While they have comparable activity, tobramycin is often preferred if *Pseudomonas aeruginosa* is strongly suspected. Why?",
-    "options": [
-      {"text": "Tobramycin is the only one active against *P. aeruginosa*.", "explanation": "This is incorrect. Gentamicin is also active, but tobramycin is slightly more so."},
-      {"text": "Tobramycin is slightly more active than gentamicin against *P. aeruginosa*.", "explanation": "This is correct. While both are active, tobramycin is noted to be slightly more active than gentamicin against *P. aeruginosa*."},
-      {"text": "Tobramycin is not nephrotoxic, unlike gentamicin.", "explanation": "This is incorrect. All aminoglycosides share the same class toxicities, including nephrotoxicity."},
-      {"text": "Gentamicin is only active against gram-positive bacteria.", "explanation": "This is incorrect. Gentamicin's primary spectrum is aerobic gram-negative bacteria."},
-      {"text": "Tobramycin can be given orally.", "explanation": "This is incorrect. It is not given orally for systemic infections; it is available for inhalation, but not oral use."}
+    id: 22,
+    category: "Clinical Scenarios: Peritonitis",
+    questionText: "For a patient with a perforated bowel and peritonitis, Gentamicin must be combined with Clindamycin or Metronidazole. Why?",
+    options: [
+      { text: "Gentamicin cannot kill Gram-negatives in the gut", explanation: "Incorrect. It kills G- aerobes." },
+      { text: "Gentamicin has no activity against Anaerobes (Bacteroides)", explanation: "Correct. Peritonitis involves anaerobes. You must add anaerobic coverage." },
+      { text: "To prevent nephrotoxicity", explanation: "Incorrect." },
+      { text: "To increase pH", explanation: "Incorrect." },
+      { text: "To treat fungal coinfection", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_page-0024.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "Belly infection? Add Anaerobic coverage (Metro/Clinda). Gentamicin alone only covers the Aerobes.",
+    pdfPage: 24,
   },
   {
-    "id": 23,
-    "category": "Aminoglycosides: Clinical Use (Synergy)",
-    "questionText": "A 60-year-old male with a prosthetic heart valve is diagnosed with infective endocarditis. This is a serious gram-positive infection. What is the primary reason an aminoglycoside (like gentamicin) is added to a cell wall inhibitor (like ampicillin or vancomycin)?",
-    "options": [
-      {"text": "To cover aerobic gram-negative bacilli", "explanation": "This is incorrect. While AGs do cover GNBs, the target in endocarditis is gram-positive, and the AG is added for synergy, not spectrum expansion."},
-      {"text": "To provide enhanced uptake and synergy", "explanation": "This is correct. For serious gram-positive infections like endocarditis, an aminoglycoside is added to a cell wall inhibitor for its synergistic effect and to enhance the penetration of the AG into the bacterium."},
-      {"text": "To prevent ototoxicity from the cell wall inhibitor", "explanation": "This is incorrect. The AG *causes* ototoxicity; it does not prevent it."},
-      {"text": "To treat a co-infection with *M. tuberculosis*", "explanation": "This is incorrect. This is not the standard indication for endocarditis therapy."},
-      {"text": "To overcome anaerobic resistance", "explanation": "This is incorrect. Aminoglycosides are not active against anaerobes."}
+    id: 23,
+    category: "Aminoglycosides: Intracellular mechanism",
+    questionText: "Once inside the cell, AGs bind to polysomes and primarily disrupt:",
+    options: [
+      { text: "Elongation only", explanation: "Incorrect." },
+      { text: "Initiation of protein synthesis", explanation: "Correct. They freeze the initiation complex (30S-50S-mRNA)." },
+      { text: "Termination", explanation: "Incorrect." },
+      { text: "DNA replication", explanation: "Incorrect." },
+      { text: "Cell wall cross-linking", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_page-0023.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "Block Initiation -> Defective Proteins -> Dead Cell.",
+    pdfPage: 20,
   },
   {
-    "id": 24,
-    "category": "Aminoglycosides: Clinical Use (Streptomycin)",
-    "questionText": "A 30-year-old park ranger presents with high fever, chills, and a painful, swollen lymph node (a bubo) in his groin. He reports recently handling a dead rodent. This presentation is classic for plague (*Yersinia pestis*). Which aminoglycoside is a first-line treatment for this zoonotic infection?",
-    "options": [
-      {"text": "Amikacin", "explanation": "This is incorrect. Amikacin is typically reserved for resistant GNBs or MDR-TB."},
-      {"text": "Neomycin", "explanation": "This is incorrect. Neomycin is topical only."},
-      {"text": "Tobramycin", "explanation": "This is incorrect. Tobramycin is primarily used for *P. aeruginosa*."},
-      {"text": "Streptomycin", "explanation": "This is correct. Streptomycin (and gentamicin) is a treatment of choice for the zoonotic infections plague and tularemia."},
-      {"text": "Paromomycin", "explanation": "This is incorrect. This is for parasitic infections."}
+    id: 24,
+    category: "Aminoglycosides: Toxicity Reversibility",
+    questionText: "Which toxicity of aminoglycosides is most likely to be permanent (irreversible)?",
+    options: [
+      { text: "Nephrotoxicity", explanation: "Incorrect. Tubular cells regenerate." },
+      { text: "Neuromuscular blockade", explanation: "Incorrect. Reversible." },
+      { text: "Ototoxicity (Auditory)", explanation: "Correct. Hair cells do not regenerate." },
+      { text: "Skin rash", explanation: "Incorrect." },
+      { text: "Nausea", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 3,
-    "slideImagePath": "images/L124_page-0024.jpg"
+    correctAnswerIndex: 2,
+    clinicalPearl: "Kidneys heal, Ears do not. Deafness is forever.",
+    pdfPage: 12,
   },
   {
-    "id": 25,
-    "category": "Aminoglycosides: Clinical Use (Streptomycin)",
-    "questionText": "A 45-year-old hunter presents with an ulcer on his hand, fever, and tender axillary lymphadenopathy. He reports skinning a rabbit 3 days ago. This presentation is consistent with tularemia. Which aminoglycoside is a primary treatment for this condition?",
-    "options": [
-      {"text": "Streptomycin", "explanation": "This is correct. Streptomycin (and gentamicin) is a treatment of choice for the zoonotic infections tularemia and plague."},
-      {"text": "Amikacin", "explanation": "This is incorrect. This is not the first-line agent for tularemia."},
-      {"text": "Plazomicin", "explanation": "This is incorrect. This is a last-line agent for cUTI."},
-      {"text": "Neomycin", "explanation": "This is incorrect. Neomycin is topical only."},
-      {"text": "Tobramycin", "explanation": "This is incorrect. This is not the first-line agent for tularemia."}
+    id: 25,
+    category: "Aminoglycosides: Protein Binding",
+    questionText: "Are Aminoglycosides highly protein bound?",
+    options: [
+      { text: "Yes, >90%", explanation: "Incorrect." },
+      { text: "No, <10%", explanation: "Correct. They are free in the plasma." },
+      { text: "Variable", explanation: "Incorrect." },
+      { text: "Only in renal failure", explanation: "Incorrect." },
+      { text: "Only to albumin", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 0,
-    "slideImagePath": "images/L124_page-0024.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "Low protein binding = High free drug concentration for filtration.",
+    pdfPage: 13,
   },
   {
-    "id": 26,
-    "category": "Aminoglycosides: Clinical Use (Neomycin)",
-    "questionText": "A patient is scheduled for elective bowel surgery. To reduce the risk of post-operative infection, the surgeon prescribes oral neomycin combined with erythromycin. What is the purpose of oral neomycin in this setting?",
-    "options": [
-      {"text": "To provide systemic coverage against gram-negative bacteria.", "explanation": "This is incorrect. Oral neomycin is not absorbed and cannot provide systemic coverage."},
-      {"text": "To treat a *C. difficile* infection caused by the erythromycin.", "explanation": "This is incorrect. Oral vancomycin or fidaxomicin is used for *C. difficile*, not neomycin."},
-      {"text": "To act locally in the GI tract to reduce bowel flora.", "explanation": "This is correct. Oral neomycin is not absorbed and is approved for bowel sterilization prior to elective surgery, acting locally to reduce ammonia-producing or pathogenic bacteria in the gut."},
-      {"text": "To prevent ototoxicity from the erythromycin.", "explanation": "This is incorrect. Both can be ototoxic, though neomycin's risk is systemic, which is avoided here."},
-      {"text": "To treat a co-existing parasitic infection.", "explanation": "This is incorrect. That is the indication for paromomycin."}
+    id: 26,
+    category: "Aminoglycosides: Inhalation",
+    questionText: "Inhaled Tobramycin is used to manage:",
+    options: [
+      { text: "Asthma exacerbations", explanation: "Incorrect." },
+      { text: "Pseudomonas colonization in Cystic Fibrosis", explanation: "Correct. Suppressive therapy." },
+      { text: "Legionella pneumonia", explanation: "Incorrect." },
+      { text: "TB prophylaxis", explanation: "Incorrect." },
+      { text: "Influenza", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L124_page-0024.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "CF patients inhale Tobramycin (TOBI) to keep Pseudomonas in check.",
+    pdfPage: 23,
   },
   {
-    "id": 27,
-    "category": "Aminoglycosides: Clinical Use (Tobramycin)",
-    "questionText": "A 15-year-old patient with cystic fibrosis has a chronic cough and sputum cultures persistently positive for *P. aeruginosa*. Which aminoglycoside is available in an inhalation formulation specifically to treat this condition?",
-    "options": [
-      {"text": "Gentamicin", "explanation": "This is incorrect. Gentamicin is not typically formulated for inhalation for this purpose."},
-      {"text": "Tobramycin", "explanation": "This is correct. Tobramycin is available as an oral inhalation product used to manage chronic *P. aeruginosa* lung infections in patients with cystic fibrosis."},
-      {"text": "Amikacin", "explanation": "This is incorrect. While amikacin has *P. aeruginosa* activity, tobramycin is the agent specifically mentioned for this formulation and use."},
-      {"text": "Streptomycin", "explanation": "This is incorrect. Streptomycin is not used for *P. aeruginosa*."},
-      {"text": "Neomycin", "explanation": "This is incorrect. Neomycin is topical only and not used for this."}
+    id: 27,
+    category: "Aminoglycosides: CSF Penetration",
+    questionText: "Generally, AGs have poor CSF penetration. When can they successfully treat meningitis when given IV?",
+    options: [
+      { text: "Always", explanation: "Incorrect." },
+      { text: "Only when meninges are inflamed (systemic inflammation)", explanation: "Correct. Inflammation increases BBB permeability, allowing some drug accumulation. (Note: Often still given intrathecally/intraventricularly for difficult cases). " },
+      { text: "Never", explanation: "Incorrect." },
+      { text: "Only in neonates", explanation: "Incorrect." },
+      { text: "Only if given with Mannitol", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_page-0024.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "Meningitis needs high doses or intrathecal AGs because the BBB keeps them out.",
+    pdfPage: 33,
   },
   {
-    "id": 28,
-    "category": "Aminoglycosides: Clinical Use",
-    "questionText": "A 35-year-old immigrant presents with a 2-month history of cough, hemoptysis, fever, and night sweats. A chest X-ray shows apical cavities. Sputum is positive for acid-fast bacilli, and cultures confirm multidrug-resistant tuberculosis (MDR-TB). Which of the following aminoglycosides are options for this condition?",
-    "options": [
-      {"text": "Gentamicin and Tobramycin", "explanation": "This is incorrect. These are not typically first-line agents for MDR-TB."},
-      {"text": "Amikacin and Streptomycin", "explanation": "This is correct. Amikacin and Streptomycin are both used as part of combination therapy for drug-resistant tuberculosis."},
-      {"text": "Neomycin and Paromomycin", "explanation": "This is incorrect. These agents are not used for TB."},
-      {"text": "Plazomicin and Gentamicin", "explanation": "This is incorrect. Plazomicin is not indicated for TB."},
-      {"text": "Tobramycin and Plazomicin", "explanation": "This is incorrect. These are not the primary AGs used for MDR-TB."}
+    id: 28,
+    category: "Aminoglycosides: Classification",
+    questionText: "Spectinomycin is structurally related to aminoglycosides but is bacteriostatic. What is its only clinical use?",
+    options: [
+      { text: "Syphilis", explanation: "Incorrect." },
+      { text: "Gonorrhea (in penicillin-allergic patients)", explanation: "Correct. An alternative for Gonorrhea, though rarely used now." },
+      { text: "Chlamydia", explanation: "Incorrect." },
+      { text: "Trichomoniasis", explanation: "Incorrect." },
+      { text: "Scabies", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_page-0024.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "Spectinomycin -> Gonorrhea alternative.",
+    pdfPage: 7,
   },
   {
-    "id": 29,
-    "category": "Aminoglycosides: Clinical Use",
-    "questionText": "A 68-year-old female with a history of recurrent UTIs presents with fever, flank pain, and dysuria. Urine culture grows a multidrug-resistant *E. coli* that is resistant to carbapenems and cephalosporins. Which of the newest aminoglycosides is approved as a last-line agent for complicated UTIs caused by MDR GNBs?",
-    "options": [
-      {"text": "Streptomycin", "explanation": "This is incorrect. Streptomycin resistance is common, and it's not used for this."},
-      {"text": "Neomycin", "explanation": "This is incorrect. Neomycin is not used systemically."},
-      {"text": "Plazomicin", "explanation": "This is correct. Plazomicin is a next-generation aminoglycoside engineered to evade many transferase enzymes and is approved for complicated UTIs in patients with limited options."},
-      {"text": "Tobramycin", "explanation": "This is incorrect. The organism is MDR, and Plazomicin is the specific agent for this 'last-line' scenario."},
-      {"text": "Paromomycin", "explanation": "This is incorrect. This is for parasitic infections."}
+    id: 29,
+    category: "Aminoglycosides: Drug Interactions",
+    questionText: "Concomitant use of Gentamicin with Loop Diuretics (Furosemide) increases the risk of:",
+    options: [
+      { text: "Hepatotoxicity", explanation: "Incorrect." },
+      { text: "Ototoxicity", explanation: "Correct. Loops are ototoxic (stria vascularis). AGs are ototoxic (hair cells). Double trouble." },
+      { text: "Seizures", explanation: "Incorrect." },
+      { text: "Bleeding", explanation: "Incorrect." },
+      { text: "Hyperkalemia", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L124_page-0024.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "Gentamicin + Furosemide = Deafness risk. Be careful.",
+    pdfPage: 30,
   },
   {
-    "id": 30,
-    "category": "Aminoglycosides: Clinical Use",
-    "questionText": "A 25-year-old male returns from a trip abroad with abdominal cramping and diarrhea. A stool sample reveals *Entamoeba histolytica* cysts. Which aminoglycoside is given *orally* to act luminally for the treatment of intestinal amoebiasis?",
-    "options": [
-      {"text": "Gentamicin", "explanation": "This is incorrect. Gentamicin is not used for amoebiasis."},
-      {"text": "Streptomycin", "explanation": "This is incorrect. Streptomycin is not used for amoebiasis."},
-      {"text": "Neomycin", "explanation": "This is incorrect. Neomycin is used orally for bowel prep or hepatic encephalopathy, not amoebiasis."},
-      {"text": "Paromomycin", "explanation": "This is correct. Oral paromomycin is not absorbed and acts as a luminal agent for the treatment of intestinal amoebiasis."},
-      {"text": "Amikacin", "explanation": "This is incorrect. Amikacin is not used for amoebiasis."}
+    id: 30,
+    category: "Aminoglycosides: pH effect",
+    questionText: "The antibacterial activity of Aminoglycosides is reduced in:",
+    options: [
+      { text: "Alkaline urine", explanation: "Incorrect. They work better in alkaline pH." },
+      { text: "Acidic environments (e.g., abscesses, acidic urine)", explanation: "Correct. Ionization state changes affect bacterial entry." },
+      { text: "High oxygen tension", explanation: "Incorrect." },
+      { text: "Hyperglycemia", explanation: "Incorrect." },
+      { text: "None of the above", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 3,
-    "slideImagePath": "images/L124_page-0011.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "Acid kills AG efficacy. Alkaline urine boosts it.",
+    pdfPage: 8,
   },
   {
-    "id": 31,
-    "category": "Aminoglycosides: Adverse Effects",
-    "questionText": "A 72-year-old male on day 7 of gentamicin therapy for bacteremia has a serum creatinine that has risen from 0.9 mg/dL to 2.1 mg/dL. This nephrotoxicity is a result of the drug accumulating in, and causing damage to, which part of the nephron?",
-    "options": [
-      {"text": "The glomerulus", "explanation": "This is incorrect. While glomerular dysfunction is a result, the primary site of accumulation and damage is the tubule."},
-      {"text": "The proximal tubular cells", "explanation": "This is correct. Aminoglycosides accumulate in the proximal renal tubular cells, leading to progressive tubular cell damage and dysfunction, which then manifests as a rise in serum creatinine."},
-      {"text": "The loop of Henle", "explanation": "This is incorrect. This is the primary site of action for loop diuretics."},
-      {"text": "The collecting duct", "explanation": "This is incorrect. This is a site of action for ADH and other diuretics."},
-      {"text": "The afferent arteriole", "explanation": "This is incorrect. This is a site of action for NSAIDs, not the site of AG accumulation."}
+    id: 31,
+    category: "Clinical Scenarios: Burns",
+    questionText: "Topical Gentamicin or Neomycin is often used in burn units to prevent infection by:",
+    options: [
+      { text: "Candida", explanation: "Incorrect." },
+      { text: "Pseudomonas aeruginosa", explanation: "Correct. It is a major skin pathogen in burns." },
+      { text: "Viruses", explanation: "Incorrect." },
+      { text: "Anaerobes", explanation: "Incorrect." },
+      { text: "Mycoplasma", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_page-0026.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "Burns = Pseudomonas risk. Topical AGs help.",
+    pdfPage: 24,
   },
   {
-    "id": 32,
-    "category": "Aminoglycosides: Adverse Effects",
-    "questionText": "A 68-year-old female develops acute kidney injury (AKI) while on tobramycin. The drug is discontinued, and her serum creatinine slowly returns to baseline over the next two weeks. This recovery is possible because of which feature of aminoglycoside nephrotoxicity?",
-    "options": [
-      {"text": "The nephrotoxicity is often reversible as proximal tubular cells can regenerate.", "explanation": "This is correct. Unlike ototoxicity, aminoglycoside-induced nephrotoxicity is often reversible because the proximal tubular cells have the capacity to regenerate after the toxic insult is removed."},
-      {"text": "The nephrotoxicity is a non-immune reaction that resolves with antihistamines.", "explanation": "This is incorrect. This describes 'Red Man Syndrome' from vancomycin, not nephrotoxicity."},
-      {"text": "The drug's half-life is only 2 hours, so it clears immediately.", "explanation": "This is incorrect. The half-life is 2-3 hours in *normal* renal function; in AKI, the half-life is dramatically prolonged."},
-      {"text": "The damage is to the glomerulus, which is not permanent.", "explanation": "This is incorrect. The primary damage is to the tubules, not the glomerulus, and glomerular damage can be permanent."},
-      {"text": "The nephrotoxicity is actually caused by a disulfiram-like reaction.", "explanation": "This is incorrect. This has no relation to a disulfiram reaction."}
+    id: 32,
+    category: "Aminoglycosides: Half-life",
+    questionText: "The typical serum half-life of an Aminoglycoside in a patient with normal renal function is:",
+    options: [
+      { text: "2-3 hours", explanation: "Correct. Short half-life, but long effect (PAE)." },
+      { text: "12 hours", explanation: "Incorrect." },
+      { text: "24 hours", explanation: "Incorrect." },
+      { text: "30 minutes", explanation: "Incorrect." },
+      { text: "1 week", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 0,
-    "slideImagePath": "images/L124_page-0026.jpg"
+    correctAnswerIndex: 0,
+    clinicalPearl: "Short t1/2, Long PAE. (The Tortoise and the Hare).",
+    pdfPage: 8,
   },
   {
-    "id": 33,
-    "category": "Aminoglycosides: Adverse Effects",
-    "questionText": "A 50-year-old male on a 10-day course of amikacin for a resistant infection reports a new-onset headache, dizziness, and a feeling that the room is spinning (vertigo). He also struggles to walk in a straight line. These symptoms are most consistent with:",
-    "options": [
-      {"text": "Nephrotoxicity", "explanation": "This is incorrect. Nephrotoxicity would present as a rising serum creatinine, not neurologic symptoms."},
-      {"text": "Cochlear toxicity", "explanation": "This is incorrect. Cochlear toxicity would present with tinnitus and hearing loss."},
-      {"text": "Vestibular toxicity", "explanation": "This is correct. Aminoglycoside ototoxicity can manifest as vestibular toxicity, which damages the labyrinthine sensory cells, causing symptoms like vertigo, ataxia (loss of balance), and nystagmus."},
-      {"text": "Neuromuscular blockade", "explanation": "This is incorrect. This would present as muscle weakness and respiratory paralysis, not vertigo."},
-      {"text": "Peripheral neuritis", "explanation": "This is incorrect. This is a specific toxicity of streptomycin, presenting with paresthesias."}
+    id: 33,
+    category: "Aminoglycosides: Mechanism Detail",
+    questionText: "The misreading of mRNA caused by AGs leads to the incorporation of:",
+    options: [
+      { text: "Lipids", explanation: "Incorrect." },
+      { text: "Incorrect amino acids", explanation: "Correct. Producing non-functional or toxic proteins." },
+      { text: "Glucose", explanation: "Incorrect." },
+      { text: "DNA bases", explanation: "Incorrect." },
+      { text: "ATP", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L124_page-0027.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "Nonsense proteins kill the cell.",
+    pdfPage: 9,
   },
   {
-    "id": 34,
-    "category": "Aminoglycosides: Adverse Effects",
-    "questionText": "A 62-year-old female on gentamicin reports a new ringing in her ears (tinnitus) and notices she has difficulty hearing high-pitched sounds. An audiogram confirms high-frequency hearing loss. This is a manifestation of which aminoglycoside toxicity?",
-    "options": [
-      {"text": "Nephrotoxicity", "explanation": "This is incorrect. Nephrotoxicity affects the kidneys."},
-      {"text": "Vestibular toxicity", "explanation": "This is incorrect. Vestibular toxicity affects balance and presents with vertigo."},
-      {"text": "Cochlear toxicity", "explanation": "This is correct. Aminoglycoside ototoxicity can manifest as cochlear toxicity, which presents with tinnitus and high-frequency hearing loss due to the degeneration of hair cells in the cochlea."},
-      {"text": "Scotoma", "explanation": "This is incorrect. This is a blind spot, an optic nerve toxicity associated with streptomycin."},
-      {"text": "Allergic dermatitis", "explanation": "This is incorrect. This is a hypersensitivity reaction, most common with topical neomycin."}
+    id: 34,
+    category: "Aminoglycosides: Enzymes",
+    questionText: "The bacterial enzymes that inactivate AGs are located in the:",
+    options: [
+      { text: "Nucleus", explanation: "Incorrect." },
+      { text: "Periplasmic space", explanation: "Correct. In Gram-negatives, they intercept the drug before it reaches the ribosome." },
+      { text: "Mitochondria", explanation: "Incorrect." },
+      { text: "Extracellular fluid", explanation: "Incorrect." },
+      { text: "Ribosome itself", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L124_page-0027.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "The resistance enzymes wait in the periplasm like guards.",
+    pdfPage: 22,
   },
   {
-    "id": 35,
-    "category": "Aminoglycosides: Adverse Effects",
-    "questionText": "A 70-year-old man who received a 14-day course of amikacin for a resistant infection reports that his hearing loss and vertigo have persisted 6 months after discontinuing the drug. What is the reason for the permanence of this adverse effect?",
-    "options": [
-      {"text": "The drug is permanently stored in adipose tissue.", "explanation": "This is incorrect. The drug is water-soluble and does not store in fat."},
-      {"text": "The drug causes irreversible destruction of vestibular and cochlear sensory cells.", "explanation": "This is correct. Ototoxicity is a major concern because the drug's accumulation in the inner ear leads to the progressive destruction of sensory (hair) cells, which do not regenerate. This can result in irreversible hearing loss."},
-      {"text": "The drug causes a reversible renal tubular acidosis.", "explanation": "This is incorrect. The renal damage is tubular *damage*, not acidosis, and it is often reversible, unlike ototoxicity."},
-      {"text": "The patient also consumed alcohol, causing a disulfiram-like reaction.", "explanation": "This is incorrect. This is not related to ototoxicity."},
-      {"text": "The drug causes a curare-like effect at the NMJ.", "explanation": "This is incorrect. This describes neuromuscular blockade, which is a separate, acute toxicity."}
+    id: 35,
+    category: "Aminoglycosides: Clinical Use",
+    questionText: "Which is a valid indication for Aminoglycoside monotherapy?",
+    options: [
+      { text: "Pneumococcal pneumonia", explanation: "Incorrect." },
+      { text: "Tularemia (Francisella tularensis)", explanation: "Correct. Streptomycin or Gentamicin is curative." },
+      { text: "Staph aureus bacteremia", explanation: "Incorrect. Never mono." },
+      { text: "Anaerobic abscess", explanation: "Incorrect. Ineffective." },
+      { text: "MRSA skin infection", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_page-0027.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "Rarely used alone, EXCEPT for Tularemia and Plague.",
+    pdfPage: 11,
   },
   {
-    "id": 36,
-    "category": "Aminoglycosides: Cautions/Adverse Effects",
-    "questionText": "A 65-year-old female with myasthenia gravis is in the ICU for septic shock. The team is considering an empiric regimen that includes an aminoglycoside. Why must this drug class be avoided or used with extreme caution in this patient?",
-    "options": [
-      {"text": "It has a high risk of causing 'Red Man Syndrome'.", "explanation": "This is incorrect. This is an adverse effect of vancomycin."},
-      {"text": "It can exacerbate muscle weakness and cause respiratory depression.", "explanation": "This is correct. Aminoglycosides can cause neuromuscular blockade. In a patient with myasthenia gravis, who already has muscle weakness, this can be exacerbated and lead to respiratory depression or paralysis."},
-      {"text": "It will interfere with her pyridostigmine therapy.", "explanation": "This is incorrect. The interaction is pharmacodynamic at the NMJ, not a metabolic interaction with her medication."},
-      {"text": "Patients with myasthenia gravis cannot clear the drug.", "explanation": "This is incorrect. Drug clearance is renal; the contraindication is pharmacodynamic."},
-      {"text": "It causes irreversible cochlear toxicity in all myasthenia gravis patients.", "explanation": "This is incorrect. The primary *contraindication* is neuromuscular blockade, not ototoxicity, although that is also a risk."}
+    id: 36,
+    category: "Aminoglycosides: Toxicity mechanism",
+    questionText: "AGs accumulate in lysosomes of renal proximal tubular cells causing:",
+    options: [
+      { text: "Phospholipidosis and cell necrosis", explanation: "Correct. Lysosomal rupture triggers necrosis." },
+      { text: "Apoptosis only", explanation: "Incorrect." },
+      { text: "Hyperplasia", explanation: "Incorrect." },
+      { text: "Metaplasia", explanation: "Incorrect." },
+      { text: "Neoplasia", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_page-0030.jpg"
+    correctAnswerIndex: 0,
+    clinicalPearl: "Lysosomal clogging destroys the kidney cells.",
+    pdfPage: 12,
   },
   {
-    "id": 37,
-    "category": "Aminoglycosides: Adverse Effects (MOA)",
-    "questionText": "A patient undergoing surgery receives a high intrapleural dose of an aminoglycoside and subsequently develops respiratory paralysis. This neuromuscular blockade is caused by the aminoglycoside's 'curare-like effect,' which involves which two mechanisms?",
-    "options": [
-      {"text": "Inhibiting acetylcholinesterase and stimulating nicotinic receptors", "explanation": "This is incorrect. This would *increase* stimulation, not cause blockade."},
-      {"text": "Inhibiting presynaptic ACh release and blocking postsynaptic nicotinic receptors", "explanation": "This is correct. The neuromuscular blockade is a curare-like effect that results from 1) inhibiting presynaptic acetylcholine release (by competing with Ca2+) and 2) decreasing sensitivity of postsynaptic nicotinic receptors."},
-      {"text": "Destroying cochlear hair cells and damaging the optic nerve", "explanation": "This is incorrect. This describes ototoxicity and streptomycin neurotoxicity, not neuromuscular blockade."},
-      {"text": "Accumulating in the proximal tubule and causing ATN", "explanation": "This is incorrect. This describes nephrotoxicity."},
-      {"text": "Binding to pulmonary surfactant and causing myopathy", "explanation": "This is incorrect. This mixes daptomycin's contraindication and its adverse effect."}
+    id: 37,
+    category: "Aminoglycosides: Paromomycin",
+    questionText: "Paromomycin is unique among AGs because it is used effectively against:",
+    options: [
+      { text: "Viruses", explanation: "Incorrect." },
+      { text: "Intestinal Protozoa (e.g., Entamoeba, Giardia, Cryptosporidium)", explanation: "Correct. It is luminal (non-absorbed) and active against parasites." },
+      { text: "Fungi", explanation: "Incorrect." },
+      { text: "Prions", explanation: "Incorrect." },
+      { text: "Helminths", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_page-0028.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "Paromomycin = Parasites (Entamoeba histolytica).",
+    pdfPage: 11,
   },
   {
-    "id": 38,
-    "category": "Aminoglycosides: Adverse Effects (Streptomycin)",
-    "questionText": "A 48-year-old male on a multi-drug regimen for MDR-TB, including streptomycin, complains of a new 'blind spot' in his central vision. This symptom is most likely due to which specific toxicity associated with streptomycin?",
-    "options": [
-      {"text": "Cochlear toxicity", "explanation": "This is incorrect. Cochlear toxicity would cause tinnitus or hearing loss."},
-      {"text": "Vestibular toxicity", "explanation": "This is incorrect. Vestibular toxicity would cause vertigo or ataxia."},
-      {"text": "Optic nerve toxicity (Scotoma)", "explanation": "This is correct. In addition to the class toxicities, streptomycin is associated with specific neurotoxicities, including optic nerve toxicity, which can present as scotomas (blind spots)."},
-      {"text": "Peripheral neuritis", "explanation": "This is incorrect. Peripheral neuritis, also a streptomycin toxicity, would present with paresthesias (numbness/tingling) of the face and hands, not a blind spot."},
-      {"text": "Neuromuscular blockade", "explanation": "This is incorrect. This would present as acute muscle weakness."}
+    id: 38,
+    category: "Aminoglycosides: Volume of Distribution",
+    questionText: "In a patient with ascites and edema, the Volume of Distribution (Vd) for Gentamicin will:",
+    options: [
+      { text: "Decrease", explanation: "Incorrect." },
+      { text: "Increase", explanation: "Correct. Gentamicin distributes into extracellular water. More water (edema/ascites) = Larger tank to fill." },
+      { text: "Stay the same", explanation: "Incorrect." },
+      { text: "Become zero", explanation: "Incorrect." },
+      { text: "Become negative", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L124_page-0029.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "Fluid overloaded? You need a bigger Loading Dose of Gentamicin.",
+    pdfPage: 12,
   },
   {
-    "id": 39,
-    "category": "Aminoglycosides: Adverse Effects (Neomycin)",
-    "questionText": "A 22-year-old male uses an over-the-counter 'triple antibiotic' ointment for a small cut. Two days later, the area is red, vesicular, and intensely pruritic. This contact hypersensitivity reaction (allergic dermatitis) is most frequently caused by which component of the ointment?",
-    "options": [
-      {"text": "Bacitracin", "explanation": "This is incorrect. While possible, neomycin is the most frequent contact allergen in these preparations."},
-      {"text": "Polymyxin B", "explanation": "This is incorrect. Polymyxin B is less commonly the cause of the allergy."},
-      {"text": "Neomycin", "explanation": "This is correct. Neomycin, used topically, is a frequent cause of allergic contact dermatitis (hypersensitivity)."},
-      {"text": "Gentamicin", "explanation": "This is incorrect. Gentamicin is not typically in standard triple antibiotic ointment; neomycin is."},
-      {"text": "Clotrimazole", "explanation": "This is incorrect. Clotrimazole is an antifungal, not a component of this ointment."}
+    id: 39,
+    category: "Aminoglycosides: Weight based dosing",
+    questionText: "Because AGs do not distribute into adipose tissue, dosing in obese patients should use:",
+    options: [
+      { text: "Total Body Weight (TBW)", explanation: "Incorrect. Will overdose." },
+      { text: "Ideal Body Weight (IBW) or Adjusted Body Weight", explanation: "Correct. To avoid toxicity." },
+      { text: "Height only", explanation: "Incorrect." },
+      { text: "BMI", explanation: "Incorrect." },
+      { text: "Age", explanation: "Incorrect." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L124_page-0024.jpg"
+    correctAnswerIndex: 1,
+    clinicalPearl: "Obese patient? Use Adjusted Body Weight. Don't dose the fat.",
+    pdfPage: 8,
   },
   {
-    "id": 40,
-    "category": "Aminoglycosides: Drug Interactions",
-    "questionText": "A 78-year-old female is receiving IV gentamicin for a cUTI and IV furosemide for heart failure exacerbation. The physician must be vigilant in monitoring this patient for an increased risk of which additive toxicities?",
-    "options": [
-      {"text": "Myopathy and seizures", "explanation": "This is incorrect. These are toxicities of daptomycin and imipenem, respectively."},
-      {"text": "Nephrotoxicity and ototoxicity", "explanation": "This is correct. Loop diuretics (like furosemide) are ototoxic and nephrotoxic. Aminoglycosides are also nephrotoxic and ototoxic. Using them concomitantly significantly increases the risk of both toxicities."},
-      {"text": "Neuromuscular blockade", "explanation": "This is incorrect. The additive risk with furosemide is not neuromuscular blockade."},
-      {"text": "Biliary sludge and kernicterus", "explanation": "This is incorrect. These are risks associated with ceftriaxone."},
-      {"text": "Disulfiram-like reaction", "explanation": "This is incorrect. This is associated with cefotetan."}
+    id: 40,
+    category: "Aminoglycosides: Vestibular Toxicity Symptoms",
+    questionText: "Which symptom triad suggests vestibular toxicity?",
+    options: [
+      { text: "Vertigo, Nausea, Ataxia", explanation: "Correct. Room spinning, sickness, loss of balance." },
+      { text: "Tinnitus, Hearing loss, Pain", explanation: "Incorrect. Auditory." },
+      { text: "Rash, Fever, Eosinophilia", explanation: "Incorrect." },
+      { text: "Oliguria, Azotemia, Proteinuria", explanation: "Incorrect. Renal." },
+      { text: "Diplopia, Dysphagia, Dysarthria", explanation: "Incorrect. Neuromuscular." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L124_page-0030.jpg"
+    correctAnswerIndex: 0,
+    clinicalPearl: "Dizzy + Nauseous on Gentamicin? Stop the drug. Vestibular damage.",
+    pdfPage: 12,
+  },
+  {
+    id: 41,
+    category: "Aminoglycosides: Mycobacteria",
+    questionText: "Which aminoglycoside is specifically noted for its activity against *Mycobacterium avium-intracellulare* (MAC) complex?",
+    options: [
+      { text: "Amikacin", explanation: "Correct. Often used for NTM (Non-Tuberculous Mycobacteria)." },
+      { text: "Neomycin", explanation: "Incorrect." },
+      { text: "Gentamicin", explanation: "Incorrect." },
+      { text: "Plazomycin", explanation: "Incorrect." },
+      { text: "Spectinomycin", explanation: "Incorrect." }
+    ],
+    correctAnswerIndex: 0,
+    clinicalPearl: "Amikacin for MAC infections (HIV patients).",
+    pdfPage: 24,
+  },
+  {
+    id: 42,
+    category: "Aminoglycosides: Eye Drops",
+    questionText: "Gentamicin ophthalmic solution is commonly used for:",
+    options: [
+      { text: "Viral drug conjunctivitis", explanation: "Incorrect." },
+      { text: "Bacterial conjunctivitis", explanation: "Correct. Pink eye coverage." },
+      { text: "Glaucoma", explanation: "Incorrect." },
+      { text: "Cataracts", explanation: "Incorrect." },
+      { text: "Dry eye", explanation: "Incorrect." }
+    ],
+    correctAnswerIndex: 1,
+    clinicalPearl: "Gentamicin eye drops = Bacterial Pink Eye coverage.",
+    pdfPage: 11,
+  },
+  {
+    id: 43,
+    category: "Aminoglycosides: Neuromuscular Blockade Risks",
+    questionText: "The risk of NM blockade is highest when AGs are given:",
+    options: [
+      { text: "Rapidly IV or in pleural/peritoneal spaces", explanation: "Correct. High local concentrations or rapid bolus precipitates the blockade." },
+      { text: "Orally", explanation: "Incorrect." },
+      { text: "Topically", explanation: "Incorrect." },
+      { text: "Slowly", explanation: "Incorrect." },
+      { text: "With food", explanation: "Incorrect." }
+    ],
+    correctAnswerIndex: 0,
+    clinicalPearl: "Don't slam the IV Gentamicin. Infuse slowly.",
+    pdfPage: 33,
+  },
+  {
+    id: 44,
+    category: "Aminoglycosides: Renal Recovery",
+    questionText: "Unlike ototoxicity, AG-induced nephrotoxicity is usually:",
+    options: [
+      { text: "Irreversible", explanation: "Incorrect." },
+      { text: "Reversible", explanation: "Correct. Kidney cells have stem cells." },
+      { text: "Fatal typically", explanation: "Incorrect." },
+      { text: "Untreatable", explanation: "Incorrect." },
+      { text: "None of the above", explanation: "Incorrect." }
+    ],
+    correctAnswerIndex: 1,
+    clinicalPearl: "Kidneys bounce back. Ears don't. Prioritize the ears (once kidney injury is noted, modify/stop to save *both*).",
+    pdfPage: 12,
+  },
+  {
+    id: 45,
+    category: "Aminoglycosides: Synergy Ratio",
+    questionText: "For synergistic killing in endocarditis, the Aminoglycoside dose is typically:",
+    options: [
+      { text: "Higher than standard bactericidal dose", explanation: "Incorrect." },
+      { text: "Lower than standard, aiming for a Peak of 3-4 mcg/mL", explanation: "Correct. 'Synergy dosing' is lower because we just need enough to get inside the weakened wall." },
+      { text: "Irrelevant", explanation: "Incorrect." },
+      { text: "Massive", explanation: "Incorrect." },
+      { text: "Given continuously", explanation: "Incorrect." }
+    ],
+    correctAnswerIndex: 1,
+    clinicalPearl: "Endocarditis Synergy = Low Dose Gentamicin.",
+    pdfPage: 18,
+  },
+  {
+    id: 46,
+    category: "Aminoglycosides: Enteral Absoprtion Exception",
+    questionText: "Can Aminoglycosides be absorbed from the gut in ANY circumstance?",
+    options: [
+      { text: "No, never", explanation: "Incorrect." },
+      { text: "Yes, if the mucosa is ulcerated or inflamed", explanation: "Correct. In severe colitis/IBD, some systemic absorption can occur due to barrier breakdown." },
+      { text: "Yes, if taken with fat", explanation: "Incorrect." },
+      { text: "Yes, if taken with alcohol", explanation: "Incorrect." },
+      { text: "Yes, if taken with grapefruit juice", explanation: "Incorrect." }
+    ],
+    correctAnswerIndex: 1,
+    clinicalPearl: "Ulcerated gut? Neomycin might leak into the blood. Watch out in severe IBD.",
+    pdfPage: 11,
+  },
+  {
+    id: 47,
+    category: "Aminoglycosides: Ribosomal Selectivity",
+    questionText: "Why do Aminoglycosides kill bacteria but not human cells?",
+    options: [
+      { text: "Humans have no ribosomes", explanation: "Incorrect." },
+      { text: "Humans have 80S ribosomes (60S+40S), bacteria have 70S (50S+30S)", explanation: "Correct. Structural differences prevent binding to mammalian ribosomes (mostly). Mitochondrial toxicity is a side note." },
+      { text: "Humans degrade AGs instantly", explanation: "Incorrect." },
+      { text: "Humans have cell walls", explanation: "Incorrect." },
+      { text: "AGs don't enter human cells", explanation: "Incorrect. They do (kidney/ear)." }
+    ],
+    correctAnswerIndex: 1,
+    clinicalPearl: "Selectivity: 70S vs 80S. But Mitochondria look like bacteria (70S), hence toxicity!",
+    pdfPage: 12,
+  },
+  {
+    id: 48,
+    category: "Aminoglycosides: Adaptive Resistance",
+    questionText: "The 'First Exposure Effect' where bacteria temporarily survive AG exposure after the first dose is due to:",
+    options: [
+      { text: "Mutation", explanation: "Incorrect." },
+      { text: "Downregulation of uptake", explanation: "Correct. Adaptive resistance. This is why we wait (extended interval) - to let them reset." },
+      { text: "Efflux", explanation: "Incorrect." },
+      { text: "Enzymes", explanation: "Incorrect." },
+      { text: "Biofilm", explanation: "Incorrect." }
+    ],
+    correctAnswerIndex: 1,
+    clinicalPearl: "Adaptive Resistance: Bugs shut the door after the first hit. Wait for them to open it again (Q24H dosing).",
+    pdfPage: 4,
+  },
+  {
+    id: 49,
+    category: "Aminoglycosides: Hearing Loss Frequency",
+    questionText: "Ototoxicity initially affects:",
+    options: [
+      { text: "Low frequency sounds (Voice)", explanation: "Incorrect." },
+      { text: "High frequency sounds", explanation: "Correct. Basal turn of cochlea. Patients lose treble first." },
+      { text: "All frequencies equally", explanation: "Incorrect." },
+      { text: "Middle ear pressure", explanation: "Incorrect." },
+      { text: "Bone conduction only", explanation: "Incorrect." }
+    ],
+    correctAnswerIndex: 1,
+    clinicalPearl: "High-frequency hearing goes first. Patients might not notice until it affects speech conversation.",
+    pdfPage: 12,
+  },
+  {
+    id: 50,
+    category: "Aminoglycosides: Summary",
+    questionText: "Which statement best summarizes Aminoglycosides?",
+    options: [
+      { text: "Safe, oral antibiotics for mild infections", explanation: "Incorrect." },
+      { text: "Toxic, parenteral antibiotics for severe Gram-negative aerobic infections", explanation: "Correct. Powerful but dangerous. Use with caution for aerobic G- bacilli." },
+      { text: "Broad spectrum antibiotics for anaerobes", explanation: "Incorrect." },
+      { text: "Antiviral agents", explanation: "Incorrect." },
+      { text: "Antifungal agents", explanation: "Incorrect." }
+    ],
+    correctAnswerIndex: 1,
+    clinicalPearl: "Aminoglycosides: The 'Mean' antibiotics. Mean to Gram Negatives, Mean to Kidneys, Mean to Ears.",
+    pdfPage: 11,
   }
 ];

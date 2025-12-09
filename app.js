@@ -44,6 +44,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const getEl = (id) => document.getElementById(id);
 
     // --- Theme Handling ---
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme === 'dark') {
+        document.body.classList.add('dark-mode');
+        document.documentElement.classList.add('dark');
+    } else {
+        document.documentElement.classList.remove('dark');
+    }
     const darkModeToggle = getEl('dark-mode-toggle');
     const lightIcon = getEl('theme-icon-light');
     const darkIcon = getEl('theme-icon-dark');
@@ -60,6 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     darkModeToggle.addEventListener('click', () => {
         document.body.classList.toggle('dark-mode');
+        document.documentElement.classList.toggle('dark');
         localStorage.setItem('theme', document.body.classList.contains('dark-mode') ? 'dark' : 'light');
         updateThemeIcons();
     });
@@ -525,6 +533,37 @@ document.addEventListener('DOMContentLoaded', () => {
         });
         questionContainer.appendChild(optsContainer);
 
+        // --- CLINICAL PEARL (High-Yield Takeaway) ---
+        if ((answerState.isSubmitted || state.examFinished) && question.clinicalPearl) {
+            const pearlContainer = document.createElement('div');
+            // Premium Card Design: Amber/Gold theme for "Gold Standard" knowledge
+            pearlContainer.className = "mt-6 mb-4 overflow-hidden rounded-xl bg-white dark:bg-[#073642] border border-[#d3d0c8] dark:border-orange-500/30 shadow-sm dark:shadow-[0_2px_8px_-1px_rgba(249,115,22,0.1)] group relative transition-colors duration-300";
+            
+            pearlContainer.innerHTML = `
+                <div class="absolute top-0 left-0 w-1.5 h-full bg-gradient-to-b from-orange-400 to-orange-600"></div>
+                <div class="p-5 flex gap-4">
+                    <div class="flex-shrink-0">
+                        <div class="w-10 h-10 rounded-full bg-[#fdf6e3] dark:bg-orange-500/10 flex items-center justify-center text-orange-600 dark:text-orange-500 shadow-sm border border-[#d3d0c8] dark:border-orange-500/20">
+                            <!-- Gem/Diamond Icon -->
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"></path>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="flex-1">
+                        <div class="flex items-center gap-2 mb-1.5">
+                            <span class="text-xs font-bold tracking-wider text-orange-600 dark:text-orange-400 uppercase bg-[#fdf6e3] dark:bg-orange-500/10 px-2 py-0.5 rounded-full border border-[#d3d0c8] dark:border-orange-500/20">High Yield</span>
+                            <h4 class="font-bold text-gray-900 dark:text-gray-100 text-sm">Clinical Pearl</h4>
+                        </div>
+                        <p class="text-gray-700 dark:text-gray-300 text-[15px] leading-relaxed font-medium">
+                            ${question.clinicalPearl}
+                        </p>
+                    </div>
+                </div>
+            `;
+            questionContainer.appendChild(pearlContainer);
+        }
+
         // --- PDF REFERENCE LOGIC (NO IMAGE DISPLAY) ---
         // Works with both slideImagePath (legacy) and pdfPage (new) formats
         let shouldShowPDF = false;
@@ -600,21 +639,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
                 slidePlaceholder.appendChild(btnContainer);
 
-                // Add slide context description if present
-                if (question.slideImageDescription && question.slideImageDescription !== "") {
-                    const descDiv = document.createElement('div');
-                    descDiv.className = "image-context-box animate-fade-in mt-6";
-                    descDiv.innerHTML = `
-                        <div class="image-context-header flex items-center justify-center gap-2 mb-3 text-secondary font-bold uppercase tracking-wider text-xs">
-                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
-                            Slide Context
-                        </div>
-                        <div class="image-context-content text-sm leading-relaxed text-primary bg-gray-50 dark:bg-slate-900/80 p-5 rounded-xl border border-default shadow-sm">
-                            ${question.slideImageDescription}
-                        </div>
-                    `;
-                    slidePlaceholder.appendChild(descDiv);
-                }
+                // Slide context description removed as per user request (Clinical Pearl is sufficient).
             }
         }
 

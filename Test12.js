@@ -12,7 +12,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 0,
     "slideImagePath": "images/L117L118_slide_12.jpg",
-    "slideImageDescription": "The slide defines Type A adverse reactions as 'Augmented', 'Predictable', and 'Dose-dependent'. It explicitly lists 'Digoxin toxicity' as a prime example of a Type A reaction. This classification aligns perfectly with the patient's scenario of predictable toxicity due to reduced renal clearance and drug accumulation."
+    "clinicalPearl": "The slide defines Type A adverse reactions as 'Augmented', 'Predictable', and 'Dose-dependent'. It explicitly lists 'Digoxin toxicity' as a prime example of a Type A reaction. This classification aligns perfectly with the patient's scenario of predictable toxicity due to reduced renal clearance and drug accumulation.",
+    "slideImageDescription": "The slide defines Type A adverse reactions as 'Augmented', 'Predictable', and 'Dose-dependent'. It explicitly lists 'Digoxin toxicity' as a prime example of a Type A reaction. This classification aligns perfectly with the patient's scenario of predictable toxicity due to reduced renal clearance and drug accumulation.",
+    pdfPage: 12
   },
   {
     "id": 2,
@@ -27,7 +29,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_27.jpg",
-    "slideImageDescription": "The slide categorizes 'Allergic Responses (Hypersensitivity) to Drugs' as 'Type B (Idiosyncratic)'. Under 'Type I: Anaphylactic', it lists 'Penicillin' as a classic trigger. The symptoms of 'urticaria' and 'anaphylaxis' are detailed, confirming that this unpredictable immune response is a Type B reaction."
+    "clinicalPearl": "The slide categorizes 'Allergic Responses (Hypersensitivity) to Drugs' as 'Type B (Idiosyncratic)'. Under 'Type I: Anaphylactic', it lists 'Penicillin' as a classic trigger. The symptoms of 'urticaria' and 'anaphylaxis' are detailed, confirming that this unpredictable immune response is a Type B reaction.",
+    "slideImageDescription": "The slide categorizes 'Allergic Responses (Hypersensitivity) to Drugs' as 'Type B (Idiosyncratic)'. Under 'Type I: Anaphylactic', it lists 'Penicillin' as a classic trigger. The symptoms of 'urticaria' and 'anaphylaxis' are detailed, confirming that this unpredictable immune response is a Type B reaction.",
+    pdfPage: 27
   },
   {
     "id": 3,
@@ -42,7 +46,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L117L118_slide_34.jpg",
-    "slideImageDescription": "The slide focuses on 'CYP2D6 Polymorphisms'. It explains that 'Codeine is a prodrug that must be metabolized into morphine'. It specifically warns that 'Ultra-rapid metabolizers can have toxic levels of morphine', which directly explains the patient's severe respiratory depression."
+    "clinicalPearl": "The slide focuses on 'CYP2D6 Polymorphisms'. It explains that 'Codeine is a prodrug that must be metabolized into morphine'. It specifically warns that 'Ultra-rapid metabolizers can have toxic levels of morphine', which directly explains the patient's severe respiratory depression.",
+    "slideImageDescription": "The slide focuses on 'CYP2D6 Polymorphisms'. It explains that 'Codeine is a prodrug that must be metabolized into morphine'. It specifically warns that 'Ultra-rapid metabolizers can have toxic levels of morphine', which directly explains the patient's severe respiratory depression.",
+    pdfPage: 34
   },
   {
     "id": 4,
@@ -57,7 +63,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_34.jpg",
-    "slideImageDescription": "The slide discusses 'CYP2C19 Polymorphisms'. It highlights that 'Clopidogrel is a prodrug requiring activation by CYP2C19'. It notes that 'Poor metabolizers have decreased active metabolite' and are at 'increased risk for cardiovascular events (e.g., stent thrombosis)', confirming the mechanism of therapeutic failure."
+    "clinicalPearl": "The slide discusses 'CYP2C19 Polymorphisms'. It highlights that 'Clopidogrel is a prodrug requiring activation by CYP2C19'. It notes that 'Poor metabolizers have decreased active metabolite' and are at 'increased risk for cardiovascular events (e.g., stent thrombosis)', confirming the mechanism of therapeutic failure.",
+    "slideImageDescription": "The slide discusses 'CYP2C19 Polymorphisms'. It highlights that 'Clopidogrel is a prodrug requiring activation by CYP2C19'. It notes that 'Poor metabolizers have decreased active metabolite' and are at 'increased risk for cardiovascular events (e.g., stent thrombosis)', confirming the mechanism of therapeutic failure.",
+    pdfPage: 34
   },
   {
     "id": 5,
@@ -72,7 +80,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 0,
     "slideImagePath": "images/L117L118_slide_34.jpg",
-    "slideImageDescription": "The slide on 'CYP2D6 Polymorphisms' states that 'Poor metabolizers experience no analgesic effect from codeine'. This occurs because the prodrug is not converted to morphine, directly explaining the patient's lack of therapeutic response."
+    "clinicalPearl": "The slide on 'CYP2D6 Polymorphisms' states that 'Poor metabolizers experience no analgesic effect from codeine'. This occurs because the prodrug is not converted to morphine, directly explaining the patient's lack of therapeutic response.",
+    "slideImageDescription": "The slide on 'CYP2D6 Polymorphisms' states that 'Poor metabolizers experience no analgesic effect from codeine'. This occurs because the prodrug is not converted to morphine, directly explaining the patient's lack of therapeutic response.",
+    pdfPage: 34
   },
   {
     "id": 6,
@@ -87,7 +97,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_34.jpg",
-    "slideImageDescription": "The slide 'TPMT and NUDT15 Polymorphisms' explains that 'TPMT inactivates thiopurine drugs (azathioprine)'. It warns that 'Patients with low or absent TPMT activity accumulate active metabolites', leading to a high risk of 'severe, life-threatening myelosuppression'. This confirms the specific toxicity associated with this genetic deficiency."
+    "clinicalPearl": "The slide 'TPMT and NUDT15 Polymorphisms' explains that 'TPMT inactivates thiopurine drugs (azathioprine)'. It warns that 'Patients with low or absent TPMT activity accumulate active metabolites', leading to a high risk of 'severe, life-threatening myelosuppression'. This confirms the specific toxicity associated with this genetic deficiency.",
+    "slideImageDescription": "The slide 'TPMT and NUDT15 Polymorphisms' explains that 'TPMT inactivates thiopurine drugs (azathioprine)'. It warns that 'Patients with low or absent TPMT activity accumulate active metabolites', leading to a high risk of 'severe, life-threatening myelosuppression'. This confirms the specific toxicity associated with this genetic deficiency.",
+    pdfPage: 34
   },
   {
     "id": 7,
@@ -102,7 +114,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 3,
     "slideImagePath": "images/L117L118_slide_70.jpg",
-    "slideImageDescription": "The slide 'G6PD Deficiency' details the mechanism. It states that G6PD protects RBCs from oxidative damage. Deficiency leads to hemolysis when exposed to 'oxidizing drugs' such as 'nitrofurantoin, sulfonamides, and antimalarials'. The clinical presentation of jaundice and anemia in a susceptible demographic fits this description perfectly."
+    "clinicalPearl": "The slide 'G6PD Deficiency' details the mechanism. It states that G6PD protects RBCs from oxidative damage. Deficiency leads to hemolysis when exposed to 'oxidizing drugs' such as 'nitrofurantoin, sulfonamides, and antimalarials'. The clinical presentation of jaundice and anemia in a susceptible demographic fits this description perfectly.",
+    "slideImageDescription": "The slide 'G6PD Deficiency' details the mechanism. It states that G6PD protects RBCs from oxidative damage. Deficiency leads to hemolysis when exposed to 'oxidizing drugs' such as 'nitrofurantoin, sulfonamides, and antimalarials'. The clinical presentation of jaundice and anemia in a susceptible demographic fits this description perfectly.",
+    pdfPage: 36
   },
   {
     "id": 8,
@@ -117,7 +131,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 3,
     "slideImagePath": "images/L117L118_slide_31.jpg",
-    "slideImageDescription": "The slide 'HLA Polymorphisms' includes a section on 'HLA-B*15:02'. It links this allele to 'Carbamazepine' and states it is a strong predictor for 'Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)', particularly in 'Asian populations'. This provides the direct rationale for screening."
+    "clinicalPearl": "The slide 'HLA Polymorphisms' includes a section on 'HLA-B*15:02'. It links this allele to 'Carbamazepine' and states it is a strong predictor for 'Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)', particularly in 'Asian populations'. This provides the direct rationale for screening.",
+    "slideImageDescription": "The slide 'HLA Polymorphisms' includes a section on 'HLA-B*15:02'. It links this allele to 'Carbamazepine' and states it is a strong predictor for 'Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)', particularly in 'Asian populations'. This provides the direct rationale for screening.",
+    pdfPage: 8
   },
   {
     "id": 9,
@@ -132,7 +148,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_41.jpg",
-    "slideImageDescription": "The slide focusing on 'Abacavir Hypersensitivity' states that 'HLA-B*57:01 screening is mandatory'. It warns that positive patients are at high risk for a 'severe, potentially fatal hypersensitivity reaction' involving multiple organs. This confirms the severe immune-mediated risk associated with this specific allele."
+    "clinicalPearl": "The slide focusing on 'Abacavir Hypersensitivity' states that 'HLA-B*57:01 screening is mandatory'. It warns that positive patients are at high risk for a 'severe, potentially fatal hypersensitivity reaction' involving multiple organs. This confirms the severe immune-mediated risk associated with this specific allele.",
+    "slideImageDescription": "The slide focusing on 'Abacavir Hypersensitivity' states that 'HLA-B*57:01 screening is mandatory'. It warns that positive patients are at high risk for a 'severe, potentially fatal hypersensitivity reaction' involving multiple organs. This confirms the severe immune-mediated risk associated with this specific allele.",
+    pdfPage: 27
   },
   {
     "id": 10,
@@ -147,7 +165,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_70.jpg",
-    "slideImageDescription": "The slide 'SLCO1B1 Polymorphism' explains that the gene encodes the 'OATP1B1 transporter', which facilitates hepatic uptake of statins. It notes that variants leading to 'decreased transport function' result in increased plasma concentrations and a 'high risk of myopathy (muscle pain/rhabdomyolysis)'. This directly links the transporter defect to the clinical presentation."
+    "clinicalPearl": "The slide 'SLCO1B1 Polymorphism' explains that the gene encodes the 'OATP1B1 transporter', which facilitates hepatic uptake of statins. It notes that variants leading to 'decreased transport function' result in increased plasma concentrations and a 'high risk of myopathy (muscle pain/rhabdomyolysis)'. This directly links the transporter defect to the clinical presentation.",
+    "slideImageDescription": "The slide 'SLCO1B1 Polymorphism' explains that the gene encodes the 'OATP1B1 transporter', which facilitates hepatic uptake of statins. It notes that variants leading to 'decreased transport function' result in increased plasma concentrations and a 'high risk of myopathy (muscle pain/rhabdomyolysis)'. This directly links the transporter defect to the clinical presentation.",
+    pdfPage: 70
   },
   {
     "id": 11,
@@ -162,7 +182,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_32.jpg",
-    "slideImageDescription": "The slide 'Acetaminophen Toxicity' diagrams the metabolic pathway. It shows that in overdose, the safe pathways are saturated, and excess drug is converted by CYP2E1 to 'NAPQI'. It explicitly states that NAPQI 'depletes glutathione', leading to 'hepatocellular necrosis'. This confirms the mechanism of glutathione depletion."
+    "clinicalPearl": "The slide 'Acetaminophen Toxicity' diagrams the metabolic pathway. It shows that in overdose, the safe pathways are saturated, and excess drug is converted by CYP2E1 to 'NAPQI'. It explicitly states that NAPQI 'depletes glutathione', leading to 'hepatocellular necrosis'. This confirms the mechanism of glutathione depletion.",
+    "slideImageDescription": "The slide 'Acetaminophen Toxicity' diagrams the metabolic pathway. It shows that in overdose, the safe pathways are saturated, and excess drug is converted by CYP2E1 to 'NAPQI'. It explicitly states that NAPQI 'depletes glutathione', leading to 'hepatocellular necrosis'. This confirms the mechanism of glutathione depletion.",
+    pdfPage: 7
   },
   {
     "id": 12,
@@ -177,7 +199,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 3,
     "slideImagePath": "images/L117L118_slide_70.jpg",
-    "slideImageDescription": "The 'Acetaminophen Toxicity' slide identifies 'N-acetylcysteine (NAC)' as the antidote. It explains its mechanism: 'Replenishes glutathione stores', allowing the liver to safely detoxify NAPQI. This directly supports the correct answer."
+    "clinicalPearl": "The 'Acetaminophen Toxicity' slide identifies 'N-acetylcysteine (NAC)' as the antidote. It explains its mechanism: 'Replenishes glutathione stores', allowing the liver to safely detoxify NAPQI. This directly supports the correct answer.",
+    "slideImageDescription": "The 'Acetaminophen Toxicity' slide identifies 'N-acetylcysteine (NAC)' as the antidote. It explains its mechanism: 'Replenishes glutathione stores', allowing the liver to safely detoxify NAPQI. This directly supports the correct answer.",
+    pdfPage: 14
   },
   {
     "id": 13,
@@ -192,7 +216,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 4,
     "slideImagePath": "images/L117L118_slide_14.jpg",
-    "slideImageDescription": "The slide 'Salicylate Toxicity' lists the hallmark signs: 'Tinnitus', 'Hyperventilation (Respiratory Alkalosis)', and 'Metabolic Acidosis'. It explains the dual mechanism of stimulating the respiratory center and uncoupling oxidative phosphorylation, creating the classic mixed acid-base disturbance described."
+    "clinicalPearl": "The slide 'Salicylate Toxicity' lists the hallmark signs: 'Tinnitus', 'Hyperventilation (Respiratory Alkalosis)', and 'Metabolic Acidosis'. It explains the dual mechanism of stimulating the respiratory center and uncoupling oxidative phosphorylation, creating the classic mixed acid-base disturbance described.",
+    "slideImageDescription": "The slide 'Salicylate Toxicity' lists the hallmark signs: 'Tinnitus', 'Hyperventilation (Respiratory Alkalosis)', and 'Metabolic Acidosis'. It explains the dual mechanism of stimulating the respiratory center and uncoupling oxidative phosphorylation, creating the classic mixed acid-base disturbance described.",
+    pdfPage: 14
   },
   {
     "id": 14,
@@ -207,7 +233,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L117L118_slide_46.jpg",
-    "slideImageDescription": "The 'Salicylate Toxicity' slide lists 'Alkalinization of urine' as a key management strategy. It explains that administering sodium bicarbonate 'increases the ionization of salicylate', which 'traps it in the renal tubule' and 'enhances elimination'. This confirms the pharmacokinetic goal of the treatment."
+    "clinicalPearl": "The 'Salicylate Toxicity' slide lists 'Alkalinization of urine' as a key management strategy. It explains that administering sodium bicarbonate 'increases the ionization of salicylate', which 'traps it in the renal tubule' and 'enhances elimination'. This confirms the pharmacokinetic goal of the treatment.",
+    "slideImageDescription": "The 'Salicylate Toxicity' slide lists 'Alkalinization of urine' as a key management strategy. It explains that administering sodium bicarbonate 'increases the ionization of salicylate', which 'traps it in the renal tubule' and 'enhances elimination'. This confirms the pharmacokinetic goal of the treatment.",
+    pdfPage: 46
   },
   {
     "id": 15,
@@ -222,7 +250,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 3,
     "slideImagePath": "images/L117L118_slide_34.jpg",
-    "slideImageDescription": "The slide 'Opioid Toxicity' describes the classic triad: 'Respiratory Depression', 'Miosis (pinpoint pupils)', and 'CNS Depression'. It identifies 'Naloxone' as the specific antidote, noting it is a 'mu-opioid receptor antagonist' that rapidly reverses these life-threatening effects."
+    "clinicalPearl": "The slide 'Opioid Toxicity' describes the classic triad: 'Respiratory Depression', 'Miosis (pinpoint pupils)', and 'CNS Depression'. It identifies 'Naloxone' as the specific antidote, noting it is a 'mu-opioid receptor antagonist' that rapidly reverses these life-threatening effects.",
+    "slideImageDescription": "The slide 'Opioid Toxicity' describes the classic triad: 'Respiratory Depression', 'Miosis (pinpoint pupils)', and 'CNS Depression'. It identifies 'Naloxone' as the specific antidote, noting it is a 'mu-opioid receptor antagonist' that rapidly reverses these life-threatening effects.",
+    pdfPage: 34
   },
   {
     "id": 16,
@@ -237,7 +267,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L117L118_slide_34.jpg",
-    "slideImageDescription": "The slide on 'Stimulant Toxicity (Cocaine)' lists the clinical features: 'Hypertension, Tachycardia, Agitation, Seizures'. Under management, it explicitly states: 'Benzodiazepines are first-line for agitation and seizures'. It also includes a warning to 'Avoid beta-blockers due to unopposed alpha-stimulation', confirming the correct and incorrect options."
+    "clinicalPearl": "The slide on 'Stimulant Toxicity (Cocaine)' lists the clinical features: 'Hypertension, Tachycardia, Agitation, Seizures'. Under management, it explicitly states: 'Benzodiazepines are first-line for agitation and seizures'. It also includes a warning to 'Avoid beta-blockers due to unopposed alpha-stimulation', confirming the correct and incorrect options.",
+    "slideImageDescription": "The slide on 'Stimulant Toxicity (Cocaine)' lists the clinical features: 'Hypertension, Tachycardia, Agitation, Seizures'. Under management, it explicitly states: 'Benzodiazepines are first-line for agitation and seizures'. It also includes a warning to 'Avoid beta-blockers due to unopposed alpha-stimulation', confirming the correct and incorrect options.",
+    pdfPage: 34
   },
   {
     "id": 17,
@@ -252,7 +284,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 3,
     "slideImagePath": "images/L117L118_slide_59.jpg",
-    "slideImageDescription": "The slide 'Organophosphate Poisoning' details the syndrome (Cholinergic Crisis) and its treatment. It lists 'Atropine' to treat muscarinic symptoms (secretions, bradycardia) and 'Pralidoxime (2-PAM)' to regenerate the enzyme and treat nicotinic symptoms (muscle weakness). This dual-antidote approach is the standard of care described."
+    "clinicalPearl": "The slide 'Organophosphate Poisoning' details the syndrome (Cholinergic Crisis) and its treatment. It lists 'Atropine' to treat muscarinic symptoms (secretions, bradycardia) and 'Pralidoxime (2-PAM)' to regenerate the enzyme and treat nicotinic symptoms (muscle weakness). This dual-antidote approach is the standard of care described.",
+    "slideImageDescription": "The slide 'Organophosphate Poisoning' details the syndrome (Cholinergic Crisis) and its treatment. It lists 'Atropine' to treat muscarinic symptoms (secretions, bradycardia) and 'Pralidoxime (2-PAM)' to regenerate the enzyme and treat nicotinic symptoms (muscle weakness). This dual-antidote approach is the standard of care described.",
+    pdfPage: 59
   },
   {
     "id": 18,
@@ -267,7 +301,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 3,
     "slideImagePath": "images/L117L118_slide_22.jpg",
-    "slideImageDescription": "The slide 'Classification of ADRs' defines Type E reactions as 'End of Use' or 'Withdrawal'. It gives the example of 'Withdrawal syndrome after stopping opioids or benzodiazepines'. The symptoms described (anxiety, seizures upon cessation) perfectly match this definition."
+    "clinicalPearl": "The slide 'Classification of ADRs' defines Type E reactions as 'End of Use' or 'Withdrawal'. It gives the example of 'Withdrawal syndrome after stopping opioids or benzodiazepines'. The symptoms described (anxiety, seizures upon cessation) perfectly match this definition.",
+    "slideImageDescription": "The slide 'Classification of ADRs' defines Type E reactions as 'End of Use' or 'Withdrawal'. It gives the example of 'Withdrawal syndrome after stopping opioids or benzodiazepines'. The symptoms described (anxiety, seizures upon cessation) perfectly match this definition.",
+    pdfPage: 22
   },
   {
     "id": 19,
@@ -282,7 +318,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 3,
     "slideImagePath": "images/L117L118_slide_23.jpg",
-    "slideImageDescription": "The slide 'Teratogenicity (Type D)' lists common teratogens. Under 'ACE Inhibitors/ARBs', it specifically lists the defects: 'Renal failure', 'Oligohydramnios', and 'Skull hypoplasia'. This specific constellation of defects identifies the drug class."
+    "clinicalPearl": "The slide 'Teratogenicity (Type D)' lists common teratogens. Under 'ACE Inhibitors/ARBs', it specifically lists the defects: 'Renal failure', 'Oligohydramnios', and 'Skull hypoplasia'. This specific constellation of defects identifies the drug class.",
+    "slideImageDescription": "The slide 'Teratogenicity (Type D)' lists common teratogens. Under 'ACE Inhibitors/ARBs', it specifically lists the defects: 'Renal failure', 'Oligohydramnios', and 'Skull hypoplasia'. This specific constellation of defects identifies the drug class.",
+    pdfPage: 23
   },
   {
     "id": 20,
@@ -297,7 +335,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_20.jpg",
-    "slideImageDescription": "The slide 'FDA Pregnancy and Lactation Labeling Rule (PLLR)' explains the change. It shows the removal of the 'Letter Categories' and their replacement with three narrative sections: '8.1 Pregnancy', '8.2 Lactation', and '8.3 Females and Males of Reproductive Potential'. It emphasizes that this new system provides more detailed, clinically relevant information."
+    "clinicalPearl": "The slide 'FDA Pregnancy and Lactation Labeling Rule (PLLR)' explains the change. It shows the removal of the 'Letter Categories' and their replacement with three narrative sections: '8.1 Pregnancy', '8.2 Lactation', and '8.3 Females and Males of Reproductive Potential'. It emphasizes that this new system provides more detailed, clinically relevant information.",
+    "slideImageDescription": "The slide 'FDA Pregnancy and Lactation Labeling Rule (PLLR)' explains the change. It shows the removal of the 'Letter Categories' and their replacement with three narrative sections: '8.1 Pregnancy', '8.2 Lactation', and '8.3 Females and Males of Reproductive Potential'. It emphasizes that this new system provides more detailed, clinically relevant information.",
+    pdfPage: 20
   },
   {
     "id": 21,
@@ -312,7 +352,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L117L118_slide_58.jpg",
-    "slideImageDescription": "The slide 'Type A: Augmented Reactions' distinguishes between 'Side Effects' and 'Toxic Effects'. It defines a side effect as a 'Predictable, dose-related expression of the drug's pharmacologic activity' that occurs at 'therapeutic doses'. This matches the description of the nausea."
+    "clinicalPearl": "The slide 'Type A: Augmented Reactions' distinguishes between 'Side Effects' and 'Toxic Effects'. It defines a side effect as a 'Predictable, dose-related expression of the drug's pharmacologic activity' that occurs at 'therapeutic doses'. This matches the description of the nausea.",
+    "slideImageDescription": "The slide 'Type A: Augmented Reactions' distinguishes between 'Side Effects' and 'Toxic Effects'. It defines a side effect as a 'Predictable, dose-related expression of the drug's pharmacologic activity' that occurs at 'therapeutic doses'. This matches the description of the nausea.",
+    pdfPage: 11
   },
   {
     "id": 22,
@@ -327,7 +369,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_12.jpg",
-    "slideImageDescription": "The slide 'Medication Errors' defines them as 'Any preventable event that may cause or lead to inappropriate medication use or patient harm'. It lists 'Prescribing', 'Transcribing', and 'Administering' as common points of error. Misreading a dose is a classic transcribing/administering error."
+    "clinicalPearl": "The slide 'Medication Errors' defines them as 'Any preventable event that may cause or lead to inappropriate medication use or patient harm'. It lists 'Prescribing', 'Transcribing', and 'Administering' as common points of error. Misreading a dose is a classic transcribing/administering error.",
+    "slideImageDescription": "The slide 'Medication Errors' defines them as 'Any preventable event that may cause or lead to inappropriate medication use or patient harm'. It lists 'Prescribing', 'Transcribing', and 'Administering' as common points of error. Misreading a dose is a classic transcribing/administering error.",
+    pdfPage: 12
   },
   {
     "id": 23,
@@ -342,7 +386,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_27.jpg",
-    "slideImageDescription": "The slide 'Type B: Hypersensitivity Reactions' describes Type II. It labels it as 'Cytotoxic' and explains the mechanism: 'IgG or IgM antibodies bind to antigen on cell surface -> cell destruction'. It specifically lists 'Hemolytic anemia' and 'Methyldopa' as classic examples."
+    "clinicalPearl": "The slide 'Type B: Hypersensitivity Reactions' describes Type II. It labels it as 'Cytotoxic' and explains the mechanism: 'IgG or IgM antibodies bind to antigen on cell surface -> cell destruction'. It specifically lists 'Hemolytic anemia' and 'Methyldopa' as classic examples.",
+    "slideImageDescription": "The slide 'Type B: Hypersensitivity Reactions' describes Type II. It labels it as 'Cytotoxic' and explains the mechanism: 'IgG or IgM antibodies bind to antigen on cell surface -> cell destruction'. It specifically lists 'Hemolytic anemia' and 'Methyldopa' as classic examples.",
+    pdfPage: 27
   },
   {
     "id": 24,
@@ -357,7 +403,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L117L118_slide_27.jpg",
-    "slideImageDescription": "The slide describing 'Type III: Immune Complex' hypersensitivity states the mechanism involves 'Antigen-antibody complexes deposited in tissues'. It lists 'Serum sickness' as the key example, characterized by 'fever, rash, arthralgias' occurring days to weeks after exposure."
+    "clinicalPearl": "The slide describing 'Type III: Immune Complex' hypersensitivity states the mechanism involves 'Antigen-antibody complexes deposited in tissues'. It lists 'Serum sickness' as the key example, characterized by 'fever, rash, arthralgias' occurring days to weeks after exposure.",
+    "slideImageDescription": "The slide describing 'Type III: Immune Complex' hypersensitivity states the mechanism involves 'Antigen-antibody complexes deposited in tissues'. It lists 'Serum sickness' as the key example, characterized by 'fever, rash, arthralgias' occurring days to weeks after exposure.",
+    pdfPage: 27
   },
   {
     "id": 25,
@@ -372,7 +420,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 3,
     "slideImagePath": "images/L117L118_slide_27.jpg",
-    "slideImageDescription": "The slide 'Type IV: Cell-Mediated' hypersensitivity explains it is 'Delayed' (48-72 hours). It states it is mediated by 'T-cells', not antibodies. 'Contact dermatitis' (like poison ivy or neomycin allergy) is listed as a prime example."
+    "clinicalPearl": "The slide 'Type IV: Cell-Mediated' hypersensitivity explains it is 'Delayed' (48-72 hours). It states it is mediated by 'T-cells', not antibodies. 'Contact dermatitis' (like poison ivy or neomycin allergy) is listed as a prime example.",
+    "slideImageDescription": "The slide 'Type IV: Cell-Mediated' hypersensitivity explains it is 'Delayed' (48-72 hours). It states it is mediated by 'T-cells', not antibodies. 'Contact dermatitis' (like poison ivy or neomycin allergy) is listed as a prime example.",
+    pdfPage: 27
   },
   {
     "id": 26,
@@ -387,7 +437,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L117L118_slide_36.jpg",
-    "slideImageDescription": "The slide 'Warfarin Pharmacogenomics' highlights two key genes. It identifies 'CYP2C9' as the 'Main metabolizing enzyme' (Pharmacokinetic factor). It identifies 'VKORC1' as the 'Target enzyme' (Pharmacodynamic factor). It explains that variants in *both* can lead to altered dose requirements and bleeding risk."
+    "clinicalPearl": "The slide 'Warfarin Pharmacogenomics' highlights two key genes. It identifies 'CYP2C9' as the 'Main metabolizing enzyme' (Pharmacokinetic factor). It identifies 'VKORC1' as the 'Target enzyme' (Pharmacodynamic factor). It explains that variants in *both* can lead to altered dose requirements and bleeding risk.",
+    "slideImageDescription": "The slide 'Warfarin Pharmacogenomics' highlights two key genes. It identifies 'CYP2C9' as the 'Main metabolizing enzyme' (Pharmacokinetic factor). It identifies 'VKORC1' as the 'Target enzyme' (Pharmacodynamic factor). It explains that variants in *both* can lead to altered dose requirements and bleeding risk.",
+    pdfPage: 36
   },
   {
     "id": 27,
@@ -402,7 +454,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 3,
     "slideImagePath": "images/L117L118_slide_59.jpg",
-    "slideImageDescription": "The slide 'Pharmacodynamic Interactions: Antagonism' defines it as 'One drug opposes the effect of another'. It specifically cites the interaction between 'Beta-blockers (e.g., propranolol)' and 'Beta-agonists (e.g., albuterol)', explaining that the blocker prevents the agonist from working at the receptor site."
+    "clinicalPearl": "The slide 'Pharmacodynamic Interactions: Antagonism' defines it as 'One drug opposes the effect of another'. It specifically cites the interaction between 'Beta-blockers (e.g., propranolol)' and 'Beta-agonists (e.g., albuterol)', explaining that the blocker prevents the agonist from working at the receptor site.",
+    "slideImageDescription": "The slide 'Pharmacodynamic Interactions: Antagonism' defines it as 'One drug opposes the effect of another'. It specifically cites the interaction between 'Beta-blockers (e.g., propranolol)' and 'Beta-agonists (e.g., albuterol)', explaining that the blocker prevents the agonist from working at the receptor site.",
+    pdfPage: 59
   },
   {
     "id": 28,
@@ -417,7 +471,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_58.jpg",
-    "slideImageDescription": "The slide 'Pharmacodynamic Interactions: Synergism' explains that 'Combined effect is greater than sum of individual effects'. It lists 'Warfarin + Aspirin' as a classic example, noting the 'Increased bleeding risk' due to their combined effects on the coagulation cascade and platelet function."
+    "clinicalPearl": "The slide 'Pharmacodynamic Interactions: Synergism' explains that 'Combined effect is greater than sum of individual effects'. It lists 'Warfarin + Aspirin' as a classic example, noting the 'Increased bleeding risk' due to their combined effects on the coagulation cascade and platelet function.",
+    "slideImageDescription": "The slide 'Pharmacodynamic Interactions: Synergism' explains that 'Combined effect is greater than sum of individual effects'. It lists 'Warfarin + Aspirin' as a classic example, noting the 'Increased bleeding risk' due to their combined effects on the coagulation cascade and platelet function.",
+    pdfPage: 51
   },
   {
     "id": 29,
@@ -432,7 +488,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L117L118_slide_68.jpg",
-    "slideImageDescription": "The slide on 'Synergistic Interactions' also lists 'Alcohol + Benzodiazepines/Opioids'. It explains that these CNS depressants have an 'Additive/Synergistic effect on respiratory depression', which is the mechanism of the life-threatening toxicity described."
+    "clinicalPearl": "The slide on 'Synergistic Interactions' also lists 'Alcohol + Benzodiazepines/Opioids'. It explains that these CNS depressants have an 'Additive/Synergistic effect on respiratory depression', which is the mechanism of the life-threatening toxicity described.",
+    "slideImageDescription": "The slide on 'Synergistic Interactions' also lists 'Alcohol + Benzodiazepines/Opioids'. It explains that these CNS depressants have an 'Additive/Synergistic effect on respiratory depression', which is the mechanism of the life-threatening toxicity described.",
+    pdfPage: 68
   },
   {
     "id": 30,
@@ -447,7 +505,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L117L118_slide_69.jpg",
-    "slideImageDescription": "The slide 'Drug-Food Interactions: Grapefruit Juice' explains the mechanism. It states: 'Inhibits intestinal CYP3A4'. It lists 'Statins' as a major affected class, noting that inhibition leads to 'Increased plasma levels' and 'Increased risk of myopathy/rhabdomyolysis'. This directly confirms the cause of the patient's symptoms."
+    "clinicalPearl": "The slide 'Drug-Food Interactions: Grapefruit Juice' explains the mechanism. It states: 'Inhibits intestinal CYP3A4'. It lists 'Statins' as a major affected class, noting that inhibition leads to 'Increased plasma levels' and 'Increased risk of myopathy/rhabdomyolysis'. This directly confirms the cause of the patient's symptoms.",
+    "slideImageDescription": "The slide 'Drug-Food Interactions: Grapefruit Juice' explains the mechanism. It states: 'Inhibits intestinal CYP3A4'. It lists 'Statins' as a major affected class, noting that inhibition leads to 'Increased plasma levels' and 'Increased risk of myopathy/rhabdomyolysis'. This directly confirms the cause of the patient's symptoms.",
+    pdfPage: 69
   },
   {
     "id": 31,
@@ -462,7 +522,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L117L118_slide_70.jpg",
-    "slideImageDescription": "The slide 'Warfarin Interactions' includes 'Dietary Vitamin K (e.g., leafy greens)'. It explains that Vitamin K 'Antagonizes the effect of warfarin' by providing the substrate that warfarin inhibits the recycling of. This is defined as a 'Pharmacodynamic interaction' leading to a 'Decreased INR' (risk of clotting)."
+    "clinicalPearl": "The slide 'Warfarin Interactions' includes 'Dietary Vitamin K (e.g., leafy greens)'. It explains that Vitamin K 'Antagonizes the effect of warfarin' by providing the substrate that warfarin inhibits the recycling of. This is defined as a 'Pharmacodynamic interaction' leading to a 'Decreased INR' (risk of clotting).",
+    "slideImageDescription": "The slide 'Warfarin Interactions' includes 'Dietary Vitamin K (e.g., leafy greens)'. It explains that Vitamin K 'Antagonizes the effect of warfarin' by providing the substrate that warfarin inhibits the recycling of. This is defined as a 'Pharmacodynamic interaction' leading to a 'Decreased INR' (risk of clotting).",
+    pdfPage: 54
   },
   {
     "id": 32,
@@ -477,7 +539,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L117L118_slide_27.jpg",
-    "slideImageDescription": "The slide 'Drug-Food Interactions: Tyramine' explains the 'MAOI + Tyramine' interaction. It states that tyramine (found in cheese/wine) is an 'Indirect sympathomimetic'. When MAO is inhibited, tyramine accumulates and causes 'Release of catecholamines (NE)', leading to a 'Hypertensive crisis'. This matches the clinical vignette perfectly."
+    "clinicalPearl": "The slide 'Drug-Food Interactions: Tyramine' explains the 'MAOI + Tyramine' interaction. It states that tyramine (found in cheese/wine) is an 'Indirect sympathomimetic'. When MAO is inhibited, tyramine accumulates and causes 'Release of catecholamines (NE)', leading to a 'Hypertensive crisis'. This matches the clinical vignette perfectly.",
+    "slideImageDescription": "The slide 'Drug-Food Interactions: Tyramine' explains the 'MAOI + Tyramine' interaction. It states that tyramine (found in cheese/wine) is an 'Indirect sympathomimetic'. When MAO is inhibited, tyramine accumulates and causes 'Release of catecholamines (NE)', leading to a 'Hypertensive crisis'. This matches the clinical vignette perfectly.",
+    pdfPage: 27
   },
   {
     "id": 33,
@@ -492,7 +556,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 3,
     "slideImagePath": "images/L117L118_slide_70.jpg",
-    "slideImageDescription": "The slide 'Absorption Interactions: Chelation' diagrammatically shows a drug binding to a cation. It explicitly lists 'Tetracyclines and Fluoroquinolones' as drugs that bind to 'Polyvalent cations (Ca2+, Mg2+, Fe2+)'. The result is described as 'Insoluble complex -> Decreased absorption', which necessitates separating the doses."
+    "clinicalPearl": "The slide 'Absorption Interactions: Chelation' diagrammatically shows a drug binding to a cation. It explicitly lists 'Tetracyclines and Fluoroquinolones' as drugs that bind to 'Polyvalent cations (Ca2+, Mg2+, Fe2+)'. The result is described as 'Insoluble complex -> Decreased absorption', which necessitates separating the doses.",
+    "slideImageDescription": "The slide 'Absorption Interactions: Chelation' diagrammatically shows a drug binding to a cation. It explicitly lists 'Tetracyclines and Fluoroquinolones' as drugs that bind to 'Polyvalent cations (Ca2+, Mg2+, Fe2+)'. The result is described as 'Insoluble complex -> Decreased absorption', which necessitates separating the doses.",
+    pdfPage: 70
   },
   {
     "id": 34,
@@ -507,7 +573,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L117L118_slide_68.jpg",
-    "slideImageDescription": "The slide 'Absorption Interactions: pH' explains that some drugs (like ketoconazole) 'Require acid for dissolution'. It states that drugs altering pH, such as 'Proton Pump Inhibitors (PPIs)', will 'Increase gastric pH', leading to 'Decreased dissolution and absorption' of the antifungal. This confirms the pH-dependent mechanism."
+    "clinicalPearl": "The slide 'Absorption Interactions: pH' explains that some drugs (like ketoconazole) 'Require acid for dissolution'. It states that drugs altering pH, such as 'Proton Pump Inhibitors (PPIs)', will 'Increase gastric pH', leading to 'Decreased dissolution and absorption' of the antifungal. This confirms the pH-dependent mechanism.",
+    "slideImageDescription": "The slide 'Absorption Interactions: pH' explains that some drugs (like ketoconazole) 'Require acid for dissolution'. It states that drugs altering pH, such as 'Proton Pump Inhibitors (PPIs)', will 'Increase gastric pH', leading to 'Decreased dissolution and absorption' of the antifungal. This confirms the pH-dependent mechanism.",
+    pdfPage: 68
   },
   {
     "id": 35,
@@ -522,7 +590,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_72.jpg",
-    "slideImageDescription": "The slide 'CYP450 Inducers' lists 'St. John's Wort' as a key example. It explains the consequences of induction: 'Increased metabolism -> Decreased plasma levels -> Decreased efficacy'. This chain of events perfectly explains why the patient's statin therapy is failing."
+    "clinicalPearl": "The slide 'CYP450 Inducers' lists 'St. John's Wort' as a key example. It explains the consequences of induction: 'Increased metabolism -> Decreased plasma levels -> Decreased efficacy'. This chain of events perfectly explains why the patient's statin therapy is failing.",
+    "slideImageDescription": "The slide 'CYP450 Inducers' lists 'St. John's Wort' as a key example. It explains the consequences of induction: 'Increased metabolism -> Decreased plasma levels -> Decreased efficacy'. This chain of events perfectly explains why the patient's statin therapy is failing.",
+    pdfPage: 72
   },
   {
     "id": 36,
@@ -537,7 +607,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L117L118_slide_70.jpg",
-    "slideImageDescription": "The slide 'CYP450 Inhibitors' lists 'Omeprazole' as an inhibitor of 'CYP2C19'. It specifically highlights the 'Clopidogrel' interaction, noting that inhibition of the activating step leads to 'Decreased active metabolite' and 'Increased CV risk'. This directly supports the answer about thrombosis risk."
+    "clinicalPearl": "The slide 'CYP450 Inhibitors' lists 'Omeprazole' as an inhibitor of 'CYP2C19'. It specifically highlights the 'Clopidogrel' interaction, noting that inhibition of the activating step leads to 'Decreased active metabolite' and 'Increased CV risk'. This directly supports the answer about thrombosis risk.",
+    "slideImageDescription": "The slide 'CYP450 Inhibitors' lists 'Omeprazole' as an inhibitor of 'CYP2C19'. It specifically highlights the 'Clopidogrel' interaction, noting that inhibition of the activating step leads to 'Decreased active metabolite' and 'Increased CV risk'. This directly supports the answer about thrombosis risk.",
+    pdfPage: 69
   },
   {
     "id": 37,
@@ -552,7 +624,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L117L118_slide_32.jpg",
-    "slideImageDescription": "The slide 'Enzyme Induction: Auto-induction' explains that some drugs 'induce their own metabolism'. It cites 'Carbamazepine' as the classic example. The clinical implication is listed: 'Half-life decreases over time... Dose may need to be increased'. This supports the titration strategy."
+    "clinicalPearl": "The slide 'Enzyme Induction: Auto-induction' explains that some drugs 'induce their own metabolism'. It cites 'Carbamazepine' as the classic example. The clinical implication is listed: 'Half-life decreases over time... Dose may need to be increased'. This supports the titration strategy.",
+    "slideImageDescription": "The slide 'Enzyme Induction: Auto-induction' explains that some drugs 'induce their own metabolism'. It cites 'Carbamazepine' as the classic example. The clinical implication is listed: 'Half-life decreases over time... Dose may need to be increased'. This supports the titration strategy.",
+    pdfPage: 32
   },
   {
     "id": 38,
@@ -567,7 +641,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_69.jpg",
-    "slideImageDescription": "The slide 'P-glycoprotein (P-gp) Interactions' lists 'Digoxin' as a substrate and 'Quinidine' as an inhibitor. It illustrates the mechanism: Inhibition of P-gp in the kidney 'decreases renal elimination', causing 'Increased digoxin levels and toxicity'. This confirms the transporter and mechanism involved."
+    "clinicalPearl": "The slide 'P-glycoprotein (P-gp) Interactions' lists 'Digoxin' as a substrate and 'Quinidine' as an inhibitor. It illustrates the mechanism: Inhibition of P-gp in the kidney 'decreases renal elimination', causing 'Increased digoxin levels and toxicity'. This confirms the transporter and mechanism involved.",
+    "slideImageDescription": "The slide 'P-glycoprotein (P-gp) Interactions' lists 'Digoxin' as a substrate and 'Quinidine' as an inhibitor. It illustrates the mechanism: Inhibition of P-gp in the kidney 'decreases renal elimination', causing 'Increased digoxin levels and toxicity'. This confirms the transporter and mechanism involved.",
+    pdfPage: 69
   },
   {
     "id": 39,
@@ -582,7 +658,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L117L118_slide_69.jpg",
-    "slideImageDescription": "The slide 'Excretion Interactions: Tubular Secretion' describes the OAT system. It states: 'Probenecid competes with Penicillin for OAT'. This competition 'decreases Penicillin secretion', which 'prolongs its half-life'. This detailed mechanism supports the correct answer."
+    "clinicalPearl": "The slide 'Excretion Interactions: Tubular Secretion' describes the OAT system. It states: 'Probenecid competes with Penicillin for OAT'. This competition 'decreases Penicillin secretion', which 'prolongs its half-life'. This detailed mechanism supports the correct answer.",
+    "slideImageDescription": "The slide 'Excretion Interactions: Tubular Secretion' describes the OAT system. It states: 'Probenecid competes with Penicillin for OAT'. This competition 'decreases Penicillin secretion', which 'prolongs its half-life'. This detailed mechanism supports the correct answer.",
+    pdfPage: 69
   },
   {
     "id": 40,
@@ -597,7 +675,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_69.jpg",
-    "slideImageDescription": "The slide on 'Warfarin Interactions' lists 'Amiodarone' as a potent 'CYP2C9 Inhibitor'. It explains that inhibition leads to 'Decreased warfarin clearance' and 'Increased INR/Bleeding Risk'. This directly points to the toxic consequence of the interaction."
+    "clinicalPearl": "The slide on 'Warfarin Interactions' lists 'Amiodarone' as a potent 'CYP2C9 Inhibitor'. It explains that inhibition leads to 'Decreased warfarin clearance' and 'Increased INR/Bleeding Risk'. This directly points to the toxic consequence of the interaction.",
+    "slideImageDescription": "The slide on 'Warfarin Interactions' lists 'Amiodarone' as a potent 'CYP2C9 Inhibitor'. It explains that inhibition leads to 'Decreased warfarin clearance' and 'Increased INR/Bleeding Risk'. This directly points to the toxic consequence of the interaction.",
+    pdfPage: 69
   },
   {
     "id": 41,
@@ -612,7 +692,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_32.jpg",
-    "slideImageDescription": "The slide 'Distribution Interactions: Protein Binding' explains the displacement mechanism. It notes: 'Immediate effect: Increased free drug -> Increased effect/toxicity'. However, it also states: 'Compensatory effect: Increased free drug available for elimination -> Increased clearance -> New steady state'. This two-phase description matches the correct answer."
+    "clinicalPearl": "The slide 'Distribution Interactions: Protein Binding' explains the displacement mechanism. It notes: 'Immediate effect: Increased free drug -> Increased effect/toxicity'. However, it also states: 'Compensatory effect: Increased free drug available for elimination -> Increased clearance -> New steady state'. This two-phase description matches the correct answer.",
+    "slideImageDescription": "The slide 'Distribution Interactions: Protein Binding' explains the displacement mechanism. It notes: 'Immediate effect: Increased free drug -> Increased effect/toxicity'. However, it also states: 'Compensatory effect: Increased free drug available for elimination -> Increased clearance -> New steady state'. This two-phase description matches the correct answer.",
+    pdfPage: 32
   },
   {
     "id": 42,
@@ -627,7 +709,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_58.jpg",
-    "slideImageDescription": "The slide 'Type A: Augmented' defines these reactions. It states they are 'Extension of pharmacologic effect'. The example given is 'Antihypertensives causing hypotension/dizziness'. This matches the scenario perfectly, confirming it as a Type A toxic effect (exaggerated therapeutic effect)."
+    "clinicalPearl": "The slide 'Type A: Augmented' defines these reactions. It states they are 'Extension of pharmacologic effect'. The example given is 'Antihypertensives causing hypotension/dizziness'. This matches the scenario perfectly, confirming it as a Type A toxic effect (exaggerated therapeutic effect).",
+    "slideImageDescription": "The slide 'Type A: Augmented' defines these reactions. It states they are 'Extension of pharmacologic effect'. The example given is 'Antihypertensives causing hypotension/dizziness'. This matches the scenario perfectly, confirming it as a Type A toxic effect (exaggerated therapeutic effect).",
+    pdfPage: 58
   },
   {
     "id": 43,
@@ -642,7 +726,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_70.jpg",
-    "slideImageDescription": "The slide 'Type A: Secondary Effects' defines them as 'Indirect consequences of a primary drug action'. The specific example provided is 'Antibiotics -> alteration of gut flora -> C. difficile superinfection'. This explicit example confirms the classification."
+    "clinicalPearl": "The slide 'Type A: Secondary Effects' defines them as 'Indirect consequences of a primary drug action'. The specific example provided is 'Antibiotics -> alteration of gut flora -> C. difficile superinfection'. This explicit example confirms the classification.",
+    "slideImageDescription": "The slide 'Type A: Secondary Effects' defines them as 'Indirect consequences of a primary drug action'. The specific example provided is 'Antibiotics -> alteration of gut flora -> C. difficile superinfection'. This explicit example confirms the classification.",
+    pdfPage: 11
   },
   {
     "id": 44,
@@ -657,7 +743,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_59.jpg",
-    "slideImageDescription": "The slide 'Opioid Toxicity: Management' identifies Naloxone as the antidote. It states the mechanism: 'Competitive antagonist at opioid receptors'. This pharmacodynamic action of blocking the receptor explains the rapid reversal of symptoms."
+    "clinicalPearl": "The slide 'Opioid Toxicity: Management' identifies Naloxone as the antidote. It states the mechanism: 'Competitive antagonist at opioid receptors'. This pharmacodynamic action of blocking the receptor explains the rapid reversal of symptoms.",
+    "slideImageDescription": "The slide 'Opioid Toxicity: Management' identifies Naloxone as the antidote. It states the mechanism: 'Competitive antagonist at opioid receptors'. This pharmacodynamic action of blocking the receptor explains the rapid reversal of symptoms.",
+    pdfPage: 59
   },
   {
     "id": 45,
@@ -672,7 +760,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_34.jpg",
-    "slideImageDescription": "The slide on 'Cocaine Toxicity' discusses management. It states 'Benzodiazepines' are first line. For 'Hypertension', it recommends 'Phentolamine (alpha-blocker)'. It includes a specific warning: 'Avoid beta-blockers alone', reinforcing the choice of an alpha-blocker."
+    "clinicalPearl": "The slide on 'Cocaine Toxicity' discusses management. It states 'Benzodiazepines' are first line. For 'Hypertension', it recommends 'Phentolamine (alpha-blocker)'. It includes a specific warning: 'Avoid beta-blockers alone', reinforcing the choice of an alpha-blocker.",
+    "slideImageDescription": "The slide on 'Cocaine Toxicity' discusses management. It states 'Benzodiazepines' are first line. For 'Hypertension', it recommends 'Phentolamine (alpha-blocker)'. It includes a specific warning: 'Avoid beta-blockers alone', reinforcing the choice of an alpha-blocker.",
+    pdfPage: 34
   },
   {
     "id": 46,
@@ -687,7 +777,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_59.jpg",
-    "slideImageDescription": "The slide 'Organophosphate Poisoning Treatment' distinguishes between the antidotes. It states 'Atropine: Muscarinic antagonist (treats DUMBBELSS)'. It then lists 'Pralidoxime (2-PAM): Reactivates AChE... treats Nicotinic effects (muscle weakness)'. This distinction clarifies that atropine does not cover the nicotinic neuromuscular symptoms."
+    "clinicalPearl": "The slide 'Organophosphate Poisoning Treatment' distinguishes between the antidotes. It states 'Atropine: Muscarinic antagonist (treats DUMBBELSS)'. It then lists 'Pralidoxime (2-PAM): Reactivates AChE... treats Nicotinic effects (muscle weakness)'. This distinction clarifies that atropine does not cover the nicotinic neuromuscular symptoms.",
+    "slideImageDescription": "The slide 'Organophosphate Poisoning Treatment' distinguishes between the antidotes. It states 'Atropine: Muscarinic antagonist (treats DUMBBELSS)'. It then lists 'Pralidoxime (2-PAM): Reactivates AChE... treats Nicotinic effects (muscle weakness)'. This distinction clarifies that atropine does not cover the nicotinic neuromuscular symptoms.",
+    pdfPage: 59
   },
   {
     "id": 47,
@@ -702,7 +794,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 3,
     "slideImagePath": "images/L117L118_slide_60.jpg",
-    "slideImageDescription": "The slide 'Combined P-gp and CYP3A4 Induction' uses Rifampin as the model drug. It explains: 'Induces P-gp -> Increased efflux -> Decreased Bioavailability'. It also states: 'Induces CYP3A4 -> Increased metabolism -> Increased Clearance'. The combination of these effects confirms the answer."
+    "clinicalPearl": "The slide 'Combined P-gp and CYP3A4 Induction' uses Rifampin as the model drug. It explains: 'Induces P-gp -> Increased efflux -> Decreased Bioavailability'. It also states: 'Induces CYP3A4 -> Increased metabolism -> Increased Clearance'. The combination of these effects confirms the answer.",
+    "slideImageDescription": "The slide 'Combined P-gp and CYP3A4 Induction' uses Rifampin as the model drug. It explains: 'Induces P-gp -> Increased efflux -> Decreased Bioavailability'. It also states: 'Induces CYP3A4 -> Increased metabolism -> Increased Clearance'. The combination of these effects confirms the answer.",
+    pdfPage: 32
   },
   {
     "id": 48,
@@ -717,7 +811,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_69.jpg",
-    "slideImageDescription": "The slide 'Combined P-gp and CYP3A4 Inhibition' uses Grapefruit Juice as the example. It states: 'Inhibits P-gp -> Decreased efflux -> Increased Bioavailability'. It also notes: 'Inhibits intestinal CYP3A4 -> Decreased metabolism -> Increased Bioavailability'. The net effect is 'Increased toxicity risk', supporting the answer."
+    "clinicalPearl": "The slide 'Combined P-gp and CYP3A4 Inhibition' uses Grapefruit Juice as the example. It states: 'Inhibits P-gp -> Decreased efflux -> Increased Bioavailability'. It also notes: 'Inhibits intestinal CYP3A4 -> Decreased metabolism -> Increased Bioavailability'. The net effect is 'Increased toxicity risk', supporting the answer.",
+    "slideImageDescription": "The slide 'Combined P-gp and CYP3A4 Inhibition' uses Grapefruit Juice as the example. It states: 'Inhibits P-gp -> Decreased efflux -> Increased Bioavailability'. It also notes: 'Inhibits intestinal CYP3A4 -> Decreased metabolism -> Increased Bioavailability'. The net effect is 'Increased toxicity risk', supporting the answer.",
+    pdfPage: 69
   },
   {
     "id": 49,
@@ -732,7 +828,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_32.jpg",
-    "slideImageDescription": "The slide on 'Warfarin Genetics' identifies 'CYP2C9' and 'VKORC1' as the key determinants. It explains that 'CYP2C9 variants (reduced function) -> decreased clearance -> lower dose needed'. It also states 'VKORC1 variants (increased sensitivity) -> lower dose needed'. This confirms the specific gene pair."
+    "clinicalPearl": "The slide on 'Warfarin Genetics' identifies 'CYP2C9' and 'VKORC1' as the key determinants. It explains that 'CYP2C9 variants (reduced function) -> decreased clearance -> lower dose needed'. It also states 'VKORC1 variants (increased sensitivity) -> lower dose needed'. This confirms the specific gene pair.",
+    "slideImageDescription": "The slide on 'Warfarin Genetics' identifies 'CYP2C9' and 'VKORC1' as the key determinants. It explains that 'CYP2C9 variants (reduced function) -> decreased clearance -> lower dose needed'. It also states 'VKORC1 variants (increased sensitivity) -> lower dose needed'. This confirms the specific gene pair.",
+    pdfPage: 46
   },
   {
     "id": 50,
@@ -747,7 +845,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 0,
     "slideImagePath": "images/L117L118_slide_62.jpg",
-    "slideImageDescription": "The slide 'CYP1A2 Induction' lists 'Tobacco smoke (PAHs)' as the inducer. It lists 'Theophylline' as the substrate. The consequence is described as 'Increased metabolism -> Decreased plasma levels'. This directly explains the clinical need for higher doses in smokers."
+    "clinicalPearl": "The slide 'CYP1A2 Induction' lists 'Tobacco smoke (PAHs)' as the inducer. It lists 'Theophylline' as the substrate. The consequence is described as 'Increased metabolism -> Decreased plasma levels'. This directly explains the clinical need for higher doses in smokers.",
+    "slideImageDescription": "The slide 'CYP1A2 Induction' lists 'Tobacco smoke (PAHs)' as the inducer. It lists 'Theophylline' as the substrate. The consequence is described as 'Increased metabolism -> Decreased plasma levels'. This directly explains the clinical need for higher doses in smokers.",
+    pdfPage: 62
   },
   {
     "id": 51,
@@ -762,7 +862,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L117L118_slide_68.jpg",
-    "slideImageDescription": "The slide 'Warfarin + NSAIDs' explains the interaction. Under 'Pharmacodynamic', it lists 'Additive bleeding risk (Antiplatelet + Anticoagulant)'. Under 'Pharmacokinetic', it lists 'NSAIDs inhibit CYP2C9 -> Increased Warfarin levels'. This dual mechanism is the core concept of the answer."
+    "clinicalPearl": "The slide 'Warfarin + NSAIDs' explains the interaction. Under 'Pharmacodynamic', it lists 'Additive bleeding risk (Antiplatelet + Anticoagulant)'. Under 'Pharmacokinetic', it lists 'NSAIDs inhibit CYP2C9 -> Increased Warfarin levels'. This dual mechanism is the core concept of the answer.",
+    "slideImageDescription": "The slide 'Warfarin + NSAIDs' explains the interaction. Under 'Pharmacodynamic', it lists 'Additive bleeding risk (Antiplatelet + Anticoagulant)'. Under 'Pharmacokinetic', it lists 'NSAIDs inhibit CYP2C9 -> Increased Warfarin levels'. This dual mechanism is the core concept of the answer.",
+    pdfPage: 68
   },
   {
     "id": 52,
@@ -777,7 +879,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 0,
     "slideImagePath": "images/L117L118_slide_70.jpg",
-    "slideImageDescription": "The slide 'Type A: Side Effects' defines them as 'Predictable, often unavoidable, non-deleterious effects'. It gives 'ACE Inhibitors -> Cough' as a classic example, clarifying that while annoying, it fits the 'Side Effect' definition within the Type A category."
+    "clinicalPearl": "The slide 'Type A: Side Effects' defines them as 'Predictable, often unavoidable, non-deleterious effects'. It gives 'ACE Inhibitors -> Cough' as a classic example, clarifying that while annoying, it fits the 'Side Effect' definition within the Type A category.",
+    "slideImageDescription": "The slide 'Type A: Side Effects' defines them as 'Predictable, often unavoidable, non-deleterious effects'. It gives 'ACE Inhibitors -> Cough' as a classic example, clarifying that while annoying, it fits the 'Side Effect' definition within the Type A category.",
+    pdfPage: 11
   },
   {
     "id": 53,
@@ -792,7 +896,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L117L118_slide_20.jpg",
-    "slideImageDescription": "The slide 'Teratogens' lists 'Isotretinoin' (Retinoids). It details the associated defects: 'CNS abnormalities', 'Craniofacial defects', and 'Cardiac defects'. It mentions the 'iPLEDGE' program, confirming the high risk and specific malformation pattern."
+    "clinicalPearl": "The slide 'Teratogens' lists 'Isotretinoin' (Retinoids). It details the associated defects: 'CNS abnormalities', 'Craniofacial defects', and 'Cardiac defects'. It mentions the 'iPLEDGE' program, confirming the high risk and specific malformation pattern.",
+    "slideImageDescription": "The slide 'Teratogens' lists 'Isotretinoin' (Retinoids). It details the associated defects: 'CNS abnormalities', 'Craniofacial defects', and 'Cardiac defects'. It mentions the 'iPLEDGE' program, confirming the high risk and specific malformation pattern.",
+    pdfPage: 8
   },
   {
     "id": 54,
@@ -807,7 +913,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_61.jpg",
-    "slideImageDescription": "The slide comparing 'Induction vs. Inhibition' provides a timeline. It states: 'Inhibition: Immediate/Rapid onset (competition for enzyme)'. In contrast, it states: 'Induction: Delayed onset (requires protein synthesis of new enzyme)'. This temporal difference is the key concept."
+    "clinicalPearl": "The slide comparing 'Induction vs. Inhibition' provides a timeline. It states: 'Inhibition: Immediate/Rapid onset (competition for enzyme)'. In contrast, it states: 'Induction: Delayed onset (requires protein synthesis of new enzyme)'. This temporal difference is the key concept.",
+    "slideImageDescription": "The slide comparing 'Induction vs. Inhibition' provides a timeline. It states: 'Inhibition: Immediate/Rapid onset (competition for enzyme)'. In contrast, it states: 'Induction: Delayed onset (requires protein synthesis of new enzyme)'. This temporal difference is the key concept.",
+    pdfPage: 61
   },
   {
     "id": 55,
@@ -822,7 +930,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 3,
     "slideImagePath": "images/L117L118_slide_69.jpg",
-    "slideImageDescription": "The slide 'CYP3A4 Inhibitors' lists 'Grapefruit Juice' prominently. It explains the interaction with 'Statins', noting that inhibition of intestinal CYP3A4 increases absorption and blood levels. This confirms Grapefruit Juice as the potent inhibitor in question."
+    "clinicalPearl": "The slide 'CYP3A4 Inhibitors' lists 'Grapefruit Juice' prominently. It explains the interaction with 'Statins', noting that inhibition of intestinal CYP3A4 increases absorption and blood levels. This confirms Grapefruit Juice as the potent inhibitor in question.",
+    "slideImageDescription": "The slide 'CYP3A4 Inhibitors' lists 'Grapefruit Juice' prominently. It explains the interaction with 'Statins', noting that inhibition of intestinal CYP3A4 increases absorption and blood levels. This confirms Grapefruit Juice as the potent inhibitor in question.",
+    pdfPage: 69
   },
   {
     "id": 56,
@@ -837,7 +947,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 3,
     "slideImagePath": "images/L117L118_slide_72.jpg",
-    "slideImageDescription": "The slide 'CYP1A2 Interactions' identifies 'Tobacco Smoke (PAHs)' as a potent 'Inducer'. It lists 'Theophylline' as a substrate. The consequence is described as 'Increased metabolism -> Decreased levels', necessitating 'Dose increase in smokers'. This confirms the inducer and outcome."
+    "clinicalPearl": "The slide 'CYP1A2 Interactions' identifies 'Tobacco Smoke (PAHs)' as a potent 'Inducer'. It lists 'Theophylline' as a substrate. The consequence is described as 'Increased metabolism -> Decreased levels', necessitating 'Dose increase in smokers'. This confirms the inducer and outcome.",
+    "slideImageDescription": "The slide 'CYP1A2 Interactions' identifies 'Tobacco Smoke (PAHs)' as a potent 'Inducer'. It lists 'Theophylline' as a substrate. The consequence is described as 'Increased metabolism -> Decreased levels', necessitating 'Dose increase in smokers'. This confirms the inducer and outcome.",
+    pdfPage: 72
   },
   {
     "id": 57,
@@ -852,7 +964,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 2,
     "slideImagePath": "images/L117L118_slide_27.jpg",
-    "slideImageDescription": "The slide 'Type III Hypersensitivity' names it 'Immune Complex'. It cites 'Serum Sickness' as the classic example, caused by 'Antigen-antibody complexes'. The symptoms listed include 'Fever, Rash, Arthralgia', occurring 'days to weeks' after exposure, matching the description."
+    "clinicalPearl": "The slide 'Type III Hypersensitivity' names it 'Immune Complex'. It cites 'Serum Sickness' as the classic example, caused by 'Antigen-antibody complexes'. The symptoms listed include 'Fever, Rash, Arthralgia', occurring 'days to weeks' after exposure, matching the description.",
+    "slideImageDescription": "The slide 'Type III Hypersensitivity' names it 'Immune Complex'. It cites 'Serum Sickness' as the classic example, caused by 'Antigen-antibody complexes'. The symptoms listed include 'Fever, Rash, Arthralgia', occurring 'days to weeks' after exposure, matching the description.",
+    pdfPage: 27
   },
   {
     "id": 58,
@@ -867,7 +981,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_70.jpg",
-    "slideImageDescription": "The slide 'Organophosphate Treatment' lists 'Pralidoxime (2-PAM)'. It explicitly defines its mechanism as 'AChE Reactivator'. It explains that it 'removes the phosphate group' from the enzyme, restoring its function. This mechanistic detail confirms the answer."
+    "clinicalPearl": "The slide 'Organophosphate Treatment' lists 'Pralidoxime (2-PAM)'. It explicitly defines its mechanism as 'AChE Reactivator'. It explains that it 'removes the phosphate group' from the enzyme, restoring its function. This mechanistic detail confirms the answer.",
+    "slideImageDescription": "The slide 'Organophosphate Treatment' lists 'Pralidoxime (2-PAM)'. It explicitly defines its mechanism as 'AChE Reactivator'. It explains that it 'removes the phosphate group' from the enzyme, restoring its function. This mechanistic detail confirms the answer.",
+    pdfPage: 12
   },
   {
     "id": 59,
@@ -882,7 +998,9 @@ window.L117L118 = [
     ],
     "correctAnswerIndex": 1,
     "slideImagePath": "images/L117L118_slide_70.jpg",
-    "slideImageDescription": "The slide 'GI Motility Interactions' discusses opioids. It states: 'Opioids decrease motility -> Increase transit time'. It notes that for 'Extended Release (ER) formulations', this increased time in the gut can lead to 'Increased total absorption (Bioavailability)', which explains the interaction."
+    "clinicalPearl": "The slide 'GI Motility Interactions' discusses opioids. It states: 'Opioids decrease motility -> Increase transit time'. It notes that for 'Extended Release (ER) formulations', this increased time in the gut can lead to 'Increased total absorption (Bioavailability)', which explains the interaction.",
+    "slideImageDescription": "The slide 'GI Motility Interactions' discusses opioids. It states: 'Opioids decrease motility -> Increase transit time'. It notes that for 'Extended Release (ER) formulations', this increased time in the gut can lead to 'Increased total absorption (Bioavailability)', which explains the interaction.",
+    pdfPage: 70
   },
   {
     "id": 60,

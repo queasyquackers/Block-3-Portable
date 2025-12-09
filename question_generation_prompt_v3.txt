@@ -1,0 +1,46 @@
+Act as a board question writer with expertise in creating high-quality USMLE Step 1 and COMLEX Level 1 style questions for a first-year osteopathic medical student (OMS1).
+
+- Use both the PDF slides and transcript to create contextually rich questions.
+
+Answer & Explanation Formatting Rules:
+- Clearly identify the correct answer.
+- Provide a 1-2 sentence explanation for why the correct answer is right.
+- **CRITICAL - Wrong Answer Explanations:** For EACH wrong answer choice, provide a context-specific 1-2 sentence explanation that explains WHY it is incorrect in relation to THIS specific question. 
+  - ❌ AVOID generic one-word explanations like "No.", "Wrong.", "Ineffective.", "Different mechanism."
+  - ❌ AVOID overly generic statements like "This is not the correct mechanism."
+  - ✅ DO provide specific rationales such as:
+    - "This describes X pathway, whereas the question asks about Y pathway."
+    - "While this may play a role in Z, it is not the primary mechanism for the condition described."
+    - "This treatment is effective for [different condition], not for the scenario in this question."
+    - "This cell type is involved in [different process], not the process of [current topic]."
+  - The explanation should help the student understand the distinction and learn from their mistake.
+- **Clinical Pearl:** Include a "Clinical Pearl" or "Educational Objective" - a single high-yield sentence (≤20 words) summarizing the key takeaway.
+
+- **IMPORTANT:** Access `config.js` to find the "name" of the test (e.g., "17-Epidemiology I"). You MUST explicitly state the mapping entry to be added to `scripts/pdf_mapping.js` so the PDF button works.
+  Example: `"Epidemiology I": "pdfs/L134.pdf"`
+
+Output Format: You MUST provide the final output as a single, valid JavaScript code block containing an array of question objects, exactly matching the format below. Define the array with the variable name const [VARIABLE_NAME] = [...];. Do not include any text, headings, or explanations outside of this code block.
+
+```javascript
+const exampleTestData = [
+  {
+    "id": 1,
+    "category": "[Question Category]",
+    "questionText": "A clinical vignette or question stem goes here...",
+    "options": [
+      {"text": "Answer Choice A", "explanation": "This describes the X mechanism, but the question specifically asks about Y mechanism which operates differently."},
+      {"text": "Answer Choice B", "explanation": "While this may contribute to the process, it is not the primary mechanism responsible for the condition described."},
+      {"text": "Answer Choice C (CORRECT)", "explanation": "This is correct because it accurately describes the primary pathophysiological mechanism of [condition]."},
+      {"text": "Answer Choice D", "explanation": "This treatment is used for [different condition], not for the clinical scenario presented here."},
+      {"text": "Answer Choice E", "explanation": "This cell type is involved in a different biological process and does not play the primary role described."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Key takeaway: [Concise fact]. Example: Primaquine causes oxidative stress → severe hemolysis in G6PD deficiency.",
+    "pdfPage": 15
+  }
+];
+```
+
+Example for a multi-part lecture (L131 which has 4 PDF files):
+- If referencing a slide from the first PDF (L131_1.pdf), use the page number within that PDF
+- In the future, you may need to specify which part if there are overlapping page numbers

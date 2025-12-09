@@ -62,7 +62,27 @@ const PDF_MAPPING = {
     "L120L123_Quiz": "pdfs/L120L123_Quiz_Ans.pdf",
 
     // Human Readable Mappings (for tests using pdfPage without slideImagePath)
-    "Pharmacokinetics": "pdfs/L109110.pdf"
+    "Pharmacokinetics": "pdfs/L109110.pdf",
+    "Epidemiology I": "pdfs/L134.pdf",
+    "Epidemiology II": "pdfs/L135.pdf",
+    "Gross Divisions CNS": "pdfs/L136.pdf",
+    "Neurons & Synapse": "pdfs/L137.pdf",
+    "Neurochemistry": "pdfs/L138.pdf",
+    
+    // Week 15 Mappings
+    "Beta Lactams Pt2": "pdfs/L123.pdf",
+    "Aminoglycosides": "pdfs/L124.pdf",
+    "Protein Synthesis Inhibitors": "pdfs/L125.pdf",
+    "Folic Acids": "pdfs/L126.pdf",
+    
+    // Week 14 Mappings (Fix for Missing PDF Buttons)
+    "Special Afferents": "pdfs/L112.pdf",
+    "Autonomics of H&N": "pdfs/L113.pdf",
+    "DPR - GI": "pdfs/L114.pdf",
+    "Clinical Pharmacokinetics": "pdfs/L115L116.pdf",
+    "Drug Interactions & Pharmacogenomics": "pdfs/L117L118.pdf",
+    "Antimicrobials": "pdfs/L119.pdf",
+    "Beta Lactams Pt1": "pdfs/L120.pdf"
 };
 
 // Expose to global scope

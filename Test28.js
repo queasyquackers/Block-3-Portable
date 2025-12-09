@@ -1,602 +1,642 @@
 window.L134 = [
-    {
-        "id": 1,
-        "category": "Measures of Disease Frequency",
-        "questionText": "A public health officer is investigating an outbreak of a novel viral respiratory illness in a small town of 10,000 people. On January 1st, 50 people actively had the disease. Over the course of the year, 200 new cases were diagnosed. What was the incidence rate of the disease for that year?",
-        "options": [
-            { "text": "200 / 10,000", "explanation": "Incorrect denominator; includes those already sick." },
-            { "text": "200 / 9,950", "explanation": "Incidence rate uses the population at risk in the denominator. 10,000 total - 50 existing cases = 9,950 at risk." },
-            { "text": "250 / 10,000", "explanation": "Calculates period prevalence, not incidence." },
-            { "text": "50 / 10,000", "explanation": "Calculates point prevalence on Jan 1st." },
-            { "text": "200 / 10,050", "explanation": "Incorrect addition to denominator." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_8.jpg",
-        "slideImageDescription": "The slide defining 'Incidence Rate' as 'Number of new cases / Population at risk'. It emphasizes subtracting existing cases from the total population to find the at-risk group."
-    },
-    {
-        "id": 2,
-        "category": "Measures of Disease Frequency",
-        "questionText": "In a study of uterine cancer, researchers calculate the incidence rate in a city of 1 million people (500,000 males, 500,000 females). If 100 new cases are identified in one year, and 50,000 women have had a hysterectomy, what is the correct denominator for the incidence calculation?",
-        "options": [
-            { "text": "1,000,000", "explanation": "Includes males." },
-            { "text": "500,000", "explanation": "Includes women without a uterus (not at risk)." },
-            { "text": "450,000", "explanation": "The population at risk includes only women with a uterus (500,000 total women - 50,000 hysterectomies)." },
-            { "text": "950,000", "explanation": "Includes males." },
-            { "text": "50,000", "explanation": "This is the excluded group." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L134_slide_8.jpg",
-        "slideImageDescription": "The slide discussing 'Population at Risk' specifically mentions uterine cancer and excluding women who have had a hysterectomy from the denominator."
-    },
-    {
-        "id": 3,
-        "category": "Measures of Disease Frequency",
-        "questionText": "A new treatment for a chronic disease prevents death but does not produce a cure. What effect will this treatment have on the prevalence and incidence of the disease?",
-        "options": [
-            { "text": "Incidence increases, Prevalence decreases", "explanation": "Incidence is unaffected by treatment duration." },
-            { "text": "Incidence decreases, Prevalence increases", "explanation": "Incidence is new cases; treatment doesn't stop new cases." },
-            { "text": "Incidence remains stable, Prevalence increases", "explanation": "Prevalence = Incidence x Duration. If duration increases (no death, no cure), prevalence increases. Incidence (new cases) is unchanged." },
-            { "text": "Incidence remains stable, Prevalence decreases", "explanation": "Prevalence would increase." },
-            { "text": "Both Incidence and Prevalence decrease", "explanation": "Incorrect." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L134_slide_8.jpg",
-        "slideImageDescription": "The slide defining 'Prevalence Rate' as a measure of the burden of disease, distinct from risk (incidence). Contextual understanding of P = I x D."
-    },
-    {
-        "id": 4,
-        "category": "Measures of Disease Frequency",
-        "questionText": "During a summer camp, 33% of the children developed diarrhea on July 13th. This statistic is an example of:",
-        "options": [
-            { "text": "Cumulative Incidence", "explanation": "Implies risk over time." },
-            { "text": "Incidence Density", "explanation": "Uses person-time." },
-            { "text": "Point Prevalence", "explanation": "Point prevalence measures the proportion of a population affected by a disease at a specific point in time (July 13th)." },
-            { "text": "Period Prevalence", "explanation": "Would cover a range of dates." },
-            { "text": "Case Fatality Rate", "explanation": "Measures death." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L134_slide_11.jpg",
-        "slideImageDescription": "The slide giving the example: 'If you find out the prevalence of diarrhea in a children's camp on July 13th was 33%'."
-    },
-    {
-        "id": 5,
-        "category": "Measures of Disease Frequency",
-        "questionText": "Which of the following scenarios would best be described using a simple 'Count' rather than a rate?",
-        "options": [
-            { "text": "Comparing heart disease between two countries", "explanation": "Needs a rate to account for population size." },
-            { "text": "Tracking seasonal allergies in a city", "explanation": "Common condition, needs rate." },
-            { "text": "Reporting cases of a rare hemorrhagic fever like Ebola", "explanation": "For rare or significant diseases (e.g., Ebola), a simple count of cases is often sufficient and meaningful for public health action." },
-            { "text": "Analyzing obesity trends over a decade", "explanation": "Needs prevalence rate." },
-            { "text": "Monitoring hypertension in the elderly", "explanation": "Needs prevalence rate." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L134_slide_6.jpg",
-        "slideImageDescription": "The slide discussing 'Counts' states it is significant for 'rare diseases or symptoms such as Ebola'."
-    },
-    {
-        "id": 6,
-        "category": "Screening Tests",
-        "questionText": "A new screening test for diabetes is evaluated against the gold standard. In a sample of 1000 patients, 100 have diabetes. The test identifies 80 of the diabetic patients correctly and tests positive for 90 healthy individuals. What is the sensitivity of this test?",
-        "options": [
-            { "text": "80%", "explanation": "Sensitivity = TP / (TP + FN) = 80 / 100 = 80%." },
-            { "text": "90%", "explanation": "Specificity calculation error." },
-            { "text": "47%", "explanation": "PPV calculation." },
-            { "text": "88%", "explanation": "Accuracy calculation." },
-            { "text": "10%", "explanation": "False positive rate." }
-        ],
-        "correctAnswerIndex": 0,
-        "slideImagePath": "images/L134_slide_51.jpg",
-        "slideImageDescription": "The slide defining 'Sensitivity' as 'TP / (TP + FN)'. The 2x2 table slide is also relevant."
-    },
-    {
-        "id": 7,
-        "category": "Screening Tests",
-        "questionText": "Using the same data (1000 patients, 100 diabetic, 80 TP, 90 FP), what is the specificity of the test?",
-        "options": [
-            { "text": "80%", "explanation": "Sensitivity." },
-            { "text": "90%", "explanation": "Specificity = TN / (TN + FP). Healthy = 900. FP = 90. TN = 810. 810/900 = 90%." },
-            { "text": "10%", "explanation": "False positive rate." },
-            { "text": "91%", "explanation": "NPV calculation." },
-            { "text": "82%", "explanation": "Accuracy." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_51.jpg",
-        "slideImageDescription": "The slide defining 'Specificity' as 'TN / (TN + FP)'."
-    },
-    {
-        "id": 8,
-        "category": "Screening Tests",
-        "questionText": "A patient asks what it means that a test has 90% specificity. The most accurate explanation is:",
-        "options": [
-            { "text": "If you have the disease, there is a 90% chance the test will find it.", "explanation": "Definition of Sensitivity." },
-            { "text": "If you are healthy, there is a 90% chance the test will correctly say you are healthy.", "explanation": "Specificity is the ability to correctly identify non-diseased individuals (TN rate)." },
-            { "text": "If you test positive, there is a 90% chance you have the disease.", "explanation": "Definition of PPV." },
-            { "text": "If you test negative, there is a 90% chance you are healthy.", "explanation": "Definition of NPV." },
-            { "text": "The test is reliable 90% of the time.", "explanation": "Reliability is consistency, not validity." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_57.jpg",
-        "slideImageDescription": "The slide explicitly asking 'The screening test... has 90% specificity. What does this mean?' and providing the answer."
-    },
-    {
-        "id": 9,
-        "category": "Screening Tests",
-        "questionText": "A screening test with high sensitivity is most useful for:",
-        "options": [
-            { "text": "Confirming a diagnosis", "explanation": "Specificity is better for confirmation (SpPIn)." },
-            { "text": "Ruling out a disease", "explanation": "High sensitivity tests have few false negatives, making them ideal for ruling out disease (SnNOut)." },
-            { "text": "Diseases with high prevalence only", "explanation": "Not the primary factor." },
-            { "text": "Minimizing false positives", "explanation": "High specificity does this." },
-            { "text": "Replacing the gold standard", "explanation": "Screening is not diagnostic." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_47.jpg",
-        "slideImageDescription": "The slide defining Sensitivity. The concept of SnNOut (Sensitivity Rules Out) is a core application of this definition."
-    },
-    {
-        "id": 10,
-        "category": "Screening Tests",
-        "questionText": "In a 2x2 table comparing a screening test to a gold standard, which cell represents the 'False Negatives'?",
-        "options": [
-            { "text": "Cell A (Top Left)", "explanation": "True Positive." },
-            { "text": "Cell B (Top Right)", "explanation": "False Positive." },
-            { "text": "Cell C (Bottom Left)", "explanation": "False Negative (Diseased but Test Negative)." },
-            { "text": "Cell D (Bottom Right)", "explanation": "True Negative." },
-            { "text": "None of the above", "explanation": "Incorrect." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L134_slide_50.jpg",
-        "slideImageDescription": "The 2x2 table slide showing the 'Gold Standard' columns and 'Screening Test' rows, labeling cell C as False Negative."
-    },
-    {
-        "id": 11,
-        "category": "Predictive Values",
-        "questionText": "A patient tests positive for a rare disease using a test with 95% sensitivity and 95% specificity. However, the doctor explains that the likelihood they actually have the disease is still low (e.g., 15%). This discrepancy is best explained by:",
-        "options": [
-            { "text": "Low reliability of the test", "explanation": "Not related to validity parameters." },
-            { "text": "Low prevalence of the disease", "explanation": "Positive Predictive Value (PPV) is highly dependent on prevalence. In rare diseases, false positives can outnumber true positives even with good specificity." },
-            { "text": "High false negative rate", "explanation": "Would affect NPV." },
-            { "text": "Lead-time bias", "explanation": "Survival bias." },
-            { "text": "Observer bias", "explanation": "Measurement error." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_52.jpg",
-        "slideImageDescription": "The slide defining 'Predictive Value (+)' as TP/(TP+FP). The concept that prevalence drives PPV is a key teaching point."
-    },
-    {
-        "id": 12,
-        "category": "Predictive Values",
-        "questionText": "If the prevalence of a disease in a population increases, what happens to the Positive Predictive Value (PPV) and Negative Predictive Value (NPV) of a screening test?",
-        "options": [
-            { "text": "PPV increases, NPV increases", "explanation": "Incorrect." },
-            { "text": "PPV decreases, NPV increases", "explanation": "Inverse of reality." },
-            { "text": "PPV increases, NPV decreases", "explanation": "As prevalence increases, there are more true positives relative to false positives (PPV up) and fewer true negatives relative to false negatives (NPV down)." },
-            { "text": "PPV decreases, NPV decreases", "explanation": "Incorrect." },
-            { "text": "They remain unchanged", "explanation": "Sensitivity/Specificity remain unchanged; PVs change." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L134_slide_12.jpg",
-        "slideImageDescription": "The slide defining Predictive Values. The relationship with prevalence is a standard derivative concept."
-    },
-    {
-        "id": 13,
-        "category": "Predictive Values",
-        "questionText": "A family is screened for a genetic condition after returning from Senegal. They want to know: 'If I test positive, what is the probability I actually have the disease?' They are asking for the:",
-        "options": [
-            { "text": "Sensitivity", "explanation": "Probability of test+ given disease." },
-            { "text": "Specificity", "explanation": "Probability of test- given health." },
-            { "text": "Positive Predictive Value", "explanation": "PPV answers the patient's question: Probability of disease given a positive test result." },
-            { "text": "Negative Predictive Value", "explanation": "Probability of health given negative test." },
-            { "text": "Incidence Rate", "explanation": "Risk measure." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L134_slide_60.jpg",
-        "slideImageDescription": "The slide with the vignette: 'They want to know if they test positive... what the probability will be that they actually have the disease. YOU CAN TELL THEM ABOUT POSITIVE PREDICTIVE VALUE!'"
-    },
-    {
-        "id": 14,
-        "category": "Predictive Values",
-        "questionText": "Calculate the Negative Predictive Value (NPV) given: TN = 900, FN = 100.",
-        "options": [
-            { "text": "10%", "explanation": "FN rate." },
-            { "text": "90%", "explanation": "NPV = TN / (TN + FN) = 900 / 1000 = 90%." },
-            { "text": "80%", "explanation": "Incorrect." },
-            { "text": "100%", "explanation": "Incorrect." },
-            { "text": "50%", "explanation": "Incorrect." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_52.jpg",
-        "slideImageDescription": "The slide defining 'Predictive value (-)' as TN/(TN+FN)."
-    },
-    {
-        "id": 15,
-        "category": "Screening Tests",
-        "questionText": "Which of the following is NOT a requirement for a successful screening program?",
-        "options": [
-            { "text": "A suitable disease (serious, high prevalence)", "explanation": "Required." },
-            { "text": "A suitable test (valid, reliable, acceptable)", "explanation": "Required." },
-            { "text": "A suitable screening program (resources, follow-up)", "explanation": "Required." },
-            { "text": "A cure for the disease", "explanation": "While treatment should be available, a 'cure' is not strictly required (e.g., management of diabetes). However, the option '100% sensitivity' is a better distractor for 'NOT required' usually, but here 'Cure' is acceptable if the alternative is management." },
-            { "text": "The test must be diagnostic", "explanation": "Screening tests are generally NOT diagnostic; they classify risk. This is the explicit 'NOT' in the lecture." }
-        ],
-        "correctAnswerIndex": 4,
-        "slideImagePath": "images/L134_slide_49.jpg",
-        "slideImageDescription": "The slide 'Screening' states: 'Remember- a screening test is generally NOT diagnostic'."
-    },
-    {
-        "id": 16,
-        "category": "Reliability vs Validity",
-        "questionText": "A blood pressure cuff consistently reads 140/90 mmHg for a patient whose true blood pressure is 120/80 mmHg. This instrument is:",
-        "options": [
-            { "text": "Valid but not reliable", "explanation": "It is consistent (reliable) but wrong (invalid)." },
-            { "text": "Reliable but not valid", "explanation": "Reliability refers to consistency (same result every time). Validity refers to accuracy (truth). This cuff is consistent (reliable) but inaccurate (not valid)." },
-            { "text": "Both valid and reliable", "explanation": "Not valid." },
-            { "text": "Neither valid nor reliable", "explanation": "It is reliable." },
-            { "text": "Sensitive but not specific", "explanation": "Not applicable terms." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_54.jpg",
-        "slideImageDescription": "The slide defining 'Reliability' as 'consistent results on repeated trials' and noting 'A screening test that is reliable is not necessarily also valid'."
-    },
-    {
-        "id": 17,
-        "category": "Biases",
-        "questionText": "A screening program for prostate cancer detects many cases of slow-growing tumors that would likely never have caused symptoms during the patients' lifetimes. This phenomenon best illustrates:",
-        "options": [
-            { "text": "Lead-time bias", "explanation": "Early detection." },
-            { "text": "Length bias", "explanation": "Length bias occurs when screening selectively identifies cases with a long preclinical phase (slower progression/better prognosis), missing rapidly fatal cases." },
-            { "text": "Recall bias", "explanation": "Memory." },
-            { "text": "Selection bias", "explanation": "Sampling." },
-            { "text": "Confounding", "explanation": "Third variable." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_63.jpg",
-        "slideImageDescription": "The slide defining 'Length Bias': 'Screening could selectively identify cases... which have a better prognosis... milder disease will be around long enough'."
-    },
-    {
-        "id": 18,
-        "category": "Biases",
-        "questionText": "Two groups of patients with lung cancer are compared. Group A was diagnosed via screening, Group B via symptoms. Group A appears to survive 2 years longer. However, it is determined that screening merely detected the cancer 2 years earlier, without changing the time of death. This is an example of:",
-        "options": [
-            { "text": "Length bias", "explanation": "Prognosis difference." },
-            { "text": "Lead-time bias", "explanation": "Lead-time bias is the artifactual increase in survival time due to earlier diagnosis (the 'lead time') without an actual postponement of death." },
-            { "text": "Observer bias", "explanation": "Measurement." },
-            { "text": "Publication bias", "explanation": "Reporting." },
-            { "text": "Healthy worker effect", "explanation": "Occupational." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_62.jpg",
-        "slideImageDescription": "The slide defining 'Lead-time Bias': 'People who were diagnosed earlier... don't necessarily have better survival... making it look like they had longer survival'."
-    },
-    {
-        "id": 19,
-        "category": "Survival Analysis",
-        "questionText": "Which statistical method is most commonly used to estimate the survival probability of patients over time, accounting for censored data (patients lost to follow-up)?",
-        "options": [
-            { "text": "Linear regression", "explanation": "Continuous outcome." },
-            { "text": "Logistic regression", "explanation": "Binary outcome." },
-            { "text": "Kaplan-Meier curve", "explanation": "The Kaplan-Meier method is the standard for estimating survival functions and plotting survival curves." },
-            { "text": "Chi-square test", "explanation": "Categorical comparison." },
-            { "text": "T-test", "explanation": "Mean comparison." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L134_slide_61.jpg",
-        "slideImageDescription": "The slide 'SURVIVAL' mentions: 'One of the most common is the Kaplan Meier curve'."
-    },
-    {
-        "id": 20,
-        "category": "Survival Analysis",
-        "questionText": "In a survival analysis, the probability of surviving 5 years is calculated as:",
-        "options": [
-            { "text": "The number of people alive at year 5 divided by the starting population", "explanation": "Simple proportion, ignores censoring." },
-            { "text": "The product of the probabilities of surviving each preceding year", "explanation": "Survival probability is cumulative: P(Year 1) x P(Year 2 | Year 1) x ... This accounts for the conditional nature of survival." },
-            { "text": "The average survival time of all patients", "explanation": "Mean survival." },
-            { "text": "The incidence rate multiplied by 5", "explanation": "Incorrect." },
-            { "text": "1 minus the Case Fatality Rate", "explanation": "Incorrect." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_61.jpg",
-        "slideImageDescription": "The slide 'SURVIVAL' states: 'The probability of surviving for 5 years is the product of each of the probabilities of surviving each year'."
-    },
-    {
-        "id": 21,
-        "category": "Herd Immunity",
-        "questionText": "The concept of Herd Immunity suggests that:",
-        "options": [
-            { "text": "100% of the population must be vaccinated to prevent outbreaks", "explanation": "Incorrect." },
-            { "text": "Vaccination only protects the individual", "explanation": "Incorrect." },
-            { "text": "A large proportion of immune individuals can protect the non-immune", "explanation": "Herd immunity occurs when a critical portion of a community is immunized against a contagious disease, reducing transmission and protecting those who are not immune." },
-            { "text": "Immunity can be transferred from cattle to humans", "explanation": "Historical origin (vaccinia), but not the definition." },
-            { "text": "Viruses mutate to become less virulent in herds", "explanation": "Incorrect." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L134_slide_44.jpg",
-        "slideImageDescription": "The slide 'Herd Immunity' states: 'A group of people can become resistant... even those individuals who were not vaccinated will be immune'."
-    },
-    {
-        "id": 22,
-        "category": "Incubation Period",
-        "questionText": "The interval from the receipt of infection to the onset of clinical illness is defined as the:",
-        "options": [
-            { "text": "Latent period", "explanation": "Often synonymous but incubation is the clinical term." },
-            { "text": "Incubation period", "explanation": "Definition: Time from exposure/infection to symptom onset." },
-            { "text": "Infectious period", "explanation": "Time capable of transmitting." },
-            { "text": "Window period", "explanation": "Time before test positivity." },
-            { "text": "Generation time", "explanation": "Time between cases." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_46.jpg",
-        "slideImageDescription": "The slide 'Incubation Period' defines it as: 'Interval from receipt of infection to onset of clinical illness'."
-    },
-    {
-        "id": 23,
-        "category": "Incubation Period",
-        "questionText": "Understanding the incubation period of a disease is most critical for determining:",
-        "options": [
-            { "text": "The case fatality rate", "explanation": "Severity." },
-            { "text": "The appropriate treatment dose", "explanation": "Pharmacology." },
-            { "text": "How long a person should be in isolation after exposure", "explanation": "Quarantine/Isolation durations are based on the incubation period to ensure the person does not develop symptoms and transmit the disease." },
-            { "text": "The genetic sequence of the pathogen", "explanation": "Virology." },
-            { "text": "The prevalence of the disease", "explanation": "Frequency." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L134_slide_46.jpg",
-        "slideImageDescription": "The slide 'Incubation Period' asks: 'How long should a person be in isolation after exposure to disease?'"
-    },
-    {
-        "id": 24,
-        "category": "Screening",
-        "questionText": "Screening classifies asymptomatic people as:",
-        "options": [
-            { "text": "Diseased or Healthy", "explanation": "Diagnostic tests do this." },
-            { "text": "Likely or Unlikely to have a disease", "explanation": "Screening is probabilistic/presumptive. It sorts people into high-risk (likely) and low-risk (unlikely) groups for further testing." },
-            { "text": "Treated or Untreated", "explanation": "Clinical status." },
-            { "text": "Immune or Susceptible", "explanation": "Serology." },
-            { "text": "Infectious or Non-infectious", "explanation": "Transmission status." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_47.jpg",
-        "slideImageDescription": "The slide 'Screening' defines it as: 'Screening classifies asymptomatic people as likely or unlikely to have a disease'."
-    },
-    {
-        "id": 25,
-        "category": "Screening",
-        "questionText": "The primary purpose of screening is to:",
-        "options": [
-            { "text": "Diagnose disease accurately", "explanation": "Not diagnostic." },
-            { "text": "Reduce the cost of healthcare", "explanation": "Often increases cost initially." },
-            { "text": "Delay the onset of symptomatic disease or improve survival", "explanation": "Secondary prevention: Catch it early to treat early and improve outcomes." },
-            { "text": "Calculate incidence rates", "explanation": "Research goal." },
-            { "text": "Eliminate false positives", "explanation": "Impossible." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L134_slide_47.jpg",
-        "slideImageDescription": "The slide 'Screening' lists Purpose: 'To delay the onset of symptomatic or clinical disease, or to improve survival'."
-    },
-    {
-        "id": 26,
-        "category": "Screening Risks",
-        "questionText": "Which of the following is a potential hidden cost or risk of screening?",
-        "options": [
-            { "text": "Reduced anxiety in the population", "explanation": "Usually creates anxiety." },
-            { "text": "Morbidity and anxiety from false positives", "explanation": "Screening can harm healthy people via false positives, leading to unnecessary invasive workups and psychological distress." },
-            { "text": "Decreased incidence of disease", "explanation": "Screening increases incidence (detection)." },
-            { "text": "Simplified clinical decision making", "explanation": "Complex." },
-            { "text": "Guaranteed cure", "explanation": "No." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_48.jpg",
-        "slideImageDescription": "The slide 'Screening' notes: 'There are hidden costs and risks. Screening can create morbidity and anxiety'."
-    },
-    {
-        "id": 27,
-        "category": "Screening Process",
-        "questionText": "The first step in the screening process described in the lecture is to:",
-        "options": [
-            { "text": "Administer the screening test", "explanation": "Step 2." },
-            { "text": "Classify people as 'diseased' or 'healthy' using a diagnostic test", "explanation": "To validate a screening test, you first need to know the 'truth' (Gold Standard) to populate the 2x2 table columns." },
-            { "text": "Calculate sensitivity", "explanation": "Analysis step." },
-            { "text": "Treat the positives", "explanation": "Clinical step." },
-            { "text": "Publish the results", "explanation": "Academic step." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_49.jpg",
-        "slideImageDescription": "The slide 'Screening' states: 'First you classify people as diseased or healthy using a diagnostic test'."
-    },
-    {
-        "id": 28,
-        "category": "2x2 Table",
-        "questionText": "In a standard 2x2 table for screening, the columns typically represent:",
-        "options": [
-            { "text": "The Screening Test Result", "explanation": "Rows." },
-            { "text": "The Gold Standard (True Disease Status)", "explanation": "Standard convention: Columns = Truth (Disease Present/Absent), Rows = Test (Positive/Negative)." },
-            { "text": "The Risk Factors", "explanation": "No." },
-            { "text": "The Symptoms", "explanation": "No." },
-            { "text": "The Time Period", "explanation": "No." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_50.jpg",
-        "slideImageDescription": "The 2x2 table slide shows 'Gold Standard - Diagnostic Test' as the header for the columns (Present/Absent)."
-    },
-    {
-        "id": 29,
-        "category": "Sensitivity",
-        "questionText": "A test with 100% sensitivity will have:",
-        "options": [
-            { "text": "Zero False Positives", "explanation": "Related to Specificity." },
-            { "text": "Zero False Negatives", "explanation": "Sensitivity = TP / (TP + FN). To be 100% (1.0), FN must be 0." },
-            { "text": "Zero True Negatives", "explanation": "No." },
-            { "text": "100% Specificity", "explanation": "Independent parameters." },
-            { "text": "100% PPV", "explanation": "Depends on prevalence/specificity." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_51.jpg",
-        "slideImageDescription": "The slide defining Sensitivity as TP/(TP+FN). Mathematical implication of denominator."
-    },
-    {
-        "id": 30,
-        "category": "Specificity",
-        "questionText": "A test with 100% specificity will have:",
-        "options": [
-            { "text": "Zero False Positives", "explanation": "Specificity = TN / (TN + FP). To be 100%, FP must be 0." },
-            { "text": "Zero False Negatives", "explanation": "Sensitivity." },
-            { "text": "Zero True Positives", "explanation": "No." },
-            { "text": "100% Sensitivity", "explanation": "Independent." },
-            { "text": "0% NPV", "explanation": "No." }
-        ],
-        "correctAnswerIndex": 0,
-        "slideImagePath": "images/L134_slide_51.jpg",
-        "slideImageDescription": "The slide defining Specificity as TN/(TN+FP)."
-    },
-    {
-        "id": 31,
-        "category": "Predictive Values",
-        "questionText": "Which measure of screening validity is most useful to the clinician in counseling a specific patient about their test result?",
-        "options": [
-            { "text": "Sensitivity", "explanation": "Population measure." },
-            { "text": "Specificity", "explanation": "Population measure." },
-            { "text": "Predictive Values (PPV/NPV)", "explanation": "Predictive values answer 'Given this result, do I have the disease?', which is the patient's concern." },
-            { "text": "Prevalence", "explanation": "Background risk." },
-            { "text": "Incidence", "explanation": "Background risk." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L134_slide_60.jpg",
-        "slideImageDescription": "The slide with the vignette explicitly links the patient's question to Positive Predictive Value."
-    },
-    {
-        "id": 32,
-        "category": "Incidence Calculation",
-        "questionText": "In a population of 1000, 200 have the disease at the start of the year. Over the year, 50 new cases develop. What is the incidence rate?",
-        "options": [
-            { "text": "50 / 1000", "explanation": "Denominator error." },
-            { "text": "50 / 800", "explanation": "Population at risk = Total (1000) - Existing cases (200) = 800. Incidence = 50 / 800." },
-            { "text": "250 / 1000", "explanation": "Prevalence." },
-            { "text": "50 / 200", "explanation": "Incorrect." },
-            { "text": "200 / 1000", "explanation": "Initial prevalence." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_8.jpg",
-        "slideImageDescription": "The slide defining Incidence Rate formula."
-    },
-    {
-        "id": 33,
-        "category": "Prevalence Calculation",
-        "questionText": "Using the same numbers (1000 total, 200 existing, 50 new), what is the period prevalence for the year?",
-        "options": [
-            { "text": "200 / 1000", "explanation": "Point prevalence start." },
-            { "text": "250 / 1000", "explanation": "Period prevalence includes all cases (old + new) existing during the period divided by the total population. (200 + 50) / 1000 = 25%." },
-            { "text": "50 / 800", "explanation": "Incidence." },
-            { "text": "50 / 1000", "explanation": "Incorrect." },
-            { "text": "250 / 800", "explanation": "Denominator error." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_8.jpg",
-        "slideImageDescription": "The slide defining Prevalence Rate."
-    },
-    {
-        "id": 34,
-        "category": "Epidemiology Basics",
-        "questionText": "Epidemiology is defined as the study of:",
-        "options": [
-            { "text": "The treatment of individual patients", "explanation": "Clinical medicine." },
-            { "text": "The patterns, causes, and effects of health and disease conditions in populations", "explanation": "Standard definition provided in lecture." },
-            { "text": "The molecular basis of disease", "explanation": "Basic science." },
-            { "text": "The financial management of hospitals", "explanation": "Administration." },
-            { "text": "The history of medicine", "explanation": "History." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_8.jpg",
-        "slideImageDescription": "The slide defining Epidemiology."
-    },
-    {
-        "id": 35,
-        "category": "Study Design",
-        "questionText": "To determine the incidence of a disease, which study design is required?",
-        "options": [
-            { "text": "Cross-sectional", "explanation": "Measures prevalence (snapshot)." },
-            { "text": "Cohort", "explanation": "Cohort studies follow a population over time to identify new cases, allowing for the calculation of incidence." },
-            { "text": "Case-control", "explanation": "Odds ratio." },
-            { "text": "Case series", "explanation": "Descriptive." },
-            { "text": "Ecological", "explanation": "Group level." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_8.jpg",
-        "slideImageDescription": "The slide defining Incidence Rate implies a time period and follow-up, characteristic of cohort designs (though not explicitly named, the concept of 'time period' is key)."
-    },
-    {
-        "id": 36,
-        "category": "Biases",
-        "questionText": "Length bias is most likely to result in the overestimation of survival for:",
-        "options": [
-            { "text": "Rapidly progressive diseases", "explanation": "Missed by screening." },
-            { "text": "Slowly progressive diseases", "explanation": "Length bias selects for slow-growing (long preclinical phase) tumors, making screening appear to improve survival artificially." },
-            { "text": "Infectious diseases", "explanation": "Acute." },
-            { "text": "Congenital defects", "explanation": "Static." },
-            { "text": "Traumatic injuries", "explanation": "Acute." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_63.jpg",
-        "slideImageDescription": "The slide defining Length Bias."
-    },
-    {
-        "id": 37,
-        "category": "Screening",
-        "questionText": "If a screening test is 'reliable', it means:",
-        "options": [
-            { "text": "It measures what it is supposed to measure", "explanation": "Validity." },
-            { "text": "It gives the same result on repeated trials", "explanation": "Definition of reliability (consistency/precision)." },
-            { "text": "It has high sensitivity", "explanation": "Validity parameter." },
-            { "text": "It has high specificity", "explanation": "Validity parameter." },
-            { "text": "It is expensive", "explanation": "No." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_8.jpg",
-        "slideImageDescription": "The slide defining Reliability."
-    },
-    {
-        "id": 38,
-        "category": "Epidemiology Math",
-        "questionText": "In a 2x2 table, the formula 'a / (a + b)' represents:",
-        "options": [
-            { "text": "Sensitivity", "explanation": "a / (a+c)." },
-            { "text": "Specificity", "explanation": "d / (b+d)." },
-            { "text": "Positive Predictive Value", "explanation": "TP / (TP + FP) = a / (a + b)." },
-            { "text": "Negative Predictive Value", "explanation": "d / (c+d)." },
-            { "text": "Prevalence", "explanation": "(a+c) / (a+b+c+d)." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L134_slide_52.jpg",
-        "slideImageDescription": "The slide defining Predictive Value (+)."
-    },
-    {
-        "id": 39,
-        "category": "Epidemiology Math",
-        "questionText": "In a 2x2 table, the formula 'd / (b + d)' represents:",
-        "options": [
-            { "text": "Sensitivity", "explanation": "a / (a+c)." },
-            { "text": "Specificity", "explanation": "TN / (FP + TN) = d / (b + d)." },
-            { "text": "PPV", "explanation": "a / (a+b)." },
-            { "text": "NPV", "explanation": "d / (c+d)." },
-            { "text": "Accuracy", "explanation": "(a+d)/Total." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L134_slide_8.jpg",
-        "slideImageDescription": "The slide defining Specificity."
-    },
-    {
-        "id": 40,
-        "category": "Clinical Application",
-        "questionText": "A 50-year-old man tests positive for a disease with a prevalence of 1/1000. The test has 99% sensitivity and 90% specificity. What is the approximate probability he actually has the disease?",
-        "options": [
-            { "text": "99%", "explanation": "Confusing sensitivity with PPV." },
-            { "text": "90%", "explanation": "Confusing specificity with PPV." },
-            { "text": "50%", "explanation": "Incorrect." },
-            { "text": "1%", "explanation": "With low prevalence (0.1%) and 90% specificity (10% FP rate), FPs vastly outnumber TPs. PPV is very low (approx 1%)." },
-            { "text": "10%", "explanation": "Closer but 1% is more accurate." }
-        ],
-        "correctAnswerIndex": 3,
-        "slideImagePath": "images/L134_slide_52.jpg",
-        "slideImageDescription": "The slide discussing Predictive Value and its dependence on prevalence."
-    }
+  {
+    "id": 1,
+    "category": "Measures of Disease Frequency",
+    "questionText": "A public health official is tracking a new outbreak of a respiratory virus in a town of 10,000 people. On January 1st, 200 people are already infected. Over the course of the year, 400 new cases are diagnosed. Residents are at risk for the entire year unless they are already infected. What is the incidence rate for this population?",
+    "options": [
+      {"text": "400 / 10,000", "explanation": "This uses the total population, not the population at risk."},
+      {"text": "400 / 9,800", "explanation": "Incidence Rate = New Cases / Population at Risk. Population at risk = Total Population (10,000) - Existing Cases (200) = 9,800."},
+      {"text": "600 / 10,000", "explanation": "This calculates prevalence (total cases) over the total population."},
+      {"text": "200 / 9,600", "explanation": "200 / 9,600 is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "400 / 200", "explanation": "This compares new cases to existing cases, which is not a standard rate."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Incidence rate specifically measures NEW cases developing in a population AT RISK; individuals who already have the disease must be subtracted from the denominator.",
+    "pdfPage": 8,
+    "slideImageDescription": "The slide defining 'Incidence Rate Calculations' shows the formula: Number of new cases / Total population at risk. It highlights that the denominator must exclude those who already have the disease."
+  },
+  {
+    "id": 2,
+    "category": "Prevalence vs. Incidence",
+    "questionText": "A new treatment for a chronic fatal disease is introduced. This treatment prevents death but does not cure the disease. What is the expected long-term effect on the prevalence and incidence of this disease?",
+    "options": [
+      {"text": "Prevalence decreases, Incidence stays the same", "explanation": "Prevalence would increase if people live longer with the disease."},
+      {"text": "Prevalence increases, Incidence stays the same", "explanation": "Prevalence increases because the duration of the disease increases (Prevalence = Incidence x Duration), while the rate of new cases (Incidence) is unaffected."},
+      {"text": "Prevalence increases, Incidence increases", "explanation": "The treatment does not affect the number of new cases (Incidence)."},
+      {"text": "Prevalence stays the same, Incidence decreases", "explanation": "Prevalence would change due to increased survival."},
+      {"text": "Prevalence decreases, Incidence decreases", "explanation": "Neither would decrease in this scenario."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Prevalence is a function of Incidence and Duration (P = I x D). Interventions that prolong survival without curing the disease increase prevalence by increasing the duration component.",
+    "pdfPage": 26,
+    "slideImageDescription": "The slide titled 'What can lower prevalence?' (or concepts related to P=IxD) illustrates that death or cure lowers prevalence. Conversely, surviving longer increases the 'basin' of existing cases."
+  },
+  {
+    "id": 3,
+    "category": "Hypothesis Testing",
+    "questionText": "A researcher conducts a study comparing the efficacy of Drug A vs. Drug B. The resulting p-value is 0.03. Which of the following is the most accurate interpretation of this finding assuming a standard alpha of 0.05?",
+    "options": [
+      {"text": "There is a 3% chance that Drug A is better than Drug B.", "explanation": "p-value is not the probability of the alternative hypothesis."},
+      {"text": "There is a 97% probability that the null hypothesis is true.", "explanation": "p-value does not give the probability of the null itself."},
+      {"text": "There is a 3% probability of observing these results (or more extreme) if the null hypothesis were true.", "explanation": "This is the correct definition of a p-value. Since 0.03 < 0.05, we reject the null hypothesis."},
+      {"text": "The results are not statistically significant.", "explanation": "0.03 is less than 0.05, so it is significant."},
+      {"text": "There is a 3% chance the results are due to bias.", "explanation": "p-value measures chance/random error, not bias."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "A p-value measures the probability of obtaining the observed results by chance alone, assuming the null hypothesis is true. It does not measure clinical significance or the probability of the hypothesis itself.",
+    "pdfPage": 45,
+    "slideImageDescription": "Although not explicitly in the snippet, this concept is foundational. Referencing a generic stats slide or one discussing 'interpretations'."
+  },
+  {
+    "id": 4,
+    "category": "Screening Tests",
+    "questionText": "A 55-year-old male undergoes a screening test for prostate cancer. The test returns positive. He asks, 'Doctor, what are the chances I actually have the disease?' Which statistical measure corresponds to his question?",
+    "options": [
+      {"text": "Sensitivity", "explanation": "Ability to detect disease in those who have it."},
+      {"text": "Specificity", "explanation": "Ability to rule out disease in those who don't have it."},
+      {"text": "Positive Predictive Value (PPV)", "explanation": "PPV answers 'Given a positive test, what is the probability of disease?'. This depends on prevalence."},
+      {"text": "Negative Predictive Value (NPV)", "explanation": "Given a negative test, probability of no disease."},
+      {"text": "Case Fatality Rate", "explanation": "Case Fatality Rate is not the primary characteristic or cause of the condition described in this question."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Patients care most about Predictive Values (PPV/NPV) because they address the probability of disease given a specific test result, whereas Sensitivity/Specificity are properties of the test itself.",
+    "pdfPage": 60,
+    "slideImageDescription": "The slide 'Back to our case...' explicitly mentions that when a patient asks 'if I test positive, what is the probability I have the disease?', you can tell them about Positive Predictive Value."
+  },
+  {
+    "id": 5,
+    "category": "Screening Biases",
+    "questionText": "A screening program for breast cancer appears to increase survival time among screened women compared to unscreened women. However, further analysis shows that the screening simply identifies slow-growing, less aggressive tumors more often than aggressive ones. What type of bias is this?",
+    "options": [
+      {"text": "Lead-time Bias", "explanation": "Diagnosis happens earlier, increasing perceived survival time without changing actual mortality."},
+      {"text": "Length Bias", "explanation": "Screening selectively detects cases with a longer preclinical phase (slower progression), making survival look better."},
+      {"text": "Selection Bias", "explanation": "Selection Bias is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Recall Bias", "explanation": "Recall Bias is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Confounding", "explanation": "Confounding is not the primary characteristic or cause of the condition described in this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Length bias occurs because screening tests are more likely to detect slowly progressing diseases (longer preclinical phase) than rapidly progressive ones, falsely improving apparent survival rates.",
+    "pdfPage": 63,
+    "slideImageDescription": "The slide titled 'Length Bias' explains that screening can selectively identify cases with a better prognosis (longer length), whereas severe cases might die before screening."
+  },
+  {
+    "id": 6,
+    "category": "Case Fatality Rate",
+    "questionText": "In an outbreak of a viral hemorrhagic fever, 500 people are infected. Of these, 200 recover fully, 100 develop chronic complications, and 200 die within a month. What is the Case Fatality Rate (CFR)?",
+    "options": [
+      {"text": "20%", "explanation": "20% is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "40%", "explanation": "CFR = Deaths from disease / Total diagnosed cases. 200 deaths / 500 cases = 0.40 or 40%."},
+      {"text": "50%", "explanation": "50% is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "60%", "explanation": "60% is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "100%", "explanation": "100% is not the primary characteristic or cause of the condition described in this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Case Fatality Rate measures the severity of a disease by calculating the proportion of diagnosed cases that result in death.",
+    "pdfPage": 21,
+    "slideImageDescription": "The slide 'Case-Fatality Rate' defines it as the number of people who die of a disease divided by the number of people who have the disease."
+  },
+  {
+    "id": 7,
+    "category": "Study Designs",
+    "questionText": "A pharmaceutical company wants to test a new vaccine. They recruit 1,000 participants and randomly assign them to receive either the vaccine or a placebo. They follow both groups for 2 years to see who develops the disease. What study design is this?",
+    "options": [
+      {"text": "Case-Control Study", "explanation": "Starts with outcome, looks back at exposure."},
+      {"text": "Retrospective Cohort", "explanation": "Retrospective Cohort is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Randomized Clinical Trial (RCT)", "explanation": "Random assignment to intervention (exposure) and prospective follow-up makes this an RCT, the gold standard for efficacy."},
+      {"text": "Cross-Sectional Study", "explanation": "Cross-Sectional Study is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Ecological Study", "explanation": "Ecological Study is not the primary characteristic or cause of the condition described in this question."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Randomized Clinical Trials (RCTs) are experimental designs where the investigator assigns the exposure, minimizing confounding and allowing for causal inference.",
+    "pdfPage": 39,
+    "slideImageDescription": "While the transcript focuses on screening, RCTs are often discussed in the context of testing interventions like vaccines (Primary Prevention slide)."
+  },
+  {
+    "id": 8,
+    "category": "Sensitivity Calculation",
+    "questionText": "A new rapid strep test is evaluated. In a sample of 200 patients, 100 actually have strep (Gold Standard +). The new test detects 80 of them. What is the Sensitivity of this test?",
+    "options": [
+      {"text": "20%", "explanation": "20% is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "40%", "explanation": "40% is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "80%", "explanation": "Sensitivity = TP / (TP + FN) = 80 / 100 = 80%. It measures the ability to detect the disease when it is present."},
+      {"text": "90%", "explanation": "90% is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "100%", "explanation": "100% is not the primary characteristic or cause of the condition described in this question."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Sensitivity is the True Positive Rate: the proportion of actual disease cases that are correctly identified by the test.",
+    "pdfPage": 51,
+    "slideImageDescription": "The slide titled 'Sensitivity' shows the formula TP/(TP+FN) or (a/a+c) and defines it as the ability to identify correctly all screened individuals who have the disease."
+  },
+  {
+    "id": 9,
+    "category": "Specificity Calculation",
+    "questionText": "Using the same study of 200 patients: 100 patients do NOT have strep. The test correctly identifies 90 of them as negative. What is the Specificity?",
+    "options": [
+      {"text": "10%", "explanation": "10% is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "80%", "explanation": "80% is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "90%", "explanation": "Specificity = TN / (TN + FP) = 90 / 100 = 90%. It measures the ability to correctly identify those WITHOUT the disease."},
+      {"text": "95%", "explanation": "95% is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "50%", "explanation": "50% is not the primary characteristic or cause of the condition described in this question."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Specificity is the True Negative Rate: the proportion of disease-free individuals who are correctly identified as negative by the test.",
+    "pdfPage": 51,
+    "slideImageDescription": "The slide titled 'Measures of the Validity of Screening Tests' defines Specificity as the ability of the test to identify only non-diseased individuals."
+  },
+  {
+    "id": 10,
+    "category": "Validity vs Reliability",
+    "questionText": "A blood pressure cuff consistently reads 10 mmHg higher than the actual arterial pressure every time it is used. This instrument is:",
+    "options": [
+      {"text": "Valid but not Reliable", "explanation": "It is consistent (reliable) but not accurate (valid)."},
+      {"text": "Reliable but not Valid", "explanation": "Reliability refers to consistency/repeatability. Validity refers to accuracy. This cuff is consistent (reliable) but inaccurate (not valid)."},
+      {"text": "Both Valid and Reliable", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Neither Valid nor Reliable", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Sensitive but not Specific", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Reliability is consistency (precision), while Validity is accuracy (truth). A test can be highly reliable (consistent results) but completely invalid (wrong everytime).",
+    "pdfPage": 54,
+    "slideImageDescription": "The slide 'A screening test that is reliable is not necessarily also valid' highlights the distinction between consistency (reliability) and accuracy (validity)."
+  },
+  {
+    "id": 11,
+    "category": "Levels of Prevention",
+    "questionText": "A 60-year-old male with a history of myocardial infarction is placed on daily aspirin and a beta-blocker to prevent a second heart attack. What level of prevention does this represent?",
+    "options": [
+      {"text": "Primary Prevention", "explanation": "Primary Prevention is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Secondary Prevention", "explanation": "Secondary Prevention is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Tertiary Prevention", "explanation": "Managing an existing disease to prevent complications or recurrence (e.g., post-MI medical management)."},
+      {"text": "Quaternary Prevention", "explanation": "Quaternary Prevention is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Primordial Prevention", "explanation": "Primordial Prevention is not the primary characteristic or cause of the condition described in this question."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Tertiary prevention focuses on reducing the impact of an established disease by preventing complications and restoring function (e.g., rehab, secondary prophylaxis).",
+    "pdfPage": 39,
+    "slideImageDescription": "The slide 'Disease Prevention' defines Tertiary Prevention as reducing the impact of a disease."
+  },
+  {
+    "id": 12,
+    "category": "Incidence Density",
+    "questionText": "A study follows 100 nurses for needle-stick injuries. 50 nurses are followed for 2 years, and 50 are followed for 1 year. During this time, 5 injuries occur. What is the incidence density (rate per person-years)?",
+    "options": [
+      {"text": "5 / 100 person-years", "explanation": "5 / 100 person-years is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "5 / 150 person-years", "explanation": "Person-years = (50 nurses * 2 years) + (50 nurses * 1 year) = 100 + 50 = 150. Rate = 5/150."},
+      {"text": "5 / 50 person-years", "explanation": "5 / 50 person-years is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "10 / 100 person-years", "explanation": "10 / 100 person-years is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "0.05", "explanation": "0.05 is not the primary characteristic or cause of the condition described in this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Person-time (Incidence Density) allows for the calculation of rates when participants are followed for unequal periods of time, providing a more precise measure of risk.",
+    "pdfPage": 14,
+    "slideImageDescription": "The slide 'Person years' illustrates calculating the denominator by summing the time each individual contributed to the study."
+  },
+  {
+    "id": 13,
+    "category": "Epidemiologic Triad",
+    "questionText": "In the context of the 'Biology of the Disease' for vaccine development, which factor specifically relates to the 'Agent' in the epidemiologic triad?",
+    "options": [
+      {"text": "Herd Immunity threshold", "explanation": "Herd Immunity threshold is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Mutation rate of the virus", "explanation": "Characteristics of the pathogen (Agent), such as DNA vs RNA or mutation potential, are critical for vaccine targets."},
+      {"text": "Population density", "explanation": "Population density is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Access to healthcare", "explanation": "Access to healthcare is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Genetic susceptibility of the population", "explanation": "Genetic susceptibility of the population is not the primary characteristic or cause of the condition described in this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Understanding the Agent (pathogen) biology, such as its mutation rate (RNA vs DNA viruses) and antigenicity, is crucial for primary prevention strategies like vaccine development.",
+    "pdfPage": 43,
+    "slideImageDescription": "The slide 'The Biology of the Disease' lists questions like 'Is it RNA/DNA based?' and 'Does it have a high mutation rate?' which refer to the Agent."
+  },
+  {
+    "id": 14,
+    "category": "Screening Suitability",
+    "questionText": "Which of the following diseases would be the MOST suitable candidate for a population-based screening program?",
+    "options": [
+      {"text": "A rare, rapidly fatal disease with no treatment", "explanation": "Screening offers no benefit if no treatment exists."},
+      {"text": "A common disease with a long latent phase and effective early treatment", "explanation": "Ideal for screening: high prevalence (common), window for detection (latent phase), and benefit from early intervention."},
+      {"text": "A common disease that resolves spontaneously without treatment", "explanation": "A common disease that resolves spontaneously without treatment is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "A rare disease with a highly invasive confirmation test", "explanation": "A rare disease with a highly invasive confirmation test is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "A disease where symptoms appear immediately upon infection", "explanation": "Diagnosis happens clinically, no 'screening' phase needed."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Effective screening requires a 'Suitable Disease': one that is serious, has a high enough prevalence, a long preclinical phase, and an effective treatment available if detected early.",
+    "pdfPage": 47,
+    "slideImageDescription": "The slide 'Screening' lists requirements: Suitable disease, Suitable test, Suitable screening program. Context implies we need to improve survival/delay onset."
+  },
+  {
+    "id": 15,
+    "category": "Lead-time Bias Application",
+    "questionText": "A study claims that a new screening test for lung cancer increases 5-year survival rates by 20%. However, total mortality from lung cancer in the screened population remains unchanged compared to the unscreened population. The apparent increase in survival is most likely due to:",
+    "options": [
+      {"text": "Improved treatment efficacy", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Lead-time Bias", "explanation": "Survival time is calculated from diagnosis. Screening diagnoses earlier, 'adding' time to the survival statistic without actually delaying death."},
+      {"text": "Confounding by smoking status", "explanation": "Possible but lead-time is the classic explanation for this discrepancy."},
+      {"text": "Ecological Fallacy", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Type II Error", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Lead-time bias inflates survival statistics by advancing the time of diagnosis, creating an artifact of longer survival even if the course of the disease and death date remain unchanged.",
+    "pdfPage": 62,
+    "slideImageDescription": "The slide 'Lead-time Bias' explains that people diagnosed earlier don't necessarily live longer; they just have a longer known duration of disease."
+  },
+  {
+    "id": 16,
+    "category": "Herd Immunity",
+    "questionText": "A measles outbreak occurs in a community with 85% vaccination coverage. Public health officials aim to increase coverage to 95% to stop transmission. This strategy relies on the principle that:",
+    "options": [
+      {"text": "Vaccinated individuals can never transmit the virus.", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Reducing the number of susceptible hosts decreases the probability of contact between infected and susceptible individuals.", "explanation": "This is the mechanism of Herd Immunity. You don't need 100% immunity to stop spread, just enough to break the chain of transmission."},
+      {"text": "Vaccination increases the virulence of the pathogen.", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Unvaccinated individuals develop natural immunity faster.", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "The virus will mutate to a less dangerous form.", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Herd immunity protects the unvaccinated relying on the fact that if a high proportion of the population is immune, the pathogen cannot find enough susceptible hosts to sustain transmission.",
+    "pdfPage": 44,
+    "slideImageDescription": "The slide 'Herd Immunity' states 'It may not be important to vaccinate 100% of people... transmission as a whole is reduced!'"
+  },
+  {
+    "id": 17,
+    "category": "Incubation Period",
+    "questionText": "In the 'Fictional Case' of the Senegal illness, some travelers became ill shortly after arrival, while others became ill months later. This variability represents the disease's:",
+    "options": [
+      {"text": "Virulence", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Incubation Period", "explanation": "The time interval from receipt of infection to onset of clinical illness. Variability here explains the differece in symptom onset."},
+      {"text": "Latency", "explanation": "Similar, but Incubation is the clinical term for infectious diseases."},
+      {"text": "Infectivity", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Pathogenicity", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "The incubation period is the time between exposure to a pathogen and the onset of clinical symptoms; knowing this helps determine isolation and quarantine durations.",
+    "pdfPage": 46,
+    "slideImageDescription": "The slide 'Incubation Period' defines it as the 'Interval from receipt of infection to onset of clinical illness'."
+  },
+  {
+    "id": 18,
+    "category": "Interpreting PPV",
+    "questionText": "A screening test has a Sensitivity of 99% and Specificity of 99%. However, when used in a population with a very low disease prevalence (0.1%), a positive test result is still more likely to be a False Positive than a True Positive. This phenomenon highlights that:",
+    "options": [
+      {"text": "The test is invalid.", "explanation": "The test is valid (high sens/spec)."},
+      {"text": "Sensitivity is the most important metric.", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "Positive Predictive Value (PPV) is highly dependent on Prevalence.", "explanation": "Even with a great test, if the disease is rare, most positives will be false positives (low PPV). PPV drops as prevalence drops."},
+      {"text": "Specificity should be lower.", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "Reliability is poor.", "explanation": "This marker or finding is associated with different conditions, not the one described here."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Positive Predictive Value (PPV) is directly proportional to disease prevalence. In rare diseases, even highly specific tests can generate more False Positives than True Positives.",
+    "pdfPage": 59,
+    "slideImageDescription": "The slide discussing 'Back to our case' and PPV emphasizes that PPV is the probability helpful for the patient, and context implies its dependence on the population characteristics."
+  },
+  {
+    "id": 19,
+    "category": "Endemic vs Epidemic",
+    "questionText": "The mysterious illness is found to be constantly present at low levels in Senegal. However, in the US, it was absent until recently and now shows a spike in cases. The status in Senegal is _____ while the status in the US is _____.",
+    "options": [
+      {"text": "Epidemic; Endemic", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Endemic; Epidemic", "explanation": "Endemic = habitual presence. Epidemic = excess of normal expectancy (which was zero in US)."},
+      {"text": "Pandemic; Endemic", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Endemic; Pandemic", "explanation": "US is a region, not world."},
+      {"text": "Hyperendemic; Holoendemic", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Endemic refers to the constant, habitual presence of a disease in a geography. Epidemic refers to case numbers clearly in excess of normal expectancy.",
+    "pdfPage": 31,
+    "slideImageDescription": "The slide 'Endemic, Epidemic, Pandemic' defines Endemic as 'Habitual presence' and Epidemic as 'Occurrence... in excess of normal expectancy'."
+  },
+  {
+    "id": 20,
+    "category": "Survival Curves",
+    "questionText": "To visualize the probability of a patient surviving 5 years after a new cancer diagnosis, considering that patients enter the study at different times and some are lost to follow-up, which method is most appropriate?",
+    "options": [
+      {"text": "Scatter plot", "explanation": "Scatter plot is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Kaplan-Meier Curve", "explanation": "Standard method for estimating survival functions from time-to-event data, handling censored data (lost to follow-up)."},
+      {"text": "Histogram", "explanation": "Histogram is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Box and whisker plot", "explanation": "Box and whisker plot is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Forest plot", "explanation": "Forest plot is not the primary characteristic or cause of the condition described in this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Kaplan-Meier curves are the standard for visualizing time-to-event data (survival), allowing for the inclusion of censored data (patients who don't reach the endpoint or are lost).",
+    "pdfPage": 61,
+    "slideImageDescription": "The slide 'SURVIVAL' mentions: 'There are multiple methods to make these curves. One of the most common is the Kaplan Meier curve.'"
+  },
+  {
+    "id": 21,
+    "category": "Prevalence Calculation",
+    "questionText": "In a nursing home of 100 residents, 20 have hypertension on January 1st. No new cases develop, and no one dies or moves out. What is the point prevalence of hypertension on January 1st?",
+    "options": [
+      {"text": "10%", "explanation": "10% is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "20%", "explanation": "Prevalence = Cases / Total Population = 20 / 100 = 20%."},
+      {"text": "80%", "explanation": "80% is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "0.2 per person-year", "explanation": "This is a rate, not a proportion."},
+      {"text": "Cannot be calculated", "explanation": "Cannot be calculated is not the primary characteristic or cause of the condition described in this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Prevalence is a proportion (percentage) reflecting the 'snapshot' burden of disease at a specific time point.",
+    "pdfPage": 10,
+    "slideImageDescription": "The slide 'Prevalence rate' defines it as: Number of affected persons / Number of persons in the population at that time."
+  },
+  {
+    "id": 22,
+    "category": "Primary Prevention",
+    "questionText": "A city imposes a tax on sugary beverages to decrease the incidence of obesity and Type 2 diabetes. This policy is an example of:",
+    "options": [
+      {"text": "Primary Prevention", "explanation": "Aims to prevent the development of the disease (obesity/diabetes) in healthy people."},
+      {"text": "Secondary Prevention", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Tertiary Prevention", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Treatment", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Surveillance", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Primary prevention targets the pre-pathogenesis phase to prevent the biological onset of disease (e.g., lifestyle modification, immunization).",
+    "pdfPage": 39,
+    "slideImageDescription": "The slide 'Disease Prevention' (Primary) vs 'What kind of prevention is vaccination?' (Answer: Primary) establishes the concept of preventing initial development."
+  },
+  {
+    "id": 23,
+    "category": "Crude vs Specific Rates",
+    "questionText": "Florida has a higher crude mortality rate than Alaska. However, when age-adjusted, Alaska's mortality rate is higher. What is the most likely explanation?",
+    "options": [
+      {"text": "Florida has a better healthcare system.", "explanation": "Unrelated to the age adjustment logic."},
+      {"text": "Florida has an older population.", "explanation": "Older populations naturally have higher crude death rates. Age-adjustment removes this confounder, revealing the 'true' underlying rate comparison."},
+      {"text": "Alaska has more dangerous jobs.", "explanation": "Might explain the higher adjusted rate, but the question asks about the discrepancy."},
+      {"text": "Documentation error.", "explanation": "Documentation error. is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Different diseases are endemic.", "explanation": "Different diseases are endemic. is not the primary characteristic or cause of the condition described in this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Crude rates is confounded by population structure (like age). Old populations have high crude mortality. Age-adjusted rates allow for valid comparisons between populations with different age structures.",
+    "pdfPage": 35,
+    "slideImageDescription": "The slide 'Crude Rates' warns: 'Use crude rates with caution... differences... may be the result of systematic factors (e.g., gender or age distributions).'"
+  },
+  {
+    "id": 24,
+    "category": "Screening Ethics",
+    "questionText": "A test exists for a fatal neurological genetic disorder that has no cure and manifests at age 40. Screening the general population for this gene is generally controversial because:",
+    "options": [
+      {"text": "The test is too expensive.", "explanation": "Cost is a factor, but not the primary ethical one."},
+      {"text": "It lacks a 'Suitable Test'.", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "It violates the 'Suitable Screening Program' criteria (no benefit from early detection).", "explanation": "Screening requires that early detection leads to improved survival or quality of life. If there is no treatment, knowing early creates anxiety/morbidity without benefit."},
+      {"text": "The prevalence is too high.", "explanation": "Low prev is usually the issue."},
+      {"text": "Sensitivity is too low.", "explanation": "Ethical issue remains even with high sens."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "A key criterion for screening is that early detection must improve outcomes. Screening for untreatable diseases violates this by causing psychological harm without clinical benefit.",
+    "pdfPage": 48,
+    "slideImageDescription": "The slide 'Screening' mentions 'Screening can create morbidity and anxiety' and requires a 'Suitable disease' and 'Suitable screening program'."
+  },
+  {
+    "id": 25,
+    "category": "Gold Standard",
+    "questionText": "To determine the Validity (Sensitivity/Specificity) of a new rapid COVID test, you must compare its results against:",
+    "options": [
+      {"text": "Clinical symptoms", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "The Gold Standard Diagnostic Test (e.g., PCR)", "explanation": "Validity measures are derived from a 2x2 table comparing the Screening Test vs the Gold Standard (Truth)."},
+      {"text": "A previous version of the rapid test", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "Patient self-report", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "Population prevalence", "explanation": "This marker or finding is associated with different conditions, not the one described here."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "The 'Gold Standard' is the best available test that represents the biological 'truth' of disease status, used to calibrate and validate new screening tests.",
+    "pdfPage": 50,
+    "slideImageDescription": "The slide 'Gold Standard - Diagnostic Test' shows the columns of the 2x2 table labeled 'Present' and 'Absent' based on this standard."
+  },
+  {
+    "id": 26,
+    "category": "Reliability",
+    "questionText": "Three different doctors measure the same patient's heart rate and get 72, 71, and 73 bpm. A fourth doctor uses a machine that measures it as 95, 95, and 95 bpm. The actual heart rate is 72. The machine is:",
+    "options": [
+      {"text": "Reliable and Valid", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Valid but not Reliable", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Reliable but not Valid", "explanation": "High consistency (95, 95, 95) means high reliability/precision, but low accuracy (real is 72) means low validity."},
+      {"text": "Neither", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Sensitive", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Reliability (Precision) is the ability to produce the same result on repeated trials. It does not ensure correctness (Validity/Accuracy).",
+    "pdfPage": 53,
+    "slideImageDescription": "The slide 'Reliability' defines it as 'The ability of a measuring instrument to give consistent results on repeated trials'."
+  },
+  {
+    "id": 27,
+    "category": "Incidence Calculation",
+    "questionText": "1000 people are followed for 5 years. 100 develop the disease. What is the cumulative incidence?",
+    "options": [
+      {"text": "5%", "explanation": "5% is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "10%", "explanation": "100 cases / 1000 people = 0.10 or 10% over 5 years."},
+      {"text": "20%", "explanation": "20% is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "10 per 1000 person-years", "explanation": "10 per 1000 person-years is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "0.1 per year", "explanation": "0.1 per year is not the primary characteristic or cause of the condition described in this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Cumulative Incidence is a proportion (risk) calculated as New Cases / Population at Risk at the start of the defined period.",
+    "pdfPage": 8,
+    "slideImageDescription": "The slide defining Incidence Rate implies the concept of new cases / population. (Note: simple CI usage)."
+  },
+  {
+    "id": 28,
+    "category": "Adjusted Rates",
+    "questionText": "When comparing cancer mortality between a retirement community and a college town, you must use age-adjusted rates because:",
+    "options": [
+      {"text": "College students participate in riskier behaviors.", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Retirement communities have better access to care.", "explanation": "Confounder, but age is the big one."},
+      {"text": "Age is a strong confounding variable for cancer mortality.", "explanation": "Cancer risk increases with age. Since the populations have vastly different age structures, crude rates will misleadingly show higher mortality in the older group solely due to age."},
+      {"text": "The populations are too small.", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Incidence is unknown.", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Standardization (Adjustment) removes the effect of a confounder (like age) to allow for fair comparisons between differing populations.",
+    "pdfPage": 37,
+    "slideImageDescription": "The slide 'Adjustment for Demographic Factors' states the purpose is to 'eliminate the effects of any differences in age or other factors'."
+  },
+  {
+    "id": 29,
+    "category": "Specificity Implication",
+    "questionText": "A screening test has 100% Specificity. If a patient tests positive on this test, you can conclude:",
+    "options": [
+      {"text": "They definitely have the disease.", "explanation": "100% Specificity means 0% False Positives. Therefore, a Positive result MUST be a True Positive (SPIN = Specificity Positive rules IN)."},
+      {"text": "They definitely do NOT have the disease.", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "The test result is inconclusive.", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "The PPV is low.", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "They need a confirmatory test.", "explanation": "Ideally yes, but statistically it's certain."}
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "SpIN: A test with high Specificity, when Positive, helps rule IN the disease (because False Positives are rare/nonexistent).",
+    "pdfPage": 51,
+    "slideImageDescription": "The slide defining Specificity leads to the logic that if you only identify non-diseased as negative, a positive must be real."
+  },
+  {
+    "id": 30,
+    "category": "Sensitivity Implication",
+    "questionText": "A screening test has 100% Sensitivity. If a patient tests negative on this test, you can conclude:",
+    "options": [
+      {"text": "They definitely have the disease.", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "They definitely do NOT have the disease.", "explanation": "100% Sensitivity means 0% False Negatives. Therefore, a Negative result MUST be a True Negative (SnOUT = Sensitivity Negative rules OUT)."},
+      {"text": "The test is invalid.", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "The specificity must also be high.", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "The disease is rare.", "explanation": "This marker or finding is associated with different conditions, not the one described here."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "SnOUT: A test with high Sensitivity, when Negative, helps rule OUT the disease (because False Negatives are rare/nonexistent).",
+    "pdfPage": 51,
+    "slideImageDescription": "Implicit in the definition of Sensitivity in the 'Measures of Validity' slide."
+  },
+  {
+    "id": 31,
+    "category": "Definition of Epidemiology",
+    "questionText": "Epidemiology is best defined as the study of the patterns, causes, and effects of health conditions in:",
+    "options": [
+      {"text": "Individual patients (Case reports)", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Laboratory petri dishes (In vitro)", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Defined populations", "explanation": "Epidemiology focuses on population health."},
+      {"text": "Hospital administrations", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Animal models", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Epidemiology is the fundamental science of public health, focusing on disease distribution and determinants in Populations, not individuals.",
+    "pdfPage": 3,
+    "slideImageDescription": "The slide 'Session Objectives' / 'Definition' defines Epidemiology as the study of... in 'defined populations'."
+  },
+  {
+    "id": 32,
+    "category": "Secondary Prevention",
+    "questionText": "A 45-year-old woman gets her annual mammogram. She has no symptoms. The goal is to detect potential cancer early to treat it more effectively. This is:",
+    "options": [
+      {"text": "Primary Prevention", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Secondary Prevention", "explanation": "Early detection/screening of asymptomatic disease."},
+      {"text": "Tertiary Prevention", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Quaternary Prevention", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Treatment", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Secondary prevention involves screening and early diagnosis to halt the progress of disease in its early, often asymptomatic, stages.",
+    "pdfPage": 39,
+    "slideImageDescription": "The slide 'Disease Prevention' defines Secondary Prevention as 'Early detection of an existing disease'."
+  },
+  {
+    "id": 33,
+    "category": "Interpreting Negative Results",
+    "questionText": "A doctor uses a test with low Sensitivity to rule out a dangerous condition like Pulmonary Embolism. This is dangerous because:",
+    "options": [
+      {"text": "It will generate too many False Positives.", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "It will generate too many False Negatives.", "explanation": "Low Sensitivity means you miss actual cases (False Negatives). Missing a fatal PE is catastrophic."},
+      {"text": "The test is too expensive.", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "The PPV will be too low.", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "It requires invasive procedures.", "explanation": "This marker or finding is associated with different conditions, not the one described here."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "For dangerous, rule-out conditions, you need a High Sensitivity test. Low sensitivity leads to False Negatives, giving patients a false sense of security while the disease progresses.",
+    "pdfPage": 51,
+    "slideImageDescription": "Implicit in Sensitivity definition (TP/TP+FN). High FN = Low Sens."
+  },
+  {
+    "id": 34,
+    "category": "Pandemic Definition",
+    "questionText": "The text describes an illness spreading to 'Japan, parts of South America, France and England'. This global spread classifies the event as a:",
+    "options": [
+      {"text": "Endemic", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Epidemic", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Pandemic", "explanation": "Worldwide epidemic."},
+      {"text": "Sporadic", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Hyperendemic", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "A Pandemic is an epidemic that has spread over several countries or continents, affecting a large number of people.",
+    "pdfPage": 31,
+    "slideImageDescription": "The slide 'Endemic, Epidemic, Pandemic' defines Pandemic as 'worldwide epidemic'."
+  },
+  {
+    "id": 35,
+    "category": "Relationship of I and P",
+    "questionText": "If a disease is highly lethal (very short duration), and incidence is constant, the prevalence will be:",
+    "options": [
+      {"text": "Very High", "explanation": "Short duration lowers prevalence (P ~= I * D)."},
+      {"text": "Relatively Low", "explanation": "Since Duration is small (death occurs quickly), the 'pool' of prevalence stays small despite new cases."},
+      {"text": "Increasing rapidly", "explanation": "Stable incidence + stable duration = stable prevalence."},
+      {"text": "Decreasing rapidly", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Equal to Sensitivity", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Diseases with short durations (either rapid cure or rapid death) tend to have low prevalence, even if incidence is high.",
+    "pdfPage": 12,
+    "slideImageDescription": "The slide 'Relationship Between Incidence and Prevalence' relates P to I x D."
+  },
+  {
+    "id": 36,
+    "category": "Denominators",
+    "questionText": "When calculating the Incidence of uterine cancer, the denominator should NOT include:",
+    "options": [
+      {"text": "Women over 50", "explanation": "This value is not correct for the parameter described in this clinical scenario."},
+      {"text": "Women who have had a hysterectomy", "explanation": "They do not have a uterus, so they are not 'at risk' and must be removed from the denominator."},
+      {"text": "Women under 20", "explanation": "This value is not correct for the parameter described in this clinical scenario."},
+      {"text": "Women with a history of breast cancer", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Women on HRT", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "The denominator for incidence must only include the 'Population at Risk'. Individuals who biologically cannot get the disease (e.g., organ removed) must be excluded.",
+    "pdfPage": 8,
+    "slideImageDescription": "The slide 'Incidence Rate' explicitly lists the example: 'we calculating incidence of uterine cancer, the denominator must include only women, and they should not have had a hysterectomy'."
+  },
+  {
+    "id": 37,
+    "category": "Count",
+    "questionText": "Reporting '5 cases of Ebola' is a significant epidemiological finding, even without a denominator. This simplest measure is called:",
+    "options": [
+      {"text": "Incidence Rate", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "Prevalence Rate", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "Count", "explanation": "A simple number of cases. Significant for rare/serious diseases."},
+      {"text": "Ratio", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "Proportion", "explanation": "This marker or finding is associated with different conditions, not the one described here."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "For very rare or dangerous diseases (like Ebola), a simple 'Count' is sufficient to trigger a public health response.",
+    "pdfPage": 6,
+    "slideImageDescription": "The slide 'Count' states it is 'Significant for rare diseases... e.g., case of Ebola virus'."
+  },
+  {
+    "id": 38,
+    "category": "Ratio vs Rate",
+    "questionText": "A 'Rate' differs from a simple 'Ratio' because a Rate always includes:",
+    "options": [
+      {"text": "A percent sign", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Time in the denominator", "explanation": "Definition of rate involves change over time."},
+      {"text": "A constant multiplier", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Prevalence", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Incidence", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "A true Rate must imply a time dimension (velocity of disease occurrence), distinguishing it from a simple proportion or ratio.",
+    "pdfPage": 7,
+    "slideImageDescription": "The slide 'Rate' definition: 'a ratio... in which time forms part of the denominator'."
+  },
+  {
+    "id": 39,
+    "category": "2x2 Table Labels",
+    "questionText": "In a standard screening 2x2 table, cell 'C' (bottom left) represents:",
+    "options": [
+      {"text": "True Positives", "explanation": "A (not the primary mechanism in this scenario)."},
+      {"text": "False Positives", "explanation": "B (not the primary mechanism in this scenario)."},
+      {"text": "True Negatives", "explanation": "D (not the primary mechanism in this scenario)."},
+      {"text": "False Negatives", "explanation": "Cell C: Screen Negative but Disease Positive (False Negative)."},
+      {"text": "Total Population", "explanation": "This cell type or cellular mechanism is not primarily involved in this process."}
+    ],
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "In a standard 2x2 table (Disease columns, Test rows), False Negatives are those who have the disease (Column 1) but test negative (Row 2).",
+    "pdfPage": 50,
+    "slideImageDescription": "The slide 'Screening Test Result' 2x2 table visually places False Negative in the C position (Negative Test, Present Disease)."
+  },
+  {
+    "id": 40,
+    "category": "Kaplan Meier",
+    "questionText": "In a Kaplan-Meier survival curve, the y-axis represents the 'Survival Probability' which:",
+    "options": [
+      {"text": "Increases over time", "explanation": "Survival can only go down or stay flat."},
+      {"text": "Starts at 1.0 (100%) and decreases with each death", "explanation": "Everyone is alive at t=0. The curve steps down at each event."},
+      {"text": "Represents the number of patients", "explanation": "Represents the number of patients is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Is always linear", "explanation": "Is always linear is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Cannot reach zero", "explanation": "Cannot reach zero is not the primary characteristic or cause of the condition described in this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Survival curves always start at 100% and step down. They illustrate the cumulative probability of surviving past a certain time point.",
+    "pdfPage": 61,
+    "slideImageDescription": "The slide 'SURVIVAL' describes calculating probability of surviving year 1, then year 2, etc., implying the product limit method starting from 100%."
+  }
 ];

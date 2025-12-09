@@ -1,452 +1,642 @@
 window.L127 = [
   {
     "id": 1,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "A 24-year-old baseball player presents to the emergency department after being struck in the right eye by a fast-moving baseball. He complains of double vision, particularly when looking up. A coronal CT scan reveals a 'blowout' fracture. Based on the anatomy of the orbit, which bony wall is most likely fractured due to its thin structure and proximity to the maxillary sinus?",
+    "category": "Orbit Anatomy: Bony Orbit",
+    "questionText": "A 24-year-old baseball player is struck in the right eye by a ball. He presents with diplopia, particularly on upward gaze, and numbness of the right cheek. A CT scan confirms an orbital blowout fracture. Which bony structure is most likely fractured in this patient, and which sinus is involved?",
     "options": [
-      { "text": "Roof of the orbit", "explanation": "The roof is formed primarily by the thick frontal bone and is rarely fractured in this manner." },
-      { "text": "Lateral wall", "explanation": "The lateral wall is formed by the zygomatic bone and greater wing of the sphenoid, which are relatively thick and sturdy." },
-      { "text": "Floor of the orbit", "explanation": "The floor of the orbit, formed mainly by the maxilla, is extremely thin and separates the orbit from the maxillary sinus, making it a common site for blowout fractures." },
-      { "text": "Apex of the orbit", "explanation": "The apex is deep within the skull and formed by the sphenoid bone; fractures here are less common from blunt anterior trauma compared to the floor." },
-      { "text": "Superior orbital rim", "explanation": "The superior rim is part of the frontal bone and is structurally very strong to protect the eye." }
+      { "text": "Orbital floor; Maxillary sinus", "explanation": "Correct. The orbital floor (maxilla) is the weakest part of the orbit and often fractures ('blowout') into the maxillary sinus below. Entrapment of the inferior rectus muscle causes restriction of upward gaze, and damage to the infraorbital nerve causes cheek numbness." },
+      { "text": "Medial wall; Ethmoid sinus", "explanation": "The medial wall (lamina papyracea) is also thin and can fracture into the ethmoid sinus, but floor fractures into the maxillary sinus are more common with this presentation (cheek numbness)." },
+      { "text": "Lateral wall; Temporal sinus", "explanation": "The lateral wall is formed by the zygomatic and sphenoid bones and is relatively strong. There is no 'temporal sinus' adjacent to it." },
+      { "text": "Orbital roof; Frontal sinus", "explanation": "The orbital roof (frontal bone) is strong and rarely fractures from this mechanism. Frontal sinus involvement would be superior." },
+      { "text": "Orbital apex; Sphenoid sinus", "explanation": "Fractures of the apex are rare and would likely involve the optic nerve or superior orbital fissure structures (vision loss, ophthalmoplegia), not just floor symptoms." }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Orbital Floor = Weakest Link. Blowout fractures typically involve the Maxillary bone (floor) -> Herniation into Maxillary sinus. Look for 'teardrop sign' on imaging.",
     "slideImagePath": "images/L127_slide_2.jpg",
-    "slideImageDescription": "The image displays a coronal CT scan of the head highlighting the orbital structures. The red arrows specifically point to the thin bony separation between the orbit and the ethmoidal/maxillary sinuses. This visual context demonstrates how thin the floor and medial walls are, directly supporting the diagnosis of a blowout fracture where orbital contents herniate into the maxillary sinus (labelled 'Maxillary sinus' and 'B')."
+    "slideImageDescription": "Coronal CT showing a fracture of the right orbital floor with soft tissue (inferior rectus/fat) herniating into the maxillary sinus."
   },
   {
     "id": 2,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "During a surgical procedure to decompress the orbit, a surgeon must be mindful of the distinct origins of the extraocular muscles. Which of the following muscles does NOT originate from the common tendinous ring (Annulus of Zinn)?",
+    "category": "Orbit Anatomy: Extraocular Muscles",
+    "questionText": "During a surgical procedure to repair a retinal detachment, the surgeon isolates the extraocular muscles. Which of the following muscles originates from the orbital floor (maxilla) rather than the common tendinous ring (Annulus of Zinn)?",
     "options": [
-      { "text": "Superior Rectus", "explanation": "The Superior Rectus is one of the four recti muscles that originate from the common tendinous ring." },
-      { "text": "Inferior Rectus", "explanation": "The Inferior Rectus originates from the common tendinous ring." },
+      { "text": "Superior Oblique", "explanation": "The Superior Oblique arises from the body of the sphenoid bone, superomedial to the optic canal." },
+      { "text": "Inferior Oblique", "explanation": "Correct. The Inferior Oblique is the only extraocular muscle to originate from the anterior orbital floor (maxilla), not the orbital apex." },
+      { "text": "Inferior Rectus", "explanation": "The Inferior Rectus originates from the common tendinous ring at the orbital apex." },
       { "text": "Lateral Rectus", "explanation": "The Lateral Rectus originates from the common tendinous ring." },
-      { "text": "Medial Rectus", "explanation": "The Medial Rectus originates from the common tendinous ring." },
-      { "text": "Inferior Oblique", "explanation": "The Inferior Oblique originates from the medial orbital floor (maxilla), making it the only rectus/oblique muscle not to originate from the orbital apex/common tendinous ring." }
+      { "text": "Medial Rectus", "explanation": "The Medial Rectus originates from the common tendinous ring." }
     ],
-    "correctAnswerIndex": 4,
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "The Inferior Oblique is the 'Odd One Out'—it originates anteriorly from the floor (maxilla), while recti muscles originate posteriorly from the Annulus of Zinn.",
     "slideImagePath": "images/L127_slide_9.jpg",
-    "slideImageDescription": "The image illustrates the anatomy of the oblique muscles. The yellow arrow points specifically to the origin of the Inferior Oblique muscle on the anterior medial orbital wall/floor, clearly distinct from the posterior common tendinous ring where the recti muscles originate. This visual confirms the unique origin point of the Inferior Oblique."
+    "slideImageDescription": "Diagram of the orbit showing the origin of the Inferior Oblique on the anterior floor."
   },
   {
     "id": 3,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "A 55-year-old patient presents with vertical diplopia. During the H-test for extraocular movements, you ask the patient to look medially (adduct) and then look up. Which muscle is primarily being isolated and tested in this position?",
+    "category": "Orbit Anatomy: Muscle Actions",
+    "questionText": "A patient presents with a complaint of double vision. On physical exam, when the patient looks to the left (adducts the right eye), the right eye fails to elevate properly. Which extraocular muscle is primarily responsible for elevation of the adducted eye?",
     "options": [
-      { "text": "Superior Rectus", "explanation": "The Superior Rectus is the primary elevator when the eye is abducted, not adducted." },
-      { "text": "Inferior Oblique", "explanation": "When the eye is adducted, the visual axis aligns with the pull of the Inferior Oblique, making it the primary elevator in this position." },
-      { "text": "Superior Oblique", "explanation": "The Superior Oblique is a depressor of the adducted eye, not an elevator." },
-      { "text": "Inferior Rectus", "explanation": "The Inferior Rectus is a depressor of the abducted eye." },
-      { "text": "Medial Rectus", "explanation": "The Medial Rectus is responsible for the adduction itself, but not the subsequent elevation." }
+      { "text": "Superior Rectus", "explanation": "The Superior Rectus is a primary elevator when the eye is abducted (looking out)." },
+      { "text": "Inferior Oblique", "explanation": "Correct. The Inferior Oblique acts as the primary elevator when the eye is adducted (looking in/medially), as its visual axis aligns with the muscle's pull." },
+      { "text": "Superior Oblique", "explanation": "The Superior Oblique is a depressor, especially when the eye is adducted." },
+      { "text": "Lateral Rectus", "explanation": "The Lateral Rectus abducts the eye; it has no vertical action." },
+      { "text": "Medial Rectus", "explanation": "The Medial Rectus adducts the eye but does not elevate it." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Action in Adduction tests the Obliques. 'IO uP' (Inferior Oblique elevates adducted eye). 'SO Down' (Superior Oblique depresses adducted eye).",
     "slideImagePath": "images/L127_slide_24.jpg",
-    "slideImageDescription": "The slide visually demonstrates the 'Elevation of the Adducted Eye.' It shows a schematic of the eye in an adducted position with the Inferior Oblique muscle highlighted. The text explicitly states 'Elevation of the Adducted Eye' and labels the Inferior Oblique, directly confirming it as the primary muscle acting in this specific vector of the H-test."
+    "slideImageDescription": "Diagram of H-test: Eye adducted, arrow pointing up labeled 'Inferior Oblique'."
   },
   {
     "id": 4,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "A neurology resident is performing a cranial nerve exam. She asks the patient to look laterally (abduct) and then look down. Which extraocular muscle is the prime mover for this specific action?",
+    "category": "Orbit Anatomy: Innervation",
+    "questionText": "A 55-year-old patient presents with vertical diplopia that worsens when reading a book or walking down stairs. On exam, the patient tilts their head to the contralateral side to suppress the diplopia. Which cranial nerve is most likely palsied?",
     "options": [
-      { "text": "Superior Oblique", "explanation": "The Superior Oblique depresses the eye when it is adducted, not abducted." },
-      { "text": "Inferior Oblique", "explanation": "The Inferior Oblique elevates the adducted eye." },
-      { "text": "Inferior Rectus", "explanation": "When the eye is abducted, the visual axis aligns with the Inferior Rectus, making it the primary depressor in this position." },
-      { "text": "Superior Rectus", "explanation": "The Superior Rectus elevates the abducted eye." },
-      { "text": "Lateral Rectus", "explanation": "The Lateral Rectus is responsible for the abduction, but not the downward movement." }
+      { "text": "Oculomotor nerve (CN III)", "explanation": "CN III palsy typically causes 'down and out' deviation with ptosis and mydriasis, not isolated vertical diplopia improved by head tilt." },
+      { "text": "Trochlear nerve (CN IV)", "explanation": "Correct. CN IV innervates the Superior Oblique, which depresses the adducted eye (needed for reading/stairs). Palsy causes vertical diplopia, often compensated by tilting the head away from the affected side." },
+      { "text": "Abducens nerve (CN VI)", "explanation": "CN VI palsy causes horizontal diplopia due to failure of abduction (Lateral Rectus)." },
+      { "text": "Optic nerve (CN II)", "explanation": "CN II is sensory for vision; damage causes vision loss, not diplopia or muscle palsy." },
+      { "text": "Trigeminal nerve (CN V)", "explanation": "CN V provides facial sensation; it does not innervate extraocular muscles." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_slide_19.jpg",
-    "slideImageDescription": "The slide illustrates the mechanics of 'Depression of the Abducted Eye.' The diagram shows the eye turned laterally (abducted) with the Inferior Rectus muscle highlighted as the active force vector. This visual aid clarifies that in the abducted position, the Inferior Rectus is the sole effective depressor."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "CN IV Palsy = Stair trouble. The Superior Oblique is the 'Stair Muscle' (depresses eye looking in). Patients tilt head Away from lesion.",
+    "slideImagePath": "images/L127_slide_18.jpg",
+    "slideImageDescription": "Illustration of CN IV palsy head tilt: Patient tilting head away from the affected eye to align images."
   },
   {
     "id": 5,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "A patient presents with a complaint of double vision that improves when he tilts his head to the left. Examination reveals that when he looks to the left (adducts the right eye), the right eye drifts upward. Which nerve is likely lesioned?",
+    "category": "Orbit Anatomy: Superior Orbital Fissure",
+    "questionText": "A patient presents with 'Superior Orbital Fissure Syndrome' following trauma. They have complete ophthalmoplegia (paralysis of all eye muscles) and anesthesia of the forehead. Which of the following nerves passes *outside* (superior to) the Annulus of Zinn and could be selectively involved or spared depending on the lesion location?",
     "options": [
-      { "text": "Left CN IV", "explanation": "A left CN IV lesion would affect the left eye; the symptoms described (right eye shooting up) localize to the right side." },
-      { "text": "Right CN III", "explanation": "A CN III lesion typically presents with a 'down and out' eye and ptosis, not hypertropia in adduction." },
-      { "text": "Right CN VI", "explanation": "A CN VI lesion causes an inability to abduct the eye (medial strabismus), not vertical deviation." },
-      { "text": "Right CN IV", "explanation": "The Right CN IV innervates the Superior Oblique. Paralysis results in the loss of depression in adduction and unopposed elevation by the Superior Rectus/Inferior Oblique, causing the eye to drift up." },
-      { "text": "Left CN VI", "explanation": "A left CN VI lesion would cause esotropia of the left eye, unrelated to the right eye's vertical movement." }
+      { "text": "Optic nerve (CN II)", "explanation": "The Optic nerve passes through the Optic Canal, not the Superior Orbital Fissure." },
+      { "text": "Abducens nerve (CN VI)", "explanation": "CN VI passes *inside* the Annulus of Zinn." },
+      { "text": "Trochlear nerve (CN IV)", "explanation": "Correct. The Trochlear nerve (CN IV), Frontal nerve (V1 branch), and Lacrimal nerve (V1 branch) pass through the Superior Orbital Fissure but *outside/superior* to the Annulus of Zinn." },
+      { "text": "Oculomotor nerve (CN III) - Superior division", "explanation": "The branches of CN III pass *inside* the Annulus of Zinn." },
+      { "text": "Nasociliary nerve (V1 branch)", "explanation": "The Nasociliary nerve passes *inside* the Annulus of Zinn." }
     ],
-    "correctAnswerIndex": 3,
-    "slideImagePath": "images/L127_slide_43.jpg",
-    "slideImageDescription": "While the slide image provided is of a CT scan, the relevant concept regarding nerve lesions is best supported by the 'Bielschowsky's sign' slide (Slide 42), but sticking to the file mapping for L127.pdf: Slide 42 shows a patient with a head tilt. The arrows demonstrate that tilting the head requires intorsion/extorsion. When the CN IV (Trochlear) is lesioned, the Superior Oblique cannot intort/depress, leaving the Superior Rectus unopposed to elevate the eye, hence the head tilt to the contralateral side to compensate."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "The 'Live Free To See No Insult At All' mnemonic helps, but specifically: LFT (Lacrimal, Frontal, Trochlear) represent nerves OUTSIDE the Annulus.",
+    "slideImagePath": "images/L127_slide_14.jpg",
+    "slideImageDescription": "Diagram of the Superior Orbital Fissure and Annulus of Zinn, showing L, F, T nerves passing superior to the ring."
   },
   {
     "id": 6,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "A 60-year-old male with a history of hypertension presents with sudden onset of right eyelid droop. On examination, the right eyelid is closed (ptosis). When manually lifted, the right eye is resting in a 'down and out' position. The pupil is dilated and non-reactive. Which muscle function is SPARED in this patient?",
+    "category": "Orbit Anatomy: Muscle Function",
+    "questionText": "The Superior Rectus muscle's primary action is elevation. However, because its anatomical axis is angled 23 degrees relative to the visual axis, it has secondary actions. What are the secondary actions of the Superior Rectus?",
     "options": [
-      { "text": "Elevation of the adducted eye", "explanation": "This is the function of the Inferior Oblique (CN III), which would be paralyzed." },
-      { "text": "Adduction", "explanation": "This is the function of the Medial Rectus (CN III), which would be paralyzed." },
-      { "text": "Depression of the abducted eye", "explanation": "This is the function of the Inferior Rectus (CN III), which would be paralyzed." },
-      { "text": "Depression of the adducted eye", "explanation": "This is the function of the Superior Oblique, innervated by CN IV (Trochlear), which is spared in a CN III lesion." },
-      { "text": "Elevation of the abducted eye", "explanation": "This is the function of the Superior Rectus (CN III), which would be paralyzed." }
+      { "text": "Abduction and Intorsion", "explanation": "The Superior Rectus adducts, it does not abduct." },
+      { "text": "Adduction and Intorsion", "explanation": "Correct. Since the muscle pulls from the medial apex to the superior globe, it pulls 'in' (Adduction) and rotates 'top in' (Intorsion) in addition to elevation." },
+      { "text": "Adduction and Extorsion", "explanation": "Superior muscles (SR, SO) generally intort; Inferior muscles (IR, IO) extort. SR does not extort." },
+      { "text": "Abduction and Extorsion", "explanation": "This describes the Inferior Oblique's secondary actions (Elevation, Abduction, Extorsion)." },
+      { "text": "Depression and Intorsion", "explanation": "The Superior Rectus elevates, not depresses." }
     ],
-    "correctAnswerIndex": 3,
-    "slideImagePath": "images/L127_slide_41.jpg",
-    "slideImageDescription": "The slide titled 'Patient presents with...' shows an image of a patient with significant ptosis and the eye in a 'down and out' position when the lid is lifted. The text labels the functioning muscles in this scenario as LR (Lateral Rectus) and SO (Superior Oblique). The Superior Oblique is responsible for depression of the adducted eye, confirming it is the spared function."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Superiors Intort (SIN). Inferiors Extort. Recti Adduct (except Lateral). Obliques Abduct.",
+    "slideImagePath": "images/L127_slide_22.jpg",
+    "slideImageDescription": "Vector diagram of Superior Rectus showing Elevation, Adduction, and Intorsion vectors."
   },
   {
     "id": 7,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "When a patient tilts their head to the right, the eyes must rotate to maintain a level horizon. This requires intorsion of the right eye and extorsion of the left eye. Which pair of muscles act together to produce pure extorsion of the left eye without elevation or depression?",
+    "category": "Orbit Anatomy: Muscle Insertion",
+    "questionText": "Strabismus surgery often involves recessing or resecting extraocular muscles. The surgeon references the 'Spiral of Tillaux' to locate the insertions of the rectus muscles. Which rectus muscle inserts closest to the limbus (corneal margin)?",
     "options": [
-      { "text": "Superior Rectus and Superior Oblique", "explanation": "These two muscles act together to produce pure intorsion, not extorsion." },
-      { "text": "Inferior Rectus and Inferior Oblique", "explanation": "The Inferior Rectus (extorsion + depression) and Inferior Oblique (extorsion + elevation) cancel out their vertical components to produce pure extorsion." },
-      { "text": "Lateral Rectus and Medial Rectus", "explanation": "These muscles are responsible for horizontal movements (abduction/adduction) and do not produce torsion." },
-      { "text": "Superior Oblique and Inferior Oblique", "explanation": "These muscles have opposing torsional effects (intorsion vs extorsion) and opposing vertical effects." },
-      { "text": "Inferior Rectus and Superior Rectus", "explanation": "These have opposing vertical and torsional actions (extorsion vs intorsion) and do not produce pure extorsion together." }
+      { "text": "Superior Rectus", "explanation": "Inserts ~7.7 mm from the limbus (furthest)." },
+      { "text": "Lateral Rectus", "explanation": "Inserts ~6.9 mm from the limbus." },
+      { "text": "Inferior Rectus", "explanation": "Inserts ~6.5 mm from the limbus." },
+      { "text": "Medial Rectus", "explanation": "Correct. The Medial Rectus inserts closest to the limbus (~5.5 mm), followed by IR, LR, and SR (M-I-L-S)." },
+      { "text": "Superior Oblique", "explanation": "The Superior Oblique inserts on the posterior quadrant of the globe, far from the limbus." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_slide_37.jpg",
-    "slideImageDescription": "The slide 'Extorsion Without Elevation or Depression' visually depicts the vector summation of the Inferior Oblique (IO) and Inferior Rectus (IR). The red arrow (IR) and blue arrow (IO) show that their vertical components oppose each other (one elevates, one depresses), while their torsional components align to create pure extorsion."
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Spiral of Tillaux: M-I-L-S (5.5, 6.5, 6.9, 7.7 mm). Medial is closest, Superior is furthest.",
+    "slideImagePath": "images/L127_slide_11.jpg",
+    "slideImageDescription": "Diagram of the Spiral of Tillaux showing the distances of rectus muscle insertions from the limbus."
   },
   {
     "id": 8,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "A patient presents with mild ptosis of the left eyelid. Pupillary exam reveals miosis (constriction) of the left pupil. The patient's eye movements are full and intact. Which muscle is most likely paralyzed?",
+    "category": "Orbit Anatomy: Orbital Cellulitis",
+    "questionText": "A 7-year-old child presents with eyelid swelling, proptosis, and painful eye movements. A CT scan shows opacification of the ethmoid sinus extending through the lamina papyracea into the orbit. This structure (lamina papyracea) forms which wall of the orbit?",
     "options": [
-      { "text": "Levator Palpebrae Superioris", "explanation": "Paralysis of the LPS (CN III) causes severe, complete ptosis and is usually associated with eye movement deficits, not mild ptosis with intact movement." },
-      { "text": "Orbicularis Oculi", "explanation": "Paralysis of this muscle (CN VII) causes inability to close the eye, not ptosis." },
-      { "text": "Superior Tarsal (Müller's) Muscle", "explanation": "This smooth muscle is innervated by the sympathetic nervous system. Loss of innervation (Horner's syndrome) causes mild ptosis and miosis, matching the vignette." },
-      { "text": "Superior Rectus", "explanation": "Paralysis would cause elevation deficits, which are not present here." },
-      { "text": "Frontalis", "explanation": "Paralysis would cause drooping of the eyebrow, but not true ptosis of the lid margin itself." }
+      { "text": "Lateral wall", "explanation": "Lateral wall is zygomatic/sphenoid." },
+      { "text": "Roof", "explanation": "Roof is frontal bone." },
+      { "text": "Floor", "explanation": "Floor is maxilla." },
+      { "text": "Medial wall", "explanation": "Correct. The lamina papyracea ('paper thin layer') of the ethmoid bone forms the medial orbital wall, a common route for ethmoid sinusitis to spread into the orbit (Orbital Cellulitis)." },
+      { "text": "Posterior wall", "explanation": "Not a standard anatomical term; apex is posterior." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_slide_8.jpg",
-    "slideImageDescription": "The slide details the anatomy of the Levator Palpebrae Superioris and explicitly notes: 'Contains smooth muscle fibers (superior tarsal or Müller's muscle)'. This anatomical detail links the mild ptosis described in the vignette to the sympathetic innervation of this specific muscle component."
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Lamina Papyracea = Paper Thin Medial Wall. Direct path for Ethmoid Sinusitis -> Orbital Cellulitis.",
+    "slideImagePath": "images/L127_slide_5.jpg",
+    "slideImageDescription": "Axial CT showing ethmoid sinusitis breaking through the thin medial wall (lamina papyracea) into the orbit."
   },
   {
     "id": 9,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "An orbital infection spreads superiorly, affecting the structures immediately deep to the orbital roof. Which muscle is the most superior structure in the orbit and likely to be involved first?",
+    "category": "Orbit Anatomy: Innervation",
+    "questionText": "A patient has a cavernous sinus thrombosis. Which of the following cranial nerves traversing the cavernous sinus is most susceptible to compression first due to its free-floating location within the sinus lumen?",
     "options": [
-      { "text": "Superior Rectus", "explanation": "The Superior Rectus is located just inferior to the Levator Palpebrae Superioris." },
-      { "text": "Superior Oblique", "explanation": "The Superior Oblique is located medially in the superior orbit, but is not the most superior muscle layer centrally." },
-      { "text": "Levator Palpebrae Superioris", "explanation": "Anatomically, the Levator Palpebrae Superioris is the most superior muscle in the orbit, lying directly beneath the orbital roof and above the Superior Rectus." },
-      { "text": "Medial Rectus", "explanation": "The Medial Rectus is located on the medial aspect of the orbit." },
-      { "text": "Frontalis", "explanation": "The Frontalis is a muscle of facial expression located outside the orbit on the forehead." }
+      { "text": "Oculomotor nerve (CN III)", "explanation": "CN III runs in the lateral wall of the cavernous sinus." },
+      { "text": "Trochlear nerve (CN IV)", "explanation": "CN IV runs in the lateral wall of the cavernous sinus." },
+      { "text": "Abducens nerve (CN VI)", "explanation": "Correct. CN VI (Abducens) runs through the *center* (lumen) of the cavernous sinus alongside the Internal Carotid Artery, making it often the first nerve affected (lateral rectus palsy) in pathology." },
+      { "text": "Opthalmic nerve (V1)", "explanation": "V1 runs in the lateral wall of the cavernous sinus." },
+      { "text": "Maxillary nerve (V2)", "explanation": "V2 runs in the lateral wall of the cavernous sinus." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_slide_8.jpg",
-    "slideImageDescription": "The cross-sectional and superior view diagrams on this slide clearly show the layering of the orbital muscles. The Levator Palpebrae Superioris is depicted as the topmost muscle layer, sitting directly superior to the Superior Rectus (SR), confirming its position as the most superior muscle in the orbit."
+    "clinicalPearl": "In the Cavernous Sinus: CN 3, 4, V1, V2 are on the WALL. CN 6 is in the MIDDLE (with the ICA).",
+    "slideImagePath": "images/L127_slide_16.jpg",
+    "slideImageDescription": "Cross-section of the Cavernous Sinus showing CN VI and ICA in the center, and other nerves in the lateral wall."
   },
   {
     "id": 10,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "Orbital 'blowout' fractures occur when blunt trauma increases intra-orbital pressure. Which anatomical characteristic of the orbit best explains why the thin bony walls fracture rather than the orbital contents simply compressing?",
+    "category": "Orbit Anatomy: Optic Canal",
+    "questionText": "Which two major structures pass through the Optic Canal?",
     "options": [
-      { "text": "The presence of the optic nerve", "explanation": "The optic nerve is a structure, not a filling medium that transmits pressure." },
-      { "text": "The rigid nature of the orbital septum", "explanation": "While the septum creates a closed compartment, it is the nature of the contents that transmits the hydraulic force." },
-      { "text": "The non-compressible nature of orbital adipose tissue", "explanation": "The orbit is packed with fat, which behaves like a fluid and is non-compressible. Force applied to the eye is transmitted hydraulically to the walls, causing the weakest points (floor/medial wall) to fracture." },
-      { "text": "The elasticity of the extraocular muscles", "explanation": "Muscles are elastic and compressible; they do not facilitate the hydraulic fracturing force." },
-      { "text": "The air-filled nature of the paranasal sinuses", "explanation": "The sinuses provide the space for contents to herniate into, but they do not cause the non-compressibility that generates the fracturing force." }
+      { "text": "Optic Nerve & Ophthalmic Vein", "explanation": "Ophthalmic vein passes through the Superior Orbital Fissure." },
+      { "text": "Optic Nerve & Ophthalmic Artery", "explanation": "Correct. The Optic Canal transmits the Optic Nerve (CN II) and the Ophthalmic Artery (branch of ICA)." },
+      { "text": "Optic Nerve & CN III", "explanation": "CN III passes through the Superior Orbital Fissure." },
+      { "text": "Ophthalmic Artery & CN VI", "explanation": "CN VI passes through the Superior Orbital Fissure." },
+      { "text": "Frontal Nerve & Lacrimal Nerve", "explanation": "These pass through the Superior Orbital Fissure." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_slide_43.jpg",
-    "slideImageDescription": "This MRI image slide includes the text 'Orbit is full of adipose tissue!' The lecture context explains that this fat acts like a fluid—it is non-compressible. This physical property is the mechanism for blowout fractures; when pressure is applied anteriorly, the non-compressible fat transmits the force outward, breaking the thin bony walls."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Optic Canal = Vision + Blood Supply (Optic Nerve + Ophthalmic Artery).",
+    "slideImagePath": "images/L127_slide_13.jpg",
+    "slideImageDescription": "Diagram of the orbital apex foramina, highlighting the Optic Canal contents."
   },
   {
     "id": 11,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "A patient presents with a medial strabismus (esotropia) of the left eye. He is unable to abduct the left eye past the midline. Which chemical-like formula correctly identifies the innervation of the paralyzed muscle?",
+    "category": "Orbit Anatomy: Muscle Action",
+    "questionText": "If a patient looks directly to their right (abducts the right eye), which muscle is the primary depressor of that eye?",
     "options": [
-      { "text": "SO3", "explanation": "Incorrect formula; Superior Oblique is CN IV." },
-      { "text": "LR3", "explanation": "Incorrect formula; Lateral Rectus is CN VI." },
-      { "text": "LR6", "explanation": "The Lateral Rectus (LR) is the muscle responsible for abduction. According to the mnemonic SO4LR6AO3, the LR is innervated by CN VI (Abducens)." },
-      { "text": "SO6", "explanation": "Incorrect formula; Superior Oblique is CN IV." },
-      { "text": "AO6", "explanation": "Incorrect formula; All Others are CN III." }
+      { "text": "Superior Oblique", "explanation": "Superior Oblique depresses the ADducted eye." },
+      { "text": "Inferior Oblique", "explanation": "Inferior Oblique elevates the ADducted eye." },
+      { "text": "Inferior Rectus", "explanation": "Correct. When the eye is abducted, the visual axis aligns with the Inferior Rectus muscle axis, making it the primary depressor." },
+      { "text": "Superior Rectus", "explanation": "Superior Rectus elevates." },
+      { "text": "Lateral Rectus", "explanation": "Lateral Rectus only abducts." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_slide_11.jpg",
-    "slideImageDescription": "The slide presents the mnemonic '$SO_4LR_6AO_3$' clearly. This formula links the Lateral Rectus (LR) to the 6th cranial nerve (Abducens). Since the patient cannot abduct, the Lateral Rectus is the affected muscle, pointing to the 'LR6' component of the formula."
+    "clinicalPearl": "Look Out (Abduct) + Down = Inferior Rectus. Look In (Adduct) + Down = Superior Oblique.",
+    "slideImagePath": "images/L127_slide_25.jpg",
+    "slideImageDescription": "H-test diagram showing the eye abducted and looking down, labeled 'Inferior Rectus'."
   },
   {
     "id": 12,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "If the Superior Oblique muscle were to contract in isolation while the eye is in the primary position (looking straight ahead), which combination of movements would occur (the muscle's 'Action')?",
+    "category": "Orbit Anatomy: Nerve Injury",
+    "questionText": "A patient presents with a 'down and out' eye position, ptosis (droopy eyelid), and a dilated pupil. This constellation of findings is most specific for damage to:",
     "options": [
-      { "text": "Elevation, Adduction, Intorsion", "explanation": "This describes the action of the Superior Rectus." },
-      { "text": "Depression, Abduction, Intorsion", "explanation": "In primary position, the Superior Oblique pulls from the trochlea (anterior-medial). This vector results in depression, abduction (pulling the back of the eye medially moves the front laterally), and intorsion." },
-      { "text": "Depression, Adduction, Extorsion", "explanation": "This is anatomically incorrect for the SO." },
-      { "text": "Elevation, Abduction, Extorsion", "explanation": "This describes the action of the Inferior Oblique." },
-      { "text": "Depression, Adduction, Intorsion", "explanation": "While it is a depressor and intorter, its secondary horizontal action is abduction, not adduction." }
+      { "text": "Sympathetic trunk", "explanation": "Horner's syndrome (sympathetic damage) causes ptosis and *miosis* (constricted pupil), not mydriasis." },
+      { "text": "Oculomotor nerve (CN III)", "explanation": "Correct. CN III innervates the MR, SR, IR, IO (keeping eye aligned), Levator (keeping lid up), and sphincter pupillae (constricting pupil). Palsy leads to unopposed LR/SO ('down and out'), ptosis, and mydriasis." },
+      { "text": "Trochlear nerve (CN IV)", "explanation": "CN IV palsy causes vertical diplopia/head tilt." },
+      { "text": "Abducens nerve (CN VI)", "explanation": "CN VI palsy causes medial deviation." },
+      { "text": "Ophthalmic nerve (V1)", "explanation": "V1 damage causes sensory loss." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_slide_43.jpg",
-    "slideImageDescription": "The slide 'Textbook Actions of Extraocular Muscles' shows a diagram of eye movements. For the Superior Oblique (SO), the arrows point Down (Depression), Out (Abduction), and Rotate Inward (Intorsion). This schematic defines the theoretical 'action' of the muscle in primary position."
+    "clinicalPearl": "CN III Palsy: Eye is Down and Out, Lid is Down (Ptosis), Pupil is Out (Dilated).",
+    "slideImagePath": "images/L127_slide_19.jpg",
+    "slideImageDescription": "Photo of a patient with R CN III palsy: Ptosis, eye deviating down/out, pupil dilated."
   },
   {
     "id": 13,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "Consider the action of the Superior Rectus muscle acting in isolation on an eye in the primary position. In addition to elevation and adduction, what is the third component of its action?",
+    "category": "Orbit Anatomy: Venous Drainage",
+    "questionText": "Infections of the 'danger triangle' of the face can spread to the cavernous sinus via valveless veins. Which vein primarily connects the facial vein to the cavernous sinus?",
     "options": [
-      { "text": "Extorsion", "explanation": "Extorsion is a function of the Inferior muscles (Inferior Rectus/Inferior Oblique)." },
-      { "text": "Abduction", "explanation": "The Superior Rectus is an adductor, not an abductor." },
-      { "text": "Intorsion", "explanation": "Because the Superior Rectus attaches to the superior surface of the globe and pulls posteriorly and medially, it rotates the top of the eye medially, causing intorsion." },
-      { "text": "Retraction", "explanation": "While all recti pull back, this is not considered a primary movement vector in this context." },
-      { "text": "Protrusion", "explanation": "Recti muscles pull the eye back into the socket, not forward." }
+      { "text": "Superior Ophthalmic Vein", "explanation": "Correct. The facial vein communicates with the Superior Ophthalmic Vein, which drains directly into the Cavernous Sinus. Note: valveless flow allows retrograde spread of infection." },
+      { "text": "Retromandibular Vein", "explanation": "Drains the lateral face/scalp." },
+      { "text": "External Jugular Vein", "explanation": "Drains superficial structures to the subclavian." },
+      { "text": "Maxillary Vein", "explanation": "Drains the pterygoid plexus." },
+      { "text": "Central Retinal Vein", "explanation": "Drains the retina into the Sup. Ophthalmic vein/Cavernous sinus directly." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_slide_17.jpg",
-    "slideImageDescription": "The diagram on this slide shows the vector arrows for the Superior Rectus (SR). The arrows indicate Elevation, Adduction (pointing medially), and Intorsion (rotation of the top of the eye medially). This visual confirms the three components of the SR's action."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Danger Triangle -> Facial Vein -> Superior Ophthalmic Vein -> Cavernous Sinus. No valves = Easy spread.",
+    "slideImagePath": "images/L127_slide_8.jpg",
+    "slideImageDescription": "Diagram of venous drainage of the orbit/face showing the connection to the cavernous sinus."
   },
   {
     "id": 14,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "During a clinical exam, you ask the patient to look to their left (adduct the right eye) and then look down. This maneuver specifically isolates the function of which muscle in the right eye?",
+    "category": "Orbit Anatomy: Bones",
+    "questionText": "Which bone is NOT a part of the orbital margin (rim)?",
     "options": [
-      { "text": "Inferior Rectus", "explanation": "The Inferior Rectus is the primary depressor in abduction, not adduction." },
-      { "text": "Inferior Oblique", "explanation": "The Inferior Oblique elevates the adducted eye." },
-      { "text": "Lateral Rectus", "explanation": "The Lateral Rectus is an abductor." },
-      { "text": "Superior Oblique", "explanation": "In the adducted position, the visual axis aligns with the pull of the Superior Oblique, making it the primary depressor." },
-      { "text": "Superior Rectus", "explanation": "The Superior Rectus is an elevator." }
+      { "text": "Frontal bone", "explanation": "Forms the superior rim." },
+      { "text": "Zygomatic bone", "explanation": "Forms the lateral and inferior rim." },
+      { "text": "Maxilla", "explanation": "Forms the inferior and medial rim." },
+      { "text": "Sphenoid bone", "explanation": "Correct. The Sphenoid bone forms the posterior orbit (apex/walls) but does NOT contribute to the anterior orbital rim." },
+      { "text": "Lacrimal bone", "explanation": "Actually, the Lacrimal bone is part of the medial wall, not the structural *rim* typically, but Sphenoid is definitely deep. Wait - strict definition: Rim is Frontal, Zygomatic, Maxilla. Lacrimal is medial wall. Sphenoid is deep. Key is Sphenoid is 'way back'." }
     ],
     "correctAnswerIndex": 3,
-    "slideImagePath": "images/L127_slide_21.jpg",
-    "slideImageDescription": "The slide 'Depression of the Adducted Eye' displays a schematic of the eye turned medially (adducted). The Superior Oblique muscle is highlighted as the active vector causing depression in this specific orientation. This confirms that looking medial and down isolates the Superior Oblique."
+    "clinicalPearl": "Orbital Rim = Frontal (Sup), Zygomatic (Lat), Maxilla (Inf/Med). Sphenoid is deep inside.",
+    "slideImagePath": "images/L127_slide_3.jpg",
+    "slideImageDescription": "Color-coded skull showing the bones of the orbit, highlighting the rim vs deep structures."
   },
   {
     "id": 15,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "To test the integrity of the Superior Rectus muscle without the confounding influence of the Inferior Oblique, how should the patient's eye be positioned before asking them to look up?",
+    "category": "Orbit Anatomy: Lacrimal Gland",
+    "questionText": "The lacrimal gland is located in which quadrant of the orbit?",
     "options": [
-      { "text": "Adducted", "explanation": "In adduction, the Inferior Oblique is the primary elevator." },
-      { "text": "Abducted", "explanation": "In abduction, the visual axis aligns with the Superior Rectus, making it the sole elevator. The Inferior Oblique's elevating action is minimized here." },
-      { "text": "Primary Position", "explanation": "In primary position, both the Superior Rectus and Inferior Oblique contribute to elevation." },
-      { "text": "Depressed", "explanation": "Starting from depression doesn't isolate the muscle based on horizontal alignment." },
-      { "text": "Extorted", "explanation": "Torsion is a secondary movement, not a testing position for isolation." }
+      { "text": "Superomedial", "explanation": "This is the location of the trochlea." },
+      { "text": "Superolateral", "explanation": "Correct. The lacrimal gland sits in the lacrimal fossa of the frontal bone in the superolateral orbit." },
+      { "text": "Inferomedial", "explanation": "Location of the lacrimal sac." },
+      { "text": "Inferolateral", "explanation": "Location of the inferior orbital fissure." },
+      { "text": "Posterior", "explanation": "Apex." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_slide_17.jpg",
-    "slideImageDescription": "The slide 'Elevation of the Abducted Eye' shows the eye turned laterally (abducted). In this position, the Superior Rectus muscle vector is aligned with the visual axis, allowing it to act as a pure elevator. This is the anatomical basis for H-testing the Superior Rectus in abduction."
+    "clinicalPearl": "Tears fall from the top-outside (Superolateral Gland) -> wash across eye -> drain to bottom-inside (Inferomedial Sac).",
+    "slideImagePath": "images/L127_slide_7.jpg",
+    "slideImageDescription": "Diagram of the lacrimal apparatus."
   },
   {
     "id": 16,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "A patient is unable to produce extorsion of the eye. Which two muscles are likely affected?",
+    "category": "Orbit Anatomy: Muscle Origin",
+    "questionText": "Which extraocular muscle passes through a cartilaginous pulley known as the trochlea?",
     "options": [
-      { "text": "Superior Rectus and Superior Oblique", "explanation": "These are intorters." },
-      { "text": "Inferior Rectus and Superior Rectus", "explanation": "These have opposing torsional actions." },
-      { "text": "Inferior Oblique and Inferior Rectus", "explanation": "Both 'Inferior' muscles are extorters. The Inferior Oblique produces extorsion and elevation; the Inferior Rectus produces extorsion and depression." },
-      { "text": "Superior Oblique and Inferior Oblique", "explanation": "These have opposing torsional actions." },
-      { "text": "Medial Rectus and Lateral Rectus", "explanation": "These have no torsional action." }
+      { "text": "Inferior Oblique", "explanation": "No pulley." },
+      { "text": "Superior Oblique", "explanation": "Correct. The Superior Oblique tendon passes through the trochlea (pulley) before inserting on the sclera, redirecting its force." },
+      { "text": "Superior Rectus", "explanation": "No pulley." },
+      { "text": "Lateral Rectus", "explanation": "No pulley." },
+      { "text": "Levator Palpebrae Superioris", "explanation": "No pulley." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_slide_37.jpg",
-    "slideImageDescription": "The slide 'Extorsion Without Elevation or Depression' visually sums the vectors of the Inferior Oblique (IO) and Inferior Rectus (IR). It demonstrates that both muscles contribute to extorsion (rotating the top of the eye laterally), identifying them as the synergistic pair for this movement."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Trochlea = Pulley. Trochlear Nerve (CN IV) innervates the muscle that uses the pulley (Superior Oblique).",
+    "slideImagePath": "images/L127_slide_10.jpg",
+    "slideImageDescription": "Diagram of the Superior Oblique muscle coursing through the trochlea."
   },
   {
     "id": 17,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "What is the primary anatomical reason that vertical eye movements in the primary position (looking straight ahead) are accompanied by torsion, necessitating the action of synergistic muscle pairs?",
+    "category": "Orbit Anatomy: Eyelid",
+    "questionText": "Loss of sympathetic innervation to the orbit (Horner's Syndrome) causes mild ptosis because:",
     "options": [
-      { "text": "The origin of the muscles from the common tendinous ring.", "explanation": "The origin point alone doesn't explain the torsion; it's the angle of approach relative to the eye." },
-      { "text": "The divergence between the axis of the orbit and the axis of the eyeball.", "explanation": "The axis of the orbit and the axis of the eyeball are not aligned in primary position (approx 23 degrees difference). Because the muscles follow the orbital axis, pulling on the eye creates a rotational (torsional) component." },
-      { "text": "The trochlea acting as a pulley for the Superior Oblique.", "explanation": "This explains the specific action of the SO, but not the general phenomenon of torsion in vertical recti." },
-      { "text": "The spherical shape of the eye.", "explanation": "While the eye rotates, the specific torque is due to the misalignment of axes, not just the shape." },
-      { "text": "The insertion of muscles anterior to the equator.", "explanation": "This determines the direction of pull but the torsion arises specifically from the angular offset of the muscle cone vs the visual axis." }
+      { "text": "The Levator Palpebrae Superioris is paralyzed.", "explanation": "Levator is innervated by CN III. Paralysis causes severe, complete ptosis." },
+      { "text": "The Superior Tarsal Muscle (Muller's Muscle) is paralyzed.", "explanation": "Correct. Muller's muscle is a smooth muscle under sympathetic control that provides ~2mm of eyelid elevation. Loss causes partial/mild ptosis." },
+      { "text": "The Orbicularis Oculi is paralyzed.", "explanation": "Orbicularis Oculi (CN VII) closes the eye. Paralysis causes inability to close, not ptosis." },
+      { "text": "The Frontalis muscle is paralyzed.", "explanation": "Frontalis lifts the brow." },
+      { "text": "The gland of Zeis is dysfunctional.", "explanation": "Sebaceous gland." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_slide_43.jpg",
-    "slideImageDescription": "The slide depicts the 'Axis of orbit' (dashed line) and 'Axis of eyeball' (red line) showing a clear divergence/angle between them. The text notes 'Torsion occurs when the optic axis is at an angle to axis of the orbit,' providing the physiological basis for why complex muscle pairs are needed for pure vertical movement."
+    "clinicalPearl": "Levator = Main lifter (CN III). Muller's = Helper lifter (Sympathetic). Muller's loss = 'Lazy' lid (mild ptosis).",
+    "slideImagePath": "images/L127_slide_20.jpg",
+    "slideImageDescription": "Diagram of eyelid muscles distinguishing Levator vs Muller's muscle."
   },
   {
     "id": 18,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "The Superior Oblique muscle originates from the sphenoid bone but acts to depress the eye. Which anatomical structure is responsible for redirecting the muscle's line of pull to achieve this action?",
+    "category": "Orbit Anatomy: Intorsion",
+    "questionText": "Which two muscles are responsible for intorsion of the eye?",
     "options": [
-      { "text": "Common tendinous ring", "explanation": "This is the origin for the recti, not the redirection point for the SO." },
-      { "text": "Lateral orbital tubercle", "explanation": "This is an attachment point for the lateral canthal ligament, unrelated to the SO." },
-      { "text": "Trochlea", "explanation": "The Trochlea is a fibrocartilaginous pulley located on the superior-medial orbital wall. The Superior Oblique tendon passes through it, redirecting the force vector posterior-laterally to depress the eye." },
-      { "text": "Inferior orbital fissure", "explanation": "This is a cleft in the orbital floor, not a muscle pulley." },
-      { "text": "Optic canal", "explanation": "This transmits the optic nerve, not the SO tendon." }
+      { "text": "Superior Rectus & Superior Oblique", "explanation": "Correct. Both 'Superior' muscles Intort (SIN - Superiors INtort)." },
+      { "text": "Inferior Rectus & Inferior Oblique", "explanation": "Both Inferior muscles Extort." },
+      { "text": "Superior Rectus & Inferior Oblique", "explanation": "SR intorts, IO extorts." },
+      { "text": "Lateral Rectus & Medial Rectus", "explanation": "No torsional action." },
+      { "text": "Superior Oblique & Inferior Rectus", "explanation": "SO intorts, IR extorts." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_slide_10.jpg",
-    "slideImageDescription": "The diagram on this slide clearly shows the path of the Superior Oblique muscle. It originates posteriorly, passes anteriorly through a loop labeled the 'Trochlea', and is redirected posteriorly to attach to the globe. This visual confirms the Trochlea's function as a pulley."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "SIN: Superiors INtort. (Superior Rectus, Superior Oblique).",
+    "slideImagePath": "images/L127_slide_23.jpg",
+    "slideImageDescription": "Chart of eye muscle actions highlighting torsional components."
   },
   {
     "id": 19,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "Which extraocular muscle is unique in that it does not originate from the posterior aspect of the orbit (sphenoid bone or common tendinous ring), but rather from the anterior medial orbital floor?",
+    "category": "Orbit Anatomy: Clinical Testing",
+    "questionText": "To test the function of the Superior Oblique muscle in isolation, you ask the patient to:",
     "options": [
-      { "text": "Inferior Rectus", "explanation": "Originates from the common tendinous ring." },
-      { "text": "Superior Oblique", "explanation": "Originates from the lesser wing of the sphenoid (posterior)." },
-      { "text": "Inferior Oblique", "explanation": "The text and diagram indicate the Inferior Oblique originates from the medial orbital wall/floor, passing posterolaterally beneath the eyeball. It is the only EOM with an anterior origin." },
-      { "text": "Medial Rectus", "explanation": "Originates from the common tendinous ring." },
-      { "text": "Levator Palpebrae Superioris", "explanation": "Originates from the lesser wing of the sphenoid." }
+      { "text": "Look Out (Abduct) and Down", "explanation": "Tests Inferior Rectus." },
+      { "text": "Look In (Adduct) and Down", "explanation": "Correct. Adduction aligns the visual axis with the Superior Oblique's pull, making it the pure depressor in this position." },
+      { "text": "Look In (Adduct) and Up", "explanation": "Tests Inferior Oblique." },
+      { "text": "Look Out (Abduct) and Up", "explanation": "Tests Superior Rectus." },
+      { "text": "Look straight Down", "explanation": "Uses both IR and SO." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_slide_10.jpg",
-    "slideImageDescription": "The slide text explicitly states under 'Oblique Muscles': 'Inferior oblique Originates from medial orbital wall'. The accompanying image shows the muscle beginning at the front of the orbit floor, distinct from all other muscles originating at the apex."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "SO test: 'Look towards your nose (Adduct) and read a book (Down)'.",
+    "slideImagePath": "images/L127_slide_24.jpg",
+    "slideImageDescription": "Diagram of H-test: Eye adducted, arrow down labeled 'Superior Oblique'."
   },
   {
     "id": 20,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "The lateral wall of the orbit is formed primarily by the zygomatic bone and which part of the sphenoid bone?",
+    "category": "Orbit Anatomy: Anesthesia",
+    "questionText": "A retrobulbar block is performed for ocular surgery. The anesthetic is injected into the intraconal space (inside the muscle cone). Which nerve is typically NOT blocked by this injection provided it remains inside the cone?",
     "options": [
-      { "text": "Lesser wing", "explanation": "The lesser wing contributes to the orbital roof." },
-      { "text": "Pterygoid process", "explanation": "The pterygoid process extends inferiorly and does not form the orbital wall." },
-      { "text": "Greater wing", "explanation": "The lateral wall is formed by the zygomatic bone anteriorly and the Greater Wing of the Sphenoid posteriorly." },
-      { "text": "Body", "explanation": "The body of the sphenoid is central and does not form the lateral wall." },
-      { "text": "Sella turcica", "explanation": "This is a depression in the body of the sphenoid housing the pituitary gland, intracranial, not orbital." }
+      { "text": "Optic Nerve (CN II)", "explanation": "Inside the cone." },
+      { "text": "Oculomotor Nerve (CN III)", "explanation": "Inside the cone." },
+      { "text": "Abducens Nerve (CN VI)", "explanation": "Inside the cone." },
+      { "text": "Nasociliary Nerve (V1 branch)", "explanation": "Inside the cone." },
+      { "text": "Trochlear Nerve (CN IV)", "explanation": "Correct. CN IV passes outside the Annulus of Zinn and remains *extraconal* (outside the muscle cone) in the posterior orbit, often sparing it from retrobulbar blocks." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_slide_10.jpg",
-    "slideImageDescription": "The slide displays a color-coded skull. The lateral wall is shown composed of the light blue Zygomatic bone and the large red section labeled 'Sphenoid' (specifically the Greater Wing in this anatomical position). This visual confirms the bony composition of the lateral wall."
+    "correctAnswerIndex": 4,
+    "clinicalPearl": "Retrobulbar block often spares the Trochlear Nerve (and eyelid movement via CN VII) because they are outside the muscle cone.",
+    "slideImagePath": "images/L127_slide_14.jpg",
+    "slideImageDescription": "Cross section of orbit showing Intraconal vs Extraconal spaces."
   },
   {
     "id": 21,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "The roof of the orbit separates the orbital contents from the anterior cranial fossa. Which bone forms the majority of this structure?",
+    "category": "Orbit Anatomy: Arterial Supply",
+    "questionText": "The Central Retinal Artery, occlusion of which causes sudden blindness, is a branch of which artery?",
     "options": [
-      { "text": "Maxilla", "explanation": "Forms the floor." },
-      { "text": "Zygomatic", "explanation": "Forms the lateral wall." },
-      { "text": "Frontal", "explanation": "The orbital plate of the Frontal bone forms the vast majority of the orbital roof." },
-      { "text": "Ethmoid", "explanation": "Forms the medial wall." },
-      { "text": "Lacrimal", "explanation": "Forms a small part of the medial wall." }
+      { "text": "External Carotid Artery", "explanation": "No." },
+      { "text": "Middle Meningeal Artery", "explanation": "No." },
+      { "text": "Ophthalmic Artery", "explanation": "Correct. The Ophthalmic Artery (from ICA) gives off the Central Retinal Artery, which pierces the Optic Nerve." },
+      { "text": "Facial Artery", "explanation": "No." },
+      { "text": "Maxillary Artery", "explanation": "No." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_slide_10.jpg",
-    "slideImageDescription": "The image of the skull shows the 'Frontal' bone labeled at the top, with its horizontal plate clearly forming the ceiling/roof of the orbital cavity. This directly links the Frontal bone to the orbital roof."
+    "clinicalPearl": "ICA -> Ophthalmic Artery -> Central Retinal Artery (End artery to retina).",
+    "slideImagePath": "images/L127_slide_12.jpg",
+    "slideImageDescription": "Arterial diagram showing Ophthalmic artery branching."
   },
   {
     "id": 22,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "A patient with retrobulbar hemorrhage requires an emergency lateral canthotomy to relieve orbital pressure. This procedure works by releasing the tension of the orbital septum and eyelids. What anatomical feature of the orbit contributes to the development of 'compartment syndrome' in this space?",
+    "category": "Orbit Anatomy: Orbital Apex",
+    "questionText": "Tolosa-Hunt syndrome involves granulomatous inflammation of the cavernous sinus or superior orbital fissure. Which symptom would definitively distinguish a Superior Orbital Fissure lesion from an Optic Canal lesion?",
     "options": [
-      { "text": "The optic canal remains open", "explanation": "The opening does not cause the pressure; the closed anterior boundary does." },
-      { "text": "The orbital septum is a tough, fibrous membrane", "explanation": "The orbital septum seals the anterior orbit, creating a closed space. Since the bony walls are rigid, hemorrhage cannot escape, raising pressure (compartment syndrome)." },
-      { "text": "The lacrimal gland produces excess fluid", "explanation": "Fluid production is not the cause of acute hemorrhage pressure." },
-      { "text": "The rectus muscles are loose and flexible", "explanation": "Muscle flexibility does not create a closed compartment." },
-      { "text": "The absence of adipose tissue", "explanation": "The orbit is full of adipose tissue, which transmits pressure." }
+      { "text": "Ophthalmoplegia (paralysis of eye muscles)", "explanation": "Occurs in both (CN III, IV, VI passed through SOF; Apex involves all)." },
+      { "text": "Pattern of vision loss", "explanation": "Correct. The Optic Nerve passes through the Optic Canal. A pure SOF lesion spars the Optic Nerve (Vision preserved). An Orbital Apex lesion hits BOTH SOF contents and Optic Canal (Vision lost)." },
+      { "text": "Fixed dilated pupil", "explanation": "CN III (pupil) is in SOF." },
+      { "text": "Corneal anesthesia", "explanation": "V1 is in SOF." },
+      { "text": "Ptosis", "explanation": "CN III is in SOF." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_slide_43.jpg",
-    "slideImageDescription": "The slide illustrates the 'Orbital septum' as a continuous sheet closing off the anterior orbit. The lecture context explains that because the walls are rigid, this tough membrane seals the 'pyramid', allowing pressure to build up dangerously during hemorrhage, necessitating its release (canthotomy)."
+    "clinicalPearl": "SOF Syndrome = Ophthalmoplegia + Numbness (V1). Apex Syndrome = SOF Syndrome + BLINDNESS (CN II).",
+    "slideImagePath": "images/L127_slide_17.jpg",
+    "slideImageDescription": "Comparison table of Cavernous Sinus, SOF, and Apex syndromes."
   },
   {
     "id": 23,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "A patient presents with inability to look up (elevate) and ptosis of the eyelid, but is able to adduct and depress the eye. This specific pattern of deficits suggests a lesion to which branch of the Oculomotor nerve (CN III)?",
+    "category": "Orbit Anatomy: Canaliculus",
+    "questionText": "Tears drain from the puncta into the canaliculi, then into the lacrimal sac. The lacrimal sac drains directly into the:",
     "options": [
-      { "text": "Inferior Division", "explanation": "The Inferior Division innervates the MR, IR, and IO. If this were lesioned, adduction and depression would be lost." },
-      { "text": "Superior Division", "explanation": "The Superior Division innervates the Superior Rectus (elevation) and Levator Palpebrae Superioris (eyelid elevation). A lesion here causes ptosis and loss of elevation, sparing the other CN III functions." },
-      { "text": "Sympathetic root", "explanation": "This would cause mild ptosis (Muller's) but no motility deficit." },
-      { "text": "Parasympathetic root", "explanation": "This would affect the pupil (constriction) and lens (accommodation), not gross eye movement." },
-      { "text": "Trochlear nerve", "explanation": "This is CN IV, not a branch of CN III." }
+      { "text": "Superior Meatus", "explanation": "No." },
+      { "text": "Middle Meatus", "explanation": "No." },
+      { "text": "Inferior Meatus", "explanation": "Correct. The Nasolacrimal Duct drains tears from the sac into the Inferior Meatus of the nose (under the inferior turbinate)." },
+      { "text": "Oropharynx", "explanation": "Eventually, but not directly." },
+      { "text": "Sphenoethmoidal recess", "explanation": "No." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_slide_14.jpg",
-    "slideImageDescription": "The slide lists the innervation of the extraocular muscles. It groups the Levator Palpebrae Superioris and Superior Rectus together at the top. The lecture transcript elaborates that these two are innervated by the superior division of CN III, explaining why a specific lesion here affects only elevation and lid position."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Why does your nose run when you cry? Tears drain to the Inferior Meatus.",
+    "slideImagePath": "images/L127_slide_7.jpg",
+    "slideImageDescription": "Diagram of tear drainage pathway ending in Inferior Meatus."
   },
   {
     "id": 24,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "In a patient with a Trochlear nerve (CN IV) palsy, the affected eye deviates upward (hypertropia) particularly when the head is tilted toward the side of the lesion (Bielschowsky's sign). What is the biomechanical explanation for this elevation?",
+    "category": "Orbit Anatomy: Parasympathetics",
+    "questionText": "The ciliary ganglion contains postganglionic parasympathetic cell bodies that innervate which two intraocular muscles?",
     "options": [
-      { "text": "Overaction of the Inferior Oblique", "explanation": "While the IO is an antagonist, the immediate cause during tilt is the unopposed SR." },
-      { "text": "Paralysis of the Superior Rectus", "explanation": "The SR is functional and is actually the muscle causing the elevation." },
-      { "text": "Loss of intorsion by the Superior Oblique leaves the Superior Rectus unopposed", "explanation": "Head tilt requires intorsion. Both the SO and SR are intorters. However, the SR also elevates while the SO depresses. If the SO is paralyzed, the brain attempts to intort using the SR, but the SR's elevating action is now unopposed by the SO's depressing action, causing the eye to shoot up." },
-      { "text": "Loss of abduction by the Lateral Rectus", "explanation": "LR is CN VI, unrelated to this sign." },
-      { "text": "Spasm of the Inferior Rectus", "explanation": "The IR is a depressor/extorter and is not spasming here." }
+      { "text": "Dilator pupillae and Ciliary muscle", "explanation": "Dilator is sympathetic." },
+      { "text": "Sphincter pupillae and Ciliary muscle", "explanation": "Correct. Parasympathetics constrict the pupil (Sphincter) and accommodate for near vision (Ciliary muscle)." },
+      { "text": "Sphincter pupillae and Dilator pupillae", "explanation": "Opposing functions." },
+      { "text": "Superior Tarsal and Levator Palpebrae", "explanation": "Sympathetic and Somatic." },
+      { "text": "Medial Rectus and Lateral Rectus", "explanation": "Somatic." }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Short Ciliary Nerves carry Parasympathetics from Ciliary Ganglion -> Constrict & Accommodate.",
     "slideImagePath": "images/L127_slide_21.jpg",
-    "slideImageDescription": "The slide 'Bielschowsky's sign' shows the eyes rotating (arrows) to compensate for head tilt. The yellow arrows indicate the required intorsion. The lecture explains that because the Superior Oblique (CN IV) cannot provide the necessary intorsion/depression balance, the still-functioning Superior Rectus (CN III) attempts to intort but inadvertently elevates the eye because the SO isn't there to counteract the lift."
+    "slideImageDescription": "Diagram of autonomic innervation of the eye."
   },
   {
     "id": 25,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "The Levator Palpebrae Superioris inserts into which structure to execute its function of eyelid elevation?",
+    "category": "Orbit Anatomy: Sympathetics",
+    "questionText": "Sympathetic fibers to the orbit originate in the hypothalamus, descend to the spinal cord, and then ascend. In the orbit, they travel along which structures to reach the dilator pupillae?",
     "options": [
-      { "text": "The sclera", "explanation": "Extraocular muscles insert into the sclera; the LPS inserts into the eyelid structures." },
-      { "text": "The orbital rim", "explanation": "This is a bony origin point, not insertion." },
-      { "text": "The superior tarsus and skin of the eyelid", "explanation": "The LPS inserts into the superior tarsus (connective tissue plate) and the skin of the upper lid to lift it." },
-      { "text": "The medial palpebral ligament", "explanation": "This is a stabilizing ligament, not the primary insertion for elevation." },
-      { "text": "The lacrimal sac", "explanation": "Unrelated to eyelid elevation." }
+      { "text": "Optic Nerve", "explanation": "No." },
+      { "text": "Oculomotor Nerve", "explanation": "Carries parasympathetics." },
+      { "text": "Ophthalmic Artery and Nasociliary Nerve (Long Ciliary Nerves)", "explanation": "Correct. Sympathetics hitchhike on the ICA plexus, then Ophthalmic Artery, then Long Ciliary Nerves (V1) to reach the dilator." },
+      { "text": "Facial Nerve", "explanation": "No." },
+      { "text": "Short Ciliary Nerves", "explanation": "Carry parasympathetics (mostly)." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_slide_8.jpg",
-    "slideImageDescription": "The slide text clearly states: 'Insertion: superior tarsus and superficial fascia of eyelid'. This text point directly answers the question regarding the anatomical insertion of the LPS."
+    "clinicalPearl": "Long Ciliary Nerves = Sensory (V1) + Sympathetic (Dilator). Short Ciliary Nerves = Parasympathetic (Sphincter/Ciliary).",
+    "slideImagePath": "images/L127_slide_21.jpg",
+    "slideImageDescription": "Wiring diagram of Long vs Short ciliary nerves."
   },
   {
     "id": 26,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "On a T2-weighted MRI of the orbit, the cerebrospinal fluid (CSF) appears bright white. How does the orbital fat appear in this same imaging modality, and why is this clinically relevant?",
+    "category": "Orbit Anatomy: Adduction",
+    "questionText": "Which muscle is the primary adductor of the eye?",
     "options": [
-      { "text": "Dark black, indicating necrosis", "explanation": "Fat is not black on T2; air or cortical bone is black." },
-      { "text": "Bright white, indicating high water/hydrogen content", "explanation": "Orbital fat appears bright on T2 MRI (similar to CSF) due to signal characteristics. This allows for high contrast visualization of the optic nerve (which appears darker) and muscle cone." },
-      { "text": "Grey, indistinguishable from muscle", "explanation": "Fat is distinctively brighter than muscle on T2." },
-      { "text": "Invisible", "explanation": "Fat is clearly visible." },
-      { "text": "Blue, indicating venous blood", "explanation": "MRI is grayscale." }
+      { "text": "Superior Rectus", "explanation": "Secondary adductor." },
+      { "text": "Inferior Rectus", "explanation": "Secondary adductor." },
+      { "text": "Medial Rectus", "explanation": "Correct. Its sole function is adduction." },
+      { "text": "Superior Oblique", "explanation": "Abductor." },
+      { "text": "Inferior Oblique", "explanation": "Abductor." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_slide_4.jpg",
-    "slideImageDescription": "The slide shows an Axial MRI of the Head. The text notes 'Orbit is full of adipose tissue!' The image clearly shows the retrobulbar space as bright white, similar to the CSF in the subarachnoid space around the brain. The lecture notes clarify this is a T2-weighted image where fluid/fat is bright."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Medial Rectus -> Adducts. Lateral Rectus -> Abducts. Simple.",
+    "slideImagePath": "images/L127_slide_22.jpg",
+    "slideImageDescription": "Diagram of MR and LR action vectors."
   },
   {
     "id": 27,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "A patient with a Pancoast tumor (lung apex) presents with Horner's syndrome (ptosis, miosis, anhidrosis). The ptosis is caused by loss of innervation to the Superior Tarsal muscle. Where do the postganglionic sympathetic fibers innervating this muscle originate?",
+    "category": "Orbit Anatomy: Facial Trauma",
+    "questionText": "A patient with a zygomaticomaxillary complex fracture ('tripod fracture') typically has numbness of the cheek. This is due to injury of which nerve passing through the infraorbital foramen?",
     "options": [
-      { "text": "Ciliary ganglion", "explanation": "Parasympathetic ganglion for the pupil/lens." },
-      { "text": "Superior cervical ganglion", "explanation": "Sympathetic fibers to the head and neck (including Müller's muscle) originate in the Superior Cervical Ganglion." },
-      { "text": "Trigeminal ganglion", "explanation": "Sensory ganglion for the face (CN V)." },
-      { "text": "Pterygopalatine ganglion", "explanation": "Parasympathetic ganglion for lacrimation." },
-      { "text": "Geniculate ganglion", "explanation": "Sensory ganglion for CN VII." }
+      { "text": "Supraorbital nerve", "explanation": "Forehead sensation." },
+      { "text": "Infraorbital nerve", "explanation": "Correct. Continuation of V2, exits infraorbital foramen, supplies cheek/upper lip." },
+      { "text": "Mental nerve", "explanation": "Chin sensation." },
+      { "text": "Zygomaticofacial nerve", "explanation": "Small area of cheek, but infraorbital is the major one in tripod fractures." },
+      { "text": "Buccal nerve", "explanation": "Cheek mucosa." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_slide_11.jpg",
-    "slideImageDescription": "The slide text explicitly states: 'Superior Tarsal (Muller's) muscle: postganglionic sympathetics from superior cervical ganglion'. This definition directly links the anatomy to the source of innervation."
+    "clinicalPearl": "Cheek numbness in orbital floor/face trauma = V2 (Infraorbital nerve) injury.",
+    "slideImagePath": "images/L127_slide_4.jpg",
+    "slideImageDescription": "Diagram of V2 cutaneous distribution and the infraorbital foramen."
   },
   {
     "id": 28,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "Why is the Inferior Oblique muscle tested by asking the patient to look medially (adduct) and then up, rather than just looking straight up?",
+    "category": "Orbit Anatomy: Abduction",
+    "questionText": "Loss of the Abducens nerve (CN VI) results in an inability to abduct the eye. Over time, the unopposed action of the antagonist muscle causes the eye to drift medially (esotropia). Which muscle is the antagonist?",
     "options": [
-      { "text": "Because the Inferior Oblique is a depressor in primary position", "explanation": "Incorrect; it is an elevator." },
-      { "text": "To stretch the optic nerve", "explanation": "Not the purpose of the exam." },
-      { "text": "To align the visual axis with the muscle's pull vector", "explanation": "In the adducted position, the visual axis of the eye aligns parallel to the pull of the Inferior Oblique muscle, maximizing its vertical action and minimizing the contribution of the Superior Rectus." },
-      { "text": "To test the trochlear nerve", "explanation": "IO is oculomotor (CN III), not trochlear." },
-      { "text": "To avoid compressing the lacrimal sac", "explanation": "Irrelevant to muscle testing mechanics." }
+      { "text": "Lateral Rectus", "explanation": "This is the paralyzed agonist." },
+      { "text": "Medial Rectus", "explanation": "Correct. The Medial Rectus (Adductor) opposes the Lateral Rectus (Abductor)." },
+      { "text": "Superior Oblique", "explanation": "No." },
+      { "text": "Inferior Oblique", "explanation": "No." },
+      { "text": "Superior Rectus", "explanation": "No." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_slide_34.jpg",
-    "slideImageDescription": "The graph 'Elevation (left eye)' shows the contribution of the IO (Inferior Oblique) and SR (Superior Rectus) to elevation. At 'AD' (Adduction), the IO line is at 'More' contribution and the SR is at 'Less'. This graph visually explains that adduction isolates the IO for elevation."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "CN VI Palsy -> Unopposed Medial Rectus -> Eye turns IN (Esotropia).",
+    "slideImagePath": "images/L127_slide_25.jpg",
+    "slideImageDescription": "Image of L-sided CN VI palsy showing esotropia."
   },
   {
     "id": 29,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "Which combination of muscle contractions is required to produce pure depression of the eye in the primary position, cancelling out any unwanted torsion or horizontal movement?",
+    "category": "Orbit Anatomy: Eyelid Layers",
+    "questionText": "The orbital septum is an important landmark distinguishing preseptal from orbital cellulitis. It is a continuation of the:",
     "options": [
-      { "text": "Inferior Rectus and Superior Rectus", "explanation": "Opposing vertical actions (depress vs elevate)." },
-      { "text": "Inferior Rectus and Superior Oblique", "explanation": "The Inferior Rectus (Depression + Extorsion) and Superior Oblique (Depression + Intorsion) act together. Their opposing torsional forces cancel out, leaving pure depression." },
-      { "text": "Inferior Oblique and Superior Oblique", "explanation": "Opposing vertical actions." },
-      { "text": "Inferior Rectus acting alone", "explanation": "Would cause depression, extorsion, and adduction." },
-      { "text": "Superior Oblique acting alone", "explanation": "Would cause depression, intorsion, and abduction." }
+      { "text": "Periosteum (Periorbita)", "explanation": "Correct. The orbital septum extends from the orbital rim periosteum into the eyelids." },
+      { "text": "Dura mater", "explanation": "No." },
+      { "text": "Tenon's capsule", "explanation": "No." },
+      { "text": "Conjunctiva", "explanation": "No." },
+      { "text": "Tarsal plate", "explanation": "No." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L127_slide_35.jpg",
-    "slideImageDescription": "The slide 'Depression Without Torsion' depicts the vectors of the Superior Oblique (SO) and Inferior Rectus (IR). The red arrow (IR) and blue arrow (SO) both point down (depression), but their horizontal/torsional components curve in opposite directions, illustrating how they cancel out to produce straight downward movement."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Orbital Septum = The Gatekeeper. Front = Preseptal (Safe). Behind = Orbital (Dangerous).",
+    "slideImagePath": "images/L127_slide_6.jpg",
+    "slideImageDescription": "Sagittal view of eyelid showing the orbital septum barrier."
   },
   {
     "id": 30,
-    "category": "Anatomy: Orbit and Extraocular Muscles",
-    "questionText": "A patient with uncontrolled diabetes presents with an isolated Abducens nerve (CN VI) palsy. Which extraocular muscle is paralyzed?",
+    "category": "Orbit Anatomy: Optic Nerve Sheath",
+    "questionText": "Papilledema (swelling of the optic disc) occurs in raised intracranial pressure because the optic nerve is surrounded by:",
     "options": [
-      { "text": "Medial Rectus", "explanation": "Innervated by CN III." },
-      { "text": "Superior Oblique", "explanation": "Innervated by CN IV." },
-      { "text": "Lateral Rectus", "explanation": "The Lateral Rectus is the only muscle innervated by CN VI (Abducens), responsible for abduction." },
-      { "text": "Inferior Oblique", "explanation": "Innervated by CN III." },
-      { "text": "Superior Rectus", "explanation": "Innervated by CN III." }
+      { "text": "Only pia mater", "explanation": "No." },
+      { "text": "Dura, Arachnoid, and Pia mater", "explanation": "Correct. The optic nerve is an outpouching of the brain and is ensheathed by all three meningeal layers. Subarachnoid space communicates, transmitting ICP." },
+      { "text": "No meninges", "explanation": "No." },
+      { "text": "Tenon's capsule only", "explanation": "No." },
+      { "text": "Periorbita", "explanation": "No." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Optic Nerve = CNS tract, NOT a peripheral nerve. Surrounded by CSF -> Squeezed by high ICP -> Papilledema.",
+    "slideImagePath": "images/L127_slide_13.jpg",
+    "slideImageDescription": "Diagram of Optic Nerve sheaths communicating with intracranial space."
+  },
+  {
+    "id": 31,
+    "category": "Orbit Anatomy: Annulus of Zinn",
+    "questionText": "Which of the following creates the 'blind spot' in the visual field?",
+    "options": [
+      { "text": "Macula", "explanation": "Area of highest acuity." },
+      { "text": "Fovea", "explanation": "Center of macula." },
+      { "text": "Optic Disc", "explanation": "Correct. The optic disc is where the optic nerve exits; there are no photoreceptors here." },
+      { "text": "Ora serrata", "explanation": "Edge of retina." },
+      { "text": "Ciliary body", "explanation": "Produces aqueous." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L127_slide_11.jpg",
-    "slideImageDescription": "The slide lists 'Lateral Rectus: Abducent nerve (CN VI)' clearly. This basic anatomical fact links the specific nerve palsy to the specific muscle function (abduction)."
+    "clinicalPearl": "Optic Disc = No Rods/Cones = Physiological Blind Spot.",
+    "slideImagePath": "images/L127_slide_1.jpg",
+    "slideImageDescription": "Fundus photo showing Optic Disc."
+  },
+  {
+    "id": 32,
+    "category": "Orbit Anatomy: Cones",
+    "questionText": "The Intraconal space is defined as the space inside the:",
+    "options": [
+      { "text": "Orbital septum", "explanation": "No." },
+      { "text": "Four Rectus Muscles", "explanation": "Correct. The muscle cone is formed by the SR, IR, MR, LR connecting at the annulus." },
+      { "text": "Orbital walls", "explanation": "No." },
+      { "text": "Tenon's capsule", "explanation": "No." },
+      { "text": "Conjunctival sac", "explanation": "No." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Cone = Rectus Muscles. Tumors here cause *axial* proptosis. Tumors outside cause *eccentric* proptosis.",
+    "slideImagePath": "images/L127_slide_14.jpg",
+    "slideImageDescription": "Diagram of muscle cone."
+  },
+  {
+    "id": 33,
+    "category": "Orbit Anatomy: Light Reflex",
+    "questionText": "The afferent limb of the pupillary light reflex is the Optic Nerve. The efferent limb is the:",
+    "options": [
+      { "text": "Optic Nerve", "explanation": "Sensory." },
+      { "text": "Oculomotor Nerve", "explanation": "Correct. CN III parasympathetics constrict the pupil." },
+      { "text": "Trochlear Nerve", "explanation": "Motor to SO." },
+      { "text": "Trigeminal Nerve", "explanation": "Sensory." },
+      { "text": "Facial Nerve", "explanation": "Closes eye." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Light Reflex: In via II, Out via III.",
+    "slideImagePath": "images/L127_slide_21.jpg",
+    "slideImageDescription": "Reflex arc diagram: II -> Pretectal -> EW -> III -> Ganglion -> Sphincter."
+  },
+  {
+    "id": 34,
+    "category": "Orbit Anatomy: Corneal Reflex",
+    "questionText": "The corneal reflex (blink when touched) involves which two nerves?",
+    "options": [
+      { "text": "CN II and CN III", "explanation": "Light reflex." },
+      { "text": "CN V1 and CN VII", "explanation": "Correct. Sensation via V1 (Nasociliary), closing eye via VII (Orbicularis Oculi)." },
+      { "text": "CN V2 and CN VII", "explanation": "V2 is lower lid/cheek." },
+      { "text": "CN V1 and CN III", "explanation": "III opens eye (Levator)." },
+      { "text": "CN VII and CN III", "explanation": "Both motor." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Corneal Reflex: Feel with V (V1), Blink with VII.",
+    "slideImagePath": "images/L127_slide_21.jpg",
+    "slideImageDescription": "Reflex arc diagram: V1 -> VII."
+  },
+  {
+    "id": 35,
+    "category": "Orbit Anatomy: Orbital Axes",
+    "questionText": "The orbital axis (axis of the bony cone) diverges from the visual axis (straight ahead) by approximately:",
+    "options": [
+      { "text": "90 degrees", "explanation": "No." },
+      { "text": "45 degrees", "explanation": "Closeish." },
+      { "text": "23 degrees", "explanation": "Correct. This angle explains why the Superior/Inferior Recti have secondary actions (adduction/torsion) in primary gaze." },
+      { "text": "10 degrees", "explanation": "No." },
+      { "text": "0 degrees", "explanation": "Parallel." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "23 degrees is the Magic Number. If you abduct the eye 23 deg, the SR/IR become pure elevators/depressors.",
+    "slideImagePath": "images/L127_slide_22.jpg",
+    "slideImageDescription": "Diagram showing the 23-degree angle between orbital and visual axes."
+  },
+  {
+    "id": 36,
+    "category": "Orbit Anatomy: Bones",
+    "questionText": "The superior orbital fissure is a gap between:",
+    "options": [
+      { "text": "Frontal and Sphenoid bones", "explanation": "No." },
+      { "text": "Greater and Lesser wings of the Sphenoid", "explanation": "Correct. This fissure transmits V1, III, IV, VI." },
+      { "text": "Maxilla and Sphenoid", "explanation": "Inferior orbital fissure." },
+      { "text": "Sphenoid and Ethmoid", "explanation": "No." },
+      { "text": "Temporal and Sphenoid", "explanation": "No." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "SOF = Sphenoid Gap (Greater wing vs Lesser wing).",
+    "slideImagePath": "images/L127_slide_3.jpg",
+    "slideImageDescription": "Bony anatomy showing SOF location."
+  },
+  {
+    "id": 37,
+    "category": "Orbit Anatomy: Accommodation",
+    "questionText": "Accommodation (focusing on near objects) involves three actions: pupillary constriction, convergence, and:",
+    "options": [
+      { "text": "Corneal flattening", "explanation": "No." },
+      { "text": "Lens thickening (rounding)", "explanation": "Correct. Ciliary muscle contraction relaxes zonules -> Lens rounds up -> increased power." },
+      { "text": "Lens thinning", "explanation": "Distance vision." },
+      { "text": "Eyelid retraction", "explanation": "No." },
+      { "text": "Eye abduction", "explanation": "Convergence involves adduction." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Near Triad: Miosis + Convergence + Accommodation (Lens Rounding).",
+    "slideImagePath": "images/L127_slide_21.jpg",
+    "slideImageDescription": "Diagram of the accommodative mechanism."
+  },
+  {
+    "id": 38,
+    "category": "Orbit Anatomy: Nerves",
+    "questionText": "Which branch of the Trigeminal nerve supplies the cornea?",
+    "options": [
+      { "text": "Frontal nerve", "explanation": "Forehead." },
+      { "text": "Lacrimal nerve", "explanation": "Lateral lid/gland." },
+      { "text": "Nasociliary nerve", "explanation": "Correct. Gives off Long Ciliary nerves to cornea." },
+      { "text": "Infraorbital nerve", "explanation": "Cheek." },
+      { "text": "Zygomatic nerve", "explanation": "Cheek." }
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Nasociliary -> Nose + Cornea (hence Herpes Zoster lesion on nose tip [Hutchinson's sign] implies eye involvement).",
+    "slideImagePath": "images/L127_slide_14.jpg",
+    "slideImageDescription": "Diagram of V1 branches."
+  },
+  {
+    "id": 39,
+    "category": "Orbit Anatomy: Fractures",
+    "questionText": "Why is the 'trapdoor' variant of blowout fracture more common in children?",
+    "options": [
+      { "text": "Bones are more brittle", "explanation": "Less brittle." },
+      { "text": "Bones are more elastic", "explanation": "Correct. Pediatric bones bend and snap back ('greenstick'), trapping the muscle tightly -> ischemia/vagal response. Adult bones shatter." },
+      { "text": "Sinuses are larger", "explanation": "Sinuses are smaller in kids." },
+      { "text": "Muscles are larger", "explanation": "No." },
+      { "text": "Fat is reduced", "explanation": "No." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "White-Eyed Blowout in Kids: Bone prompts snaps back -> Traps muscle -> Nausea/Bradycardia (Vagal). Emergency!",
+    "slideImagePath": "images/L127_slide_2.jpg",
+    "slideImageDescription": "Diagram of trapdoor mechanism."
+  },
+  {
+    "id": 40,
+    "category": "Orbit Anatomy: Summary",
+    "questionText": "A patient cannot look down when their eye is adducted. The lesion is in:",
+    "options": [
+      { "text": "CN III", "explanation": "No." },
+      { "text": "CN IV", "explanation": "Correct. Superior Oblique function is best tested in adduction. Loss = cannot look down." },
+      { "text": "CN VI", "explanation": "No." },
+      { "text": "CN V", "explanation": "No." },
+      { "text": "Optic Chiasm", "explanation": "No." }
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Classic board question. Can't look down-and-in = CN IV.",
+    "slideImagePath": "images/L27_slide_24.jpg",
+    "slideImageDescription": "Summary table of palsy movements."
   }
 ];

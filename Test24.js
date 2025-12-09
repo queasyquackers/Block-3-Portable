@@ -1,602 +1,642 @@
 window.L130 = [
   {
     "id": 1,
-    "category": "Cellular Proliferation & Tissue Types",
-    "questionText": "A 65-year-old male suffers a massive myocardial infarction. Despite optimal medical management, he survives but develops heart failure. The area of the heart affected by the infarction heals by fibrosis (scarring). Why does this tissue not regenerate to restore normal function?",
+    "category": "Regeneration vs Repair",
+    "questionText": "A 55-year-old male suffers a myocardial infarction. The damaged heart muscle is eventually replaced by a fibrous scar. This occurs because cardiac myocytes are classified as:",
     "options": [
-      { "text": "The basement membrane was destroyed.", "explanation": "While basement membrane damage affects regeneration, the primary issue here is the cell type." },
-      { "text": "Cardiac myocytes are permanent cells.", "explanation": "Permanent cells (like cardiac muscle, neurons, and skeletal muscle) are terminally differentiated and non-dividing in adult life. Therefore, injury to these tissues results in repair by scar formation rather than regeneration." },
-      { "text": "There was insufficient VEGF production.", "explanation": "VEGF promotes angiogenesis, which occurs during repair, but does not induce myocyte division." },
-      { "text": "The injury was essentially superficial.", "explanation": "Infarctions are deep injuries; superficiality promotes regeneration in labile tissues, not permanent ones." },
-      { "text": "Excessive TGF-beta inhibited regeneration.", "explanation": "TGF-beta promotes fibrosis, but the lack of regeneration is fundamental to the cell type." }
+      { "text": "Labile cells", "explanation": "Divide continuously (e.g. skin)." },
+      { "text": "Stable cells", "explanation": "Can divide if stimulated (e.g. liver)." },
+      { "text": "Permanent cells", "explanation": "Correct. Permanent cells (Cardiac muscle, Neurons, Skeletal muscle) cannot divide. Injury inevitably leads to scarring (repair) rather than regeneration." },
+      { "text": "Stem cells", "explanation": "Pluripotent." },
+      { "text": "Senescent cells", "explanation": "Aging." }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Permanent Tissues (Heart, Brain, Skeletal Muscle) = Scar Factory. No Regeneration.",
     "slideImagePath": "images/L130_slide_6.jpg",
-    "slideImageDescription": "The slide classifies cell types based on proliferation potential. It explicitly lists 'Permanent Cells' as terminally differentiated and non-dividing, with 'cardiac muscle' given as a specific example."
+    "slideImageDescription": "Slide lists 'Permanent Cells: ... cardiac muscle'."
   },
   {
     "id": 2,
-    "category": "Cellular Proliferation & Tissue Types",
-    "questionText": "A 45-year-old male donates a portion of his liver to his brother. Six months later, imaging reveals that the donor's liver has returned to nearly its original size. Which cell type classification best describes hepatocytes, allowing for this compensatory growth?",
+    "category": "Regeneration",
+    "questionText": "A patient undergoes a partial hepatectomy (60% of liver removed). Within a month, the liver regenerates to nearly its original size. This is possible because hepatocytes are:",
     "options": [
-      { "text": "Labile cells", "explanation": "Labile cells divide continuously (e.g., skin, GI mucosa)." },
-      { "text": "Permanent cells", "explanation": "Permanent cells do not divide (e.g., cardiac muscle)." },
-      { "text": "Stable cells", "explanation": "Stable (quiescent) cells have a low rate of proliferation but can re-enter the cell cycle under specific stimuli, such as after partial hepatectomy." },
-      { "text": "Senescent cells", "explanation": "Senescent cells have stopped dividing permanently due to aging or damage." },
-      { "text": "Stem cells", "explanation": "While stem cells contribute, the bulk of regeneration in the liver is due to the proliferation of differentiated hepatocytes (stable cells)." }
+      { "text": "Labile cells", "explanation": "No, they don't divide constantly." },
+      { "text": "Stable cells (Quiescent)", "explanation": "Correct. Stable cells sit in G0 but can re-enter the cell cycle (G1) upon stimulation (e.g. by HGF, IL-6)." },
+      { "text": "Permanent cells", "explanation": "No." },
+      { "text": "Metaplastic cells", "explanation": "Pathologic." },
+      { "text": "Neoplastic cells", "explanation": "Cancer." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_slide_6.jpg",
-    "slideImageDescription": "The slide defines 'Stable Cells' as having a low rate of proliferation but the ability to re-enter the cell cycle. It lists 'liver' and 'parenchymal cells' as key examples."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Liver Regeneration = Stable Cells waking up from G0. Driven by IL-6 (Priming) and HGF (Growth).",
+    "slideImagePath": "images/L130_slide_37.jpg",
+    "slideImageDescription": "Slide describes Liver Regeneration mechanisms."
   },
   {
     "id": 3,
     "category": "Growth Factors",
-    "questionText": "A 25-year-old female sustains a deep laceration to her arm. During the healing process, fibroblasts migrate to the site of injury and begin synthesizing collagen. Which growth factor is a potent fibrogenic agent that stimulates fibroblast chemotaxis and enhances collagen production while inhibiting its degradation?",
+    "questionText": "In a healing wound, which growth factor is the most potent stimulator of angiogenesis and vascular permeability (causing edema)?",
     "options": [
-      { "text": "VEGF", "explanation": "VEGF is primarily involved in angiogenesis (vasodilation and permeability)." },
-      { "text": "TGF-beta", "explanation": "TGF-beta is the most important fibrogenic agent. It stimulates fibroblast migration and proliferation, increases synthesis of collagen and fibronectin, and decreases ECM degradation by MMPs." },
-      { "text": "EGF", "explanation": "EGF stimulates epithelial cell migration and granulation tissue formation." },
-      { "text": "HGF", "explanation": "HGF (Hepatocyte Growth Factor) stimulates hepatocyte and epithelial proliferation." },
-      { "text": "KGF", "explanation": "KGF stimulates keratinocyte migration and proliferation." }
+      { "text": "PDGF", "explanation": "Recruits fibroblasts." },
+      { "text": "TGF-beta", "explanation": "Fibrosis." },
+      { "text": "VEGF", "explanation": "Correct. Vascular Endothelial Growth Factor stimulates endothelial proliferation and migration (angiogenesis) and increases permeability (leakiness)." },
+      { "text": "EGF", "explanation": "Epithelial growth." },
+      { "text": "KGF", "explanation": "Keratinocytes." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_slide_8.jpg",
-    "slideImageDescription": "The slide lists 'IMPORTANT GROWTH FACTORS'. For TGF-beta, it explicitly states it is a 'potent fibrogenic agent', 'stimulates fibroblast chemotaxis', 'enhances production of collagen', and 'inhibits collagen degradation'."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "VEGF = Vessels + Edema. Makes new blood vessels leaks (permability) to build the scaffold.",
+    "slideImagePath": "images/L130_slide_14.jpg",
+    "slideImageDescription": "Slide 'Angiogenesis' highlights VEGF roles."
   },
   {
     "id": 4,
     "category": "Growth Factors",
-    "questionText": "In a healing wound, new blood vessels form from existing ones to supply oxygen and nutrients. Which growth factor is the most critical inducer of this angiogenesis, specifically promoting endothelial cell proliferation and migration?",
+    "questionText": "Which growth factor is considered the 'master switch' for fibrosis, stimulating fibroblast migration, collagen synthesis, and inhibiting MMPs (collagen degradation)?",
     "options": [
-      { "text": "PDGF", "explanation": "PDGF recruits smooth muscle cells and fibroblasts but is not the primary initiator of endothelial sprouting." },
-      { "text": "TGF-beta", "explanation": "TGF-beta stabilizes new vessels but is primarily fibrogenic." },
-      { "text": "VEGF", "explanation": "VEGF (specifically VEGF-A) is the most important growth factor for angiogenesis. It stimulates survival, proliferation, and motility of endothelial cells and initiates vessel sprouting." },
-      { "text": "EGF", "explanation": "EGF focuses on epithelial regeneration." },
-      { "text": "KGF", "explanation": "KGF focuses on keratinocytes." }
+      { "text": "FGF", "explanation": "Angiogenesis/Fibroblasts." },
+      { "text": "EGF", "explanation": "Epithelial." },
+      { "text": "TGF-beta", "explanation": "Correct. Transforming Growth Factor-beta is the most potent fibrogenic agent. It shuts down inflammation and turns on the scar-building machine." },
+      { "text": "HGF", "explanation": "Hepatocytes." },
+      { "text": "VEGF", "explanation": "Vessels." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_slide_14.jpg",
-    "slideImageDescription": "The slide titled 'ANGIOGENESIS' identifies VEGF as the 'most important growth factor' for this process, noting that it 'stimulates survival, proliferation and motility of endothelial cells'."
+    "clinicalPearl": "TGF-Beta = The Builder. Stops the fighting (Anti-inflammatory) and pours the concrete (Collagen/Fibrosis).",
+    "slideImagePath": "images/L130_slide_8.jpg",
+    "slideImageDescription": "Slide states TGF-beta is a 'potent fibrogenic agent'."
   },
   {
     "id": 5,
-    "category": "Wound Healing Phases",
-    "questionText": "A pathologist examines a biopsy from a healing wound 4 days after injury. The tissue is characterized by loose connective tissue, edema, numerous proliferating capillaries, and an infiltrate of macrophages. This tissue is best classified as:",
+    "category": "Granulation Tissue",
+    "questionText": "A 4-day-old wound is examined. It contains pink, soft, granular tissue that bleeds easily. Histologically, this 'granulation tissue' is characterized by:",
     "options": [
-      { "text": "Granulation tissue", "explanation": "Granulation tissue is the hallmark of the proliferation phase (days 3-7). It consists of proliferating fibroblasts, loose connective tissue, new blood vessels (angiogenesis), and leukocytes (mainly macrophages)." },
-      { "text": "Mature scar", "explanation": "Mature scar tissue is avascular and acellular with dense collagen, appearing weeks to months later." },
-      { "text": "Keloid", "explanation": "Keloid is an exuberant scar extending beyond wound boundaries, occurring much later." },
-      { "text": "Caseous necrosis", "explanation": "This is a pattern of cell death (TB), not repair." },
-      { "text": "Fibrinous exudate", "explanation": "This is an acute inflammatory response, typically earlier and focused on fibrin, not new tissue formation." }
+      { "text": "Dense collagen and few cells", "explanation": "Mature scar." },
+      { "text": "Proliferating fibroblasts and new capillaries (angiogenesis)", "explanation": "Correct. Granulation tissue is the hallmark of early repair (Phase 2), consisting of new vessels (angiogenesis), fibroblasts, and loose ECM." },
+      { "text": "Caseous necrosis", "explanation": "TB." },
+      { "text": "Granulomas", "explanation": "Chronic inflammation." },
+      { "text": "Abscess formation", "explanation": "Pus." }
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Granulation Tissue != Granuloma. Granulation Tissue = Healing (Vessels + Fibroblasts). Granuloma = Chronic Inflammation.",
     "slideImagePath": "images/L130_slide_12.jpg",
-    "slideImageDescription": "The slide defines 'GRANULATION TISSUE' as 'Migration, proliferation of fibroblasts and deposition of loose connective tissue along with new vessels and leukocytes (mostly macrophages)'."
+    "slideImageDescription": "Slide defines Granulation tissue."
   },
   {
     "id": 6,
-    "category": "Wound Healing Phases",
-    "questionText": "During the maturation phase of wound healing, the tensile strength of the wound increases significantly. This is primarily due to the replacement of Type III collagen with which type of collagen?",
+    "category": "Collagen Types",
+    "questionText": "During the early phases of wound healing, fibroblasts initially deposit which type of collagen (forming the 'scaffolding')?",
     "options": [
-      { "text": "Type I", "explanation": "Type III collagen (immature) is deposited first. During maturation, it is replaced by Type I collagen (mature), which provides high tensile strength (found in bone, skin, tendons)." },
-      { "text": "Type II", "explanation": "Type II is found in cartilage." },
-      { "text": "Type IV", "explanation": "Type IV is found in basement membranes." },
-      { "text": "Type V", "explanation": "Type V is ubiquitous in soft tissues but not the primary tensile strength provider in scar maturation." },
-      { "text": "Type X", "explanation": "Type X is found in hypertrophic cartilage." }
+      { "text": "Type I", "explanation": "Mature scar (Strong)." },
+      { "text": "Type II", "explanation": "Cartilage." },
+      { "text": "Type III", "explanation": "Correct. Type III (Reticular) collagen is pliable and laid down first ('The Draft'). It is later replaced by Type I ('The Final Version') for strength." },
+      { "text": "Type IV", "explanation": "Basement membrane." },
+      { "text": "Type X", "explanation": "Hypertrophic cartilage." }
     ],
-    "correctAnswerIndex": 0,
-    "slideImagePath": "images/L130_slide_23.jpg",
-    "slideImageDescription": "The slide details collagen types. It identifies Type I as having 'high tensile strength' and being found in 'scars (MATURE)', while Type III is the '1st collagen deposited in wound healing'."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Collagen Sequence: Type 3 First (Weak/Fast). Type 1 Later (Strong/Slow).",
+    "slideImagePath": "images/L130_slide_17.jpg",
+    "slideImageDescription": "Slide mentions Type III is replaced by Type I."
   },
   {
     "id": 7,
-    "category": "Wound Healing Phases",
-    "questionText": "A surgical incision is closed with sutures. One week later, the sutures are removed. At this point, the wound strength is approximately what percentage of the unwounded skin?",
+    "category": "Wound Contraction",
+    "questionText": "A large pressure ulcer heals by secondary intention. The wound size decreases significantly over time due to the action of 'myofibroblasts'. These cells contract using:",
     "options": [
-      { "text": "1%", "explanation": "Too low." },
-      { "text": "10%", "explanation": "At the end of the first week, wound strength is about 10% of unwounded skin. It increases over months to a maximum of 70-80%." },
-      { "text": "50%", "explanation": "This level is reached weeks later." },
-      { "text": "75%", "explanation": "This is the near-maximal strength reached after months." },
-      { "text": "100%", "explanation": "Wound strength rarely returns to 100%." }
+      { "text": "Microtubules", "explanation": "Transport." },
+      { "text": "Actin and Myosin", "explanation": "Correct. Myofibroblasts express alpha-smooth muscle actin, allowing them to contract like muscle cells and pull the wound edges together." },
+      { "text": "Intermediate filaments", "explanation": "Structure." },
+      { "text": "Collagen fibers", "explanation": "Extracellular." },
+      { "text": "Elastin", "explanation": "Recoil." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_slide_35.jpg",
-    "slideImageDescription": "The slide 'Tensile Strength of Wound' explicitly states: 'End of first week, wound strength - about 10% of unwounded skin'."
+    "clinicalPearl": "Myofibroblasts = Contractile Fibroblasts. They purse-string the wound closed.",
+    "slideImagePath": "images/L130_slide_28.jpg",
+    "slideImageDescription": "Slide 'Wound Contraction'."
   },
   {
     "id": 8,
-    "category": "Wound Healing Phases",
-    "questionText": "A large pressure ulcer on the sacrum of a bedridden patient heals by secondary intention. This process involves significant wound contraction to reduce the size of the defect. Which cell type is primarily responsible for this contraction?",
+    "category": "Collagen Synthesis",
+    "questionText": "A patient with poor diet presents with bleeding gums and non-healing wounds (Scurvy). The defect is in the hydroxylation of proline and lysine residues in collagen. This step requires:",
     "options": [
-      { "text": "Macrophages", "explanation": "Macrophages orchestrate healing but do not contract." },
-      { "text": "Myofibroblasts", "explanation": "Myofibroblasts are modified fibroblasts containing smooth muscle actin. They contract the wound edges, reducing the surface area in wounds healing by secondary intention." },
-      { "text": "Endothelial cells", "explanation": "Endothelial cells form vessels." },
-      { "text": "Keratinocytes", "explanation": "Keratinocytes re-epithelialize the surface." },
-      { "text": "Platelets", "explanation": "Platelets initiate clotting." }
+      { "text": "Vitamin A", "explanation": "Epithelium." },
+      { "text": "Vitamin D", "explanation": "Bone." },
+      { "text": "Vitamin C (Ascorbic Acid)", "explanation": "Correct. Vitamin C is the essential cofactor for Lysyl/Prolyl Hydroxylase in the ER. Without it, the triple helix is unstable." },
+      { "text": "Vitamin K", "explanation": "Clotting." },
+      { "text": "Zinc", "explanation": "MMPs." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_slide_28.jpg",
-    "slideImageDescription": "The slide 'WOUND CONTRACTION' identifies 'myofibroblasts' as fibroblasts with muscle filaments that 'contract in wound tissue' to close the defect."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Vitamin C for Collagen. Hydroxylation holds the Helix together. No C = Falling apart (Scurvy).",
+    "slideImagePath": "images/L130_slide_22.jpg",
+    "slideImageDescription": "Slide 'Collagen' mentions Vitamin C requirement."
   },
   {
     "id": 9,
-    "category": "Connective Tissue Remodeling",
-    "questionText": "During the remodeling phase of wound healing, excess collagen is degraded to prevent excessive scarring. Which family of enzymes is responsible for this degradation?",
+    "category": "Remodeling",
+    "questionText": "Tissue remodeling involves the degradation of collagen by Matrix Metalloproteinases (MMPs). These enzymes require which metal ion as a cofactor?",
     "options": [
-      { "text": "Lysyl oxidases", "explanation": "These cross-link collagen, increasing strength." },
-      { "text": "Matrix Metalloproteinases (MMPs)", "explanation": "MMPs (including collagenases, gelatinases, stromelysins) degrade ECM components. Their activity is regulated by TIMPs (Tissue Inhibitors of Metalloproteinases)." },
-      { "text": "Phospholipases", "explanation": "These degrade membrane phospholipids." },
-      { "text": "Cyclooxygenases", "explanation": "These produce prostaglandins." },
-      { "text": "Caspases", "explanation": "These mediate apoptosis." }
+      { "text": "Iron", "explanation": "Heme." },
+      { "text": "Magnesium", "explanation": "ATP." },
+      { "text": "Zinc", "explanation": "Correct. MMPs are Zinc-dependent endopeptidases." },
+      { "text": "Copper", "explanation": "Lysyl Oxidase." },
+      { "text": "Calcium", "explanation": "Signaling." }
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "MMPs = Zinc Dependent. Lysyl Oxidase = Copper Dependent.",
     "slideImagePath": "images/L130_slide_34.jpg",
-    "slideImageDescription": "The slide 'Remodeling of Connective tissue' states: 'Degradation accomplished by matrix metalloproteinases (MMPs)' and lists specific types like collagenases and gelatinases."
+    "slideImageDescription": "Implied by 'Metallo-' name and standard path knowledge."
   },
   {
     "id": 10,
-    "category": "Connective Tissue Remodeling",
-    "questionText": "The activity of Matrix Metalloproteinases (MMPs) must be tightly regulated to ensure proper remodeling without tissue destruction. Which physiological inhibitors specifically shut down MMP activity?",
+    "category": "Remodeling",
+    "questionText": "MMP activity is tightly regulated to prevent unchecked tissue destruction. The specific endogenous inhibitors of MMPs are:",
     "options": [
-      { "text": "VEGF", "explanation": "Angiogenic factor." },
-      { "text": "TIMPs", "explanation": "Tissue Inhibitors of Metalloproteinases (TIMPs) specifically inhibit MMPs to control the balance of collagen synthesis and degradation." },
       { "text": "Plasmin", "explanation": "Activates MMPs." },
-      { "text": "Integrins", "explanation": "Adhesion molecules." },
-      { "text": "Selectins", "explanation": "Adhesion molecules." }
+      { "text": "TIMPs (Tissue Inhibitors of Metalloproteinases)", "explanation": "Correct. TIMPs bind and inhibit MMPs to control remodeling." },
+      { "text": "Alpha-1 Antitrypsin", "explanation": "Inhibits Elastase." },
+      { "text": "C1 Inhibitor", "explanation": "Complement." },
+      { "text": "Heparin", "explanation": "Anticoagulant." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "TIMPs vs MMPs. The balance determines if you Scar or Disintegrate.",
     "slideImagePath": "images/L130_slide_34.jpg",
-    "slideImageDescription": "The slide mentions: 'Activity shut down by tissue inhibitors of metalloproteinases (TIMPs)'."
+    "slideImageDescription": "Slide mentions TIMPs shut down MMP activity."
   },
   {
     "id": 11,
-    "category": "Factors Affecting Healing",
-    "questionText": "A 30-year-old sailor presents with bleeding gums and poor wound healing. He has a history of a diet lacking fresh fruits and vegetables. This nutritional deficiency impairs wound healing primarily by affecting which step of collagen synthesis?",
+    "category": "Complications",
+    "questionText": "After an abdominal surgery, a patient coughs violently and the wound bursts open. This complication is called:",
     "options": [
-      { "text": "Translation of alpha chains", "explanation": "Not vitamin C dependent." },
-      { "text": "Cleavage of propeptides", "explanation": "Not vitamin C dependent." },
-      { "text": "Hydroxylation of proline and lysine", "explanation": "Vitamin C (ascorbic acid) is a required cofactor for the hydroxylation of proline and lysine residues in procollagen. This step is essential for the formation of the stable triple helix. Deficiency leads to scurvy." },
-      { "text": "Glycosylation of hydroxylysine", "explanation": "Occurs after hydroxylation." },
-      { "text": "Cross-linking by lysyl oxidase", "explanation": "Requires copper, not vitamin C." }
+      { "text": "Ulceration", "explanation": "Integrity loss." },
+      { "text": "Dehiscence", "explanation": "Correct. Mechanical rupture of a wound, usually due to increased pressure (couching/vomiting) or poor healing." },
+      { "text": "Contracture", "explanation": "Shrinking." },
+      { "text": "Keloid", "explanation": "Overgrowth." },
+      { "text": "Evisceration", "explanation": "Spilling of guts (severe form of dehiscence)." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_slide_38.jpg",
-    "slideImageDescription": "The slide 'Deterrents to wound healing' lists 'Malnutrition.... Vit C needed for hydroxylation'. The collagen synthesis diagram (Page 22) also explicitly notes 'Requires Vitamin C (Scurvy)' at the hydroxylation step."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Dehiscence = Wound Separation. 'Pop goes the suture'.",
+    "slideImagePath": "images/L130_slide_40.jpg",
+    "slideImageDescription": "Slide shows Dehiscence."
   },
   {
     "id": 12,
-    "category": "Factors Affecting Healing",
-    "questionText": "A patient on long-term corticosteroid therapy for an autoimmune disease undergoes surgery. The surgeon notes that the patient's skin is fragile and the surgical wound heals poorly. Which mechanism best explains the effect of glucocorticoids on wound healing?",
+    "category": "Complications",
+    "questionText": "An African American female develops a large, raised, tumor-like scar on her earlobe after piercing. The scar extends beyond the original wound boundaries. This is a:",
     "options": [
-      { "text": "Inhibition of collagen synthesis", "explanation": "Glucocorticoids have anti-inflammatory effects and also inhibit collagen synthesis, leading to weaker wounds and delayed healing." },
-      { "text": "Promotion of excessive angiogenesis", "explanation": "Steroids typically inhibit angiogenesis." },
-      { "text": "Increased fibroblast proliferation", "explanation": "Steroids decrease fibroblast activity." },
-      { "text": "Enhanced neutrophil migration", "explanation": "Steroids reduce leukocyte infiltration." },
-      { "text": "Stimulation of TGF-beta release", "explanation": "TGF-beta promotes fibrosis; steroids generally inhibit the fibrotic response." }
+      { "text": "Hypertrophic Scar", "explanation": "Stays in lines." },
+      { "text": "Keloid", "explanation": "Correct. Genetic predisposition (darker skin). Extends BEYOND borders. High recurrence. Type III collagen rich." },
+      { "text": "Desmoid tumor", "explanation": "Fibromatosis." },
+      { "text": "Granuloma", "explanation": "Inflammation." },
+      { "text": "Lipoma", "explanation": "Fat." }
     ],
-    "correctAnswerIndex": 0,
-    "slideImagePath": "images/L130_slide_38.jpg",
-    "slideImageDescription": "The slide 'Deterrents to wound healing' lists 'Hormones - glucocorticoids (anti-inflammatory and inhibit collagen synthesis)'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Keloid = Out of Bounds. Hypertrophic Scar = In Bounds.",
+    "slideImagePath": "images/L130_slide_42.jpg",
+    "slideImageDescription": "Slide compares Keloid vs Hypertrophic Scar."
   },
   {
     "id": 13,
-    "category": "Complications of Healing",
-    "questionText": "An 18-year-old female pierces her ear. Six months later, she presents with a large, raised, firm nodule at the piercing site that extends well beyond the original wound margins. Histology shows broad, disorganized collagen bundles. This lesion is best classified as a:",
+    "category": "Tensile Strength",
+    "questionText": "At the end of the first week (suture removal), wound tensile strength is approximately:",
     "options": [
-      { "text": "Hypertrophic scar", "explanation": "Hypertrophic scars are raised but remain confined to the borders of the original wound and often contain parallel collagen." },
-      { "text": "Keloid", "explanation": "Keloids are exuberant scars that extend beyond the boundaries of the original wound. They are composed of disorganized collagen and frequently recur after resection." },
-      { "text": "Dehiscence", "explanation": "Dehiscence is the rupture of a wound." },
-      { "text": "Contracture", "explanation": "Contracture is tightening of the skin, often after burns." },
-      { "text": "Granuloma", "explanation": "Granulomas involve macrophages and are inflammatory, not primarily scar tissue neoplasms." }
+      { "text": "1%", "explanation": "Minimal." },
+      { "text": "10%", "explanation": "Correct. It is very weak. Be careful!" },
+      { "text": "50%", "explanation": "Months." },
+      { "text": "80%", "explanation": "3 months (Max)." },
+      { "text": "100%", "explanation": "Never." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_slide_42.jpg",
-    "slideImageDescription": "The slide compares 'Keloid v. Hypertrophic scar'. It defines Keloids as having 'Disorganized collagen formation' and 'Extends beyond borders of original wound'. An image of a keloid on an ear is provided."
+    "clinicalPearl": "1 Week = 10% Strength. 3 Months = 80% Strength (Max). Scars are never as strong as skin.",
+    "slideImagePath": "images/L130_slide_35.jpg",
+    "slideImageDescription": "Slide gives specific 10% statistic."
   },
   {
     "id": 14,
-    "category": "Complications of Healing",
-    "questionText": "A patient who underwent abdominal surgery 5 days ago develops a violent cough. Suddenly, the surgical incision splits open, exposing the underlying viscera. This complication is known as:",
+    "category": "Factors Impairing Healing",
+    "questionText": "High levels of Glucocorticoids (Steroids) impair wound healing primarily by:",
     "options": [
-      { "text": "Keloid formation", "explanation": "Excessive scar." },
-      { "text": "Contracture", "explanation": "Tightening of scar." },
-      { "text": "Dehiscence", "explanation": "Dehiscence is the rupture of a wound, most commonly after abdominal surgery due to increased abdominal pressure (vomiting, coughing). It represents deficient scar formation." },
-      { "text": "Ulceration", "explanation": "Local defect in surface." },
-      { "text": "Organization", "explanation": "Fibrosis of exudate." }
+      { "text": "Inhibiting Collagen Synthesis (via TGF-beta inhibition)", "explanation": "Correct. Steroids are anti-inflammatory but also anti-fibrotic. They result in weak scars." },
+      { "text": "Promoting excesive angiogenesis", "explanation": "Inhibits." },
+      { "text": "Increasing neutrophil infiltration", "explanation": "Decreases (demargination but less tissue entry)." },
+      { "text": "Stimulating fibroblasts", "explanation": "Inhibits." },
+      { "text": "Increasing protein synthesis", "explanation": "Catabolic." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_slide_40.jpg",
-    "slideImageDescription": "The slide displays a photo of an abdominal wound rupture and defines 'Dehiscence: Most commonly after abdominal surgery secondary to increased abdominal pressure'."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Steroids stop the scar. Good for Keloids, bad for Surgical Wounds.",
+    "slideImagePath": "images/L130_slide_38.jpg",
+    "slideImageDescription": "Slide lists corticosteroids."
   },
   {
     "id": 15,
-    "category": "Angiogenesis",
-    "questionText": "During angiogenesis, specialized endothelial cells located at the leading edge of the vascular sprout migrate toward the angiogenic stimulus. These cells are known as:",
+    "category": "ECM Components",
+    "questionText": "Which ECM component serves as the 'glue' of the basement membrane, binding cells to Type IV collagen?",
     "options": [
-      { "text": "Stalk cells", "explanation": "Stalk cells proliferate and form the lumen behind the tip cell." },
-      { "text": "Tip cells", "explanation": "The 'Tip' cell is the leading cell that responds to VEGF gradients and guides the sprout. It does not divide but migrates." },
-      { "text": "Pericytes", "explanation": "Pericytes stabilize the vessel from the outside." },
-      { "text": "Fibroblasts", "explanation": "Fibroblasts produce ECM." },
-      { "text": "Macrophages", "explanation": "Macrophages secrete growth factors." }
+      { "text": "Fibronectin", "explanation": "Interstitial glue." },
+      { "text": "Laminin", "explanation": "Correct. Laminin is the major glycoprotein of the basement membrane. (Think: Lami-NET)." },
+      { "text": "Elastin", "explanation": "Stretch." },
+      { "text": "Hyaluronan", "explanation": "Water." },
+      { "text": "Integrin", "explanation": "Receptor." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_slide_8.jpg",
-    "slideImageDescription": "The diagram 'Formation of new vessel' labels the 'Leading ('tip') cell' at the front of the sprout, noting it responds to 'VEGF, Notch signals'."
+    "clinicalPearl": "Laminin = Basement Membrane Glue. Fibronectin = Interstitial Glue.",
+    "slideImagePath": "images/L130_slide_19.jpg",
+    "slideImageDescription": "Slide 'Two forms of ECM' lists laminin in basement membrane."
   },
   {
     "id": 16,
-    "category": "Angiogenesis",
-    "questionText": "Newly formed blood vessels in granulation tissue are leaky, contributing to the edema seen in healing wounds. Which of the following factors promotes this vascular permeability and also stimulates endothelial proliferation?",
+    "category": "Stem Cells",
+    "questionText": "Cutaneous stem cells responsible for re-epithelializing deep skin wounds reside primarily in the:",
     "options": [
-      { "text": "PDGF", "explanation": "Recruits smooth muscle cells." },
-      { "text": "TGF-beta", "explanation": "Stabilizes vessels." },
-      { "text": "VEGF", "explanation": "VEGF stimulates endothelial proliferation and motility but also increases vascular permeability (hence 'vascular permeability factor' was its original name)." },
-      { "text": "FGF-2", "explanation": "Stimulates proliferation but VEGF is the classic permeability factor in this context." },
-      { "text": "Angiopoietin 1", "explanation": "Stabilizes vessels, reducing permeability." }
+      { "text": "Stratum Corneum", "explanation": "Dead." },
+      { "text": "Dermis", "explanation": "Connective tissue." },
+      { "text": "Bulge of the Hair Follicle", "explanation": "Correct. The 'Bulge' is the stem cell niche. They migrate up to fix epidermis and down to fix follicle." },
+      { "text": "Adipose layer", "explanation": "Fat." },
+      { "text": "Sebaceous gland", "explanation": "Oil." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_slide_14.jpg",
-    "slideImageDescription": "The slide 'ANGIOGENESIS' states that VEGF 'promotes vasodilation... also increases vessel permeability'."
+    "clinicalPearl": "Hair Follicle Bulge = The Stem Cell Bunker.",
+    "slideImagePath": "images/L130_slide_6.jpg",
+    "slideImageDescription": "Context of labile cells."
   },
   {
     "id": 17,
-    "category": "Wound Healing Phases",
-    "questionText": "In the time course of wound healing, which cell type typically appears first in the inflammatory phase?",
+    "category": "Collagen Disorders",
+    "questionText": "Osteogenesis Imperfecta (Brittle Bone Disease) is caused by a defect in:",
     "options": [
-      { "text": "Macrophages", "explanation": "Macrophages arrive later (48-96 hours)." },
-      { "text": "Fibroblasts", "explanation": "Fibroblasts proliferate later (days)." },
-      { "text": "Neutrophils", "explanation": "Neutrophils are the first leukocytes to arrive at the site of injury, typically within 24 hours, to clean out debris and bacteria." },
-      { "text": "Lymphocytes", "explanation": "Late inflammatory/chronic response." },
-      { "text": "Endothelial cells", "explanation": "Proliferate in the proliferation phase." }
+      { "text": "Type I Collagen", "explanation": "Correct. 'Type ONE is for BONE'. Defect = fractures, blue sclerae." },
+      { "text": "Type II Collagen", "explanation": "Cartilage." },
+      { "text": "Type III Collagen", "explanation": "Vascular EDS." },
+      { "text": "Type IV Collagen", "explanation": "Alport." },
+      { "text": "Fibrillin", "explanation": "Marfan." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_slide_43.jpg",
-    "slideImageDescription": "The slide 'HEALING - REVIEW' states: 'Neutrophils appear within 24 hours, clean out debris and bacteria'."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Osteogenesis Imperfecta = Type 1 Collagen Defect. Bones shatter like glass.",
+    "slideImagePath": "images/L130_slide_23.jpg",
+    "slideImageDescription": "Table lists OI."
   },
   {
     "id": 18,
-    "category": "Wound Healing Phases",
-    "questionText": "By 48-96 hours post-injury, the predominant cell type in the inflammatory infiltrate shifts. Which cell type becomes dominant and plays a key role in orchestrating the subsequent repair process by releasing growth factors?",
+    "category": "Collagen Disorders",
+    "questionText": "Vascular Ehlers-Danlos Syndrome (Type IV EDS) is associated with spontaneous rupture of arteries and bowel. The defect is in:",
     "options": [
-      { "text": "Neutrophils", "explanation": "Early responders, decline by 48 hours." },
-      { "text": "Macrophages", "explanation": "Macrophages replace neutrophils by 48-96 hours. They clear debris and are the main source of growth factors (PDGF, VEGF, TGF-beta) that trigger fibroblast proliferation and angiogenesis." },
-      { "text": "Plasma cells", "explanation": "Antibody production." },
-      { "text": "Mast cells", "explanation": "Immediate histamine release." },
-      { "text": "Basophils", "explanation": "Allergic response." }
+      { "text": "Type I Collagen", "explanation": "Classic EDS." },
+      { "text": "Type III Collagen", "explanation": "Correct. Type III is in blood vessels and hollow organs. 'Type 3 bleeds'." },
+      { "text": "Elastin", "explanation": "Marfan." },
+      { "text": "Fibrillin", "explanation": "Marfan." },
+      { "text": "Keratin", "explanation": "Skin." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_slide_43.jpg",
-    "slideImageDescription": "The slide 'HEALING - REVIEW' states: 'Neutrophils replaced by macrophages by 48 - 96 hours which clear debris... and promote angiogenesis, ECM deposition'."
+    "clinicalPearl": "Vascular EDS = Type 3 Collagen. Aorta/Bowel Rupture risk.",
+    "slideImagePath": "images/L130_slide_23.jpg",
+    "slideImageDescription": "Table lists vascular EDS."
   },
   {
     "id": 19,
-    "category": "Wound Healing Phases",
-    "questionText": "A patient has a clean surgical incision that is sutured closed. The epithelial basal cells grow across the incision and meet in the midline. This type of healing is known as:",
+    "category": "Primary vs Secondary Intention",
+    "questionText": "Healing by Secondary Intention differs from Primary Intention in that Secondary Intention involves:",
     "options": [
-      { "text": "Healing by Second Intention", "explanation": "Involves large defects, extensive granulation tissue, and wound contraction." },
-      { "text": "Healing by Primary Intention", "explanation": "Healing by primary intention (first intention) occurs in clean, uninfected wounds with opposed edges (e.g., surgical incision). It involves epithelial regeneration with minimal scarring." },
-      { "text": "Regeneration", "explanation": "This is a broad term; primary intention describes the specific wound scenario." },
-      { "text": "Organization", "explanation": "Refers to fibrosis of exudate." },
-      { "text": "Resolution", "explanation": "Refers to return to normal without scar." }
+      { "text": "Sutured edges", "explanation": "Primary." },
+      { "text": "Minimal scarring", "explanation": "Primary." },
+      { "text": "More Granulation Tissue and Wound Contraction", "explanation": "Correct. Large gap -> More filling (granulation) + More pulling (contraction) -> Bigger scar." },
+      { "text": "Faster healing", "explanation": "Slower." },
+      { "text": "Less inflammation", "explanation": "More." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_slide_30.jpg",
-    "slideImageDescription": "The slide 'Healing by Primary (First) Intention' describes it as: 'Wounds with opposed edges; involves only epithelial layer... Ex: healing of a clean, uninfected surgical incision'."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Secondary Intention = The Hard Way. More Inflammation, More Granulation, More Contraction, More Scar.",
+    "slideImagePath": "images/L130_slide_31.jpg",
+    "slideImageDescription": "Slide compares the two."
   },
   {
     "id": 20,
-    "category": "Wound Healing Phases",
-    "questionText": "A construction worker suffers a large, gaping laceration on his leg that is not sutured. The wound fills with abundant granulation tissue and eventually leaves a large scar. This process describes:",
+    "category": "ECM Components",
+    "questionText": "Which ECM component binds large amounts of water to form a hydrated gel (provide turgor)?",
     "options": [
-      { "text": "Healing by Primary Intention", "explanation": "Clean, closed wounds." },
-      { "text": "Healing by Second Intention", "explanation": "Healing by second intention occurs in wounds with separated edges and extensive tissue loss. It involves abundant granulation tissue and substantial scar formation." },
-      { "text": "Keloid formation", "explanation": "Pathologic excessive scarring." },
-      { "text": "Dehiscence", "explanation": "Wound rupture." },
-      { "text": "Regeneration", "explanation": "Restoration of normal tissue." }
+      { "text": "Collagen", "explanation": "Strength." },
+      { "text": "Elastin", "explanation": "Recoil." },
+      { "text": "Hyaluronan (Hyaluronic Acid)", "explanation": "Correct. A huge GAG that sponges up water." },
+      { "text": "Laminin", "explanation": "Glue." },
+      { "text": "Integrin", "explanation": "Receptor." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_slide_31.jpg",
-    "slideImageDescription": "The slide 'Healing by Secondary Intention' lists characteristics: 'Wounds with unopposed/separated edges... More extensive loss of cells... abundant granulation tissue... substantial scar'."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Hyaluronan = Nature's Moisturizer. Gives skin its volume.",
+    "slideImagePath": "images/L130_slide_24.jpg",
+    "slideImageDescription": "Slide mentions HA binding water."
   },
   {
     "id": 21,
-    "category": "ECM & Connective Tissue",
-    "questionText": "Which component of the extracellular matrix acts as a 'glue' to facilitate the attachment of cells to the matrix components, such as collagen?",
+    "category": "Angiogenesis",
+    "questionText": "The signaling pathway that ensures proper spacing of new blood vessels during angiogenesis (Tip vs Stalk cell selection) is:",
     "options": [
-      { "text": "Elastin", "explanation": "Provides recoil." },
-      { "text": "Fibronectin", "explanation": "Fibronectin is an adhesive glycoprotein that cross-links matrix elements and binds cells (via integrins) to the ECM." },
-      { "text": "Hyaluronan", "explanation": "Provides hydration/turgor." },
-      { "text": "Heparan sulfate", "explanation": "A proteoglycan." },
-      { "text": "Keratin", "explanation": "Intermediate filament in epithelial cells." }
+      { "text": "Notch Signaling", "explanation": "Correct. Lateral inhibition via Notch preventing 'too many cooks in the kitchen' (too many functional tips)." },
+      { "text": "Wnt Signaling", "explanation": "Development." },
+      { "text": "Hedgehog Signaling", "explanation": "Patterning." },
+      { "text": "JAK-STAT", "explanation": "Immunity." },
+      { "text": "NF-kB", "explanation": "Inflammation." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_slide_21.jpg",
-    "slideImageDescription": "The slide 'ECM' lists 'Structural Glycoproteins' and identifies 'Fibronectin - CROSS LINKING... connect matrix elements to one another and to cells'."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Notch Signaling spaces out the sprouts. Prevents chaotic vascular tangles.",
+    "slideImagePath": "images/L130_slide_14.jpg",
+    "slideImageDescription": "Diagram shows Notch."
   },
   {
     "id": 22,
-    "category": "ECM & Connective Tissue",
-    "questionText": "In the basement membrane, Type IV collagen forms a network that interacts with other key structural proteins. Which glycoprotein is a major component of the basement membrane and mediates the attachment of epithelial cells?",
+    "category": "Growth Factors",
+    "questionText": "PDGF (Platelet Derived Growth Factor) is a potent chemotactic agent for:",
     "options": [
-      { "text": "Elastin", "explanation": "Found in interstitial matrix." },
-      { "text": "Fibrin", "explanation": "Found in clots." },
-      { "text": "Laminin", "explanation": "Laminin is a major adhesive glycoprotein found in all basement membranes (along with Type IV collagen) that mediates cell attachment." },
-      { "text": "Osteonectin", "explanation": "Found in bone." },
-      { "text": "Fibronectin", "explanation": "Found in interstitial matrix and plasma." }
+      { "text": "Epithelial cells", "explanation": "EGF." },
+      { "text": "Fibroblasts and Smooth Muscle Cells", "explanation": "Correct. It calls the repair crew to the site." },
+      { "text": "Neutrophils", "explanation": "IL-8/C5a." },
+      { "text": "Lymphocytes", "explanation": "Chemokines." },
+      { "text": "Hepatocytes", "explanation": "HGF." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_slide_19.jpg",
-    "slideImageDescription": "The slide 'TWO FORMS OF ECM' describes the basement membrane as 'made up of mostly type IV collagen... laminin, heparin sulfate'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "PDGF recruits the workmen (Fibroblasts/Smooth Muscle).",
+    "slideImagePath": "images/L130_slide_9.jpg",
+    "slideImageDescription": "Table lists PDGF functions."
   },
   {
     "id": 23,
-    "category": "ECM & Connective Tissue",
-    "questionText": "Proteoglycans in the extracellular matrix are composed of a core protein linked to long repeating polymers of disaccharides called:",
+    "category": "Scars",
+    "questionText": "In a mature scar (months old), the predominant collagen type is:",
     "options": [
-      { "text": "Polypeptides", "explanation": "Proteins." },
-      { "text": "Nucleotides", "explanation": "DNA/RNA." },
-      { "text": "Glycosaminoglycans (GAGs)", "explanation": "GAGs (long repeating polymers of specific disaccharides) link to core proteins to form proteoglycans. They regulate structure and permeability." },
-      { "text": "Fatty acids", "explanation": "Lipids." },
-      { "text": "Amino acids", "explanation": "Proteins." }
+      { "text": "Type I", "explanation": "Correct. Type III is replaced by Type I." },
+      { "text": "Type II", "explanation": "Cartilage." },
+      { "text": "Type III", "explanation": "Granulation tissue." },
+      { "text": "Type IV", "explanation": "Basement membrane." },
+      { "text": "Type V", "explanation": "Minor." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_slide_24.jpg",
-    "slideImageDescription": "The slide defines 'GAGS' as 'long repeating polymers of specific disaccharides; most linked to core protein, forming proteoglycans'."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Mature Scar = Strong Scar = Type 1 Collagen.",
+    "slideImagePath": "images/L130_slide_23.jpg",
+    "slideImageDescription": "Slide notes Type I is 'Mature'."
   },
   {
     "id": 24,
-    "category": "Complications of Healing",
-    "questionText": "A severe burn victim heals with significant scarring. Over time, the skin on their palms and soles tightens, limiting range of motion. This exaggerated process of wound contraction is called:",
+    "category": "Vitamin Deficiency",
+    "questionText": "Vitamin A deficiency can impair wound healing primarily by affecting:",
     "options": [
-      { "text": "Dehiscence", "explanation": "Wound opening." },
-      { "text": "Keloid", "explanation": "Overgrowth of scar tissue." },
-      { "text": "Contracture", "explanation": "Contractures are excessive wound contractions that result in deformities and limitation of movement, commonly seen after serious burns on palms, soles, and the anterior thorax." },
-      { "text": "Ulceration", "explanation": "Tissue loss." },
-      { "text": "Hypertrophic scar", "explanation": "Raised scar." }
+      { "text": "Collagen cross-linking", "explanation": "Vitamin C/Copper." },
+      { "text": "Epithelial differentiation/Re-epithelialization", "explanation": "Correct. Vitamin A is essential for epithelial health. Deficiency -> squamous metaplasia and poor skin integrity." },
+      { "text": "Clotting", "explanation": "Vitamin K." },
+      { "text": "Angiogenesis", "explanation": "VEGF." },
+      { "text": "Contraction", "explanation": "Myofibroblasts." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_slide_39.jpg",
-    "slideImageDescription": "The slide 'COMPLICATIONS' lists 'Contractures - especially in palms, soles... commonly after serious burns; exageration of contraction'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Vitamin A = Epithelial Maintainer.",
+    "slideImagePath": "images/L130_slide_38.jpg",
+    "slideImageDescription": "Malnutrition context."
   },
   {
     "id": 25,
-    "category": "Regeneration",
-    "questionText": "Liver regeneration after partial hepatectomy involves the proliferation of remaining hepatocytes. In the 'priming phase' of this process, hepatocytes are prepared for the cell cycle by cytokines produced mainly by which cell type?",
+    "category": "Growth Factors",
+    "questionText": "Keratinocyte Growth Factor (KGF or FGF-7) specifically stimulates:",
     "options": [
-      { "text": "Fibroblasts", "explanation": "Produce ECM." },
-      { "text": "Kupffer cells (Macrophages)", "explanation": "Kupffer cells (liver macrophages) secrete cytokines (IL-6) that prime hepatocytes to respond to growth factors (HGF, TGF-alpha) during the primary phase of regeneration." },
-      { "text": "Endothelial cells", "explanation": "Line sinusoids." },
-      { "text": "Stellate cells", "explanation": "Store Vitamin A, involved in fibrosis." },
-      { "text": "Biliary epithelial cells", "explanation": "Line bile ducts." }
+      { "text": "Angiogenesis", "explanation": "VEGF." },
+      { "text": "Fibrosis", "explanation": "TGF-beta." },
+      { "text": "Re-epithelialization (Epidermal repair)", "explanation": "Correct. Produced by fibroblasts, acts on keratinocytes." },
+      { "text": "Bone growth", "explanation": "BMP." },
+      { "text": "Nerve regrowth", "explanation": "NGF." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_slide_37.jpg",
-    "slideImageDescription": "The slide 'REGENERATION OF THE LIVER' states: 'Primary phase - hepatocytes primed by cytokines made by Kupffer cells (macrophages)'."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Fibroblasts talk to the Skin: They secrete KGF to tell Keratinocytes to cover the wound.",
+    "slideImagePath": "images/L130_slide_9.jpg",
+    "slideImageDescription": "Table lists KGF."
   },
   {
     "id": 26,
-    "category": "Wound Healing Phases",
-    "questionText": "Which of the following molecules helps to stabilize the interaction between the cell surface (integrins) and the cytoskeleton (actin/intermediate filaments)?",
+    "category": "Complications",
+    "questionText": "Contractures (disfiguring shortening of scar tissue) are most commonly seen after:",
     "options": [
-      { "text": "Cadherins", "explanation": "Cadherins and integrins link the cell surface with the cytoskeleton." },
-      { "text": "Selectins", "explanation": "Mediate rolling." },
-      { "text": "Immunoglobulins", "explanation": "Antibodies." },
-      { "text": "Growth factors", "explanation": "Signaling molecules." },
-      { "text": "Cytokines", "explanation": "Signaling molecules." }
+      { "text": "Surgical incisions", "explanation": "Rare." },
+      { "text": "Severe Burns", "explanation": "Correct. Burns activate myofibroblasts excessively." },
+      { "text": "Abrasions", "explanation": "Superficial." },
+      { "text": "Blunt trauma", "explanation": "Bruise." },
+      { "text": "Myocardial infarction", "explanation": "Scar doesn't contract like skin." }
     ],
-    "correctAnswerIndex": 0,
-    "slideImagePath": "images/L130_slide_24.jpg",
-    "slideImageDescription": "The slide 'ECM' states: 'Cadherins and integrins...link cell surface with cytoskeleton by binding to actin and intermediate filaments'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Burns -> Contractures. Physical therapy is key to stretch the scar.",
+    "slideImagePath": "images/L130_slide_39.jpg",
+    "slideImageDescription": "Slide mentions burns."
   },
   {
     "id": 27,
-    "category": "Growth Factors",
-    "questionText": "Platelet-derived growth factor (PDGF) is released upon injury. In addition to stimulating fibroblast proliferation, it is a potent chemotactic agent for which cell types?",
+    "category": "Cell Types",
+    "questionText": "Quiescent cells that can re-enter the cell cycle are called:",
     "options": [
-      { "text": "Neutrophils and Lymphocytes", "explanation": "Not the primary target." },
-      { "text": "Endothelial cells and Pericytes", "explanation": "PDGF stabilizes vessels but chemotaxis is mainly for mesenchymal cells." },
-      { "text": "Monocytes, Fibroblasts, and Smooth Muscle Cells", "explanation": "PDGF causes migration and proliferation of fibroblasts, smooth muscle cells, and monocytes to inflammatory areas." },
-      { "text": "Epithelial cells and Keratinocytes", "explanation": "Responsive to EGF/KGF." },
-      { "text": "Hepatocytes", "explanation": "Responsive to HGF." }
+      { "text": "Labile", "explanation": "Always cycling." },
+      { "text": "Stable", "explanation": "Correct. G0 phase." },
+      { "text": "Permanent", "explanation": "Never cycle." },
+      { "text": "Apoptotic", "explanation": "Dying." },
+      { "text": "Necrotic", "explanation": "Dead." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_slide_8.jpg",
-    "slideImageDescription": "The slide 'IMPORTANT GROWTH FACTORS' states: 'PDGF causes migration and proliferation of fibroblasts, smooth muscle cells, monocytes'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Stable Cells are 'On Standby'.",
+    "slideImagePath": "images/L130_slide_6.jpg",
+    "slideImageDescription": "Definitions."
   },
   {
     "id": 28,
-    "category": "Connective Tissue Remodeling",
-    "questionText": "Zinc is an essential cofactor for the activity of enzymes involved in collagen degradation and tissue remodeling. A deficiency in zinc would directly impair the function of:",
+    "category": "ECM",
+    "questionText": "Fibrillin-1 creates a scaffold for:",
     "options": [
-      { "text": "Lysyl oxidase", "explanation": "Requires Copper." },
-      { "text": "Prolyl hydroxylase", "explanation": "Requires Vitamin C and Iron." },
-      { "text": "Matrix Metalloproteinases (MMPs)", "explanation": "MMPs are zinc-dependent enzymes (hence 'metallo-'). Zinc deficiency would impair their ability to degrade collagen and remodel the scar." },
-      { "text": "Telomerase", "explanation": "DNA replication." },
-      { "text": "DNA polymerase", "explanation": "DNA replication." }
+      { "text": "Collagen", "explanation": "No." },
+      { "text": "Elastin", "explanation": "Correct. Defect = Marfan." },
+      { "text": "Laminin", "explanation": "No." },
+      { "text": "Fibronectin", "explanation": "No." },
+      { "text": "Integrin", "explanation": "No." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_slide_34.jpg",
-    "slideImageDescription": "The slide discusses MMPs. While it doesn't explicitly state 'Zinc', the name 'metalloproteinases' implies metal dependency, and standard medical knowledge (often tested in this context) links this to Zinc. The slide focuses on their degradation role."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Fibrillin holds the Elastic.",
+    "slideImagePath": "images/L130_slide_21.jpg",
+    "slideImageDescription": "Implied."
   },
   {
     "id": 29,
-    "category": "Factors Affecting Healing",
-    "questionText": "A patient with uncontrolled diabetes mellitus has a foot ulcer that fails to heal. In addition to poor circulation and neuropathy, hyperglycemia impairs wound healing by:",
+    "category": "Factors",
+    "questionText": "Albumin levels are checked in wound patients to assess:",
     "options": [
-      { "text": "Increasing collagen degradation", "explanation": "Not the primary diabetic mechanism." },
-      { "text": "Inhibiting fibroblast proliferation", "explanation": "Not the primary diabetic mechanism." },
-      { "text": "Impairing neutrophil and macrophage phagocytosis", "explanation": "Glycosylation (bonding of glucose to proteins) impairs the function of white blood cells, specifically neutrophil and macrophage phagocytosis, leading to persistent infection and poor healing." },
-      { "text": "Decreasing VEGF production", "explanation": "Diabetics often have issues with angiogenesis, but the phagocytic defect is a key immune impairment." },
-      { "text": "Accelerating wound contraction", "explanation": "Does not explain non-healing." }
+      { "text": "Oxygenation", "explanation": "O2 sat." },
+      { "text": "Protein/Nutritional Status", "explanation": "Correct. Hypoproteinemia = Poor healing." },
+      { "text": "Clotting", "explanation": "PT/INR." },
+      { "text": "Inflammation", "explanation": "CRP." },
+      { "text": "Kidney function", "explanation": "Creatinine." }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Feed the wound. Protein (Albumin) is required for synthesis.",
     "slideImagePath": "images/L130_slide_38.jpg",
-    "slideImageDescription": "The slide 'Deterrents to wound healing' explicitly lists: 'Diabetes....glycosylation... impairs neutrophil and macrophage phagocytosis'."
+    "slideImageDescription": "Malnutrition."
   },
   {
     "id": 30,
-    "category": "Cellular Proliferation & Tissue Types",
-    "questionText": "Which of the following tissues contains 'labile' cells, meaning they have a high turnover rate and are constantly dividing?",
+    "category": "Collagen Cross-linking",
+    "questionText": "Lysyl Oxidase, the enzyme that cross-links collagen outside the cell, requires which mineral?",
     "options": [
-      { "text": "Liver", "explanation": "Stable cells." },
-      { "text": "Kidney", "explanation": "Stable cells." },
-      { "text": "Gastrointestinal mucosa", "explanation": "Labile cells are continuously dividing. Examples include epithelial cells of the skin, GI mucosa, and hematopoietic cells." },
-      { "text": "Pancreas", "explanation": "Stable cells." },
-      { "text": "Brain", "explanation": "Permanent cells." }
+      { "text": "Zinc", "explanation": "MMPs." },
+      { "text": "Iron", "explanation": "Hydroxylase." },
+      { "text": "Copper", "explanation": "Correct. Menkes Disease / Penicillamine can cause deficiency." },
+      { "text": "Magnesium", "explanation": "Cofactor." },
+      { "text": "Calcium", "explanation": "Bone." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_slide_6.jpg",
-    "slideImageDescription": "The slide 'Cell types based on proliferation potential' lists 'Labile cells' with examples: 'epithelial cells, lymphoid, hematopoietic, GI mucosa'."
+    "clinicalPearl": "Lysyl Oxidase 'Coppers' the deal (seals the bond).",
+    "slideImagePath": "images/L130_slide_22.jpg",
+    "slideImageDescription": "Implied."
   },
   {
     "id": 31,
-    "category": "Angiogenesis",
-    "questionText": "During the stabilization of new blood vessels, pericytes are recruited to the abluminal surface. Which growth factor is primarily involved in this recruitment and stabilization process?",
+    "category": "Signaling",
+    "questionText": "Most growth factors (EGF, VEGF, PDGF) signals via:",
     "options": [
-      { "text": "VEGF", "explanation": "Initiates sprouting." },
-      { "text": "FGF-2", "explanation": "Proliferation." },
-      { "text": "Angiopoietin (Ang-1)", "explanation": "Angiopoietins (and PDGF) are involved in the recruitment of pericytes and smooth muscle cells to stabilize newly formed vessels." },
-      { "text": "EGF", "explanation": "Epithelial growth." },
-      { "text": "KGF", "explanation": "Keratinocyte growth." }
+      { "text": "Tyrosine Kinase Receptors", "explanation": "Correct. Intrinsic kinase activity." },
+      { "text": "G-Proteins", "explanation": "Hormones." },
+      { "text": "Nuclear Receptors", "explanation": "Steroids." },
+      { "text": "Ion Channels", "explanation": "Nerves." },
+      { "text": "JAK-STAT", "explanation": "Cytokines." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_slide_14.jpg",
-    "slideImageDescription": "The slide 'ANGIOGENESIS' notes that stabilization requires pericytes and lists 'angiopoeitins 1 and 2, PDGF, and TGF-beta participate in stabilization'."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Growth = Tyrosine Kinase.",
+    "slideImagePath": "images/L130_slide_7.jpg",
+    "slideImageDescription": "Receptor types."
   },
   {
     "id": 32,
-    "category": "Wound Healing Phases",
-    "questionText": "Collagen synthesis begins early in wound healing but peaks later. Which cell type acts as the primary source of collagen during the proliferation and maturation phases?",
+    "category": "Tissue Remodeling",
+    "questionText": "The transition from a cellular, vascular scar to an acellular, pale scar is due to:",
     "options": [
-      { "text": "Macrophages", "explanation": "Macrophages secrete growth factors to stimulate fibroblasts but do not synthesize the bulk of collagen themselves." },
-      { "text": "Fibroblasts", "explanation": "Fibroblasts migrate into the wound, proliferate, and are the primary factory for synthesizing collagen and other ECM proteins." },
-      { "text": "Endothelial cells", "explanation": "Form vessels." },
-      { "text": "Neutrophils", "explanation": "Clear debris." },
-      { "text": "Keratinocytes", "explanation": "Form epithelium." }
+      { "text": "Apoptosis of fibroblasts and vessel regression", "explanation": "Correct. The work is done, the crew leaves." },
+      { "text": "Necrosis", "explanation": "Pathologic." },
+      { "text": "Calcification", "explanation": "Dystrophic." },
+      { "text": "Inflammation", "explanation": "Gone." },
+      { "text": "Edema", "explanation": "Gone." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_slide_17.jpg",
-    "slideImageDescription": "The slide 'CONNECTIVE TISSUE: FIBROBLASTS' lists 'Fibroblast actions: - Create matrix of type III collagen'."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Mature Scar = White and Quiet. No cells, no vessels, just collagen.",
+    "slideImagePath": "images/L130_slide_27.jpg",
+    "slideImageDescription": "Maturation phase description."
   },
   {
     "id": 33,
-    "category": "Complications of Healing",
-    "questionText": "A patient with a genetic defect in Type I collagen synthesis (e.g., Osteogenesis Imperfecta or Ehlers-Danlos) would most likely exhibit problems with:",
+    "category": "Complications",
+    "questionText": "Proud Flesh (Pyogenic Granuloma) is:",
     "options": [
-      { "text": "Initial clot formation", "explanation": "Platelet/fibrin dependent." },
-      { "text": "Re-epithelialization", "explanation": "Epidermal dependent." },
-      { "text": "Tensile strength of healed wounds", "explanation": "Type I collagen provides the maximal tensile strength to tissues (bone, tendon, mature scar). Defects lead to weak tissues and poor wound strength." },
-      { "text": "Angiogenesis", "explanation": "Endothelial dependent." },
-      { "text": "Macrophage recruitment", "explanation": "Chemokine dependent." }
+      { "text": "Excessive Granulation Tissue", "explanation": "Correct. Blocks re-epithelialization. Must be cauterized." },
+      { "text": "A Keloid", "explanation": "Collagen." },
+      { "text": "Cancer", "explanation": "No." },
+      { "text": "Infection", "explanation": "Can be, but refers to the tissue growth." },
+      { "text": "Foreign body", "explanation": "No." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_slide_23.jpg",
-    "slideImageDescription": "The slide 'COLLAGENS' states: 'Type I - high tensile strength (tendons, bone skin, scars (MATURE))'. The table lists Ehlers-Danlos and Osteogenesis Imperfecta as genetic disorders of Type I collagen."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Proud Flesh stands 'proud' (above the skin). Too much good tissue.",
+    "slideImagePath": "images/L130_slide_12.jpg",
+    "slideImageDescription": "Granulation tissue."
   },
   {
     "id": 34,
-    "category": "Wound Healing Phases",
-    "questionText": "In a graphical representation of wound healing, the number of macrophages peaks typically around which time point?",
+    "category": "Repair",
+    "questionText": "The key cell orchestrating the repair process (the 'General') is the:",
     "options": [
-      { "text": "6-12 hours", "explanation": "Too early." },
-      { "text": "2-3 days", "explanation": "Macrophages become the dominant cell type around 48-96 hours (2-4 days) as neutrophils decline." },
-      { "text": "10 days", "explanation": "Fibroblasts dominate." },
-      { "text": "30 days", "explanation": "Scar maturation." },
-      { "text": "2 months", "explanation": "Scar." }
+      { "text": "Neutrophil", "explanation": "Soldier." },
+      { "text": "Macrophage", "explanation": "Correct. M2 Macrophages direct the show." },
+      { "text": "Fibroblast", "explanation": "Worker." },
+      { "text": "Endothelial cell", "explanation": "Plumber." },
+      { "text": "Platelet", "explanation": "First responder." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_slide_19.jpg",
-    "slideImageDescription": "The graph 'Relative Number of Cells vs Days Postwounding' shows the Macrophage curve peaking between days 2 and 4."
+    "clinicalPearl": "Macrophage rules the Repair.",
+    "slideImagePath": "images/L130_slide_43.jpg",
+    "slideImageDescription": "Macrophage role."
   },
   {
     "id": 35,
-    "category": "Complications of Healing",
-    "questionText": "A patient with a history of excessive scarring presents with a firm, raised nodule on their chest wall after a minor acne pustule. The nodule has grown beyond the original site of inflammation. This is characteristic of:",
+    "category": "Collagen",
+    "questionText": "The amino acid sequence of collagen is repetitive, typically Gly-X-Y. Every third amino acid is:",
     "options": [
-      { "text": "Hypertrophic scar", "explanation": "Stays within boundaries." },
-      { "text": "Keloid", "explanation": "Keloids extend beyond the boundary of the original wound, unlike hypertrophic scars." },
-      { "text": "Granuloma", "explanation": "Inflammatory nodule." },
-      { "text": "Contracture", "explanation": "Tightening." },
-      { "text": "Dehiscence", "explanation": "Opening." }
+      { "text": "Proline", "explanation": "Common." },
+      { "text": "Lysine", "explanation": "Common." },
+      { "text": "Glycine", "explanation": "Correct. Smallest AA, fits in the tight helix center." },
+      { "text": "Alanine", "explanation": "No." },
+      { "text": "Cysteine", "explanation": "Disulfide bonds." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_slide_42.jpg",
-    "slideImageDescription": "The slide 'Keloid v. Hypertrophic scar' highlights 'Extends beyond borders of original wound' as a key feature of Keloids."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Glycine is the tiny hinge in the collagen triple helix.",
+    "slideImagePath": "images/L130_slide_22.jpg",
+    "slideImageDescription": "Biochem context."
   },
   {
     "id": 36,
     "category": "Regeneration",
-    "questionText": "Which component of the extracellular matrix allows for the high water-binding capacity that forms a viscous hydrated gel, providing tissue turgor?",
+    "questionText": "Which organ has the highest regenerative capacity?",
     "options": [
-      { "text": "Collagen", "explanation": "Provides tensile strength." },
-      { "text": "Elastin", "explanation": "Provides elasticity." },
-      { "text": "Hyaluronan (Hyaluronic Acid)", "explanation": "Hyaluronan is a glycosaminoglycan that binds a large amount of water, forming a viscous hydrated gel that gives cells/tissues turgor." },
-      { "text": "Fibronectin", "explanation": "Adhesive glycoprotein." },
-      { "text": "Laminin", "explanation": "Basement membrane adhesive." }
+      { "text": "Brain", "explanation": "None." },
+      { "text": "Heart", "explanation": "None." },
+      { "text": "Liver", "explanation": "Correct. Can regen from 25% remnant." },
+      { "text": "Kidney", "explanation": "Limited." },
+      { "text": "Lung", "explanation": "Limited." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_slide_24.jpg",
-    "slideImageDescription": "The slide mentions 'HA in ECM... binds a lot of water and forms viscous hydrated gel giving cell turgor'."
+    "clinicalPearl": "Prometheus knew about Liver Regeneration.",
+    "slideImagePath": "images/L130_slide_37.jpg",
+    "slideImageDescription": "Liver regen."
   },
   {
     "id": 37,
-    "category": "Wound Healing Phases",
-    "questionText": "Re-epithelialization of a skin wound involves the migration and proliferation of keratinocytes. Which growth factor specifically stimulates this keratinocyte activity?",
+    "category": "Complications",
+    "questionText": "Wound dehiscence is most common in patients with:",
     "options": [
-      { "text": "VEGF", "explanation": "Endothelial cells." },
-      { "text": "PDGF", "explanation": "Fibroblasts/Smooth muscle." },
-      { "text": "KGF (FGF-7)", "explanation": "Keratinocyte Growth Factor (KGF), also known as FGF-7, specifically stimulates keratinocyte migration, proliferation, and differentiation." },
-      { "text": "TGF-beta", "explanation": "Fibrosis." },
-      { "text": "Angiopoietin", "explanation": "Vessel stability." }
+      { "text": "Obesity", "explanation": "Correct. High tension." },
+      { "text": "Youth", "explanation": "Heal well." },
+      { "text": "Low abdominal pressure", "explanation": "Protective." },
+      { "text": "Clean wounds", "explanation": "Protective." },
+      { "text": "High protein diet", "explanation": "Protective." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_slide_9.jpg",
-    "slideImageDescription": "The table of Growth Factors lists 'Keratinocyte growth factor (KGF)... Stimulates keratinocyte migration, proliferation, and differentiation'."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Fat tissue heals poorly + High tension = Dehiscence risk.",
+    "slideImagePath": "images/L130_slide_40.jpg",
+    "slideImageDescription": "Obesity mentioned."
   },
   {
     "id": 38,
-    "category": "Growth Factors",
-    "questionText": "During the inflammatory phase of wound healing, macrophages release a variety of cytokines. Which cytokine has an anti-inflammatory effect and also strongly promotes collagen synthesis and fibrosis?",
+    "category": "Signaling",
+    "questionText": "Paracrine signaling means:",
     "options": [
-      { "text": "TNF", "explanation": "Pro-inflammatory." },
-      { "text": "IL-1", "explanation": "Pro-inflammatory." },
-      { "text": "TGF-beta", "explanation": "TGF-beta is a potent fibrogenic agent that enhances collagen production and inhibits its degradation. It also has anti-inflammatory effects, helping to dampen the acute response as repair begins." },
-      { "text": "IFN-gamma", "explanation": "Activates macrophages (M1)." },
-      { "text": "IL-6", "explanation": "Systemic acute phase response." }
+      { "text": "Signaling to self", "explanation": "Autocrine." },
+      { "text": "Signaling to adjacent cells", "explanation": "Correct. Local." },
+      { "text": "Signaling via blood", "explanation": "Endocrine." },
+      { "text": "Signaling via nerves", "explanation": "Synaptic." },
+      { "text": "Direct contact", "explanation": "Juxtacrine." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_slide_8.jpg",
-    "slideImageDescription": "The slide 'IMPORTANT GROWTH FACTORS' describes TGF-beta as: 'potent fibrogenic agent... inhibits collagen degradation, anti-inflammatory'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Repair is mostly Paracrine. Macrophages obtain Fibroblasts nearby.",
+    "slideImagePath": "images/L130_slide_7.jpg",
+    "slideImageDescription": "Signaling types."
   },
   {
     "id": 39,
-    "category": "Wound Healing Phases",
-    "questionText": "A 50-year-old male with atherosclerosis has chronic ischemia of the lower extremities. He develops a foot ulcer. The poor blood supply impairs wound healing primarily by:",
+    "category": "ECM",
+    "questionText": "Integrins bind to which sequence on Fibronectin?",
     "options": [
-      { "text": "Preventing macrophage migration", "explanation": "Cells can still migrate, but function is impaired." },
-      { "text": "Inhibiting collagen cross-linking", "explanation": "Hypoxia deters collagen fibril cross-linking (which requires oxygen for hydroxylation). This leads to weak tissue and poor healing." },
-      { "text": "Increasing MMP activity excessively", "explanation": "Hypoxia doesn't primarily cause excessive MMPs in this context." },
-      { "text": "Blocking epithelial mitosis", "explanation": "Mitosis is energy dependent but the specific defect cited is collagen quality." },
-      { "text": "Stimulating excessive granulation tissue", "explanation": "Ischemia usually results in insufficient granulation tissue." }
+      { "text": "RGD (Arginine-Glycine-Aspartic Acid)", "explanation": "Correct. The classic binding motif." },
+      { "text": "Gly-X-Y", "explanation": "Collagen." },
+      { "text": "TATA box", "explanation": "DNA." },
+      { "text": "Poly-A tail", "explanation": "RNA." },
+      { "text": "Zinc finger", "explanation": "Transcription factor." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L130_slide_38.jpg",
-    "slideImageDescription": "The slide 'Deterrents to wound healing' lists 'Hypoxia....deters collagen fibril crosslinking (hydroxylation of proline and lysine), e.g, arteriosclerosis, inadequate circulation'."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "RGD sequence is the docking key for Integrins.",
+    "slideImagePath": "images/L130_slide_21.jpg",
+    "slideImageDescription": "Biochem context."
   },
   {
     "id": 40,
-    "category": "Cellular Proliferation & Tissue Types",
-    "questionText": "Which of the following injuries is most likely to result in complete regeneration of the normal tissue structure without scarring?",
+    "category": "Healing",
+    "questionText": "First intention healing involves:",
     "options": [
-      { "text": "Myocardial infarction", "explanation": "Permanent tissue -> scar." },
-      { "text": "Deep third-degree burn", "explanation": "Destroys stem cells/matrix -> scar." },
-      { "text": "Partial hepatectomy", "explanation": "The liver is stable tissue with high regenerative capacity. As long as the connective tissue framework is intact (or in resection where lobes regrow), it can regenerate." },
-      { "text": "Stroke (Brain infarction)", "explanation": "Permanent tissue -> liquefactive necrosis/gliosis." },
-      { "text": "Chronic pancreatitis", "explanation": "Chronic inflammation -> fibrosis." }
+      { "text": "Clot -> Scab -> Epithelial bridging -> Little scar", "explanation": "Correct." },
+      { "text": "Large clot -> Inflammation -> Granulation -> Big scar", "explanation": "Secondary." },
+      { "text": "Pus -> Drainage -> Packing", "explanation": "Abscess." },
+      { "text": "Chronic ulceration", "explanation": "Non-healing." },
+      { "text": "Gangrene", "explanation": "Death." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L130_slide_37.jpg",
-    "slideImageDescription": "The slide 'REGENERATION OF THE LIVER' describes the compensatory growth after partial hepatectomy as 'proliferation of remaining hepatocytes and repopulation from progenitor cells'."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "First Intention = Neat and Tidy. Second Intention = Messy and Big.",
+    "slideImagePath": "images/L130_slide_30.jpg",
+    "slideImageDescription": "Review."
   }
 ];

@@ -2,601 +2,641 @@ window.L131 = [
   {
     "id": 1,
     "category": "Tumor Nomenclature",
-    "questionText": "A 62-year-old male undergoes a colonoscopy, which reveals two polypoid masses. Histological examination of the biopsied tissue identifies the lesions as adenomas. How should the physician explain this finding to the patient?",
+    "questionText": "A 62-year-old male undergoes a colonoscopy, which reveals a polypoid mass. Histology confirms it is a 'benign tumor of glandular origin'. The correct medical term for this lesion is:",
     "options": [
-      { "text": "These are malignant tumors that have already spread.", "explanation": "This describes a metastatic carcinoma." },
-      { "text": "These are benign tumors of glandular tissue that do not metastasize.", "explanation": "Adenomas are benign tumors of glandular origin. 'Benign' means they remain localized and do not metastasize, although they can be precursors to malignancy." },
-      { "text": "These are localized collections of disorganized normal tissue.", "explanation": "This describes a hamartoma." },
-      { "text": "These are malignant tumors of smooth muscle origin.", "explanation": "This describes a leiomyosarcoma." },
-      { "text": "These are benign tumors of fat cells.", "explanation": "This describes a lipoma." }
+      { "text": "Adenocarcinoma", "explanation": "Malignant." },
+      { "text": "Adenoma", "explanation": "Correct. 'Adeno-' = Glandular + '-oma' = Benign. Adenomas are benign but can be precursors to cancer." },
+      { "text": "Sarcoma", "explanation": "Mesenchymal Malignant." },
+      { "text": "Papilloma", "explanation": "Benign surface epithelial tumor (finger-like)." },
+      { "text": "Hamartoma", "explanation": "Disorganized native tissue." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Adenoma = Benign Glandular Tumor. If it becomes malignant → Adenocarcinoma.",
     "slideImagePath": "images/L131_slide_2.jpg",
-    "slideImageDescription": "The slide defines 'adenoma' as a 'Benign tumor of glandular cells' in the section on benign tumor nomenclature. This directly supports the explanation that an adenoma is a benign glandular tumor."
+    "slideImageDescription": "Slide 'Benign Tumors' lists Adenoma."
   },
   {
     "id": 2,
-    "category": "Cellular Adaptations",
-    "questionText": "A 55-year-old male with a long history of acid reflux undergoes an upper endoscopy. Biopsy of the distal esophagus reveals columnar epithelium with goblet cells replacing the normal stratified squamous epithelium. This finding is an example of:",
+    "category": "Differentiation",
+    "questionText": "A pathologist describes a tumor biopsy as 'poorly differentiated' (Grade 3). This means the tumor cells:",
     "options": [
-      { "text": "Hypertrophy", "explanation": "Hypertrophy is an increase in cell size." },
-      { "text": "Hyperplasia", "explanation": "Hyperplasia is an increase in cell number." },
-      { "text": "Metaplasia", "explanation": "Metaplasia is the reversible replacement of one adult cell type (squamous) by another (columnar) that is better able to withstand the chronic stress (acid reflux). This specific change is Barrett esophagus." },
-      { "text": "Dysplasia", "explanation": "Dysplasia involves disordered growth and maturation, which is a step further than simple metaplasia." },
-      { "text": "Anaplasia", "explanation": "Anaplasia is a lack of differentiation, a hallmark of malignancy." }
+      { "text": "Closely resemble the tissue of origin", "explanation": "Well-differentiated (Grade 1)." },
+      { "text": "Have a low nuclear-to-cytoplasmic ratio", "explanation": "Normal/Benign feature." },
+      { "text": "Bear little resemblance to the tissue of origin and are aggressive", "explanation": "Correct. Poor differentiation = Anaplasia = Loss of specialized function/structure. Correlates with worse prognosis." },
+      { "text": "Are definitively benign", "explanation": "Grade applies to malignancy." },
+      { "text": "Are not proliferating", "explanation": "Usually high proliferation." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_slide_5.jpg",
-    "slideImageDescription": "The slide describes Barrett esophagus, where 'esophageal squamous epithelium is replaced by columnar epithelium' as a compensatory measure. This is explicitly identified as a classic example of metaplasia."
+    "clinicalPearl": "Differentiation = 'How much do you look like your parents?' Poorly differentiated = Unrecognizable = BAD (High Grade).",
+    "slideImagePath": "images/L131_slide_3.jpg",
+    "slideImageDescription": "Slide compares Well vs Poor differentiation."
   },
   {
     "id": 3,
-    "category": "Tumor Differentiation",
-    "questionText": "A pathologist examines a tumor biopsy and notes that the cells bear very little resemblance to the tissue of origin. The cells vary greatly in size and shape (pleomorphism) and have hyperchromatic nuclei. This tumor would be best described as:",
+    "category": "Tumor Nomenclature",
+    "questionText": "A 15-year-old male is diagnosed with a malignant tumor deriving from bone. The correct nomenclature is:",
     "options": [
-      { "text": "Well-differentiated", "explanation": "Well-differentiated tumors closely resemble their tissue of origin." },
-      { "text": "Moderately differentiated", "explanation": "These share some features but are distinct." },
-      { "text": "Poorly differentiated", "explanation": "Poorly differentiated tumors have cells that look very different from the normal cells of origin, often showing pleomorphism and hyperchromasia." },
-      { "text": "Metaplastic", "explanation": "Metaplasia is a change in cell type, not a description of differentiation grade." },
-      { "text": "Hyperplastic", "explanation": "Hyperplasia is an increase in cell number with normal morphology." }
+      { "text": "Osteoma", "explanation": "Benign." },
+      { "text": "Osteosarcoma", "explanation": "Correct. 'Osteo-' (Bone) + 'Sarcoma' (Malignant Mesenchymal). Common in teenagers." },
+      { "text": "Chondrosarcoma", "explanation": "Cartilage." },
+      { "text": "Rhabdomyosarcoma", "explanation": "Skeletal Muscle." },
+      { "text": "Leiomyosarcoma", "explanation": "Smooth Muscle." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_slide_3.jpg",
-    "slideImageDescription": "The slide shows 'Figure 2', which displays a 'poorly differentiated squamous cell carcinoma'. The text highlights 'Large cells with open chromatin' and 'Pleomorphism', illustrating the features of poor differentiation."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Sarcoma = Malignant Mesenchymal (Bone, Muscle, Fat, Cartilage). Carcinoma = Malignant Epithelial.",
+    "slideImagePath": "images/L131_slide_2.jpg",
+    "slideImageDescription": "Nomenclature rules."
   },
   {
     "id": 4,
-    "category": "Tumor Nomenclature",
-    "questionText": "A 16-year-old female presents with a painful mass in her distal femur. Biopsy reveals a malignant tumor derived from bone cells. Which of the following is the correct term for this lesion?",
+    "category": "Exceptions to the Rule",
+    "questionText": "Which of the following tumors is MALIGNANT despite its name ending in '-oma'?",
     "options": [
-      { "text": "Osteoma", "explanation": "Osteoma is a benign bone tumor." },
-      { "text": "Chondrosarcoma", "explanation": "Chondrosarcoma is a malignant cartilage tumor." },
-      { "text": "Osteosarcoma", "explanation": "Malignant tumors of mesenchymal origin use the suffix '-sarcoma'. 'Osteo-' refers to bone. Thus, a malignant bone tumor is an osteosarcoma." },
-      { "text": "Ewing sarcoma", "explanation": "Ewing sarcoma is a specific type of bone tumor but 'osteosarcoma' is the general term for a malignant tumor of bone cells." },
-      { "text": "Osteoblastoma", "explanation": "Osteoblastoma is a benign bone tumor." }
+      { "text": "Lipoma", "explanation": "Benign fat." },
+      { "text": "Leiomyoma", "explanation": "Benign smooth muscle." },
+      { "text": "Melanoma", "explanation": "Correct. Malignant tumor of melanocytes. Other exceptions: Lymphoma, Mesothelioma, Seminoma." },
+      { "text": "Adenoma", "explanation": "Benign gland." },
+      { "text": "Osteoma", "explanation": "Benign bone." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "The Deadly Omas: Melanoma, Lymphoma, Mesothelioma, Seminoma. All Malignant.",
     "slideImagePath": "images/L131_slide_2.jpg",
-    "slideImageDescription": "The slide explains benign nomenclature (osteo + oma = osteoma). By applying the rule for malignant mesenchymal tumors described on page 37 ('sarcoma' added to tissue origin), one can deduce 'osteosarcoma'."
+    "slideImageDescription": "Slide 'Exceptions to the Rule'."
   },
   {
     "id": 5,
-    "category": "Cancer Staging",
-    "questionText": "A 65-year-old female is diagnosed with breast cancer. The pathology report indicates a 2 cm tumor (T1), spread to 2 axillary lymph nodes (N1), and no distant metastasis (M0). Which factor is the most important determinant of her prognosis?",
+    "category": "Staging vs Grading",
+    "questionText": "Which prognostic factor carries the most weight in the TNM staging system?",
     "options": [
-      { "text": "Tumor size (T)", "explanation": "Tumor size is important but less critical than spread." },
-      { "text": "Lymph node involvement (N)", "explanation": "Nodal involvement is the second most important prognostic factor, after metastasis." },
-      { "text": "Metastasis (M)", "explanation": "The presence of distant metastasis (M) is generally the single most important prognostic factor. However, since M is 0 here, the staging (TNM combined) determines prognosis, but conceptually M status drives the stage group the most significantly." },
-      { "text": "Tumor grade", "explanation": "Grade is important but staging (TNM) is the dominant prognostic indicator." },
-      { "text": "Patient age", "explanation": "Age affects overall survival but stage is the primary cancer-related prognostic factor." }
+      { "text": "T (Tumor Size)", "explanation": "Important." },
+      { "text": "N (Node Status)", "explanation": "More important than T." },
+      { "text": "M (Metastasis)", "explanation": "Correct. M1 defined Stage IV. Distant spread is the single most critical limit to cure." },
+      { "text": "G (Grade)", "explanation": "Histologic." },
+      { "text": "Mitotic Rate", "explanation": "Part of Grade." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "M is King. Metastasis Trumps Everything. T and N don't matter if you have M.",
     "slideImagePath": "images/L131_slide_1.jpg",
-    "slideImageDescription": "The slide states: 'Metastasis describes a cancer's spread to other organs... It is the most important of these three prognostic factors.'"
+    "slideImageDescription": "Staging slide."
   },
   {
     "id": 6,
     "category": "Carcinogenesis",
-    "questionText": "A 45-year-old male with a history of chronic alcohol abuse is diagnosed with hepatocellular carcinoma. Which of the following mechanisms most likely contributed to the development of this cancer?",
+    "questionText": "Chronic H. pylori infection is causally linked to which two gastric malignancies?",
     "options": [
-      { "text": "Inactivation of the RB gene", "explanation": "RB mutation causes Retinoblastoma." },
-      { "text": "Chronic inflammation and cirrhosis", "explanation": "Chronic alcohol abuse leads to cirrhosis, a state of chronic inflammation and regeneration, which predisposes to hepatocellular carcinoma." },
-      { "text": "Infection with Human Papillomavirus (HPV)", "explanation": "HPV causes cervical and oropharyngeal cancers." },
-      { "text": "Exposure to asbestos", "explanation": "Asbestos causes mesothelioma and lung cancer." },
-      { "text": "Ultraviolet radiation damage", "explanation": "UV causes skin cancers." }
+      { "text": "Adenocarcinoma and MALT Lymphoma", "explanation": "Correct. Chronic inflammation leads to metaplasia (Adeno) and lymphpoid activation (MALT)." },
+      { "text": "Squamous Cell Carcinoma and GIST", "explanation": "No." },
+      { "text": "Carcinoid and Leiomyosarcoma", "explanation": "No." },
+      { "text": "Angiosarcoma and Liposarcoma", "explanation": "No." },
+      { "text": "Melanoma and Lymphoma", "explanation": "No." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_page-0083.jpg",
-    "slideImageDescription": "The slide on 'Alcohol Consumption' explicitly states: 'Many patients with long-standing alcohol abuse develop alcoholic cirrhosis of the liver, a condition that predisposes the patient to developing hepatocellular carcinoma'."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "H. pylori: The bug that causes cancer (Gastric Adeno) and lymphoma (MALT). Treat the bug, cure the MALT (sometimes).",
+    "slideImagePath": "images/L131_page-0084.jpg",
+    "slideImageDescription": "Infectious agents slide."
   },
   {
     "id": 7,
-    "category": "Tumor Markers",
-    "questionText": "A 60-year-old male is treated for colon cancer. After surgery and chemotherapy, his physician monitors his progress by measuring serum levels of CEA (carcinoembryonic antigen). The primary clinical utility of this tumor marker is:",
+    "category": "Cellular, Adaptations",
+    "questionText": "Barrett's Esophagus, where squamous epithelium is replaced by intestinal columnar epithelium due to acid reflux, is a classic example of:",
     "options": [
-      { "text": "Screening the general population for colon cancer", "explanation": "Tumor markers are generally not sensitive or specific enough for general screening." },
-      { "text": "Diagnosing the specific type of colon cancer", "explanation": "Diagnosis requires biopsy and histology." },
-      { "text": "Monitoring for recurrence or response to therapy", "explanation": "Tumor markers like CEA are most useful for establishing a baseline and tracking changes to monitor response to treatment or detect recurrence." },
-      { "text": "Determining the stage of the cancer", "explanation": "Staging is anatomical (TNM)." },
-      { "text": "Identifying the genetic mutations in the tumor", "explanation": "This requires molecular testing." }
+      { "text": "Hypertrophy", "explanation": "Size increase." },
+      { "text": "Hyperplasia", "explanation": "Number increase." },
+      { "text": "Metaplasia", "explanation": "Correct. Replacement of one adult cell type by another. Reversible, but risk of dysplasia." },
+      { "text": "Dysplasia", "explanation": "Disordered growth." },
+      { "text": "Anaplasia", "explanation": "Lack of differentiation." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_slide_1.jpg",
-    "slideImageDescription": "The slide 'Tumor Markers' states: 'after a cancer diagnosis is established, tumor markers can be very useful... track the changes over time... monitor patients after treatment... increasing tumor marker level later might suggest cancer recurrence'."
+    "clinicalPearl": "Metaplasia = Change of Paint. Squamous (monitor) -> Columnar (tougher).",
+    "slideImagePath": "images/L131_slide_5.jpg",
+    "slideImageDescription": "Slide showing Barretts."
   },
   {
     "id": 8,
-    "category": "Cellular Adaptations",
-    "questionText": "A 30-year-old female has a Pap smear that reveals 'high-grade squamous intraepithelial lesion' (HSIL). A biopsy confirms severe dysplasia involving the full thickness of the epithelium but the basement membrane is intact. This lesion is best classified as:",
+    "category": "Tumor Markers",
+    "questionText": "A 50-year-old male with chronic Hepatitis B is screened for liver cancer. The appropriate tumor marker to check is:",
     "options": [
-      { "text": "Metaplasia", "explanation": "Metaplasia is a change in cell type." },
-      { "text": "Carcinoma in situ", "explanation": "Severe dysplasia involving the full thickness of the epithelium without basement membrane invasion is known as Carcinoma in situ (CIS). It is a pre-invasive stage." },
-      { "text": "Invasive carcinoma", "explanation": "Invasive carcinoma has breached the basement membrane." },
-      { "text": "Hyperplasia", "explanation": "Hyperplasia is increased cell number without the severe atypia of CIS." },
-      { "text": "Adenoma", "explanation": "Adenoma is a benign glandular tumor." }
+      { "text": "PSA", "explanation": "Prostate." },
+      { "text": "CEA", "explanation": "Colon." },
+      { "text": "AFP (Alpha-fetoprotein)", "explanation": "Correct. Marker for Hepatocellular Carcinoma and Yolk Sac tumors." },
+      { "text": "CA-125", "explanation": "Ovarian." },
+      { "text": "hCG", "explanation": "Choriocarcinoma/Testicular." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_page-0019.jpg",
-    "slideImageDescription": "The slide discusses 'Carcinoma in situ (CIS)' stating: 'In CIS, the cells are cancerous, but they are pre-invasive: they have not broken through their basement membrane'."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "AFP = Alpha-Fetoprotein. Liver and Balls (HCC and Germ Cell).",
+    "slideImagePath": "images/L131_page-0060.jpg",
+    "slideImageDescription": "Tumor markers list."
   },
   {
     "id": 9,
-    "category": "Tumor Nomenclature",
-    "questionText": "Which of the following neoplasms is malignant despite having a name that ends in '-oma'?",
+    "category": "Carcinogenesis",
+    "questionText": "Asbestos exposure is the primary risk factor for:",
     "options": [
-      { "text": "Adenoma", "explanation": "Benign glandular tumor." },
-      { "text": "Leiomyoma", "explanation": "Benign smooth muscle tumor." },
-      { "text": "Melanoma", "explanation": "Melanoma is a malignant tumor of melanocytes. It is a major exception to the '-oma = benign' rule." },
-      { "text": "Lipoma", "explanation": "Benign fat tumor." },
-      { "text": "Fibroma", "explanation": "Benign fibrous tumor." }
+      { "text": "Lung Adenocarcinoma", "explanation": "Smoking." },
+      { "text": "Mesothelioma", "explanation": "Correct. Malignant tumor of the pleura. Long latency period." },
+      { "text": "Squamous cell carcinoma of skin", "explanation": "UV." },
+      { "text": "Liver Angiosarcoma", "explanation": "Vinyl Chloride." },
+      { "text": "Bladder cancer", "explanation": "Smoking." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_slide_2.jpg",
-    "slideImageDescription": "The slide 'Exceptions to the Rule' lists 'Melanoma: malignant tumor of melanocytes' as a malignant tumor with a name that sounds benign."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Asbestos → Mesothelioma. Plagues the lining of the lung (Pleura).",
+    "slideImagePath": "images/L131_page-0085.jpg",
+    "slideImageDescription": "Occupational carcinogens."
   },
   {
     "id": 10,
     "category": "Hereditary Cancer",
-    "questionText": "A 2-year-old child presents with leukocoria (white pupillary reflex). Genetic testing reveals a germline mutation in the RB1 gene. This child is at significantly increased risk for developing which other malignancy later in life?",
+    "questionText": "A child with a germline mutation in the RB1 gene presents with Retinoblastoma. He is at high risk for developing which second malignancy later in life?",
     "options": [
-      { "text": "Colon cancer", "explanation": "Associated with Lynch syndrome/FAP." },
-      { "text": "Breast cancer", "explanation": "Associated with BRCA mutations." },
-      { "text": "Osteosarcoma", "explanation": "Patients with hereditary retinoblastoma (germline RB1 mutation) have a very high risk of developing other malignancies, particularly osteosarcoma." },
-      { "text": "Lung cancer", "explanation": "Associated with smoking/radon." },
-      { "text": "Pancreatic cancer", "explanation": "Associated with BRCA/smoking." }
+      { "text": "Colon Cancer", "explanation": "Lynch." },
+      { "text": "Osteosarcoma", "explanation": "Correct. RB1 mutation predisposes to bone cancer." },
+      { "text": "Breast Cancer", "explanation": "BRCA." },
+      { "text": "Thyroid Cancer", "explanation": "RET." },
+      { "text": "Kidney Cancer", "explanation": "VHL." }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "RB Mutation = Eye cancer (Retinoblastoma) then Bone cancer (Osteosarcoma).",
     "slideImagePath": "images/L131_page-0089.jpg",
-    "slideImageDescription": "The slide discusses hereditary retinoblastoma and states: 'In addition, they have a very high risk of developing other aggressive malignancies, such as osteosarcoma'."
+    "slideImageDescription": "Genetic syndromes."
   },
   {
     "id": 11,
-    "category": "Cancer Epidemiology",
-    "questionText": "Which of the following environmental exposures is most strongly linked to the development of mesothelioma?",
+    "category": "Precancerous Lesions",
+    "questionText": "The Pap smear has dramatically reduced cervical cancer mortality by detecting:",
     "options": [
-      { "text": "Radon", "explanation": "Radon is linked to lung cancer." },
-      { "text": "Benzene", "explanation": "Benzene is linked to acute myeloid leukemia." },
-      { "text": "Asbestos", "explanation": "Asbestos exposure is the primary risk factor for mesothelioma." },
-      { "text": "Vinyl chloride", "explanation": "Vinyl chloride is linked to hepatic angiosarcoma." },
-      { "text": "Arsenic", "explanation": "Arsenic is linked to skin/lung cancers." }
+      { "text": "Invasive Carcinoma", "explanation": "Too late." },
+      { "text": "Adenocarcinoma", "explanation": "Harder to catch." },
+      { "text": "Dysplasia (CIN)", "explanation": "Correct. Detecting and treating pre-invasive dysplasia prevents the cancer from ever forming." },
+      { "text": "Metastasis", "explanation": "Too late." },
+      { "text": "Viral particles", "explanation": "HPV test does this." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0085.jpg",
-    "slideImageDescription": "The slide 'Occupational Agents' lists: 'Asbestos (in construction materials) is linked to several cancers, including mesothelioma'."
+    "clinicalPearl": "Pap Smear catches Dysplasia (Pre-cancer). Treat the smoke before the fire starts.",
+    "slideImagePath": "images/L131_slide_1.jpg",
+    "slideImageDescription": "Cervical cancer epidemiology."
   },
   {
     "id": 12,
-    "category": "Tumor Nomenclature",
-    "questionText": "A chest X-ray of a 50-year-old male reveals a 2 cm coin lesion in the lung. Resection shows a mass of disorganized but mature cartilage, bronchial epithelium, and fat. This lesion is best classified as a:",
+    "category": "Carcinogenesis",
+    "questionText": "Aflatoxin B1 (from moldy grains) causes a specific p53 mutation leading to:",
     "options": [
-      { "text": "Teratoma", "explanation": "Tumor from all three germ layers." },
-      { "text": "Hamartoma", "explanation": "A hamartoma is a focal malformation that resembles a neoplasm but results from faulty development. It consists of disorganized tissue indigenous to the site (e.g., cartilage/bronchial tissue in the lung)." },
-      { "text": "Choristoma", "explanation": "Normal tissue in an abnormal location (heterotopia)." },
-      { "text": "Adenoma", "explanation": "Benign epithelial tumor." },
-      { "text": "Sarcoma", "explanation": "Malignant mesenchymal tumor." }
+      { "text": "Gastric Cancer", "explanation": "Nitrosamines." },
+      { "text": "Hepatocellular Carcinoma", "explanation": "Correct. Synergistic with Hep B." },
+      { "text": "Esophageal Cancer", "explanation": "Alcohol/Hot liquids." },
+      { "text": "Lung Cancer", "explanation": "Smoking." },
+      { "text": "Skin Cancer", "explanation": "UV." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_slide_2.jpg",
-    "slideImageDescription": "The slide 'Names That Sound Like Tumors But Aren't' defines Hamartomas as 'non-neoplastic regions of disorganized tissue that are indigenous to the site'. It gives 'pulmonary hamartoma' as a specific example."
+    "clinicalPearl": "Aflatoxin = Moldy Peanuts = Liver Cancer.",
+    "slideImagePath": "images/L131_page-0085.jpg",
+    "slideImageDescription": "Chemical carcinogens."
   },
   {
     "id": 13,
-    "category": "Cellular Adaptations",
-    "questionText": "Which of the following cellular changes is considered a precursor to malignancy?",
+    "category": "Nomenclature",
+    "questionText": "Which term describes a mass of disorganized tissue *indigenous* to the site (e.g. cartilage in the lung), resulting from faulty development?",
     "options": [
-      { "text": "Hypertrophy", "explanation": "Adaptation to stress/workload." },
-      { "text": "Hyperplasia", "explanation": "Can be a precursor (e.g. endometrial) but Dysplasia is the direct precursor lesion." },
-      { "text": "Metaplasia", "explanation": "Adaptation, can precede dysplasia but isn't itself pre-malignant." },
-      { "text": "Dysplasia", "explanation": "Dysplasia is disordered growth and maturation that often precedes invasive cancer. It is the most direct precursor lesion." },
-      { "text": "Atrophy", "explanation": "Decrease in size/function." }
+      { "text": "Teratoma", "explanation": "All 3 layers." },
+      { "text": "Choristoma", "explanation": "Heterotopic (wrong place)." },
+      { "text": "Hamartoma", "explanation": "Correct. 'Coin lesion' in lung. Benign, disorganized native tissue." },
+      { "text": "Sarcoma", "explanation": "Malignant." },
+      { "text": "Carcinoma", "explanation": "Malignant." }
     ],
-    "correctAnswerIndex": 3,
-    "slideImagePath": "images/L131_slide_7.jpg",
-    "slideImageDescription": "The slide 'What Is Dysplasia?' explicitly states: 'Why do we pay attention to dysplastic changes...? Because dysplasia often precedes cancer'."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Hamartoma = Right tissue, Wrong Arrangement. Choristoma = Wrong tissue, Wrong place (Heterotopia).",
+    "slideImagePath": "images/L131_slide_2.jpg",
+    "slideImageDescription": "Definitions."
   },
   {
     "id": 14,
-    "category": "Cancer Grading",
-    "questionText": "A pathologist reports a tumor as 'Grade 3'. This implies that the tumor cells are:",
+    "category": "Carcinogenesis",
+    "questionText": "The formation of new blood vessels to supply a tumor is called Angiogenesis. The 'Angiogenic Switch' is primarily flipped by:",
     "options": [
-      { "text": "Well-differentiated", "explanation": "Grade 1." },
-      { "text": "Moderately differentiated", "explanation": "Grade 2." },
-      { "text": "Poorly differentiated or anaplastic", "explanation": "Grade 3 implies poor differentiation, meaning the cells look very different from the normal tissue and are likely aggressive." },
-      { "text": "Carcinoma in situ", "explanation": "Stage 0." },
-      { "text": "Benign", "explanation": "Benign tumors are usually not graded on this scale (1-3)." }
+      { "text": "p53", "explanation": "Inhibits it." },
+      { "text": "VEGF (Vascular Endothelial Growth Factor)", "explanation": "Correct. Tumors secrete VEGF to recruit their own blood supply." },
+      { "text": "Rb", "explanation": "Cell cycle." },
+      { "text": "Bcl-2", "explanation": "Apoptosis." },
+      { "text": "E-cadherin", "explanation": "Invasion." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_slide_1.jpg",
-    "slideImageDescription": "The slide describes grading of breast cancer: 'Grade 3, poorly differentiated tumors have nests of neoplastic cells with no evidence of gland formation... marked nuclear atypia'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "VEGF = Tumor's lifeline. No blood = No growth > 2mm.",
+    "slideImagePath": "images/L131_slide_14.jpg",
+    "slideImageDescription": "Angiogenesis."
   },
   {
     "id": 15,
-    "category": "Tumor Differentiation",
-    "questionText": "Anaplasia is a term used to describe malignant cells that lack differentiation. Which of the following is a characteristic histologic feature of anaplasia?",
+    "category": "Molecular Biology",
+    "questionText": "Evasion of Apoptosis is a Hallmark of Cancer. Overexpression of which protein confers this survival advantage?",
     "options": [
-      { "text": "Uniform nuclear size", "explanation": "Anaplasia shows pleomorphism (variation)." },
-      { "text": "Low nuclear-to-cytoplasmic ratio", "explanation": "Anaplasia shows high N:C ratio." },
-      { "text": "Abundant functional cytoplasm", "explanation": "Anaplastic cells often have scant cytoplasm." },
-      { "text": "Atypical mitoses", "explanation": "Anaplastic cells often show numerous and atypical mitotic figures (e.g., tripolar spindles), reflecting disorganized division." },
-      { "text": "Contact inhibition", "explanation": "Cancer cells lose contact inhibition." }
+      { "text": "Bax", "explanation": "Pro-apoptotic." },
+      { "text": "Bak", "explanation": "Pro-apoptotic." },
+      { "text": "BCL-2", "explanation": "Correct. Anti-apoptotic. Keeps the mitochondrial membrane intact. t(14;18) in Follicular Lymphoma." },
+      { "text": "Caspase-3", "explanation": "Executioner." },
+      { "text": "Cytochrome c", "explanation": "Trigger." }
     ],
-    "correctAnswerIndex": 3,
-    "slideImagePath": "images/L131_slide_2.jpg",
-    "slideImageDescription": "The slide describes 'Anaplastic tumors' as having cells that are 'very strange looking' and mentions 'gigantic, contain multiple nuclei'. While atypical mitoses isn't explicitly in the bullet list on this specific page, it's a standard feature associated with the described 'bizarre' morphology and high grade discussed in the context."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "BCL-2 = 'Builds a Wall' (blocks apoptosis). Follicular Lymphoma = BCL-2 Overload.",
+    "slideImagePath": "images/L131_page-0089.jpg",
+    "slideImageDescription": "Apoptosis pathway."
   },
   {
     "id": 16,
     "category": "Cancer Staging",
-    "questionText": "Which component of the TNM staging system generally carries the most weight in determining a patient's prognosis?",
+    "questionText": "Stage 0 Cancer typically refers to:",
     "options": [
-      { "text": "T (Tumor size)", "explanation": "Important but less than M." },
-      { "text": "N (Node involvement)", "explanation": "Second most important." },
-      { "text": "M (Metastasis)", "explanation": "The presence of distant metastasis (M) signifies Stage IV disease and is the most critical factor indicating a poor prognosis and determining the treatment approach (systemic vs. local)." },
-      { "text": "G (Grade)", "explanation": "Grade is histologic, not part of TNM staging itself." },
-      { "text": "L (Lymphatic invasion)", "explanation": "Related to N." }
+      { "text": "Micro-invasive carcinoma", "explanation": "Stage I." },
+      { "text": "Carcinoma in Situ (CIS)", "explanation": "Correct. Pre-invasive. Basement membrane intact. 100% curable." },
+      { "text": "Regional lymph node spread", "explanation": "Stage II/III." },
+      { "text": "Distant metastasis", "explanation": "Stage IV." },
+      { "text": "Benign tumor", "explanation": "Not staged." }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Stage 0 = CIS. The basement membrane is the line in the sand.",
     "slideImagePath": "images/L131_slide_1.jpg",
-    "slideImageDescription": "The slide states: 'Metastasis describes a cancer's spread to other organs... It is the most important of these three prognostic factors.'"
+    "slideImageDescription": "Staging."
   },
   {
     "id": 17,
     "category": "Tumor Nomenclature",
-    "questionText": "A 40-year-old female has a benign tumor of the smooth muscle of her uterus (fibroid). The correct medical term for this neoplasm is:",
+    "questionText": "A 'Leiomyoma' is a benign tumor of:",
     "options": [
-      { "text": "Leiomyosarcoma", "explanation": "Malignant smooth muscle tumor." },
-      { "text": "Rhabdomyoma", "explanation": "Benign skeletal muscle tumor." },
-      { "text": "Leiomyoma", "explanation": "A benign tumor of smooth muscle is called a leiomyoma (leio = smooth, myo = muscle, oma = benign tumor)." },
-      { "text": "Fibroma", "explanation": "Benign fibrous tumor." },
-      { "text": "Adenoma", "explanation": "Benign glandular tumor." }
+      { "text": "Skeletal Muscle", "explanation": "Rhabdomyoma." },
+      { "text": "Smooth Muscle", "explanation": "Correct. Uterine Fibroids are the classic example." },
+      { "text": "Fat", "explanation": "Lipoma." },
+      { "text": "Bone", "explanation": "Osteoma." },
+      { "text": "Cartilage", "explanation": "Chondroma." }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Leiomyoma = Smooth Muscle. Rhabdomyoma = Skeletal Muscle.",
     "slideImagePath": "images/L131_slide_2.jpg",
-    "slideImageDescription": "The slide lists examples of benign tumors: 'Benign tumor of smooth muscle = leiomyo (smooth muscle) + oma = leiomyoma'."
+    "slideImageDescription": "Nomenclature."
   },
   {
     "id": 18,
-    "category": "Cancer Epidemiology",
-    "questionText": "In the United States, which cancer has the highest incidence (number of new cases) in men?",
+    "category": "Metastasis",
+    "questionText": "Which enzyme family is critical for cancer cells to degrade the basement membrane and invade cell tissues?",
     "options": [
-      { "text": "Lung cancer", "explanation": "Highest mortality, 2nd highest incidence." },
-      { "text": "Colorectal cancer", "explanation": "3rd highest." },
-      { "text": "Prostate cancer", "explanation": "Prostate cancer is the most common cancer diagnosed in men in the US." },
-      { "text": "Melanoma", "explanation": "Less common than prostate." },
-      { "text": "Bladder cancer", "explanation": "Less common than prostate." }
+      { "text": "Kinases", "explanation": "Signaling." },
+      { "text": "MMPs (Matrix Metalloproteinases)", "explanation": "Correct. The 'scissors' that cut through the ECM." },
+      { "text": "Polymerases", "explanation": "DNA/RNA." },
+      { "text": "Ligases", "explanation": "Joining." },
+      { "text": "Telomerases", "explanation": "Immortality." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_slide_1.jpg",
-    "slideImageDescription": "The 'CLINICAL CORRELATION' box states: 'Prostate cancer is the most common cancer in men'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "MMPs = The Invasion Crew. Dig a tunnel for the cancer cells to escape.",
+    "slideImagePath": "images/L131_page-0001.jpg",
+    "slideImageDescription": "Invasion mechanisms."
   },
   {
     "id": 19,
-    "category": "Carcinogenesis",
-    "questionText": "Helicobacter pylori infection is a well-established risk factor for which two types of gastric malignancy?",
+    "category": "Occupational",
+    "questionText": "Vinyl Chloride exposure is a rare but specific cause of:",
     "options": [
-      { "text": "Gastric adenocarcinoma and MALT lymphoma", "explanation": "H. pylori chronic gastritis induces metaplasia/dysplasia leading to adenocarcinoma, and chronic lymphoid stimulation leads to MALT lymphoma." },
-      { "text": "Squamous cell carcinoma and Leiomyosarcoma", "explanation": "Squamous is esophageal; Leiomyo is muscle." },
-      { "text": "Carcinoid tumor and GIST", "explanation": "Different etiologies." },
-      { "text": "Adenocarcinoma and Squamous cell carcinoma", "explanation": "H. pylori is linked to adeno, not squamous." },
-      { "text": "MALT lymphoma and Angiosarcoma", "explanation": "Angiosarcoma is vascular." }
+      { "text": "Hepatic Angiosarcoma", "explanation": "Correct. Malignant tumor of liver blood vessels." },
+      { "text": "Lung Cancer", "explanation": "Smoking." },
+      { "text": "Bladder Cancer", "explanation": "Dyes." },
+      { "text": "Brain Cancer", "explanation": "Unknown." },
+      { "text": "Leukemia", "explanation": "Benzene." }
     ],
     "correctAnswerIndex": 0,
-    "slideImagePath": "images/L131_page-0084.jpg",
-    "slideImageDescription": "The slide 'Infectious Agents' states: 'Helicobacter pylori... is causally related to both gastric carcinoma and a particular type of lymphoma called mucosa-associated lymphoid tissue (MALT) lymphoma'."
+    "clinicalPearl": "Vinyl Chloride (Plastics) = Liver Angiosarcoma.",
+    "slideImagePath": "images/L131_page-0085.jpg",
+    "slideImageDescription": "Chemical agents."
   },
   {
     "id": 20,
-    "category": "Tumor Nomenclature",
-    "questionText": "A 55-year-old male presents with a large mass in his thigh. Biopsy shows a malignant tumor derived from skeletal muscle. This tumor is called a:",
+    "category": "Immortality",
+    "questionText": "Most cancer cells bypass the Hayflick limit (replicative senescence) by reactivating:",
     "options": [
-      { "text": "Leiomyosarcoma", "explanation": "Malignant smooth muscle." },
-      { "text": "Rhabdomyosarcoma", "explanation": "A malignant tumor of skeletal muscle is a rhabdomyosarcoma (rhabdo = skeletal, myo = muscle, sarcoma = malignant mesenchymal)." },
-      { "text": "Rhabdomyoma", "explanation": "Benign skeletal muscle." },
-      { "text": "Liposarcoma", "explanation": "Malignant fat." },
-      { "text": "Fibrosarcoma", "explanation": "Malignant fibrous tissue." }
+      { "text": "DNA Polymerase", "explanation": "Replication." },
+      { "text": "Telomerase", "explanation": "Correct. Adds back telomeres, preventing the cell from 'aging out'." },
+      { "text": "RNA Polymerase", "explanation": "Transcription." },
+      { "text": "Caspase", "explanation": "Death." },
+      { "text": "p53", "explanation": "Aging." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_slide_2.jpg",
-    "slideImageDescription": "The slide defines the prefix 'Rhabdomyo- refers to skeletal muscle cells'. Applying the malignant naming rule from page 37 (sarcoma for mesenchymal), the answer is Rhabdomyosarcoma."
+    "clinicalPearl": "Telomerase = The Fountain of Youth (for cancer).",
+    "slideImagePath": "images/L131_page-0001.jpg",
+    "slideImageDescription": "Hallmarks: Immortality."
   },
   {
     "id": 21,
-    "category": "Tumor Markers",
-    "questionText": "Which tumor marker is most commonly associated with Hepatocellular Carcinoma (HCC)?",
+    "category": "Carcinogenesis",
+    "questionText": "The 'Two-Hit Hypothesis' (Knudson) was derived from studying which cancer?",
     "options": [
-      { "text": "PSA", "explanation": "Prostate." },
-      { "text": "CEA", "explanation": "Colon/GI." },
-      { "text": "CA-125", "explanation": "Ovarian." },
-      { "text": "Alpha-fetoprotein (AFP)", "explanation": "AFP is the classic tumor marker for Hepatocellular Carcinoma and germ cell tumors." },
-      { "text": "CA19-9", "explanation": "Pancreatic." }
+      { "text": "Retinoblastoma", "explanation": "Correct. Inherited form = 1st hit germline, 2nd hit somatic. Sporadic = 2 somatic hits." },
+      { "text": "Wilms Tumor", "explanation": "WT1." },
+      { "text": "Neuroblastoma", "explanation": "N-myc." },
+      { "text": "Breast Cancer", "explanation": "BRCA." },
+      { "text": "Colon Cancer", "explanation": "APC." }
     ],
-    "correctAnswerIndex": 3,
-    "slideImagePath": "images/L131_page-0060.jpg",
-    "slideImageDescription": "The slide lists: 'Alpha-fetoprotein (AFP), a marker for hepatocellular carcinoma (HCC)'."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Retinoblastoma is the poster child for Tumor Suppressor logic. You need to lose BOTH copies to get cancer.",
+    "slideImagePath": "images/L131_page-0089.jpg",
+    "slideImageDescription": "Genetics."
   },
   {
     "id": 22,
-    "category": "Cancer Prevention",
-    "questionText": "The dramatic decrease in the incidence of and mortality from cervical cancer in the United States over the last 50 years is primarily attributed to:",
+    "category": "Tumor Suppressors",
+    "questionText": "p53 functions as the 'Guardian of the Genome' by:",
     "options": [
-      { "text": "HPV vaccination", "explanation": "Recent impact, but the historic drop is due to Pap." },
-      { "text": "Improved surgical techniques", "explanation": "Treatment, not incidence reduction." },
-      { "text": "Widespread use of the Pap smear", "explanation": "The Pap smear allows for the detection and treatment of precancerous dysplastic lesions (CIN), preventing the development of invasive cancer. This has drastically reduced incidence." },
-      { "text": "Changes in sexual behavior", "explanation": "Not the primary driver." },
-      { "text": "Dietary modifications", "explanation": "Minor role." }
+      { "text": "Stimulating Division", "explanation": "Oncogene." },
+      { "text": "Arresting the Cell Cycle (G1/S) to allow DNA repair", "explanation": "Correct. If repair fails, it induces apoptosis. Mutation = Unstable Genome." },
+      { "text": "Inhibiting Apoptosis", "explanation": "Oncogene." },
+      { "text": "Promoting Angiogenesis", "explanation": "Oncogene." },
+      { "text": "Lengthening Telomeres", "explanation": "Telomerase." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_slide_1.jpg",
-    "slideImageDescription": "The slide 'Cervical Cancer' states: 'From 1955 to 1992... incidence and mortality... have decreased more than 60%!' attributing this to the introduction of the Pap smear."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "p53 is the Emergency Brake. DNA Damage -> Stop! -> Repair or Die.",
+    "slideImagePath": "images/L131_page-0001.jpg",
+    "slideImageDescription": "p53 mechanism."
   },
   {
     "id": 23,
-    "category": "Cellular Adaptations",
-    "questionText": "Which of the following statements regarding dysplasia is TRUE?",
+    "category": "Hereditary Cancer",
+    "questionText": "Lynch Syndrome (HNPCC) is characterized by microsatellite instability (MSI) due to a defect in:",
     "options": [
-      { "text": "It is always irreversible.", "explanation": "Mild to moderate dysplasia can be reversible if the stressor is removed." },
-      { "text": "It always progresses to invasive cancer.", "explanation": "Not always; it can regress or stay static." },
-      { "text": "It is characterized by cellular pleomorphism and loss of polarity.", "explanation": "Dysplasia is disordered growth characterized by loss of uniformity of individual cells (pleomorphism) and loss of architectural orientation (polarity)." },
-      { "text": "It involves invasion of the basement membrane.", "explanation": "That defines invasive carcinoma." },
-      { "text": "It is synonymous with metaplasia.", "explanation": "They are distinct processes." }
+      { "text": "Nucleotide Excision Repair", "explanation": "Xeroderma Pigmentosum." },
+      { "text": "Base Excision Repair", "explanation": "Other." },
+      { "text": "Mismatch Repair (MMR)", "explanation": "Correct. MSH2/MLH1 genes." },
+      { "text": "Double Strand Break Repair", "explanation": "BRCA." },
+      { "text": "Telomere Maintenance", "explanation": "Dyskeratosis." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_slide_7.jpg",
-    "slideImageDescription": "The slide 'What Is Dysplasia?' lists morphologic changes including 'Pleomorphism' and 'Loss of polarity'."
+    "clinicalPearl": "Lynch = Mismatch Repair Defect. Colon cancer without the polyps (HNPCC).",
+    "slideImagePath": "images/L131_page-0087.jpg",
+    "slideImageDescription": "Lynch syndrome."
   },
   {
     "id": 24,
-    "category": "Cancer Epidemiology",
-    "questionText": "Which of the following is the most significant environmental risk factor for developing lung cancer?",
+    "category": "Staging",
+    "questionText": "Which is the most common site of metastasis for many carcinomas (via lymphatics)?",
     "options": [
-      { "text": "Asbestos exposure", "explanation": "Risk factor, but less common than smoking." },
-      { "text": "Radon gas", "explanation": "Risk factor, but less common than smoking." },
-      { "text": "Cigarette smoking", "explanation": "Smoking is the single most important environmental risk factor for lung cancer (and many others)." },
-      { "text": "Air pollution", "explanation": "Minor contributor compared to smoking." },
-      { "text": "Diesel exhaust", "explanation": "Minor contributor." }
+      { "text": "Liver", "explanation": "GI hematogenous." },
+      { "text": "Lung", "explanation": "Sarcoma hematogenous." },
+      { "text": "Regional Lymph Nodes", "explanation": "Correct. Carcinomas love lymphatics. Sarcomas love blood." },
+      { "text": "Brain", "explanation": "Specific types." },
+      { "text": "Bone", "explanation": "Prostate/Breast." }
     ],
     "correctAnswerIndex": 2,
+    "clinicalPearl": "Carcinomas -> Lymph Nodes (Sentinel Node). Sarcomas -> Blood (Lungs/Liver).",
     "slideImagePath": "images/L131_slide_1.jpg",
-    "slideImageDescription": "The slide 'Smoking' states: 'Smoking, particularly cigarette smoking, causes more premature deaths... than any other environmental factor' and lists 'lung cancer' as a major risk."
+    "slideImageDescription": "Metastasis routes."
   },
   {
     "id": 25,
-    "category": "Tumor Nomenclature",
-    "questionText": "A 35-year-old female has a benign tumor of the blood vessels in her liver. This lesion is properly termed a:",
+    "category": "Tumor Markers",
+    "questionText": "CA-125 is a marker primarily used for monitoring:",
     "options": [
-      { "text": "Hemangiosarcoma", "explanation": "Malignant blood vessel tumor." },
-      { "text": "Hemangioma", "explanation": "A benign tumor of blood vessels is a hemangioma (hemangio = blood vessel, oma = benign)." },
-      { "text": "Lymphangioma", "explanation": "Benign lymphatic tumor." },
-      { "text": "Angiosarcoma", "explanation": "Malignant vessel tumor." },
-      { "text": "Hematoma", "explanation": "Blood clot (not a neoplasm)." }
+      { "text": "Breast Cancer", "explanation": "CA 15-3." },
+      { "text": "Ovarian Cancer", "explanation": "Correct. Not a screen (too nonspecific), but great for tracking recurrence." },
+      { "text": "Colon Cancer", "explanation": "CEA." },
+      { "text": "Pancreatic Cancer", "explanation": "CA 19-9." },
+      { "text": "Prostate Cancer", "explanation": "PSA." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_slide_2.jpg",
-    "slideImageDescription": "The slide lists prefixes: 'Hemangio- refers to blood vessels'. Applying the benign suffix '-oma' gives Hemangioma."
+    "clinicalPearl": "Ovarian Mass + Elevated CA-125 = Highly suspicious.",
+    "slideImagePath": "images/L131_slide_1.jpg",
+    "slideImageDescription": "Markers."
   },
   {
     "id": 26,
-    "category": "Hereditary Cancer",
-    "questionText": "Lynch syndrome (Hereditary Non-Polyposis Colorectal Cancer) is caused by germline mutations in genes responsible for:",
+    "category": "Epidemiology",
+    "questionText": "The most common cancer in men (incidence) is:",
     "options": [
-      { "text": "Cell cycle regulation (e.g., RB)", "explanation": "Retinoblastoma." },
-      { "text": "DNA mismatch repair", "explanation": "Lynch syndrome is caused by defects in DNA mismatch repair genes (e.g., MSH2, MLH1), leading to microsatellite instability and increased cancer risk." },
-      { "text": "Growth factor signaling (e.g., HER2)", "explanation": "Breast cancer." },
-      { "text": "Apoptosis (e.g., BCL2)", "explanation": "Lymphoma." },
-      { "text": "Tumor suppression (e.g., TP53)", "explanation": "Li-Fraumeni." }
+      { "text": "Lung", "explanation": "#2." },
+      { "text": "Prostate", "explanation": "Correct. #1 Incidence." },
+      { "text": "Colon", "explanation": "#3." },
+      { "text": "Pancreas", "explanation": "Rare." },
+      { "text": "Testicular", "explanation": "Young men only." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_page-0087.jpg",
-    "slideImageDescription": "The slide mentions: 'mutations in... mismatch repair genes (Lynch syndrome)'."
+    "clinicalPearl": "Incidence: Prostate (Men), Breast (Women). Mortality: Lung (Both).",
+    "slideImagePath": "images/L131_slide_1.jpg",
+    "slideImageDescription": "Stats."
   },
   {
     "id": 27,
-    "category": "Benign vs Malignant",
-    "questionText": "Which of the following features is characteristic of a benign tumor?",
+    "category": "Epidemiology",
+    "questionText": "The most common cancer in women (incidence) is:",
     "options": [
-      { "text": "Invasion of surrounding tissues", "explanation": "Feature of malignancy." },
-      { "text": "Metastasis", "explanation": "Defining feature of malignancy." },
-      { "text": "Encapsulation", "explanation": "Benign tumors are often surrounded by a fibrous capsule, which keeps them localized and non-invasive." },
-      { "text": "High mitotic rate", "explanation": "Feature of malignancy." },
-      { "text": "Anaplasia", "explanation": "Feature of malignancy." }
+      { "text": "Lung", "explanation": "#2." },
+      { "text": "Breast", "explanation": "Correct. 1 in 8 women." },
+      { "text": "Colon", "explanation": "#3." },
+      { "text": "Cervical", "explanation": "Decreased due to Pap." },
+      { "text": "Uterine", "explanation": "Common, but less than breast." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_slide_2.jpg",
-    "slideImageDescription": "The slide states benign tumors 'are often surrounded by a capsule of fibrous tissue'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Breast Cancer is ubiquitous. Screening mammography is vital.",
+    "slideImagePath": "images/L131_slide_1.jpg",
+    "slideImageDescription": "Stats."
   },
   {
     "id": 28,
-    "category": "Cancer Epidemiology",
-    "questionText": "Which of the following factors is associated with an increased risk of breast cancer due to prolonged estrogen exposure?",
+    "category": "Nomenclature",
+    "questionText": "A benign tumor of cartilage is called:",
     "options": [
-      { "text": "Early menopause", "explanation": "Reduces exposure." },
-      { "text": "Multiple full-term pregnancies", "explanation": "Pregnancy interrupts cycling, reducing cumulative estrogen." },
-      { "text": "Late age at first birth (or nulliparity)", "explanation": "Delaying childbearing or having no children increases the total number of menstrual cycles and lifetime estrogen exposure, increasing breast cancer risk." },
-      { "text": "Breastfeeding", "explanation": "Protective." },
-      { "text": "Low BMI", "explanation": "Obesity increases risk (peripheral aromatization)." }
+      { "text": "Osteoma", "explanation": "Bone." },
+      { "text": "Chondroma", "explanation": "Correct. Chondro (cartilage) + oma (benign)." },
+      { "text": "Chondrosarcoma", "explanation": "Malignant." },
+      { "text": "Lipoma", "explanation": "Fat." },
+      { "text": "Myxoma", "explanation": "Primitive CT." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_slide_1.jpg",
-    "slideImageDescription": "The slide 'Breast Cancer' explains: 'women began having fewer children and also began delaying childbearing... Both of these practices increase a woman's exposure to estrogen'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Chondro = Cartilage.",
+    "slideImagePath": "images/L131_slide_2.jpg",
+    "slideImageDescription": "Prefixes."
   },
   {
     "id": 29,
-    "category": "Tumor Nomenclature",
-    "questionText": "A 45-year-old male has a mass in his mediastinum. Biopsy reveals it is a thymoma. Is this tumor benign or malignant?",
+    "category": "Occupational",
+    "questionText": "Benzene exposure is linked to:",
     "options": [
-      { "text": "Always benign", "explanation": "Thymomas can be invasive." },
-      { "text": "Always malignant", "explanation": "Many are benign." },
-      { "text": "It depends on its behavior (invasion/metastasis)", "explanation": "The term 'thymoma' sounds benign but can behave malignantly. The nomenclature doesn't strictly follow the -oma vs -carcinoma rule here; behavior determines classification (invasive thymoma)." },
-      { "text": "It is a hamartoma", "explanation": "Not a hamartoma." },
-      { "text": "It is a choristoma", "explanation": "Not a choristoma." }
+      { "text": "AML (Acute Myeloid Leukemia)", "explanation": "Correct. Bone marrow toxin." },
+      { "text": "Lung Cancer", "explanation": "No." },
+      { "text": "Liver Cancer", "explanation": "No." },
+      { "text": "Skin Cancer", "explanation": "No." },
+      { "text": "Stomach Cancer", "explanation": "No." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0038.jpg",
-    "slideImageDescription": "While 'Thymoma' isn't explicitly in the list of exceptions on slide 38, the concept of '-oma' exceptions (like Melanoma, Lymphoma) is the key learning point. Thymoma is a classic nuance where the name doesn't guarantee benignity."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Benzene = Bone Marrow. Leads to Leukemia.",
+    "slideImagePath": "images/L131_page-0085.jpg",
+    "slideImageDescription": "Chemical signals."
   },
   {
     "id": 30,
-    "category": "Cancer Staging",
-    "questionText": "Which of the following parameters is NOT part of the TNM staging system?",
+    "category": "Nomenclature",
+    "questionText": "A 'Fibroadenoma' is:",
     "options": [
-      { "text": "Tumor size", "explanation": "T." },
-      { "text": "Lymph node status", "explanation": "N." },
-      { "text": "Metastasis", "explanation": "M." },
-      { "text": "Differentiation grade", "explanation": "Grade is a separate histologic assessment, not part of the anatomical TNM staging system." },
-      { "text": "Extent of local invasion", "explanation": "Part of T." }
+      { "text": "Malignant", "explanation": "No." },
+      { "text": "Benign mixed tumor of breast", "explanation": "Correct. Fibrous + Glandular tissue. Common, mobile breast mass." },
+      { "text": "Pre-cancerous", "explanation": "No." },
+      { "text": "Hamartoma", "explanation": "No." },
+      { "text": "Invasive", "explanation": "No." }
     ],
-    "correctAnswerIndex": 3,
-    "slideImagePath": "images/L131_slide_3.jpg",
-    "slideImageDescription": "The slide 'What Is Cancer Staging?' defines TNM as 'Tumor', 'Node', and 'Metastasis'. Grade is discussed separately on slide 58."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Fibroadenoma = The 'Mouse' in the breast (moves around freely). Benign.",
+    "slideImagePath": "images/L131_page-0033.jpg",
+    "slideImageDescription": "Mixed tumors."
   },
   {
     "id": 31,
-    "category": "Tumor Nomenclature",
-    "questionText": "A teratoma is a tumor that:",
+    "category": "Paraneoplastic",
+    "questionText": "Small Cell Lung Cancer is notorious for producing ectopic hormones. ADH secretion leads to:",
     "options": [
-      { "text": "Originates from a single germ layer", "explanation": "Most tumors do this." },
-      { "text": "Contains recognizable mature or immature cells or tissues derived from more than one germ cell layer", "explanation": "Teratomas arise from totipotent germ cells and can differentiate into tissues from all three germ layers (ectoderm, mesoderm, endoderm) - e.g., hair, teeth, bone." },
-      { "text": "Is always malignant", "explanation": "Mature teratomas are often benign." },
-      { "text": "Is a type of hamartoma", "explanation": "Different entity." },
-      { "text": "Is restricted to the ovary", "explanation": "Can occur in testis/mediastinum." }
+      { "text": "Hypercalcemia", "explanation": "PTHrP (Squamous)." },
+      { "text": "Cushing Syndrome", "explanation": "ACTH." },
+      { "text": "SIADH (Hyponatremia)", "explanation": "Correct. Retention of water -> Low sodium -> Seizures." },
+      { "text": "Hypoglycemia", "explanation": "Insulin-like." },
+      { "text": "Polycythemia", "explanation": "EPO (Kidney/Liver)." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_slide_2.jpg",
-    "slideImageDescription": "While Teratoma isn't explicitly defined on the slides provided, it fits the context of nomenclature and germ cell tumors (Seminoma is mentioned). It's a standard high-yield concept often paired with these."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Small Cell = SIADH (or ACTH). Squamous Cell = PTHrP (Hypercalcemia).",
+    "slideImagePath": "images/L131_page-0001.jpg",
+    "slideImageDescription": "Paraneoplastic syndromes."
   },
   {
     "id": 32,
-    "category": "Cancer Epidemiology",
-    "questionText": "Vinyl chloride exposure, often in the plastics industry, is a specific risk factor for which rare malignancy?",
+    "category": "Molecular",
+    "questionText": "HER2/neu (ERBB2) amplification in breast cancer is an example of:",
     "options": [
-      { "text": "Hepatocellular carcinoma", "explanation": "Alcohol/Hepatitis." },
-      { "text": "Hepatic angiosarcoma", "explanation": "Vinyl chloride is a known carcinogen specifically linked to angiosarcoma of the liver." },
-      { "text": "Renal cell carcinoma", "explanation": "Smoking/obesity." },
-      { "text": "Bladder cancer", "explanation": "Smoking/dyes." },
-      { "text": "Lung cancer", "explanation": "Smoking/asbestos." }
+      { "text": "Oncogene Activation", "explanation": "Correct. Gene amplification -> Too much growth signal." },
+      { "text": "Tumor Suppressor Loss", "explanation": "No." },
+      { "text": "Epigenetic silencing", "explanation": "No." },
+      { "text": "Point mutation", "explanation": "Usually amplification." },
+      { "text": "Translocation", "explanation": "No." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_page-0085.jpg",
-    "slideImageDescription": "The slide 'Occupational Agents' lists: 'Vinyl chloride (in refrigerants and adhesives) is linked to hepatic angiosarcoma'."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "HER2+ Breast Cancer = Aggressive but treatable with Herceptin (Trastuzumab).",
+    "slideImagePath": "images/L131_page-0001.jpg",
+    "slideImageDescription": "Oncogenes."
   },
   {
     "id": 33,
-    "category": "Cellular Adaptations",
-    "questionText": "In the lung, squamous metaplasia of the bronchial epithelium is a reversible adaptation. However, if the smoking stimulus persists, the next step in the progression toward cancer is:",
+    "category": "Cachexia",
+    "questionText": "Cancer cachexia (wasting) is driven by which cytokine (also known as Cachectin)?",
     "options": [
-      { "text": "Anaplasia", "explanation": "Late stage." },
-      { "text": "Dysplasia", "explanation": "Persistent stress and mutations lead metaplastic epithelium to become dysplastic (disordered growth). Dysplasia is the precursor to invasive carcinoma." },
-      { "text": "Hypertrophy", "explanation": "Not the pathway." },
-      { "text": "Atrophy", "explanation": "Not the pathway." },
-      { "text": "Metastasis", "explanation": "Late stage." }
+      { "text": "IL-2", "explanation": "Immune." },
+      { "text": "TNF-alpha", "explanation": "Correct. Tumor Necrosis Factor alpha suppresses appetite and burns fat/muscle." },
+      { "text": "TGF-beta", "explanation": "Fibrosis." },
+      { "text": "VEGF", "explanation": "Vessels." },
+      { "text": "INF-gamma", "explanation": "Viral." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_slide_7.jpg",
-    "slideImageDescription": "The slide 'What Is Dysplasia?' states 'dysplasia often precedes cancer' and notes that 'In cancers of epithelial tissue... cells often show dysplastic changes long before they turn into cancer cells'."
+    "clinicalPearl": "TNF-alpha = Cachectin. The reason cancer patients lose weight excessively.",
+    "slideImagePath": "images/L131_page-0001.jpg",
+    "slideImageDescription": "Cachexia."
   },
   {
     "id": 34,
-    "category": "Tumor Nomenclature",
-    "questionText": "A 20-year-old female has a firm, mobile, painless mass in her breast. Biopsy shows a benign tumor composed of both fibrous and glandular tissue. This is called a:",
+    "category": "Staging",
+    "questionText": "Sentinel Lymph Node biopsy is used to:",
     "options": [
-      { "text": "Adenoma", "explanation": "Glandular only." },
-      { "text": "Fibroma", "explanation": "Fibrous only." },
-      { "text": "Fibroadenoma", "explanation": "A benign tumor with both fibrous and glandular elements is a fibroadenoma. This is a common mixed tumor." },
-      { "text": "Adenocarcinoma", "explanation": "Malignant." },
-      { "text": "Sarcoma", "explanation": "Malignant." }
+      { "text": "Remove the entire tumor", "explanation": "No." },
+      { "text": "Determine if the cancer has spread to the first draining node", "explanation": "Correct. If Sentinel is negative, the rest are likely negative. Spares full dissection." },
+      { "text": "Grade the tumor", "explanation": "No." },
+      { "text": "Test for receptors", "explanation": "No." },
+      { "text": "Prevent recurrence", "explanation": "Diagnostic." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_page-0033.jpg",
-    "slideImageDescription": "The slide explains the naming conventions 'Adeno- refers to glandular' and 'Fibro-' (implied connective tissue context). Combining them is a standard application of the nomenclature rules taught."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Sentinel Node = The Guard at the Gate. First stop for metastasis.",
+    "slideImagePath": "images/L131_slide_1.jpg",
+    "slideImageDescription": "Surgical staging."
   },
   {
     "id": 35,
-    "category": "Carcinogenesis",
-    "questionText": "The 'two-hit' hypothesis explains the development of which cancer?",
+    "category": "Genetics",
+    "questionText": "Philadelphia Chromosome t(9;22) is the diagnostic hallmark of:",
     "options": [
-      { "text": "Cervical cancer", "explanation": "Viral (HPV)." },
-      { "text": "Retinoblastoma", "explanation": "Knudson's two-hit hypothesis was developed for Retinoblastoma. In hereditary cases, one hit is inherited and the second is somatic. In sporadic cases, both hits are somatic." },
-      { "text": "Breast cancer", "explanation": "Multi-step." },
-      { "text": "Lung cancer", "explanation": "Multi-step." },
-      { "text": "Leukemia", "explanation": "Translocations often." }
+      { "text": "CML (Chronic Myeloid Leukemia)", "explanation": "Correct. BCR-ABL fusion protein." },
+      { "text": "AML", "explanation": "Variable." },
+      { "text": "ALL", "explanation": "t(12;21) in kids." },
+      { "text": "CLL", "explanation": "Deletion 13q." },
+      { "text": "Hodgkin Lymphoma", "explanation": "Reed-Sternberg cells." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_page-0089.jpg",
-    "slideImageDescription": "The slide explicitly discusses the 'two-hit hypothesis' in the context of Retinoblastoma and the RB gene."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Philadelphia (9;22) -> BCR-ABL -> CML. Treat with Imatinib.",
+    "slideImagePath": "images/L131_page-0001.jpg",
+    "slideImageDescription": "Translocations."
   },
   {
     "id": 36,
-    "category": "Tumor Markers",
-    "questionText": "A 55-year-old woman presents with abdominal bloating and an ovarian mass. Which tumor marker is most likely to be elevated and useful for monitoring her disease?",
+    "category": "Nomenclature",
+    "questionText": "A 'Teratoma' typically contains:",
     "options": [
-      { "text": "PSA", "explanation": "Prostate." },
-      { "text": "AFP", "explanation": "Liver/Germ cell." },
-      { "text": "CA-125", "explanation": "CA-125 is the classic tumor marker for ovarian cancer." },
-      { "text": "CEA", "explanation": "Colon." },
-      { "text": "CA19-9", "explanation": "Pancreatic." }
+      { "text": "Glandular tissue only", "explanation": "Adenoma." },
+      { "text": "Tissue from all 3 germ layers (Ectoderm, Mesoderm, Endoderm)", "explanation": "Correct. Hair, teeth, bone, gut, thyroid... all in one messy tumor." },
+      { "text": "Blood vessels", "explanation": "Hemangioma." },
+      { "text": "Bone only", "explanation": "Osteoma." },
+      { "text": "Fat only", "explanation": "Lipoma." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L131_slide_1.jpg",
-    "slideImageDescription": "The slide lists: 'CA-125, a marker for ovarian cancer'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Teratoma = 'Monster'. Can have teeth and hair inside!",
+    "slideImagePath": "images/L131_slide_2.jpg",
+    "slideImageDescription": "Germ cell tumors."
   },
   {
     "id": 37,
-    "category": "Cancer Staging",
-    "questionText": "A patient is diagnosed with 'Stage 0' cancer. This corresponds to:",
+    "category": "Immune Evasion",
+    "questionText": "Tumors evade immune surveillance by downregulating:",
     "options": [
-      { "text": "Invasive carcinoma with no metastasis", "explanation": "Stage I-III." },
-      { "text": "Carcinoma in situ", "explanation": "Carcinoma in situ (CIS) is pre-invasive cancer that has not breached the basement membrane. It is classified as Stage 0." },
-      { "text": "Metastatic carcinoma", "explanation": "Stage IV." },
-      { "text": "Benign tumor", "explanation": "Not staged." },
-      { "text": "Dysplasia", "explanation": "Pre-cancerous." }
+      { "text": "MHC Class I", "explanation": "Correct. If they don't show their ID card (MHC-I + Antigen), CD8+ T-cells can't kill them." },
+      { "text": "VEGF", "explanation": "Want more." },
+      { "text": "PD-L1", "explanation": "Upregulate it (usually)." },
+      { "text": "Telomerase", "explanation": "Upregulate." },
+      { "text": "Growth factors", "explanation": "Upregulate." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_slide_1.jpg",
-    "slideImageDescription": "The slide 'Carcinoma in situ (CIS)' states: 'CIS is the very earliest stage of cancer, also referred to as stage 0'."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "No MHC-I = Invisible to T-Cells. (But NK cells might catch them!).",
+    "slideImagePath": "images/L131_page-0001.jpg",
+    "slideImageDescription": "Immune evasion."
   },
   {
     "id": 38,
-    "category": "Tumor Nomenclature",
-    "questionText": "A mass is removed from a patient's lung. It consists of a disorganized mixture of cartilage, blood vessels, and bronchial epithelium. This lesion is indigenous to the lung but disorganized. It is a:",
+    "category": "Differentiation",
+    "questionText": "Anaplasia refers to:",
     "options": [
-      { "text": "Teratoma", "explanation": "Three germ layers." },
-      { "text": "Choristoma", "explanation": "Ectopic tissue." },
-      { "text": "Hamartoma", "explanation": "A hamartoma is a mass of disorganized tissue indigenous to the particular site (e.g., cartilage/bronchi in lung). It is non-neoplastic." },
-      { "text": "Adenoma", "explanation": "Neoplasm." },
-      { "text": "Carcinoma", "explanation": "Malignant." }
+      { "text": "Controlled growth", "explanation": "No." },
+      { "text": "Lack of differentiation", "explanation": "Correct. The hallmark of malignancy. Cells revert to a primitive, unspecialized state." },
+      { "text": "Programmed cell death", "explanation": "Apoptosis." },
+      { "text": "New blood vessel growth", "explanation": "Angiogenesis." },
+      { "text": "Reversible change", "explanation": "Metaplasia." }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Anaplasia = Backward formation. The cells forgot what they were supposed to be.",
     "slideImagePath": "images/L131_slide_2.jpg",
-    "slideImageDescription": "The slide 'Names That Sound Like Tumors But Aren't' defines Hamartomas and gives 'pulmonary hamartoma' as an example."
+    "slideImageDescription": "Definitions."
   },
   {
     "id": 39,
-    "category": "Cellular Adaptations",
-    "questionText": "What is the primary clinical significance of identifying metaplasia in a tissue biopsy?",
+    "category": "Hallmarks",
+    "questionText": "The Warburg Effect describes cancer cells' preference for:",
     "options": [
-      { "text": "It indicates invasive cancer is already present.", "explanation": "No." },
-      { "text": "It is an irreversible process.", "explanation": "Metaplasia is reversible." },
-      { "text": "It suggests the presence of a benign tumor.", "explanation": "No." },
-      { "text": "It is a marker of chronic stress that predisposes to dysplasia and cancer.", "explanation": "Metaplasia itself is an adaptation, but it creates a fertile ground for the development of dysplasia and subsequent malignancy if the stressor persists (e.g., Barrett's -> Adenocarcinoma)." },
-      { "text": "It indicates a viral infection.", "explanation": "Not necessarily." }
+      { "text": "Oxidative Phosphorylation", "explanation": "Normal." },
+      { "text": "Aerobic Glycolysis", "explanation": "Correct. Using glycolysis even when Oxygen is available. Produces building blocks, not just ATP." },
+      { "text": "Fatty Acid Oxidation", "explanation": "No." },
+      { "text": "Anaerobic Respiration", "explanation": "Only in hypoxia." },
+      { "text": "Gluconeogenesis", "explanation": "Liver." }
     ],
-    "correctAnswerIndex": 3,
-    "slideImagePath": "images/L131_page-0015.jpg",
-    "slideImageDescription": "The slide discusses Barrett esophagus and notes: 'While initially reversible, a small number of cases... can develop into esophageal adenocarcinoma'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Warburg = Sugar Addiction. Basis for PET scans (FDG avidity).",
+    "slideImagePath": "images/L131_page-0001.jpg",
+    "slideImageDescription": "Metabolism."
   },
   {
     "id": 40,
-    "category": "Tumor Differentiation",
-    "questionText": "The degree of differentiation of a tumor is used primarily to determine its:",
+    "category": "Summary",
+    "questionText": "Which is NOT a Hallmark of Cancer?",
     "options": [
-      { "text": "Stage", "explanation": "Stage is size/spread." },
-      { "text": "Grade", "explanation": "Tumor grade is defined by the degree of differentiation (well vs poorly) and mitotic activity. Grade correlates with aggressiveness." },
-      { "text": "Origin", "explanation": "Origin determines the name." },
-      { "text": "Size", "explanation": "Part of stage." },
-      { "text": "Metastatic potential", "explanation": "While linked, differentiation defines Grade." }
+      { "text": "Sustaining Proliferative Signaling", "explanation": "Yes." },
+      { "text": "Evading Growth Suppressors", "explanation": "Yes." },
+      { "text": "Resisting Apoptosis", "explanation": "Yes." },
+      { "text": "Increased Contact Inhibition", "explanation": "Correct. Cancer cells LOSE contact inhibition (they pile up). Normal cells stop growing when they touch." },
+      { "text": "Inducing Angiogenesis", "explanation": "Yes." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L131_slide_3.jpg",
-    "slideImageDescription": "The slide 'What Is Cancer Grading?' states: 'The grade of a tumor describes its histologic appearance... Cancers can range from well-differentiated... to undifferentiated'."
+    "correctAnswerIndex": 3,
+    "clinicalPearl": "Contact Inhibition is a specific 'politeness' normal cells have. Cancer cells are rude and pile on top of each other.",
+    "slideImagePath": "images/L131_page-0001.jpg",
+    "slideImageDescription": "Hallmarks list."
   }
 ];

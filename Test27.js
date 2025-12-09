@@ -1,602 +1,642 @@
 window.L133 = [
   {
     "id": 1,
-    "category": "Introduction to Nervous System",
+    "category": "Regeneration",
     "questionText": "A 65-year-old male suffers a stroke resulting in the loss of a specific population of cells in the cerebral cortex. These cells are considered 'non-renewable' in the adult brain, meaning the functional deficit is likely permanent. Which cell type has been lost?",
     "options": [
-      { "text": "Astrocytes", "explanation": "Astrocytes are glial cells that can proliferate (gliosis) after injury." },
-      { "text": "Neurons", "explanation": "Neurons in the adult CNS are almost entirely non-renewable; their loss results in permanent deficits as they do not typically regenerate." },
-      { "text": "Microglia", "explanation": "Microglia are immune cells that can proliferate in response to injury." },
-      { "text": "Oligodendrocytes", "explanation": "Oligodendrocytes can be regenerated from precursor cells." },
-      { "text": "Endothelial cells", "explanation": "Endothelial cells can divide to form new blood vessels (angiogenesis)." }
+      { "text": "Astrocytes", "explanation": "Can proliferate (gliosis)." },
+      { "text": "Neurons", "explanation": "Correct. Adult CNS neurons generally do not regenerate. Loss is permanent." },
+      { "text": "Microglia", "explanation": "Can proliferate." },
+      { "text": "Oligodendrocytes", "explanation": "Can be replaced by precursors." },
+      { "text": "Endothelial cells", "explanation": "Can divide." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Neurons in the adult CNS = Permanent cells. Stroke/Injury -> Permanent loss.",
     "slideImagePath": "images/L133_slide_4.jpg",
-    "slideImageDescription": "The slide 'Cells of the Central Nervous System: NEURONS' states: 'almost all neurons produced before birth and almost entirely non-renewable... Neurodegeneration or neuronal injury... results in permanent loss'."
+    "slideImageDescription": "Cells of CNS: Neurons."
   },
   {
     "id": 2,
     "category": "Neuronal Structure",
-    "questionText": "A histological sample of the spinal cord is treated with a Nissl stain. This basophilic dye binds avidly to RNA-rich structures. Which specific neuronal compartment would be devoid of this staining?",
+    "questionText": "A histological sample of the spinal cord is treated with a Nissl stain. This basophilic dye binds avidly to RNA-rich structures. Which specific neuronal compartment would be DEVOID of this staining?",
     "options": [
-      { "text": "Nucleolus", "explanation": "Rich in RNA, stains darkly." },
-      { "text": "Axon", "explanation": "The axon and axon hillock lack rough endoplasmic reticulum (Nissl substance) and free polyribosomes, so they do not stain with Nissl dye." },
-      { "text": "Cell body (Soma)", "explanation": "Rich in RER (Nissl bodies), stains darkly." },
-      { "text": "Proximal dendrite", "explanation": "Contains RER, stains." },
-      { "text": "Nucleus", "explanation": "Contains DNA/RNA, stains." }
+      { "text": "Nucleolus", "explanation": "RNA rich." },
+      { "text": "Axon", "explanation": "Correct. Axons lack RER (Nissl substance). They depend on the soma for protein synthesis." },
+      { "text": "Cell body (Soma)", "explanation": "RER rich." },
+      { "text": "Proximal dendrite", "explanation": "RER present." },
+      { "text": "Nucleus", "explanation": "DNA/RNA present." }
     ],
     "correctAnswerIndex": 1,
+    "clinicalPearl": "Nissl Stain = RER. Stains Soma + Dendrites. Axon is Nissl-NEGATIVE.",
     "slideImagePath": "images/L133_slide_4.jpg",
-    "slideImageDescription": "The slide mentions 'Nissl stain' in the context of neuronal cell bodies. The absence of Nissl substance in the axon is a key histological feature distinguishing it from dendrites and the soma."
+    "slideImageDescription": "Nissl stain."
   },
   {
     "id": 3,
     "category": "Neuronal Structure",
-    "questionText": "In a neuron, which structure serves as the primary integration center for synaptic inputs and metabolic maintenance of the cell?",
+    "questionText": "Which neuronal structure functions as the 'input zone,' responsible for receiving the majority of synaptic contacts from other neurons?",
     "options": [
-      { "text": "Dendritic spine", "explanation": "Primary site of excitatory input." },
-      { "text": "Cell Body (Soma)", "explanation": "The soma (cell body) contains the nucleus and organelles; it integrates incoming signals and maintains the metabolic health of the neuron." },
-      { "text": "Axon terminal", "explanation": "Site of neurotransmitter release." },
-      { "text": "Node of Ranvier", "explanation": "Site of action potential propagation." },
-      { "text": "Myelin sheath", "explanation": "Insulation." }
+      { "text": "Axon", "explanation": "Output." },
+      { "text": "Axon hillock", "explanation": "Integration." },
+      { "text": "Dendrite", "explanation": "Correct. Dendrites and spines increase surface area to receive signals." },
+      { "text": "Synaptic vesicle", "explanation": "Storage." },
+      { "text": "Microtubule", "explanation": "Transport." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_slide_2.jpg",
-    "slideImageDescription": "The slide 'Parts of a NEURON' identifies the Cell Body (Soma) as the 'Integration Zone' and 'Metabolic Center'."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Dendrites = Input Zone. Axon = Output Zone.",
+    "slideImagePath": "images/L133_slide_6.jpg",
+    "slideImageDescription": "Neuron parts."
   },
   {
     "id": 4,
-    "category": "Neuronal Structure",
-    "questionText": "Which neuronal structure functions as the 'input zone,' responsible for receiving the majority of synaptic contacts from other neurons?",
+    "category": "Pathology",
+    "questionText": "Examination of neocortical neurons from a patient with Fragile X Syndrome would most likely reveal which morphological abnormality?",
     "options": [
-      { "text": "Axon", "explanation": "Output/Conduction zone." },
-      { "text": "Axon hillock", "explanation": "Integration zone/Trigger zone." },
-      { "text": "Dendrite", "explanation": "Dendrites (and their spines) are the primary receptive surface (input zone) of the neuron." },
-      { "text": "Synaptic vesicle", "explanation": "Storage organelle." },
-      { "text": "Microtubule", "explanation": "Cytoskeletal element." }
+      { "text": "Loss of axons", "explanation": "No." },
+      { "text": "Increased number of dendritic spines", "explanation": "Correct. Failure of synaptic pruning leads to excess, immature spines." },
+      { "text": "Decreased number of dendritic spines", "explanation": "Schizophrenia." },
+      { "text": "Absence of mitochondria", "explanation": "No." },
+      { "text": "Demyelination", "explanation": "No." }
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Fragile X = Too many spines (failure to prune). Schizophrenia = Too few spines (over-pruning).",
     "slideImagePath": "images/L133_slide_6.jpg",
-    "slideImageDescription": "The slide diagrams labeling 'Dendrites' as the 'Input Zone'."
+    "slideImageDescription": "Dendritic spines in Fragile X."
   },
   {
     "id": 5,
-    "category": "Neuronal Pathology",
-    "questionText": "Examination of neocortical neurons from a patient with Fragile X Syndrome would most likely reveal which morphological abnormality?",
+    "category": "Action Potential",
+    "questionText": "The axon initial segment (hillock) is specialized for generating action potentials due to a high concentration of:",
     "options": [
-      { "text": "Loss of axons", "explanation": "Not the primary feature." },
-      { "text": "Increased number of dendritic spines", "explanation": "Fragile X Syndrome (FMRP mutation) is characterized by an failure of normal pruning, resulting in an increased density of immature dendritic spines." },
-      { "text": "Decreased number of dendritic spines", "explanation": "Characteristic of Schizophrenia." },
-      { "text": "Absence of mitochondria", "explanation": "Metabolic defect." },
-      { "text": "Demyelination", "explanation": "White matter disease." }
+      { "text": "Ribosomes", "explanation": "No." },
+      { "text": "Mitochondria", "explanation": "Energy." },
+      { "text": "Voltage-gated Sodium channels", "explanation": "Correct. This lowers the threshold for AP initiation." },
+      { "text": "Neurotransmitter receptors", "explanation": "Dendrites." },
+      { "text": "Lysosomes", "explanation": "No." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_slide_6.jpg",
-    "slideImageDescription": "The slide 'Parts of NEURONS: Dendrites & dendritic spines' states: 'Patients with Fragile X syndrome have increased numbers of spines on neocortical neuron dendrites'."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Axon Hillock = Trigger Zone. High density of Na+ channels.",
+    "slideImagePath": "images/L133_slide_7.jpg",
+    "slideImageDescription": "Axon initial segment."
   },
   {
     "id": 6,
-    "category": "Neuronal Pathology",
-    "questionText": "Conversely, post-mortem analysis of the brain of a patient with chronic Schizophrenia typically demonstrates:",
+    "category": "Regeneration",
+    "questionText": "After a peripheral nerve is severed, the portion of the axon distal to the injury undergoes a process of degeneration called:",
     "options": [
-      { "text": "Hypertrophy of the soma", "explanation": "Not characteristic." },
-      { "text": "Increased dendritic spines", "explanation": "Fragile X." },
-      { "text": "Decreased number of dendritic spines", "explanation": "Schizophrenia is associated with a reduction in spine density (pruning) in the neocortex, affecting connectivity." },
-      { "text": "Loss of all glia", "explanation": "Not characteristic." },
-      { "text": "Axonal regeneration", "explanation": "CNS axons generally do not regenerate." }
+      { "text": "Apoptosis", "explanation": "No." },
+      { "text": "Chromatolysis", "explanation": "Soma reaction." },
+      { "text": "Wallerian degeneration", "explanation": "Correct. The distal axon disintegrates, but the Schwann cell tube remains to guide regeneration." },
+      { "text": "Gliosis", "explanation": "Scarring." },
+      { "text": "Demyelination", "explanation": "No." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_6.jpg",
-    "slideImageDescription": "The slide 'Parts of NEURONS: Dendrites & dendritic spines' states: 'Dendritic spines are decreased in neocortical neurons of patients w/ schizophrenia'."
+    "clinicalPearl": "Wallerian Degeneration = Distal axon dies. Essential precursor to regeneration in PNS.",
+    "slideImagePath": "images/L133_slide_7.jpg",
+    "slideImageDescription": "Wallerian degeneration."
   },
   {
     "id": 7,
-    "category": "Neuronal Structure",
-    "questionText": "The axon initial segment (hillock) is specialized for generating action potentials due to a high concentration of:",
+    "category": "Genetic Disease",
+    "questionText": "Pitt-Hopkins syndrome (intellectual disability, epilepsy, breathing issues) is caused by a mutation in CNTNAP2, a gene encoding a protein localized to the:",
     "options": [
-      { "text": "Ribosomes", "explanation": "Synthesize proteins." },
-      { "text": "Mitochondria", "explanation": "Produce ATP." },
-      { "text": "Voltage-gated ion channels", "explanation": "The axon initial segment has a high density of voltage-gated sodium channels, lowering the threshold for action potential initiation." },
-      { "text": "Neurotransmitter receptors", "explanation": "Found on dendrites." },
-      { "text": "Lysosomes", "explanation": "Degrade waste." }
+      { "text": "Dendritic spine", "explanation": "No." },
+      { "text": "Node of Ranvier", "explanation": "Correct. Crucial for clustering K+ channels at the node." },
+      { "text": "Synaptic vesicle", "explanation": "No." },
+      { "text": "Primary cilium", "explanation": "Joubert." },
+      { "text": "Nucleolus", "explanation": "No." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_7.jpg",
-    "slideImageDescription": "The slide labels the 'Axon initial segment' as an 'area with large numbers of ion channels to initiate the action potential'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Pitt-Hopkins = CNTNAP2 mutation = Node of Ranvier defect.",
+    "slideImagePath": "images/L133_slide_8.jpg",
+    "slideImageDescription": "Nodes of Ranvier."
   },
   {
     "id": 8,
-    "category": "Neuronal Injury",
-    "questionText": "After a peripheral nerve is severed, the portion of the axon distal to the injury undergoes a process of degeneration and clearance. This process is termed:",
+    "category": "Synapse",
+    "questionText": "Transmission electron microscopy of a firing synapse captures an 'omega figure'. This represents:",
     "options": [
-      { "text": "Apoptosis", "explanation": "Cell suicide." },
-      { "text": "Chromatolysis", "explanation": "Soma reaction." },
-      { "text": "Wallerian degeneration", "explanation": "Wallerian degeneration is the specific breakdown and clearance of the axon distal to a lesion, facilitating potential regeneration in the PNS." },
-      { "text": "Gliosis", "explanation": "Scarring in CNS." },
-      { "text": "Demyelination", "explanation": "Loss of myelin only." }
+      { "text": "Endocytosis", "explanation": "No." },
+      { "text": "Exocytosis (Vesicle Fusion)", "explanation": "Correct. The vesicle fusing with the membrane looks like the Greek letter Omega." },
+      { "text": "Receptor binding", "explanation": "No." },
+      { "text": "Gap junction", "explanation": "No." },
+      { "text": "Mitochondria", "explanation": "No." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_7.jpg",
-    "slideImageDescription": "The slide includes a 'Clinical correlate' defining Wallerian degeneration as 'the process of degenerating of axon distal to injury'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Omega Figure = Exocytosis of Neurotransmitter.",
+    "slideImagePath": "images/L133_slide_10.jpg",
+    "slideImageDescription": "EM of synapse."
   },
   {
     "id": 9,
-    "category": "Genetic Disease",
-    "questionText": "A 4-year-old presents with intellectual disability, seizures, and breathing abnormalities (Pitt-Hopkins syndrome). This condition is caused by a mutation in the CNTNAP2 gene, which encodes a protein localized to which neuronal structure?",
+    "category": "Synapse",
+    "questionText": "Which type of synapse allows for the fastest transmission (<1ms) and is bidirectional?",
     "options": [
-      { "text": "Dendritic spine", "explanation": "Fragile X/Schizophrenia." },
-      { "text": "Node of Ranvier", "explanation": "CNTNAP2 encodes CASPR2, a protein localized to the Nodes of Ranvier necessary for K+ channel clustering. Mutation leads to Pitt-Hopkins." },
-      { "text": "Synaptic vesicle", "explanation": "Transmission." },
-      { "text": "Primary cilium", "explanation": "Joubert syndrome." },
-      { "text": "Nucleolus", "explanation": "Ribosome synthesis." }
+      { "text": "Chemical", "explanation": "Synaptic delay ~1ms." },
+      { "text": "Electrical", "explanation": "Correct. Gap junctions allow direct ionic flow." },
+      { "text": "Axo-axonic", "explanation": "Chemical." },
+      { "text": "Neuromuscular", "explanation": "Chemical." },
+      { "text": "Tripartite", "explanation": "Chemical + Glia." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_slide_8.jpg",
-    "slideImageDescription": "The slide 'Axons: Nodes of Ranvier' states: 'CNTNAP2 gene encodes for a protein that is highly localized at the nodes of Ranvier... mutations causes Pitt-Hopkins syndrome'."
+    "clinicalPearl": "Electrical Synapse = Gap Junctions (Connexons). Instant, bidirectional, synchronizing.",
+    "slideImagePath": "images/L133_slide_13.jpg",
+    "slideImageDescription": "Electrical synapse."
   },
   {
     "id": 10,
-    "category": "Synaptic Structure",
-    "questionText": "In a chemical synapse, the postsynaptic density (PSD) is a thickened area of the membrane containing receptors and signaling machinery. This structure is typically located on the:",
+    "category": "Cilia",
+    "questionText": "Joubert Syndrome (brainstem malformation, ataxia) is linked to defects in:",
     "options": [
-      { "text": "Axon terminal", "explanation": "Presynaptic side." },
-      { "text": "Mitochondria", "explanation": "Organelle." },
-      { "text": "Dendrite/Spine", "explanation": "The PSD is the specialized receptor-rich region of the postsynaptic membrane, usually found on a dendrite or dendritic spine." },
-      { "text": "Astrocyte", "explanation": "Glial support." },
-      { "text": "Synaptic vesicle", "explanation": "Presynaptic." }
+      { "text": "Synaptic vesicles", "explanation": "No." },
+      { "text": "Primary cilia", "explanation": "Correct. Neuronal primary cilia are essential for signaling (e.g., Shh pathway) during development." },
+      { "text": "Myelin", "explanation": "No." },
+      { "text": "Dendrites", "explanation": "No." },
+      { "text": "Nucleolus", "explanation": "No." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_9.jpg",
-    "slideImageDescription": "The diagram of the chemical synapse labels the 'Postsynaptic density' on the 'Postsynaptic dendrite'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Joubert Syndrome = Ciliopathy. 'Molar Tooth Sign' on MRI.",
+    "slideImagePath": "images/L133_slide_14.jpg",
+    "slideImageDescription": "Neuronal Cilia."
   },
   {
     "id": 11,
-    "category": "Synaptic Physiology",
-    "questionText": "Transmission electron microscopy of a firing synapse captures an 'omega figure' at the active zone. This structure represents the process of:",
+    "category": "Transport",
+    "questionText": "Intraflagellar transport (IFT) is critical for cilia maintenance. Retrograde transport (tip to soma) is driven by:",
     "options": [
-      { "text": "Endocytosis", "explanation": "Retrieval (clathrin-coated)." },
-      { "text": "Exocytosis", "explanation": "The omega figure is the morphological signature of a synaptic vesicle fusing with the plasma membrane to release neurotransmitter (exocytosis)." },
-      { "text": "Receptor binding", "explanation": "Molecular event." },
-      { "text": "Gap junction formation", "explanation": "Structural connection." },
-      { "text": "Mitochondrial fusion", "explanation": "Organelle dynamics." }
+      { "text": "Kinesin", "explanation": "Anterograde (to tip)." },
+      { "text": "Dynein", "explanation": "Correct. Walks towards the minus end (soma)." },
+      { "text": "Myosin", "explanation": "Actin." },
+      { "text": "Actin", "explanation": "No." },
+      { "text": "Tubulin", "explanation": "Track." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_slide_10.jpg",
-    "slideImageDescription": "The slide 'Electron micrograph of the chemical synapse' labels an 'Omega figure', representing vesicle fusion."
+    "clinicalPearl": "Kinesin = Kick out (Anterograde). Dynein = Drag in (Retrograde).",
+    "slideImagePath": "images/L133_slide_4.jpg",
+    "slideImageDescription": "Microtubule transport."
   },
   {
     "id": 12,
-    "category": "Synaptic Types",
-    "questionText": "Among the various types of chemical synapses in the CNS, which configuration is the LEAST common?",
+    "category": "Astrocytes",
+    "questionText": "Astrocytes prevent excitotoxicity by actively taking up excess:",
     "options": [
-      { "text": "Axo-dendritic", "explanation": "Most common." },
-      { "text": "Axo-somatic", "explanation": "Common (often inhibitory)." },
-      { "text": "Axo-axonic", "explanation": "Axo-axonic synapses (axon to axon) are the least common type." },
-      { "text": "Dendro-dendritic", "explanation": "Specialized areas only." },
-      { "text": "Neuromuscular", "explanation": "Peripheral." }
+      { "text": "Acetylcholine", "explanation": "Broken down by AChE." },
+      { "text": "Glutamate and Potassium (K+)", "explanation": "Correct. High extracellular K+ or Glutamate causes seizure/death. Astrocytes mop it up." },
+      { "text": "GABA", "explanation": "Taken up, but Glutamate is the excitotoxic one." },
+      { "text": "Sodium", "explanation": "No." },
+      { "text": "Calcium", "explanation": "No." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_11.jpg",
-    "slideImageDescription": "The slide 'Chemical Synapses' lists: 'Axo-axonic: Least common synapse'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Astrocytes = Housekeepers. Clear Glutamate + K+ to keep potential reset.",
+    "slideImagePath": "images/L133_slide_17.jpg",
+    "slideImageDescription": "Astrocyte function."
   },
   {
     "id": 13,
-    "category": "Synaptic Structure",
-    "questionText": "Electrical synapses allow for direct ionic current flow between neurons. The structural channel facilitating this communication is the:",
+    "category": "Glia Markers",
+    "questionText": "What is the specific intermediate filament marker for Astrocytes, used to diagnose Astrocytomas?",
     "options": [
-      { "text": "Aquaporin", "explanation": "Water channel." },
-      { "text": "Ionotropic receptor", "explanation": "Chemical synapse." },
-      { "text": "Connexon", "explanation": "A connexon (hemichannel) is formed by 6 connexin proteins. Two aligned connexons form a gap junction channel." },
-      { "text": "Cadherin", "explanation": "Adhesion." },
-      { "text": "Clathrin", "explanation": "Endocytosis." }
+      { "text": "Neurofilament", "explanation": "Neurons." },
+      { "text": "Vimentin", "explanation": "Fibroblasts." },
+      { "text": "GFAP (Glial Fibrillary Acidic Protein)", "explanation": "Correct." },
+      { "text": "Cytokeratin", "explanation": "Epithelium." },
+      { "text": "Desmin", "explanation": "Muscle." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_6.jpg",
-    "slideImageDescription": "The slide 'Electrical synapses' identifies the pore as a 'Connexon' made of 6 connexins."
+    "clinicalPearl": "GFAP = Astrocytes. GBM is GFAP positive.",
+    "slideImagePath": "images/L133_slide_19.jpg",
+    "slideImageDescription": "GFAP staining."
   },
   {
     "id": 14,
-    "category": "Synaptic Physiology",
-    "questionText": "Compared to chemical synapses, electrical synapses are characterized by:",
+    "category": "Pathology",
+    "questionText": "Alexander Disease is a fatal leukodystrophy caused by a mutation in:",
     "options": [
-      { "text": "Slower transmission", "explanation": "Chemical is slower (synaptic delay)." },
-      { "text": "Unidirectional flow only", "explanation": "Electrical are often bidirectional." },
-      { "text": "Extremely fast transmission (<1ms)", "explanation": "Electrical transmission involves direct current flow, resulting in virtually no synaptic delay (<1ms)." },
-      { "text": "Requirement for neurotransmitters", "explanation": "Chemical only." },
-      { "text": "Larger synaptic cleft", "explanation": "Electrical gap is smaller (3.5nm vs 20nm)." }
+      { "text": "MBP", "explanation": "No." },
+      { "text": "GFAP", "explanation": "Correct. Accumulation of GFAP (Rosenthal fibers) destroys astrocytes and white matter." },
+      { "text": "AQP4", "explanation": "No." },
+      { "text": "PLP", "explanation": "No." },
+      { "text": "Connexin", "explanation": "No." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_13.jpg",
-    "slideImageDescription": "The slide 'Gap junctions & Electrical synapses' states: 'Fastest type of neural communication <1ms'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Alexander Disease = GFAP mutation => Rosenthal Fibers.",
+    "slideImagePath": "images/L133_slide_19.jpg",
+    "slideImageDescription": "Alexander disease."
   },
   {
     "id": 15,
-    "category": "Neuronal Cell Biology",
-    "questionText": "Joubert Syndrome, characterized by brainstem malformations and ataxia, is caused by a mutation in the ARL13B gene. This gene is essential for the development of which neuronal structure?",
+    "category": "Microglia",
+    "questionText": "Microglia are the resident immune cells of the CNS. Their specific marker is:",
     "options": [
-      { "text": "Synaptic vesicle", "explanation": "Transmission." },
-      { "text": "Primary cilium", "explanation": "ARL13B is critical for the formation/function of the neuronal primary cilium. Defects lead to ciliopathies like Joubert Syndrome." },
-      { "text": "Myelin sheath", "explanation": "Insulation." },
-      { "text": "Dendritic spine", "explanation": "Reception." },
-      { "text": "Nucleolus", "explanation": "Ribosomes." }
+      { "text": "GFAP", "explanation": "Astrocyte." },
+      { "text": "Iba1", "explanation": "Correct. Ionized calcium-binding adapter molecule 1." },
+      { "text": "Olig2", "explanation": "Oligodendrocyte." },
+      { "text": "NeuN", "explanation": "Neuron." },
+      { "text": "S100", "explanation": "Schwann/Astrocyte." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_slide_14.jpg",
-    "slideImageDescription": "The slide 'Neuronal Cilia' states: 'ARL13B gene mutation causes deficits in cilia development and Joubert Syndrome'."
+    "clinicalPearl": "Microglia = Iba1+. Origin = Yolk Sac (Mesoderm), unlike other glia (Neuroectoderm).",
+    "slideImagePath": "images/L133_slide_16.jpg",
+    "slideImageDescription": "Microglia."
   },
   {
     "id": 16,
-    "category": "Neuronal Cell Biology",
-    "questionText": "Intraflagellar transport (IFT) moves materials within the cilium. Which motor protein is responsible for retrograde transport (from the tip back to the cell body)?",
+    "category": "Microglia",
+    "questionText": "During development, microglia eliminate weak synapses, a process known as:",
     "options": [
-      { "text": "Kinesin", "explanation": "Anterograde motor." },
-      { "text": "Myosin", "explanation": "Actin motor." },
-      { "text": "Dynein", "explanation": "Cytoplasmic dynein transports cargo towards the minus end of microtubules (retrograde, towards the soma)." },
-      { "text": "Actin", "explanation": "Filament." },
-      { "text": "Tubulin", "explanation": "Microtubule unit." }
+      { "text": "Myelination", "explanation": "No." },
+      { "text": "Synaptic Pruning", "explanation": "Correct. Essential for refining circuits. Schizophrenia may be 'over-pruning'." },
+      { "text": "Long term potentiation", "explanation": "Strengthening." },
+      { "text": "Wallerian degeneration", "explanation": "No." },
+      { "text": "Neurogenesis", "explanation": "No." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_4.jpg",
-    "slideImageDescription": "The diagram 'Neuronal Cilia' labels 'Retrograde motor (e.g. Dynein)' moving 'to soma'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Microglia eat weak synapses (Pruning).",
+    "slideImagePath": "images/L133_slide_21.jpg",
+    "slideImageDescription": "Synaptic pruning."
   },
   {
     "id": 17,
-    "category": "Glial Cells",
-    "questionText": "What is the approximate ratio of glial cells to neurons in the human brain?",
+    "category": "Myelination",
+    "questionText": "A single Oligodendrocyte myelinates:",
     "options": [
-      { "text": "10:1", "explanation": "Old estimate." },
-      { "text": "1:1", "explanation": "Current estimates suggest the ratio of glia to neurons is approximately 1:1." },
-      { "text": "1:10", "explanation": "Too few glia." },
-      { "text": "50:1", "explanation": "Too many glia." },
-      { "text": "1:50", "explanation": "Too few glia." }
+      { "text": "One axon segment only", "explanation": "Schwann cell." },
+      { "text": "Multiple axon segments (up to 50)", "explanation": "Correct. Octopus-like." },
+      { "text": "No axons", "explanation": "No." },
+      { "text": "Dendrites", "explanation": "No." },
+      { "text": "Cell bodies", "explanation": "No." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_slide_16.jpg",
-    "slideImageDescription": "The slide 'Glia: The other brain cells' states: 'Ratio of Glia to neurons is ~1:1'."
+    "clinicalPearl": "Oligodendrocyte = CNS = Multiple axons. Schwann Cell = PNS = Single axon.",
+    "slideImagePath": "images/L133_slide_8.jpg",
+    "slideImageDescription": "Oligodendrocyte morphology."
   },
   {
     "id": 18,
-    "category": "Astrocytes",
-    "questionText": "Astrocytes play a crucial role in maintaining the synaptic environment. Which of the following is a key function of astrocytes at the synapse?",
+    "category": "Pathology",
+    "questionText": "Multiple Sclerosis (MS) primarily targets:",
     "options": [
-      { "text": "Releasing action potentials", "explanation": "Neurons do this." },
-      { "text": "Myelinating the axon", "explanation": "Oligodendrocytes do this." },
-      { "text": "Uptake of Glutamate and Potassium", "explanation": "Astrocytes remove excess neurotransmitters (glutamate) and potassium (K+) from the synaptic cleft to prevent excitotoxicity and maintain ion homeostasis." },
-      { "text": "Phagocytosing bacteria", "explanation": "Microglia do this." },
-      { "text": "Synthesizing CSF", "explanation": "Choroid plexus does this." }
+      { "text": "Axons", "explanation": "Secondary." },
+      { "text": "Neurons", "explanation": "No." },
+      { "text": "Oligodendrocytes / Central Myelin", "explanation": "Correct. Autoimmune attack on CNS myelin." },
+      { "text": "Schwann Cells", "explanation": "GBS targets these." },
+      { "text": "Astrocytes", "explanation": "NMO." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_17.jpg",
-    "slideImageDescription": "The slide 'Astrocytes' lists functions: 'structural partners at chemical synapses, capable of glutamate and K+ uptake'."
+    "clinicalPearl": "MS = CNS Demyelination (Oligodendrocytes). GBS = PNS Demyelination (Schwann Cells).",
+    "slideImagePath": "images/L133_slide_23.jpg",
+    "slideImageDescription": "MS pathology."
   },
   {
     "id": 19,
-    "category": "Astrocytes",
-    "questionText": "The 'Tripartite Synapse' concept suggests that synaptic transmission involves three functional elements: the presynaptic terminal, the postsynaptic density, and:",
+    "category": "Pathology",
+    "questionText": "Neuromyelitis Optica (NMO) is caused by autoantibodies against:",
     "options": [
-      { "text": "The microglial process", "explanation": "Immune." },
-      { "text": "The astrocyte end-foot", "explanation": "Astrocyte processes wrap the synapse and actively participate in signaling/clearance, forming the third element of the 'tripartite synapse'." },
-      { "text": "The oligodendrocyte myelin", "explanation": "Insulation." },
-      { "text": "The capillary endothelial cell", "explanation": "Blood supply." },
-      { "text": "The ependymal cell", "explanation": "Ventricular lining." }
+      { "text": "Myelin Basic Protein", "explanation": "MS." },
+      { "text": "Aquaporin-4 (AQP4)", "explanation": "Correct. Water channel on Astrocytes. Attacks Optic Nerve + Spinal Cord." },
+      { "text": "MOG", "explanation": "MOGAD." },
+      { "text": "GFAP", "explanation": "Alexander." },
+      { "text": "Connexin", "explanation": "No." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_slide_11.jpg",
-    "slideImageDescription": "The slide 'The Tripartite Synapse' illustrates the Pre-synaptic, Post-synaptic, and Astrocyte components working together."
+    "clinicalPearl": "NMO = Anti-AQP4. Targets Astrocytes -> Secondary demyelination.",
+    "slideImagePath": "images/L133_slide_24.jpg",
+    "slideImageDescription": "NMO pathology."
   },
   {
     "id": 20,
-    "category": "Glial Markers",
-    "questionText": "A neuropathologist identifies a brain tumor as an astrocytoma. This diagnosis is confirmed by positive staining for which intermediate filament protein?",
+    "category": "Markers",
+    "questionText": "Olig2 is a transcription factor used to diagnose:",
     "options": [
-      { "text": "Neurofilament", "explanation": "Neuron marker." },
-      { "text": "Vimentin", "explanation": "Mesenchymal marker." },
-      { "text": "GFAP (Glial Fibrillary Acidic Protein)", "explanation": "GFAP is the gold standard marker for astrocytes and is used to diagnose astrocytomas." },
-      { "text": "Cytokeratin", "explanation": "Epithelial marker." },
-      { "text": "Desmin", "explanation": "Muscle marker." }
+      { "text": "Astrocytoma", "explanation": "GFAP." },
+      { "text": "Oligodendroglioma", "explanation": "Correct." },
+      { "text": "Meningioma", "explanation": "EMA." },
+      { "text": "Schwannoma", "explanation": "S100." },
+      { "text": "Neuroblastoma", "explanation": "NSE." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_19.jpg",
-    "slideImageDescription": "The slide states: 'Glial fibrillary acid protein (Gfap) is the gold standard molecular marker for reactive astrocytes and is used for detection of... astrocytoma'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Olig2 = Oligodendroglioma. 'Fried Egg' cells.",
+    "slideImagePath": "images/L133_slide_24.jpg",
+    "slideImageDescription": "Olig2 marker."
   },
   {
     "id": 21,
-    "category": "Glial Pathology",
-    "questionText": "Alexander disease is a fatal leukodystrophy caused by a dominant mutation in the gene encoding:",
+    "category": "Blood Brain Barrier",
+    "questionText": "The physical barrier of the Blood-Brain Barrier (BBB) is formed by:",
     "options": [
-      { "text": "Myelin Basic Protein", "explanation": "MS target." },
-      { "text": "Connexin", "explanation": "Gap junctions." },
-      { "text": "GFAP", "explanation": "Mutations in the GFAP gene cause Alexander disease, characterized by accumulation of Rosenthal fibers and white matter destruction." },
-      { "text": "Aquaporin", "explanation": "NMO target." },
-      { "text": "Tau", "explanation": "Dementia." }
+      { "text": "Astrocytes feet", "explanation": "Induce it, but don't form the tight seal." },
+      { "text": "Tight Junctions between Endothelial Cells", "explanation": "Correct. These prevent paracellular transport." },
+      { "text": "Pericytes", "explanation": "Support." },
+      { "text": "Basement membrane", "explanation": "Support." },
+      { "text": "Microglia", "explanation": "No." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_19.jpg",
-    "slideImageDescription": "The slide states: 'Mutation of the GFAP gene causes Alexander disease leukodystrophy'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "BBB = Tight Junctions (Endothelial). Astrocytes end-feet induce their formation.",
+    "slideImagePath": "images/L133_slide_25.jpg",
+    "slideImageDescription": "BBB structure."
   },
   {
     "id": 22,
-    "category": "Microglia",
-    "questionText": "Which protein serves as a specific marker for identifying microglia in brain tissue sections?",
+    "category": "Vasculature",
+    "questionText": "Pericytes communicate with endothelial cells via:",
     "options": [
-      { "text": "GFAP", "explanation": "Astrocyte." },
-      { "text": "NeuN", "explanation": "Neuron." },
-      { "text": "Iba1", "explanation": "Ionized calcium-binding adapter molecule 1 (Iba1) is a specific marker for microglia and macrophages." },
-      { "text": "Olig2", "explanation": "Oligodendrocyte." },
-      { "text": "S100", "explanation": "Schwann cell/Astrocyte." }
+      { "text": "Chemical synapses", "explanation": "No." },
+      { "text": "Gap Junctions", "explanation": "Correct. Regulate blood flow and permeability." },
+      { "text": "Desmosomes", "explanation": "No." },
+      { "text": "Tight junctions", "explanation": "Endothelial-Endothelial." },
+      { "text": "Plasmodesmata", "explanation": "Plants." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_16.jpg",
-    "slideImageDescription": "The slide 'Microglia' shows immunofluorescence images labeled with 'Iba1' to visualize these cells."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Pericytes = Regulation of Capillaries. Gap junctions connect them to endothelium.",
+    "slideImagePath": "images/L133_slide_25.jpg",
+    "slideImageDescription": "Pericytes."
   },
   {
     "id": 23,
-    "category": "Microglia",
-    "questionText": "When microglia become activated in response to injury, they undergo a morphological change from a 'ramified' (branched) state to a(n) ________ state to facilitate phagocytosis.",
+    "category": "CSF",
+    "questionText": "Cerebrospinal Fluid (CSF) is produced by:",
     "options": [
-      { "text": "Stellate", "explanation": "Star-shaped (ramified)." },
-      { "text": "Pyramidal", "explanation": "Neuron shape." },
-      { "text": "Amoeboid", "explanation": "Activated microglia retract their processes and assume a round, amoeboid shape to become mobile and phagocytic." },
-      { "text": "Fusiform", "explanation": "Spindle shape." },
-      { "text": "Columnar", "explanation": "Epithelial shape." }
+      { "text": "Arachnoid granulations", "explanation": "Resorption." },
+      { "text": "Choroid Plexus", "explanation": "Correct. Specialized ependymal cells + Capillaries." },
+      { "text": "Venous sinuses", "explanation": "Drainage." },
+      { "text": "Astrocytes", "explanation": "No." },
+      { "text": "Neurons", "explanation": "No." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_7.jpg",
-    "slideImageDescription": "The slide shows the transition from 'Ramified' to 'Amoeboid' morphology in activated microglia."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Choroid Plexus = CSF Factory. Arachnoid Granulations = CSF Drain.",
+    "slideImagePath": "images/L133_slide_28.jpg",
+    "slideImageDescription": "Choroid plexus."
   },
   {
     "id": 24,
-    "category": "Microglia",
-    "questionText": "During brain development, microglia play a critical role in refining neural circuits by:",
+    "category": "Excitotoxicity",
+    "questionText": "Glutamate excitotoxicity (e.g., in stroke) is primarily mediated by excessive Calcium influx through which receptor?",
     "options": [
-      { "text": "Myelinating axons", "explanation": "Oligodendrocytes." },
-      { "text": "Synaptic pruning", "explanation": "Microglia engulf and eliminate weak or excess synapses (synaptic pruning) to refine connectivity." },
-      { "text": "Forming the BBB", "explanation": "Endothelial cells." },
-      { "text": "Synthesizing neurotransmitters", "explanation": "Neurons." },
-      { "text": "Guiding axon growth", "explanation": "Radial glia." }
+      { "text": "AMPA", "explanation": "Sodium mainly." },
+      { "text": "NMDA", "explanation": "Correct. High Ca2+ influx -> Activates enzymes -> Cell death." },
+      { "text": "GABA", "explanation": "Chloride (Inhibitory)." },
+      { "text": "Glycine", "explanation": "Chloride." },
+      { "text": "Nicotinic", "explanation": "Sodium." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_slide_21.jpg",
-    "slideImageDescription": "The slide 'In vivo imaging of microglia' mentions 'Synaptic pruning' as a function."
+    "clinicalPearl": "NMDA Receptor = Calcium Floodgate. Excitotoxicity key player.",
+    "slideImagePath": "images/L133_slide_1.jpg",
+    "slideImageDescription": "Excitotoxicity."
   },
   {
     "id": 25,
-    "category": "Oligodendrocytes",
-    "questionText": "Oligodendrocytes are the myelinating cells of the CNS. A single oligodendrocyte:",
+    "category": "LTP",
+    "questionText": "Long-Term Potentiation (Learning) requires the removal of which ion block from the NMDA receptor?",
     "options": [
-      { "text": "Myelinates only one axon", "explanation": "Schwann cell." },
-      { "text": "Myelinates multiple axons", "explanation": "One oligodendrocyte extends processes to form myelin sheaths around segments of multiple different axons (up to 50)." },
-      { "text": "Does not produce myelin", "explanation": "Incorrect." },
-      { "text": "Is derived from monocytes", "explanation": "Microglia are." },
-      { "text": "Forms the blood-brain barrier", "explanation": "Endothelial cells." }
+      { "text": "Sodium", "explanation": "No." },
+      { "text": "Magnesium (Mg2+)", "explanation": "Correct. Depolarization pushes Mg2+ out, allowing Ca2+ in." },
+      { "text": "Potassium", "explanation": "No." },
+      { "text": "Chloride", "explanation": "No." },
+      { "text": "Calcium", "explanation": "Flows in." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_slide_8.jpg",
-    "slideImageDescription": "The slide 'Oligodendrocytes' shows a single cell extending processes to wrap multiple axon segments."
+    "clinicalPearl": "Magnesium Block = The gatekeeper of the NMDA receptor. Must be removed (depolarization) for learning (LTP) to occur.",
+    "slideImagePath": "images/L133_slide_1.jpg",
+    "slideImageDescription": "LTP mechanism."
   },
   {
     "id": 26,
-    "category": "Schwann Cells vs Oligodendrocytes",
-    "questionText": "Which feature distinguishes Schwann cells from Oligodendrocytes?",
+    "category": "Alzheimer's",
+    "questionText": "Neurofibrillary Tangles in Alzheimer's disease are composed of:",
     "options": [
-      { "text": "Schwann cells myelinate CNS axons", "explanation": "PNS." },
-      { "text": "Schwann cells associate with only one axon segment", "explanation": "A single myelinating Schwann cell wraps around only one segment of a single axon in the PNS." },
-      { "text": "Oligodendrocytes are immune cells", "explanation": "No." },
-      { "text": "Schwann cells express Olig2", "explanation": "No." },
-      { "text": "Oligodendrocytes regenerate axons", "explanation": "Schwann cells support regeneration better than Oligodendrocytes." }
+      { "text": "Amyloid Beta", "explanation": "Plaques (Extracellular)." },
+      { "text": "Hyperphosphorylated Tau", "explanation": "Correct. Microtubule stabilizing protein (Intracellular)." },
+      { "text": "Alpha-synuclein", "explanation": "Lewy Bodies." },
+      { "text": "TDP-43", "explanation": "ALS/FTD." },
+      { "text": "Prion protein", "explanation": "CJD." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_slide_23.jpg",
-    "slideImageDescription": "The slide compares them: 'Schwann cells envelop only one; oligos envelop more than one axon'."
+    "clinicalPearl": "Alzheimer's = Tau Tangles (Inside) + Amyloid Plaques (Outside).",
+    "slideImagePath": "images/L133_slide_1.jpg",
+    "slideImageDescription": "Alzheimer pathology."
   },
   {
     "id": 27,
-    "category": "Oligodendrocyte Markers",
-    "questionText": "Which transcription factor is a specific marker for oligodendrocytes and is used to diagnose oligodendrogliomas?",
+    "category": "Parkinson's",
+    "questionText": "Loss of Dopaminergic neurons in the _________ causes Parkinson's Disease.",
     "options": [
-      { "text": "GFAP", "explanation": "Astrocyte." },
-      { "text": "NeuN", "explanation": "Neuron." },
-      { "text": "Olig2", "explanation": "Olig2 is a transcription factor expressed exclusively in the oligodendrocyte lineage." },
-      { "text": "Iba1", "explanation": "Microglia." },
-      { "text": "Ki67", "explanation": "Proliferation." }
+      { "text": "Striatum", "explanation": "Target (lose input)." },
+      { "text": "Substantia Nigra pars compacta", "explanation": "Correct. Nigrostriatal pathway degenerates." },
+      { "text": "Hippocampus", "explanation": "Memory." },
+      { "text": "Cerebellum", "explanation": "Ataxia." },
+      { "text": "Spinal Cord", "explanation": "No." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_24.jpg",
-    "slideImageDescription": "The slide 'Clinical correlates' states: 'Olig2 is a protein exclusively found in oligodendrocytes and is a marker for oligodendroglioma'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Parkinson's = Substantia Nigra (Black Substance) fades. Dopamine deficiency.",
+    "slideImagePath": "images/L133_slide_1.jpg",
+    "slideImageDescription": "Parkinson pathology."
   },
   {
     "id": 28,
-    "category": "Oligodendrocyte Pathology",
-    "questionText": "MOGAD (Myelin Oligodendrocyte Glycoprotein Antibody Disease) is an autoimmune disorder. The target antigen, MOG, is found on:",
+    "category": "ALS",
+    "questionText": "Amyotrophic Lateral Sclerosis (ALS) is characterized by the death of:",
     "options": [
-      { "text": "Astrocytes", "explanation": "No." },
-      { "text": "Peripheral nerves", "explanation": "No." },
-      { "text": "The surface of CNS myelin/oligodendrocytes", "explanation": "MOG is a glycoprotein on the surface of oligodendrocytes and CNS myelin sheaths." },
-      { "text": "Microglia", "explanation": "No." },
-      { "text": "Neurons", "explanation": "No." }
+      { "text": "Upper Motor Neurons only", "explanation": "PLS." },
+      { "text": "Lower Motor Neurons only", "explanation": "SMA." },
+      { "text": "Both Upper and Lower Motor Neurons", "explanation": "Correct. Spasticity (UMN) + Fasciculations/Atrophy (LMN)." },
+      { "text": "Sensory Neurons", "explanation": "No." },
+      { "text": "Purkinje Cells", "explanation": "No." }
     ],
     "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_24.jpg",
-    "slideImageDescription": "The slide mentions MOGAD as an 'Autoimmune disorder where patients have IgG against MOG... expressed in oligodendrocytes'."
+    "clinicalPearl": "ALS = UMN + LMN. No sensory loss.",
+    "slideImagePath": "images/L133_slide_19.jpg",
+    "slideImageDescription": "ALS pathology."
   },
   {
     "id": 29,
-    "category": "Vasculature",
-    "questionText": "The structural basis of the Blood-Brain Barrier (BBB) is primarily formed by:",
+    "category": "Channelopathy",
+    "questionText": "Lambert-Eaton Myasthenic Syndrome targets:",
     "options": [
-      { "text": "Gap junctions between astrocytes", "explanation": "Supportive." },
-      { "text": "Tight junctions between endothelial cells", "explanation": "Tight junctions between capillary endothelial cells physically restrict the passage of solutes, forming the BBB." },
-      { "text": "Myelin sheaths", "explanation": "Insulation." },
-      { "text": "Pericytes", "explanation": "Regulation." },
-      { "text": "Dura mater", "explanation": "Protection." }
+      { "text": "Post-synaptic ACh Receptors", "explanation": "Myasthenia Gravis." },
+      { "text": "Pre-synaptic Voltage-gated Calcium Channels", "explanation": "Correct. Prevents ACh release. Improves with use." },
+      { "text": "Sodium Channels", "explanation": "No." },
+      { "text": "Potassium Channels", "explanation": "Neuromyotonia." },
+      { "text": "Choline reuptake", "explanation": "No." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_slide_25.jpg",
-    "slideImageDescription": "The slide 'Non-neural & non-glial cells of the vasculature' lists 'Endothelial cells (vessels) - blood brain barrier'."
+    "clinicalPearl": "Lambert-Eaton = Pre-synaptic Ca2+ block. SCLC association.",
+    "slideImagePath": "images/L133_slide_1.jpg",
+    "slideImageDescription": "LEMS mechanism."
   },
   {
     "id": 30,
-    "category": "Vasculature",
-    "questionText": "Pericytes are mural cells that wrap around capillaries. They communicate directly with endothelial cells via:",
+    "category": "Epilepsy",
+    "questionText": "Dravet Syndrome is a severe epilepsy caused by a mutation in SCN1A, which encodes a:",
     "options": [
-      { "text": "Chemical synapses", "explanation": "No." },
-      { "text": "Gap junctions", "explanation": "Pericytes form gap junctions with endothelial cells to coordinate blood flow and vessel stability." },
-      { "text": "Desmosomes", "explanation": "Adhesion." },
-      { "text": "Tight junctions", "explanation": "Endothelial-endothelial." },
-      { "text": "Ion channels", "explanation": "General term." }
+      { "text": "Potassium Channel", "explanation": "No." },
+      { "text": "Calcium Channel", "explanation": "No." },
+      { "text": "Voltage-gated Sodium Channel (Nav1.1)", "explanation": "Correct. Loss of function in Inhibitory Interneurons." },
+      { "text": "Chloride Channel", "explanation": "No." },
+      { "text": "GABA Receptor", "explanation": "No." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_slide_25.jpg",
-    "slideImageDescription": "The slide states: 'Pericytes (wrap around vessels and are in direct contact with endothelial cells via gap junctions'."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Dravet = SCN1A (Na+ Channel). Vaccine induced fever can trigger seizure storm.",
+    "slideImagePath": "images/L133_slide_1.jpg",
+    "slideImageDescription": "Dravet mechanism."
   },
   {
     "id": 31,
-    "category": "Vasculature",
-    "questionText": "In the cerebral circulation, smooth muscle cells are primarily found surrounding which type of vessel to regulate vascular tone?",
+    "category": "Botox",
+    "questionText": "Botulinum Toxin causes paralysis by cleaving:",
     "options": [
-      { "text": "Capillaries", "explanation": "Pericytes only." },
-      { "text": "Venules", "explanation": "Less muscle." },
-      { "text": "Arterioles", "explanation": "Arterioles are surrounded by smooth muscle cells that contract/relax to control blood flow (vasomotion)." },
-      { "text": "Sinuses", "explanation": "Venous channels." },
-      { "text": "Lymphatics", "explanation": "Not primary regulators." }
+      { "text": "Actin", "explanation": "No." },
+      { "text": "SNARE proteins", "explanation": "Correct. Prevents vesicle fusion and ACh release." },
+      { "text": "Receptors", "explanation": "No." },
+      { "text": "AChE", "explanation": "No." },
+      { "text": "Myelin", "explanation": "No." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_26.jpg",
-    "slideImageDescription": "The slide compares vessels, labeling the 'Smooth muscle cell in arteriole' vs 'Pericytes in venule'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Botox = SNARE cleaver. No Vesicle Fusion -> No Muscle Contraction.",
+    "slideImagePath": "images/L133_slide_1.jpg",
+    "slideImageDescription": "Botox mechanism."
   },
   {
     "id": 32,
-    "category": "Vasculature",
-    "questionText": "Vasomotion in brain arterioles is correlated with intracellular activity of which ion within smooth muscle cells?",
+    "category": "NTD",
+    "questionText": "Folic Acid supplementation reduces the risk of:",
     "options": [
-      { "text": "Sodium", "explanation": "Action potential." },
-      { "text": "Potassium", "explanation": "Resting potential." },
-      { "text": "Calcium", "explanation": "Intracellular calcium levels drive the contraction of smooth muscle cells, regulating vessel diameter." },
-      { "text": "Chloride", "explanation": "Inhibition." },
-      { "text": "Magnesium", "explanation": "Blocker." }
+      { "text": "Down Syndrome", "explanation": "Trisomy." },
+      { "text": "Neural Tube Defects (Spina Bifida)", "explanation": "Correct. Essential for DNA synthesis during closure (Day 28)." },
+      { "text": "Cleft Palate", "explanation": "Some effect." },
+      { "text": "Autism", "explanation": "Unclear." },
+      { "text": "CP", "explanation": "No." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_27.jpg",
-    "slideImageDescription": "The slide 'Vasomotion and Smooth muscle cell' states: 'calcium activity correlated with vasomotion'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Folate before pregnancy prevents Spina Bifida.",
+    "slideImagePath": "images/L133_slide_19.jpg",
+    "slideImageDescription": "Neural tube closure."
   },
   {
     "id": 33,
-    "category": "Barrier Cells",
-    "questionText": "Which specialized epithelial cells are responsible for the production of cerebrospinal fluid (CSF)?",
+    "category": "Huntington's",
+    "questionText": "Huntington's Disease is a trinucleotide repeat disorder. The repeat is:",
     "options": [
-      { "text": "Ependymal cells", "explanation": "Line ventricles/circulate CSF." },
-      { "text": "Choroid plexus cells", "explanation": "The choroid plexus epithelium produces CSF." },
-      { "text": "Astrocytes", "explanation": "Support." },
-      { "text": "Meningeal cells", "explanation": "Coverings." },
-      { "text": "Microglia", "explanation": "Immune." }
+      { "text": "CGG", "explanation": "Fragile X." },
+      { "text": "GAA", "explanation": "Friedreich Ataxia." },
+      { "text": "CAG", "explanation": "Correct. Hunts 'CAG' animals (Caudate, Acetylcholine/GABA lost)." },
+      { "text": "CTG", "explanation": "Myotonic Dystrophy." },
+      { "text": "CCTG", "explanation": "Myotonic Type 2." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_slide_28.jpg",
-    "slideImageDescription": "The slide 'Non-neural & non-glial barrier cells' lists: 'Choroid plexus cells... important for cerebral spinal fluid production'."
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Huntington's = CAG. Caudate atrophy. Chorea.",
+    "slideImagePath": "images/L133_slide_1.jpg",
+    "slideImageDescription": "Huntington repeats."
   },
   {
     "id": 34,
-    "category": "Barrier Cells",
-    "questionText": "The ventricles of the brain are lined by ciliated cells that help circulate cerebrospinal fluid. These cells are called:",
+    "category": "Tumors",
+    "questionText": "Medulloblastoma arises in the:",
     "options": [
-      { "text": "Choroid plexus cells", "explanation": "Production." },
-      { "text": "Ependymal cells", "explanation": "Ependymal cells line the ventricular system and use cilia to facilitate CSF flow." },
-      { "text": "Astrocytes", "explanation": "Support." },
-      { "text": "Endothelial cells", "explanation": "Vessels." },
-      { "text": "Pericytes", "explanation": "Vessels." }
+      { "text": "Cerebral Cortex", "explanation": "No." },
+      { "text": "Cerebellum (Vermis)", "explanation": "Correct. Childhood tumor of posterior fossa. Ataxia/Hydrocephalus." },
+      { "text": "Brainstem", "explanation": "Glioma." },
+      { "text": "Spinal Cord", "explanation": "Ependymoma." },
+      { "text": "Meninges", "explanation": "Meningioma." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_slide_28.jpg",
-    "slideImageDescription": "The slide lists: 'Ependymal cells of the ventricles - important for circulation of the cerebral spinal fluid'."
+    "clinicalPearl": "Medulloblastoma = Cerebellar Vermis in Kids. Drop mets to spine.",
+    "slideImagePath": "images/L133_slide_1.jpg",
+    "slideImageDescription": "Medulloblastoma location."
   },
   {
     "id": 35,
-    "category": "Electrical Synapse",
-    "questionText": "Mutations in the genes encoding Connexins, the proteins forming gap junctions, are linked to approximately how many human diseases?",
+    "category": "Stroke",
+    "questionText": "The 'Penumbra' in stroke is:",
     "options": [
-      { "text": "1", "explanation": "Too low." },
-      { "text": "5", "explanation": "Too low." },
-      { "text": "30", "explanation": "Connexin mutations are linked to ~30 different diseases, including deafness (Cx26) and neuropathies (Cx32)." },
-      { "text": "100", "explanation": "Too high." },
-      { "text": "500", "explanation": "Too high." }
+      { "text": "The dead core", "explanation": "Infarct." },
+      { "text": "Salvageable, hypoperfused tissue", "explanation": "Correct. Target of reperfusion therapy (tPA/Thrombectomy)." },
+      { "text": "The bleeding area", "explanation": "No." },
+      { "text": "The scar", "explanation": "Gliosis." },
+      { "text": "The clot", "explanation": "Thrombus." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_12.jpg",
-    "slideImageDescription": "The slide 'Electrical synapses' states: '~30 disease due to connexin gene mutations'."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Time is Brain. Save the Penumbra.",
+    "slideImagePath": "images/L133_slide_1.jpg",
+    "slideImageDescription": "Penumbra concept."
   },
   {
     "id": 36,
-    "category": "Neuronal Cilia",
-    "questionText": "Anterograde transport within the neuronal cilium (moving cargo to the tip) is driven by which motor protein?",
+    "category": "Edema",
+    "questionText": "Cytotoxic Edema is characterized by:",
     "options": [
-      { "text": "Dynein", "explanation": "Retrograde." },
-      { "text": "Kinesin (e.g., KIF3a)", "explanation": "Kinesin motors move cargo towards the plus end (tip) of the cilium." },
-      { "text": "Myosin", "explanation": "Actin motor." },
-      { "text": "Actin", "explanation": "Cytoskeleton." },
-      { "text": "Tubulin", "explanation": "Microtubule." }
+      { "text": "Blood Brain Barrier breakdown", "explanation": "Vasogenic." },
+      { "text": "Intracellular Swelling (Na+/K+ pump failure)", "explanation": "Correct. Starbed cells swell." },
+      { "text": "Increased CSF", "explanation": "Hydrocephalus." },
+      { "text": "Protein leakage", "explanation": "Vasogenic." },
+      { "text": "Hyperemia", "explanation": "Blood volume." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_slide_12.jpg",
-    "slideImageDescription": "The diagram labels 'Anterograde motor (e.g. KIF3a)' moving 'to tip'."
+    "clinicalPearl": "Cytotoxic Edema = Swollen Cells (Stroke/Hypoxia). Vasogenic Edema = Leaky Vessels (Tumor/Abscess).",
+    "slideImagePath": "images/L133_slide_1.jpg",
+    "slideImageDescription": "Edema types."
   },
   {
     "id": 37,
-    "category": "Neuronal Cilia",
-    "questionText": "Retrograde transport within the neuronal cilium (moving cargo back to the soma) is driven by:",
+    "category": "GBS",
+    "questionText": "Guillain-Barré Syndrome is typically associated with:",
     "options": [
-      { "text": "Kinesin", "explanation": "Anterograde." },
-      { "text": "Dynein", "explanation": "Cytoplasmic dynein moves cargo towards the minus end (soma) of the cilium." },
-      { "text": "Myosin", "explanation": "Actin motor." },
-      { "text": "Vimentin", "explanation": "Filament." },
-      { "text": "Neurofilament", "explanation": "Filament." }
+      { "text": "Descending Paralysis", "explanation": "Botulism." },
+      { "text": "Ascending Paralysis + Albuminocytologic Dissociation", "explanation": "Correct. High Protein, Normal Cells in CSF. Post-infectious (Campylobacter)." },
+      { "text": "Hemiparesis", "explanation": "Stroke." },
+      { "text": "Tremor", "explanation": "Parkinson's." },
+      { "text": "Ptosis", "explanation": "MG." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_slide_12.jpg",
-    "slideImageDescription": "The diagram labels 'Retrograde motor (e.g. Dynein)' moving 'to soma'."
+    "clinicalPearl": "GBS = Ascending weakness. Campylobacter mimicry (gangliosides). Danger: Respiratory failure.",
+    "slideImagePath": "images/L133_slide_6.jpg",
+    "slideImageDescription": "GBS features."
   },
   {
     "id": 38,
-    "category": "Synapse",
-    "questionText": "The 'Omega figure' seen in electron microscopy of a chemical synapse corresponds to which event?",
+    "category": "Prion",
+    "questionText": "Creutzfeldt-Jakob Disease (CJD) causes:",
     "options": [
-      { "text": "Receptor activation", "explanation": "No." },
-      { "text": "Vesicle fusion (Exocytosis)", "explanation": "The omega shape is formed when the vesicle membrane fuses with the plasma membrane to release neurotransmitter." },
-      { "text": "Vesicle docking", "explanation": "Before fusion." },
-      { "text": "Action potential arrival", "explanation": "Electrical event." },
-      { "text": "Reuptake", "explanation": "After release." }
+      { "text": "Spongiform Encephalopathy", "explanation": "Correct. Holes in the brain." },
+      { "text": "Demyelination", "explanation": "MS." },
+      { "text": "Tumor", "explanation": "No." },
+      { "text": "Meningitis", "explanation": "Bacteria/Virus." },
+      { "text": "Hemorrhage", "explanation": "Stroke." }
     ],
-    "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_slide_10.jpg",
-    "slideImageDescription": "The slide shows an 'Electron micrograph' with an 'Omega figure' indicating exocytosis."
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "CJD = Rapidly progressive dementia + Myoclonus. Prion protein (PrPsc).",
+    "slideImagePath": "images/L133_slide_1.jpg",
+    "slideImageDescription": "CJD pathology."
   },
   {
     "id": 39,
-    "category": "Synaptic Transmission",
-    "questionText": "Which synapse type allows for the fastest transmission of signals (<1ms delay)?",
+    "category": "Pain",
+    "questionText": "Trigeminal Neuralgia (Tic Douloureux) is best treated with:",
     "options": [
-      { "text": "Chemical synapse", "explanation": "Has synaptic delay (1-5ms)." },
-      { "text": "Electrical synapse", "explanation": "Electrical synapses allow direct ionic flow, resulting in virtually instantaneous transmission (<1ms)." },
-      { "text": "Axo-axonic synapse", "explanation": "Chemical." },
-      { "text": "Neuromuscular junction", "explanation": "Chemical." },
-      { "text": "Tripartite synapse", "explanation": "Chemical + Glia." }
+      { "text": "Tylenol", "explanation": "No." },
+      { "text": "Carbamazepine", "explanation": "Correct. Na+ channel blocker." },
+      { "text": "Morphine", "explanation": "No." },
+      { "text": "Beta blocker", "explanation": "No." },
+      { "text": "Aspirin", "explanation": "No." }
     ],
     "correctAnswerIndex": 1,
-    "slideImagePath": "images/L133_slide_13.jpg",
-    "slideImageDescription": "The slide 'Gap junctions & Electrical synapses' states: 'Fastest type of neural communication <1ms'."
+    "clinicalPearl": "Lancinating face pain = Trigeminal Neuralgia. Rx: Carbamazepine.",
+    "slideImagePath": "images/L133_slide_1.jpg",
+    "slideImageDescription": "Trigeminal neuralgia treatment."
   },
   {
     "id": 40,
-    "category": "Glia",
-    "questionText": "Which glial cell type is capable of proliferation in response to injury (gliosis) and expresses GFAP?",
+    "category": "Neurochemistry",
+    "questionText": "Purkinje cells form the sole output of the cerebellar cortex and are:",
     "options": [
-      { "text": "Microglia", "explanation": "Iba1+." },
-      { "text": "Oligodendrocyte", "explanation": "Olig2+." },
-      { "text": "Astrocyte", "explanation": "Reactive astrocytes proliferate and hypertrophy (gliosis) after injury and are GFAP positive." },
-      { "text": "Neuron", "explanation": "Does not proliferate." },
-      { "text": "Ependymal cell", "explanation": "Lining cell." }
+      { "text": "Excitatory (Glutamate)", "explanation": "No." },
+      { "text": "Inhibitory (GABA)", "explanation": "Correct. They inhibit the deep cerebellar nuclei." },
+      { "text": "Modulatory (Dopamine)", "explanation": "No." },
+      { "text": "Cholinergic", "explanation": "No." },
+      { "text": "Serotonergic", "explanation": "No." }
     ],
-    "correctAnswerIndex": 2,
-    "slideImagePath": "images/L133_slide_19.jpg",
-    "slideImageDescription": "The slide 'Gap junctions & Electrical synapses in Astrocytes' discusses 'Reactive astrocytes' and 'Glial scar' with GFAP as the marker."
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Purkinje Cells = Inhibitory (GABA). Don't ask me why, they just are.",
+    "slideImagePath": "images/L133_slide_5.jpg",
+    "slideImageDescription": "Purkinje cell function."
   }
 ];

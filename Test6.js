@@ -12,7 +12,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 3,
 "slideImagePath": "images/L107L108_slide_44.jpg",
-"slideImageDescription": "The slide 'Two-State Receptor Model: Inverse Agonist' depicts the equilibrium between the receptor's active ($R_a$) and inactive ($R_i$) states. It explains that an Inverse Agonist has a much stronger affinity for the $R_i$ state, which 'stabilizes the receptor in the inactive conformation'. This shifts the equilibrium to the left, thereby reducing the 'constitutive (basal) activity' of the receptor below its baseline level. This mechanism perfectly matches the description of Drug X."
+"slideImageDescription": "The slide 'Two-State Receptor Model: Inverse Agonist' depicts the equilibrium between the receptor's active (Ra) and inactive (Ri) states. It explains that an Inverse Agonist has a much stronger affinity for the Ri state, which 'stabilizes the receptor in the inactive conformation'. This shifts the equilibrium to the left, thereby reducing the 'constitutive (basal) activity' of the receptor below its baseline level. This mechanism perfectly matches the description of Drug X."
 },
 {
 "id": 2,
@@ -27,7 +27,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 1,
 "slideImagePath": "images/L107L108_slide_53.jpg",
-"slideImageDescription": "The slide comparing 'Potency' displays dose-response curves for Drug A and Drug B. Drug A's curve is shifted to the left, indicating a lower $EC_{50}$ value compared to Drug B. The text defines potency as the concentration ($EC_{50}$) required to produce 50% of the maximal effect. Since Drug A requires a lower concentration (10 nM vs 100 nM), it is more potent. Furthermore, potency is strongly correlated with affinity ($K_d$), where a lower $K_d$ (higher affinity) corresponds to a lower $EC_{50}$ (higher potency)."
+"slideImageDescription": "The slide comparing 'Potency' displays dose-response curves for Drug A and Drug B. Drug A's curve is shifted to the left, indicating a lower EC50 value compared to Drug B. The text defines potency as the concentration (EC50) required to produce 50% of the maximal effect. Since Drug A requires a lower concentration (10 nM vs 100 nM), it is more potent. Furthermore, potency is strongly correlated with affinity (Kd), where a lower Kd (higher affinity) corresponds to a lower EC50 (higher potency)."
 },
 {
 "id": 3,
@@ -42,7 +42,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 1,
 "slideImagePath": "images/L107L108_slide_65.jpg",
-"slideImageDescription": "The slide 'Therapeutic Index' presents the formula: $TI = TD_{50} / ED_{50}$ (or $LD_{50} / ED_{50}$). It visually represents this as the gap between the effective dose curve and the toxic/lethal dose curve. A smaller gap (smaller ratio) signifies a narrower margin of safety. Calculating 100 mg / 10 mg gives a TI of 10. The slide emphasizes that a low TI indicates a 'Small therapeutic window' and a 'Narrow margin of safety', directly supporting the interpretation."
+"slideImageDescription": "The slide 'Therapeutic Index' presents the formula: TI = TD50 / ED50 (or LD50 / ED50). It visually represents this as the gap between the effective dose curve and the toxic/lethal dose curve. A smaller gap (smaller ratio) signifies a narrower margin of safety. Calculating 100 mg / 10 mg gives a TI of 10. The slide emphasizes that a low TI indicates a 'Small therapeutic window' and a 'Narrow margin of safety', directly supporting the interpretation."
 },
 {
 "id": 4,
@@ -57,7 +57,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 1,
 "slideImagePath": "images/L107L108_slide_53.jpg",
-"slideImageDescription": "The slide 'Competitive Antagonist' illustrates the effect on the dose-response curve. It shows a parallel rightward shift of the agonist curve in the presence of the antagonist. The key features listed are: 'Rightward shift of the curve (Increased $EC_{50}$)' and 'No change in $E_{max}$'. This pattern is diagnostic of competitive antagonism, where the antagonist reversibly competes for the active site."
+"slideImageDescription": "The slide 'Competitive Antagonist' illustrates the effect on the dose-response curve. It shows a parallel rightward shift of the agonist curve in the presence of the antagonist. The key features listed are: 'Rightward shift of the curve (Increased EC50)' and 'No change in Emax'. This pattern is diagnostic of competitive antagonism, where the antagonist reversibly competes for the active site."
 },
 {
 "id": 5,
@@ -87,7 +87,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 1,
 "slideImagePath": "images/L107L108_slide_53.jpg",
-"slideImageDescription": "The slide 'Spare Receptors and Irreversible Antagonist' visually demonstrates this concept. It shows two phases of antagonism. In the first phase, despite the presence of an irreversible antagonist that removes receptors, the dose-response curve shifts to the right *without* a decrease in $E_{max}$. This preservation of maximal response indicates that the remaining unblocked receptors are sufficient to produce the full effect, proving the existence of 'spare' receptors."
+"slideImageDescription": "The slide 'Spare Receptors and Irreversible Antagonist' visually demonstrates this concept. It shows two phases of antagonism. In the first phase, despite the presence of an irreversible antagonist that removes receptors, the dose-response curve shifts to the right *without* a decrease in Emax. This preservation of maximal response indicates that the remaining unblocked receptors are sufficient to produce the full effect, proving the existence of 'spare' receptors."
 },
 {
 "id": 7,
@@ -117,7 +117,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 2,
 "slideImagePath": "images/L107L108_slide_70.jpg",
-"slideImageDescription": "The slide 'Agonists' contrasts 'Full Agonist' and 'Partial Agonist'. It defines a Full Agonist as producing a 'Maximal response ($E_{max}$ = 100%)' and stabilizing the active conformation. In contrast, a Partial Agonist is defined as having 'Intrinsic activity > 0 but < 1', resulting in a 'Submaximal response'. This distinction in intrinsic activity and resulting efficacy is the key differentiator."
+"slideImageDescription": "The slide 'Agonists' contrasts 'Full Agonist' and 'Partial Agonist'. It defines a Full Agonist as producing a 'Maximal response (Emax = 100%)' and stabilizing the active conformation. In contrast, a Partial Agonist is defined as having 'Intrinsic activity > 0 but < 1', resulting in a 'Submaximal response'. This distinction in intrinsic activity and resulting efficacy is the key differentiator."
 },
 {
 "id": 9,
@@ -147,7 +147,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 3,
 "slideImagePath": "images/L107L108_slide_44.jpg",
-"slideImageDescription": "The slide 'Affinity' defines the concept mathematically. It presents the equation $K_d = k_{-1} / k_{+1}$. It explains that affinity is the 'Tendency of a drug to bind to the receptor'. A lower $K_d$ represents a tighter drug-receptor interaction (higher affinity). This definition directly connects the rate constants to the property of affinity."
+"slideImageDescription": "The slide 'Affinity' defines the concept mathematically. It presents the equation Kd = k-1 / k+1. It explains that affinity is the 'Tendency of a drug to bind to the receptor'. A lower Kd represents a tighter drug-receptor interaction (higher affinity). This definition directly connects the rate constants to the property of affinity."
 },
 {
 "id": 11,
@@ -267,7 +267,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 3,
 "slideImagePath": "images/L107L108_slide_27.jpg",
-"slideImageDescription": "The slide 'Spare Receptors' uses a graph to illustrate this discrepancy. It shows that '$50\\% E_{max}$ (the $EC_{50}$) occurs at a much lower concentration than '$50\\% B_{max}$ (the $K_d$)'. The text defines this as the 'Spare Receptor' concept, where maximal response is elicited by occupying only a small proportion of receptors ($EC_{50} < K_d$)."
+"slideImageDescription": "The slide 'Spare Receptors' uses a graph to illustrate this discrepancy. It shows that '50\\% Emax (the EC50) occurs at a much lower concentration than '50\\% Bmax (the Kd)'. The text defines this as the 'Spare Receptor' concept, where maximal response is elicited by occupying only a small proportion of receptors (EC50 < Kd)."
 },
 {
 "id": 19,
@@ -327,7 +327,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 2,
 "slideImagePath": "images/L107L108_slide_44.jpg",
-"slideImageDescription": "The slide 'Two-State Receptor Model' explains 'Neutral Antagonists'. It states they have 'Equal affinity for both $R_a$ and $R_i$'. Because they bind both forms equally, they 'Do not shift the equilibrium' and therefore 'Do not change the constitutive (basal) activity', matching the description."
+"slideImageDescription": "The slide 'Two-State Receptor Model' explains 'Neutral Antagonists'. It states they have 'Equal affinity for both Ra and Ri'. Because they bind both forms equally, they 'Do not shift the equilibrium' and therefore 'Do not change the constitutive (basal) activity', matching the description."
 },
 {
 "id": 23,
@@ -372,7 +372,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 1,
 "slideImagePath": "images/L107L108_slide_53.jpg",
-"slideImageDescription": "The slide 'Irreversible Antagonist' (often grouped with Non-competitive) shows a graph where the agonist curve is flattened (reduced $E_{max}$). The text explains: 'Covalent binding... reduces the number of available receptors'. Since the total receptor pool is reduced, the maximal possible response ($E_{max}$) decreases, confirming the mechanism."
+"slideImageDescription": "The slide 'Irreversible Antagonist' (often grouped with Non-competitive) shows a graph where the agonist curve is flattened (reduced Emax). The text explains: 'Covalent binding... reduces the number of available receptors'. Since the total receptor pool is reduced, the maximal possible response (Emax) decreases, confirming the mechanism."
 },
 {
 "id": 26,
@@ -402,7 +402,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 2,
 "slideImagePath": "images/L107L108_slide_65.jpg",
-"slideImageDescription": "The slide 'Therapeutic Index' provides the formula $TI = TD_{50} / ED_{50}$. Applying the values: $160 / 5 = 32$. The slide text states that a 'Large TI = Safer Drug' and 'Small TI = Dangerous Drug'. A TI of 32 is relatively large, indicating a 'wide margin of safety', consistent with the correct option."
+"slideImageDescription": "The slide 'Therapeutic Index' provides the formula TI = TD50 / ED50. Applying the values: 160 / 5 = 32. The slide text states that a 'Large TI = Safer Drug' and 'Small TI = Dangerous Drug'. A TI of 32 is relatively large, indicating a 'wide margin of safety', consistent with the correct option."
 },
 {
 "id": 28,
@@ -417,7 +417,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 2,
 "slideImagePath": "images/L107L108_slide_44.jpg",
-"slideImageDescription": "The slide 'Efficacy' displays dose-response curves. It shows Drug A with a higher plateau than Drug B. The text defines Efficacy as the 'Maximal effect ($E_{max}$)' a drug can produce. It states this is determined by the drug's 'Intrinsic Activity'. Therefore, a greater $E_{max}$ for Drug P directly implies greater efficacy/intrinsic activity."
+"slideImageDescription": "The slide 'Efficacy' displays dose-response curves. It shows Drug A with a higher plateau than Drug B. The text defines Efficacy as the 'Maximal effect (Emax)' a drug can produce. It states this is determined by the drug's 'Intrinsic Activity'. Therefore, a greater Emax for Drug P directly implies greater efficacy/intrinsic activity."
 },
 {
 "id": 29,
@@ -447,7 +447,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 2,
 "slideImagePath": "images/L107L108_slide_48.jpg",
-"slideImageDescription": "The slide 'Therapeutic Index' clearly displays the formula: $TI = TD_{50} / ED_{50}$ (or $LD_{50}$). It explains that $ED_{50}$ is the 'Median Effective Dose' and $TD_{50}$ is the 'Median Toxic Dose' derived from population (quantal) studies. This confirms that these median doses are the specific data points used."
+"slideImageDescription": "The slide 'Therapeutic Index' clearly displays the formula: TI = TD50 / ED50 (or LD50). It explains that ED50 is the 'Median Effective Dose' and TD50 is the 'Median Toxic Dose' derived from population (quantal) studies. This confirms that these median doses are the specific data points used."
 },
 {
 "id": 31,
@@ -462,7 +462,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 0,
 "slideImagePath": "images/L107L108_slide_44.jpg",
-"slideImageDescription": "The slide 'Two-State Receptor Model: Partial Agonist' states: 'Binds to both $R_a$ and $R_i$, but with slightly greater affinity for $R_a$'. This slight preference shifts the equilibrium only partially toward the active state, explaining the submaximal response characteristic of partial agonism."
+"slideImageDescription": "The slide 'Two-State Receptor Model: Partial Agonist' states: 'Binds to both Ra and Ri, but with slightly greater affinity for Ra'. This slight preference shifts the equilibrium only partially toward the active state, explaining the submaximal response characteristic of partial agonism."
 },
 {
 "id": 32,
@@ -507,7 +507,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 3,
 "slideImagePath": "images/L107L108_slide_71.jpg",
-"slideImageDescription": "The slide comparing 'Linear vs Log Dose-Response Curves' shows the transformation from a hyperbola to a sigmoid. The text explains that the log scale 'expands the scale at low concentrations' and 'compresses at high concentrations', making it 'easier to analyze' and compare drugs (e.g., determining $EC_{50}$ in the linear portion). This highlights the utility of the transformation for data analysis."
+"slideImageDescription": "The slide comparing 'Linear vs Log Dose-Response Curves' shows the transformation from a hyperbola to a sigmoid. The text explains that the log scale 'expands the scale at low concentrations' and 'compresses at high concentrations', making it 'easier to analyze' and compare drugs (e.g., determining EC50 in the linear portion). This highlights the utility of the transformation for data analysis."
 },
 {
 "id": 35,
@@ -537,7 +537,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 2,
 "slideImagePath": "images/L107L108_slide_53.jpg",
-"slideImageDescription": "The slide 'Potency vs Efficacy' displays curves for drugs with different properties. It visually demonstrates that efficacy corresponds to the height of the curve ($E_{max}$). Since Drug X is a full agonist, its curve reaches 100%, while Drug Y (partial) plateaus lower. However, since they have the 'same affinity', their curves would align horizontally (same $EC_{50}$), indicating equal potency. This visual confirms the correct relationship."
+"slideImageDescription": "The slide 'Potency vs Efficacy' displays curves for drugs with different properties. It visually demonstrates that efficacy corresponds to the height of the curve (Emax). Since Drug X is a full agonist, its curve reaches 100%, while Drug Y (partial) plateaus lower. However, since they have the 'same affinity', their curves would align horizontally (same EC50), indicating equal potency. This visual confirms the correct relationship."
 },
 {
 "id": 37,
@@ -567,7 +567,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 3,
 "slideImagePath": "images/L107L108_slide_27.jpg",
-"slideImageDescription": "The slide 'Spare Receptors' explains that $E_{max}$ can be achieved at low occupancy ($EC_{50} < K_d$). It states this 'Increases sensitivity to the agonist'. Increased sensitivity means a smaller dose is needed to achieve the effect, which is the definition of increased potency (lower $EC_{50}$), directly supporting the answer."
+"slideImageDescription": "The slide 'Spare Receptors' explains that Emax can be achieved at low occupancy (EC50 < Kd). It states this 'Increases sensitivity to the agonist'. Increased sensitivity means a smaller dose is needed to achieve the effect, which is the definition of increased potency (lower EC50), directly supporting the answer."
 },
 {
 "id": 39,
@@ -612,7 +612,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 1,
 "slideImagePath": "images/L107L108_slide_53.jpg",
-"slideImageDescription": "The slide 'Competitive Antagonist' illustrates the effect of reversible active site binding. It shows the dose-response curve shifting to the right, which corresponds to an 'Increased $EC_{50}$' (decreased potency). It explicitly states this is 'Surmountable' by adding more agonist, perfectly matching the description of Inhibitor Z."
+"slideImageDescription": "The slide 'Competitive Antagonist' illustrates the effect of reversible active site binding. It shows the dose-response curve shifting to the right, which corresponds to an 'Increased EC50' (decreased potency). It explicitly states this is 'Surmountable' by adding more agonist, perfectly matching the description of Inhibitor Z."
 },
 {
 "id": 42,
@@ -627,7 +627,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 2,
 "slideImagePath": "images/L107L108_slide_60.jpg",
-"slideImageDescription": "The diagram 'Desensitization of Receptors' outlines the molecular pathway. Step 2 shows the 'Activated receptor' being phosphorylated by 'GRK'. Step 3 shows '$\beta$-Arrestin' binding to the phosphorylated receptor, which physically blocks G-protein coupling. This visual sequence confirms that phosphorylation and arrestin binding are the immediate steps preventing further signaling."
+"slideImageDescription": "The diagram 'Desensitization of Receptors' outlines the molecular pathway. Step 2 shows the 'Activated receptor' being phosphorylated by 'GRK'. Step 3 shows 'β-Arrestin' binding to the phosphorylated receptor, which physically blocks G-protein coupling. This visual sequence confirms that phosphorylation and arrestin binding are the immediate steps preventing further signaling."
 },
 {
 "id": 43,
@@ -657,7 +657,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 1,
 "slideImagePath": "images/L107L108_slide_65.jpg",
-"slideImageDescription": "The slide 'Therapeutic Index' defines $TI = TD_{50} / ED_{50}$. If $ED_{50}$ is close to $TD_{50}$, the ratio approaches 1, which is a 'Small TI'. The slide explicitly states 'Small TI = Dangerous Drug', confirming that this scenario represents a 'narrow margin of safety'."
+"slideImageDescription": "The slide 'Therapeutic Index' defines TI = TD50 / ED50. If ED50 is close to TD50, the ratio approaches 1, which is a 'Small TI'. The slide explicitly states 'Small TI = Dangerous Drug', confirming that this scenario represents a 'narrow margin of safety'."
 },
 {
 "id": 45,
@@ -687,7 +687,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 1,
 "slideImagePath": "images/L107L108_slide_53.jpg",
-"slideImageDescription": "The slide 'Potency vs Efficacy' compares drugs. It shows that drugs reaching the same $E_{max}$ (same efficacy) can have different positions on the X-axis. The drug further to the left (requiring lower concentration) has a lower $EC_{50}$ and is defined as more 'Potent'. This parameter ($EC_{50}$) is the specific measure distinguishing Drug M and N in this case."
+"slideImageDescription": "The slide 'Potency vs Efficacy' compares drugs. It shows that drugs reaching the same Emax (same efficacy) can have different positions on the X-axis. The drug further to the left (requiring lower concentration) has a lower EC50 and is defined as more 'Potent'. This parameter (EC50) is the specific measure distinguishing Drug M and N in this case."
 },
 {
 "id": 47,
@@ -702,7 +702,7 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 3,
 "slideImagePath": "images/L107L108_slide_12.jpg",
-"slideImageDescription": "The slide 'Drug-Receptor Interactions' introduces the theoretical basis. It explicitly states: 'Follows the Law of Mass Action'. This law describes the equilibrium binding ($D + R \leftrightarrow DR$) which underpins the assumption that effect is proportional to the complex $[DR]$ formed."
+"slideImageDescription": "The slide 'Drug-Receptor Interactions' introduces the theoretical basis. It explicitly states: 'Follows the Law of Mass Action'. This law describes the equilibrium binding (D + R ↔ DR) which underpins the assumption that effect is proportional to the complex [DR] formed."
 },
 {
 "id": 48,
@@ -747,6 +747,6 @@ window.L107L108 = [
 ],
 "correctAnswerIndex": 1,
 "slideImagePath": "images/L107L108_slide_44.jpg",
-"slideImageDescription": "The slide 'Two-State Receptor Model' introduces the concept. It shows the receptor existing in equilibrium between Inactive ($R_i$) and Active ($R_a$) forms *without* a ligand. The text states: 'In the absence of drug... a fraction of receptors [are] in the $R_a$ state... Constitutive activity'. This concept is central to the Two-State model, contrasting with the classical view."
+"slideImageDescription": "The slide 'Two-State Receptor Model' introduces the concept. It shows the receptor existing in equilibrium between Inactive (Ri) and Active (Ra) forms *without* a ligand. The text states: 'In the absence of drug... a fraction of receptors [are] in the Ra state... Constitutive activity'. This concept is central to the Two-State model, contrasting with the classical view."
 }
 ];

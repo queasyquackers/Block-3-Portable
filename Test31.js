@@ -1,602 +1,642 @@
 window.L137 = [
-    {
-        "id": 1,
-        "category": "Resting Membrane Potential",
-        "questionText": "The resting membrane potential of a typical neuron is approximately -65 mV. Which of the following factors makes the largest contribution to establishing this negative potential?",
-        "options": [
-            { "text": "Voltage-gated Sodium Channels", "explanation": "Closed at rest." },
-            { "text": "Sodium-Potassium ATPase", "explanation": "Contributes electrogenically, but less than leak channels." },
-            { "text": "Leak Potassium Channels", "explanation": "The high permeability of the membrane to Potassium (via leak channels) combined with the high intracellular K+ concentration drives the potential towards the K+ equilibrium potential (-80mV)." },
-            { "text": "Leak Sodium Channels", "explanation": "Minor contribution, depolarizing." },
-            { "text": "Chloride Channels", "explanation": "Variable contribution." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L137_slide_4.jpg",
-        "slideImageDescription": "The slide showing the factors contributing to resting membrane potential, highlighting leak K+ channels."
-    },
-    {
-        "id": 2,
-        "category": "Resting Membrane Potential",
-        "questionText": "The Sodium-Potassium ATPase pump is electrogenic, meaning it contributes directly to the negative membrane potential. What is the stoichiometry of ion transport for this pump?",
-        "options": [
-            { "text": "3 Na+ in, 2 K+ out", "explanation": "Reverse direction." },
-            { "text": "2 Na+ out, 3 K+ in", "explanation": "Wrong numbers." },
-            { "text": "3 Na+ out, 2 K+ in", "explanation": "The pump moves 3 Sodium ions OUT for every 2 Potassium ions IN, resulting in a net loss of 1 positive charge from the cell." },
-            { "text": "1 Na+ out, 1 K+ in", "explanation": "Electroneutral." },
-            { "text": "3 K+ out, 2 Na+ in", "explanation": "Wrong ions." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L137_slide_4.jpg",
-        "slideImageDescription": "The slide illustrating the Sodium-Potassium ATPase pump and its stoichiometry."
-    },
-    {
-        "id": 3,
-        "category": "Ion Gradients",
-        "questionText": "Under normal physiological conditions, which of the following ions has a higher concentration INSIDE the neuron compared to the extracellular fluid?",
-        "options": [
-            { "text": "Sodium (Na+)", "explanation": "High outside." },
-            { "text": "Chloride (Cl-)", "explanation": "High outside." },
-            { "text": "Calcium (Ca2+)", "explanation": "High outside." },
-            { "text": "Potassium (K+)", "explanation": "Potassium is the major intracellular cation, maintained high inside by the Na+/K+ pump." },
-            { "text": "Bicarbonate (HCO3-)", "explanation": "Variable/High outside." }
-        ],
-        "correctAnswerIndex": 3,
-        "slideImagePath": "images/L137_slide_4.jpg",
-        "slideImageDescription": "The slide showing the table of intracellular and extracellular ion concentrations."
-    },
-    {
-        "id": 4,
-        "category": "Action Potential",
-        "questionText": "The rapid depolarization phase (rising phase) of the neuronal action potential is primarily driven by the opening of which channels?",
-        "options": [
-            { "text": "Voltage-gated Potassium Channels", "explanation": "Repolarization." },
-            { "text": "Leak Potassium Channels", "explanation": "Resting potential." },
-            { "text": "Voltage-gated Sodium Channels", "explanation": "The opening of Voltage-gated Na+ channels allows Na+ to rush into the cell, driving the membrane potential toward the Na+ equilibrium potential (+60mV)." },
-            { "text": "Ligand-gated Chloride Channels", "explanation": "Hyperpolarization." },
-            { "text": "Voltage-gated Calcium Channels", "explanation": "Synaptic release." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L137_slide_11.jpg",
-        "slideImageDescription": "4 Phases of the AP"
-    },
-    {
-        "id": 5,
-        "category": "Action Potential",
-        "questionText": "The repolarization phase (falling phase) of the action potential is caused by:",
-        "options": [
-            { "text": "Inactivation of K+ channels and opening of Na+ channels", "explanation": "Reverse." },
-            { "text": "Inactivation of Na+ channels and opening of Voltage-gated K+ channels", "explanation": "Sodium channels inactivate (stopping influx), and delayed rectifier Potassium channels open (allowing K+ efflux), restoring negative potential." },
-            { "text": "Opening of Chloride channels", "explanation": "IPSP." },
-            { "text": "Action of the Na+/K+ pump", "explanation": "Too slow for AP repolarization." },
-            { "text": "Closing of leak channels", "explanation": "No." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_11.jpg",
-        "slideImageDescription": "Falling phase = rapid hyperpolarization"
-    },
-    {
-        "id": 6,
-        "category": "Sodium Channels",
-        "questionText": "Voltage-gated Sodium channels have two gates: an activation gate and an inactivation gate. At the peak of the action potential, what is the state of these gates?",
-        "options": [
-            { "text": "Activation closed, Inactivation open", "explanation": "Resting state." },
-            { "text": "Activation open, Inactivation open", "explanation": "Rising phase." },
-            { "text": "Activation open, Inactivation closed", "explanation": "At the peak/beginning of repolarization, the inactivation gate closes (ball and chain), blocking the pore despite the activation gate being open." },
-            { "text": "Activation closed, Inactivation closed", "explanation": "Resetting." },
-            { "text": "Both gates disappear", "explanation": "No." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L137_slide_10.jpg",
-        "slideImageDescription": "The slide illustrating the states of the voltage-gated sodium channel (closed, open, inactivated)."
-    },
-    {
-        "id": 7,
-        "category": "Toxins",
-        "questionText": "Tetrodotoxin (TTX), found in pufferfish, is a potent neurotoxin that causes paralysis and respiratory failure. Its mechanism of action is:",
-        "options": [
-            { "text": "Blocking Voltage-gated Potassium channels", "explanation": "Dendrotoxin." },
-            { "text": "Blocking Voltage-gated Sodium channels", "explanation": "TTX binds to and blocks the pore of voltage-gated Sodium channels, preventing action potential generation." },
-            { "text": "Blocking Acetylcholine release", "explanation": "Botulinum toxin." },
-            { "text": "Blocking Acetylcholine receptors", "explanation": "Curare/Bungarotoxin." },
-            { "text": "Opening Chloride channels", "explanation": "Benzodiazepines (modulate)." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_12.jpg",
-        "slideImageDescription": "The slide discussing Tetrodotoxin (TTX) and its effect on sodium channels."
-    },
-    {
-        "id": 8,
-        "category": "Toxins",
-        "questionText": "Dendrotoxin, from the mamba snake, blocks Voltage-gated Potassium channels. What effect would this have on the action potential?",
-        "options": [
-            { "text": "Prevent depolarization", "explanation": "Na+ channel block." },
-            { "text": "Prolong the duration of the action potential", "explanation": "Blocking K+ channels prevents repolarization, leading to a prolonged action potential and hyperexcitability." },
-            { "text": "Shorten the duration of the action potential", "explanation": "Faster repolarization." },
-            { "text": "Decrease the amplitude of the action potential", "explanation": "Na+ effect." },
-            { "text": "No effect", "explanation": "Incorrect." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_12.jpg",
-        "slideImageDescription": "The slide mentioning Dendrotoxin and its effect on potassium channels."
-    },
-    {
-        "id": 9,
-        "category": "Pharmacology",
-        "questionText": "Lidocaine is a local anesthetic used to treat pain. It works by:",
-        "options": [
-            { "text": "Blocking Voltage-gated Sodium channels", "explanation": "Lidocaine binds to intracellular sites on the Na+ channel, blocking the pore and preventing action potentials in pain fibers." },
-            { "text": "Activating Opioid receptors", "explanation": "Opioids." },
-            { "text": "Inhibiting COX enzymes", "explanation": "NSAIDs." },
-            { "text": "Blocking Calcium channels", "explanation": "Gabapentinoids (alpha2-delta)." },
-            { "text": "Enhancing GABA transmission", "explanation": "Benzodiazepines." }
-        ],
-        "correctAnswerIndex": 0,
-        "slideImagePath": "images/L137_slide_13.jpg",
-        "slideImageDescription": "The slide explaining the mechanism of action of Lidocaine."
-    },
-    {
-        "id": 10,
-        "category": "Channelopathies",
-        "questionText": "Inherited Primary Erythromelalgia (IEM) is a painful condition characterized by burning hands and feet. It is caused by a mutation in the Nav1.7 sodium channel that results in:",
-        "options": [
-            { "text": "Loss of function (channel doesn't open)", "explanation": "Insensitivity to pain." },
-            { "text": "Gain of function (increased activity/hyperexcitability)", "explanation": "The mutation lowers the threshold for activation or impairs inactivation, making pain neurons (nociceptors) hyperexcitable." },
-            { "text": "Loss of selectivity for Sodium", "explanation": "No." },
-            { "text": "Decreased expression of the channel", "explanation": "Loss of function." },
-            { "text": "Antibody-mediated destruction", "explanation": "Autoimmune." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_15.jpg",
-        "slideImageDescription": "The slide discussing Inherited Primary Erythromelalgia and Nav1.7 gain of function mutations."
-    },
-    {
-        "id": 11,
-        "category": "Channelopathies",
-        "questionText": "Congenital Insensitivity to Pain (CIP) is a rare disorder where patients cannot feel pain. This is often caused by a loss-of-function mutation in which channel?",
-        "options": [
-            { "text": "Nav1.8", "explanation": "Also pain related." },
-            { "text": "Nav1.7 Voltage-gated Sodium Channel", "explanation": "Nav1.7 is critical for the initial depolarization of nociceptors. Loss of function leads to an inability to generate action potentials in pain fibers." },
-            { "text": "Kv1.1 Voltage-gated Potassium Channel", "explanation": "Ataxia/Epilepsy." },
-            { "text": "Nicotinic Acetylcholine Receptor", "explanation": "Myasthenia." },
-            { "text": "Calcium Channel", "explanation": "Migraine/Ataxia." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_15.jpg",
-        "slideImageDescription": "The slide discussing Congenital Insensitivity to Pain and Nav1.7 loss of function."
-    },
-    {
-        "id": 12,
-        "category": "Synaptic Transmission",
-        "questionText": "When an action potential reaches the presynaptic terminal, which ion must enter the terminal to trigger the fusion of neurotransmitter vesicles with the membrane?",
-        "options": [
-            { "text": "Sodium (Na+)", "explanation": "Depolarization." },
-            { "text": "Potassium (K+)", "explanation": "Repolarization." },
-            { "text": "Calcium (Ca2+)", "explanation": "Voltage-gated Calcium channels open upon depolarization, and Ca2+ influx is the trigger for vesicular exocytosis." },
-            { "text": "Chloride (Cl-)", "explanation": "Inhibitory." },
-            { "text": "Magnesium (Mg2+)", "explanation": "Blocks channels." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L137_slide_18.jpg",
-        "slideImageDescription": "Presynaptic voltage-gated Ca+ channels cause neurotransmitter release"
-    },
-    {
-        "id": 13,
-        "category": "Excitatory Synapse",
-        "questionText": "Glutamate is the primary excitatory neurotransmitter in the CNS. When it binds to AMPA receptors, it opens a pore permeable to:",
-        "options": [
-            { "text": "Chloride only", "explanation": "GABA/Glycine." },
-            { "text": "Potassium only", "explanation": "Hyperpolarizing." },
-            { "text": "Sodium and Potassium", "explanation": "AMPA receptors are non-selective cation channels. Na+ influx dominates K+ efflux, causing depolarization (EPSP)." },
-            { "text": "Calcium only", "explanation": "NMDA (plus Na/K)." },
-            { "text": "Magnesium", "explanation": "Blocker." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L137_slide_18.jpg",
-        "slideImageDescription": "The slide illustrating the Glutamate synapse and AMPA receptor function."
-    },
-    {
-        "id": 14,
-        "category": "Inhibitory Synapse",
-        "questionText": "GABA is the primary inhibitory neurotransmitter. Binding of GABA to GABA-A receptors typically causes an influx of which ion?",
-        "options": [
-            { "text": "Sodium", "explanation": "Excitatory." },
-            { "text": "Calcium", "explanation": "Excitatory/Signaling." },
-            { "text": "Chloride", "explanation": "Chloride influx hyperpolarizes the cell (IPSP) or clamps the potential, making it harder to reach threshold." },
-            { "text": "Potassium", "explanation": "Efflux causes inhibition (GABA-B)." },
-            { "text": "Protons", "explanation": "No." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L137_slide_17.jpg",
-        "slideImageDescription": "The slide illustrating the GABA synapse and Chloride influx."
-    },
-    {
-        "id": 15,
-        "category": "Synaptic Potentials",
-        "questionText": "An Excitatory Postsynaptic Potential (EPSP) is a:",
-        "options": [
-            { "text": "All-or-none event", "explanation": "Action Potential." },
-            { "text": "Hyperpolarization of the membrane", "explanation": "IPSP." },
-            { "text": "Graded depolarization of the membrane", "explanation": "EPSPs are graded potentials that can summate to reach threshold." },
-            { "text": "Propagated signal down the axon", "explanation": "Action Potential." },
-            { "text": "Result of Chloride influx", "explanation": "IPSP." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L137_slide_19.jpg",
-        "slideImageDescription": "The slide showing EPSPs and summation."
-    },
-    {
-        "id": 16,
-        "category": "Neuromuscular Junction",
-        "questionText": "At the Neuromuscular Junction (NMJ), the motor neuron releases which neurotransmitter?",
-        "options": [
-            { "text": "Glutamate", "explanation": "CNS excitatory." },
-            { "text": "GABA", "explanation": "CNS inhibitory." },
-            { "text": "Acetylcholine", "explanation": "ACh is the neurotransmitter at the NMJ." },
-            { "text": "Norepinephrine", "explanation": "Sympathetic." },
-            { "text": "Dopamine", "explanation": "Basal ganglia." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L137_slide_24.jpg",
-        "slideImageDescription": "The slide showing the Neuromuscular Junction and Acetylcholine release."
-    },
-    {
-        "id": 17,
-        "category": "Neuromuscular Junction",
-        "questionText": "The receptor on the muscle fiber that binds Acetylcholine is the:",
-        "options": [
-            { "text": "Muscarinic ACh Receptor", "explanation": "Autonomic targets." },
-            { "text": "Nicotinic ACh Receptor", "explanation": "The NMJ contains Nicotinic ACh receptors, which are ligand-gated ion channels." },
-            { "text": "Adrenergic Receptor", "explanation": "NE/Epi." },
-            { "text": "Dopamine Receptor", "explanation": "Dopamine." },
-            { "text": "Glutamate Receptor", "explanation": "CNS." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_25.jpg",
-        "slideImageDescription": "The slide showing the Nicotinic Acetylcholine receptor at the NMJ."
-    },
-    {
-        "id": 18,
-        "category": "NMJ Disorders",
-        "questionText": "Lambert-Eaton Myasthenic Syndrome (LEMS) is an autoimmune disorder characterized by muscle weakness. The autoantibodies in LEMS target:",
-        "options": [
-            { "text": "Nicotinic Acetylcholine Receptors", "explanation": "Myasthenia Gravis." },
-            { "text": "Presynaptic Voltage-gated Calcium Channels", "explanation": "LEMS is caused by antibodies against P/Q-type Calcium channels at the presynaptic terminal, reducing ACh release." },
-            { "text": "Synaptotagmin", "explanation": "Vesicle protein." },
-            { "text": "Acetylcholinesterase", "explanation": "Enzyme." },
-            { "text": "Muscle Sodium Channels", "explanation": "Periodic Paralysis." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_27.jpg",
-        "slideImageDescription": "The slide discussing Lambert-Eaton Syndrome and antibodies against Calcium channels."
-    },
-    {
-        "id": 19,
-        "category": "NMJ Disorders",
-        "questionText": "Myasthenia Gravis is characterized by muscle weakness that worsens with use. The underlying pathology is:",
-        "options": [
-            { "text": "Antibodies against Presynaptic Calcium Channels", "explanation": "Lambert-Eaton." },
-            { "text": "Antibodies against Postsynaptic Nicotinic ACh Receptors", "explanation": "MG is caused by antibodies blocking or destroying ACh receptors on the muscle, reducing the safety factor of transmission." },
-            { "text": "Defective Acetylcholine synthesis", "explanation": "Rare." },
-            { "text": "Botulinum toxin poisoning", "explanation": "Blocks release." },
-            { "text": "Demyelination of motor neurons", "explanation": "Guillain-Barre." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_28.jpg",
-        "slideImageDescription": "The slide discussing Myasthenia Gravis and antibodies against ACh receptors."
-    },
-    {
-        "id": 20,
-        "category": "Reflexes",
-        "questionText": "In the Patellar Tendon Reflex (Stretch Reflex), the sensory neuron (1a afferent) directly synapses onto:",
-        "options": [
-            { "text": "Inhibitory Interneuron", "explanation": "For antagonist muscle." },
-            { "text": "Alpha Motor Neuron of the same muscle", "explanation": "The monosynaptic component involves the sensory neuron stimulating the motor neuron of the stretched muscle (Quadriceps)." },
-            { "text": "Gamma Motor Neuron", "explanation": "Spindle tension." },
-            { "text": "Brainstem nuclei", "explanation": "Too slow." },
-            { "text": "Contralateral motor neuron", "explanation": "Crossed extensor." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_23.jpg",
-        "slideImageDescription": "The slide illustrating the circuitry of the Patellar Tendon Reflex."
-    },
-    {
-        "id": 21,
-        "category": "Electrical Synapse",
-        "questionText": "Electrical synapses differ from chemical synapses in that they:",
-        "options": [
-            { "text": "Use neurotransmitters", "explanation": "Chemical." },
-            { "text": "Have a synaptic delay", "explanation": "Chemical." },
-            { "text": "Are connected by Gap Junctions", "explanation": "Electrical synapses allow direct ionic current flow through Gap Junctions (Connexons)." },
-            { "text": "Are always unidirectional", "explanation": "Often bidirectional." },
-            { "text": "Are only found in the PNS", "explanation": "Found in CNS too." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L137_slide_21.jpg",
-        "slideImageDescription": "The slide contrasting chemical and electrical synapses (gap junctions)."
-    },
-    {
-        "id": 22,
-        "category": "Action Potential",
-        "questionText": "The 'Undershoot' or After-Hyperpolarization phase of the action potential occurs because:",
-        "options": [
-            { "text": "Sodium channels are still open", "explanation": "Would depolarize." },
-            { "text": "Voltage-gated Potassium channels remain open", "explanation": "K+ channels close slowly, allowing K+ conductance to persist, driving the potential near Ek (-80mV)." },
-            { "text": "Chloride channels open", "explanation": "Not the primary cause." },
-            { "text": "The pump stops working", "explanation": "No." },
-            { "text": "Calcium influx", "explanation": "Depolarizing." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_11.jpg",
-        "slideImageDescription": "Undershoot = portion of AP"
-    },
-    {
-        "id": 23,
-        "category": "Refractory Period",
-        "questionText": "The Absolute Refractory Period is the time during which a second action potential cannot be generated, no matter how strong the stimulus. This is primarily due to:",
-        "options": [
-            { "text": "Hyperpolarization of the membrane", "explanation": "Relative refractory." },
-            { "text": "Inactivation of Voltage-gated Sodium Channels", "explanation": "While the inactivation gates are closed, the channels cannot reopen until the membrane repolarizes and the gates reset." },
-            { "text": "Depletion of ATP", "explanation": "No." },
-            { "text": "Depletion of Neurotransmitter", "explanation": "Synaptic fatigue." },
-            { "text": "Opening of Chloride channels", "explanation": "Inhibition." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_4.jpg",
-        "slideImageDescription": "The slide (or implied concept) regarding Na+ channel inactivation and refractory periods."
-    },
-    {
-        "id": 24,
-        "category": "Membrane Physiology",
-        "questionText": "If the extracellular concentration of Potassium is significantly increased (Hyperkalemia), what happens to the resting membrane potential?",
-        "options": [
-            { "text": "It becomes more negative (Hyperpolarizes)", "explanation": "Hypokalemia." },
-            { "text": "It becomes less negative (Depolarizes)", "explanation": "According to the Nernst equation, increasing extracellular K+ reduces the gradient, making the equilibrium potential less negative, thus depolarizing the cell." },
-            { "text": "It does not change", "explanation": "Incorrect." },
-            { "text": "It becomes zero", "explanation": "Extreme." },
-            { "text": "Sodium channels are blocked", "explanation": "Unrelated." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_2.jpg",
-        "slideImageDescription": "Resting membrane potential of neurons"
-    },
-    {
-        "id": 25,
-        "category": "Clinical Pharmacology",
-        "questionText": "A new drug, Jornavax, was mentioned as a treatment for post-surgical pain. It targets Nav1.8 channels. Why is this target advantageous?",
-        "options": [
-            { "text": "Nav1.8 is found in the brain", "explanation": "Would cause CNS side effects." },
-            { "text": "Nav1.8 is found in the heart", "explanation": "Would cause arrhythmias." },
-            { "text": "Nav1.8 is specifically expressed in peripheral nociceptors (DRG neurons)", "explanation": "Targeting peripheral pain fibers avoids CNS and cardiac side effects." },
-            { "text": "Nav1.8 is a potassium channel", "explanation": "Sodium." },
-            { "text": "It enhances pain signals", "explanation": "Blocks." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L137_slide_14.jpg",
-        "slideImageDescription": "The slide discussing Jornavax and Nav1.8 channels in DRG neurons."
-    },
-    {
-        "id": 26,
-        "category": "Synaptic Integration",
-        "questionText": "Spatial Summation refers to:",
-        "options": [
-            { "text": "Rapid firing of a single presynaptic neuron", "explanation": "Temporal summation." },
-            { "text": "Simultaneous input from multiple presynaptic neurons", "explanation": "Spatial summation occurs when EPSPs from different synapses arrive at the trigger zone at the same time." },
-            { "text": "The delay at the synapse", "explanation": "No." },
-            { "text": "The breakdown of neurotransmitter", "explanation": "No." },
-            { "text": "Inhibition of the neuron", "explanation": "Can be spatial, but definition is about summation." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_19.jpg",
-        "slideImageDescription": "The slide discussing summation of EPSPs (implied/general concept)."
-    },
-    {
-        "id": 27,
-        "category": "Action Potential",
-        "questionText": "The 'Threshold' potential is the membrane voltage at which:",
-        "options": [
-            { "text": "K+ channels open", "explanation": "Later." },
-            { "text": "Na+ channels inactivate", "explanation": "Peak." },
-            { "text": "Inward Na+ current exceeds outward K+ current, triggering a positive feedback loop", "explanation": "This regenerative opening of Na+ channels causes the rapid upstroke." },
-            { "text": "The membrane is most hyperpolarized", "explanation": "Rest/Undershoot." },
-            { "text": "Cl- channels close", "explanation": "No." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L137_slide_8.jpg",
-        "slideImageDescription": "The slide showing the threshold level for action potential generation."
-    },
-    {
-        "id": 28,
-        "category": "Neurotransmitter Release",
-        "questionText": "Botulinum toxin (Botox) causes paralysis by:",
-        "options": [
-            { "text": "Blocking ACh receptors", "explanation": "Curare." },
-            { "text": "Blocking Voltage-gated Calcium channels", "explanation": "Lambert-Eaton." },
-            { "text": "Cleaving SNARE proteins and preventing ACh release", "explanation": "Botox destroys the docking proteins required for vesicular exocytosis." },
-            { "text": "Blocking Na+ channels", "explanation": "TTX." },
-            { "text": "Destroying Acetylcholine", "explanation": "AChE." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L137_slide_15.jpg",
-        "slideImageDescription": "The slide (or general knowledge often associated with NMJ lectures) regarding toxins affecting release."
-    },
-    {
-        "id": 29,
-        "category": "Myelin",
-        "questionText": "Saltatory conduction in myelinated axons is faster than continuous conduction because:",
-        "options": [
-            { "text": "Action potentials occur along the entire length", "explanation": "Continuous." },
-            { "text": "Action potentials are generated only at the Nodes of Ranvier", "explanation": "The signal 'jumps' from node to node, bypassing the insulated myelinated segments." },
-            { "text": "Myelin produces ATP", "explanation": "No." },
-            { "text": "Myelin contains Sodium channels", "explanation": "Nodes do." },
-            { "text": "Axons are larger", "explanation": "Diameter helps, but myelin is the key for saltatory." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_8.jpg",
-        "slideImageDescription": "The slide (from previous lecture or implied) about conduction velocity."
-    },
-    {
-        "id": 30,
-        "category": "Synaptic Plasticity",
-        "questionText": "Long-term Potentiation (LTP) is a mechanism for learning and memory that involves:",
-        "options": [
-            { "text": "Decreased neurotransmitter release", "explanation": "LTD." },
-            { "text": "Strengthening of the synapse (increased sensitivity/response)", "explanation": "LTP involves increased receptor density/sensitivity or release, strengthening the connection." },
-            { "text": "Loss of synapses", "explanation": "Pruning." },
-            { "text": "Inhibition of NMDA receptors", "explanation": "Blocks LTP." },
-            { "text": "Apoptosis", "explanation": "Cell death." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_18.jpg",
-        "slideImageDescription": "Glutamate synapses depolarize the postsynaptic neuron"
-    },
-    {
-        "id": 31,
-        "category": "Neurotransmitters",
-        "questionText": "Which of the following is a catecholamine neurotransmitter?",
-        "options": [
-            { "text": "Serotonin", "explanation": "Indolamine." },
-            { "text": "Acetylcholine", "explanation": "Cholinergic." },
-            { "text": "Glutamate", "explanation": "Amino acid." },
-            { "text": "Norepinephrine", "explanation": "Dopamine, Norepinephrine, and Epinephrine are catecholamines." },
-            { "text": "GABA", "explanation": "Amino acid." }
-        ],
-        "correctAnswerIndex": 3,
-        "slideImagePath": "images/L137_slide_4.jpg",
-        "slideImageDescription": "The slide (if present) listing neurotransmitter classes."
-    },
-    {
-        "id": 32,
-        "category": "Receptors",
-        "questionText": "Metabotropic receptors differ from Ionotropic receptors in that Metabotropic receptors:",
-        "options": [
-            { "text": "Are ion channels themselves", "explanation": "Ionotropic." },
-            { "text": "Are faster", "explanation": "Ionotropic are faster." },
-            { "text": "Use G-proteins and second messengers", "explanation": "Metabotropic (GPCRs) initiate slower, longer-lasting signaling cascades." },
-            { "text": "Do not bind neurotransmitters", "explanation": "They do." },
-            { "text": "Are only found in the heart", "explanation": "Everywhere." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L137_slide_26.jpg",
-        "slideImageDescription": "The slide contrasting Ionotropic and Metabotropic receptors."
-    },
-    {
-        "id": 33,
-        "category": "Action Potential",
-        "questionText": "If a neuron is stimulated during the Relative Refractory Period, what is required to generate an action potential?",
-        "options": [
-            { "text": "A weaker stimulus", "explanation": "No." },
-            { "text": "A stronger than normal stimulus", "explanation": "Because the membrane is hyperpolarized and some Na+ channels are still inactivated, a larger stimulus is needed to reach threshold." },
-            { "text": "No stimulus can trigger it", "explanation": "Absolute refractory." },
-            { "text": "Blocking K+ channels", "explanation": "Would help, but the question asks about stimulus." },
-            { "text": "Removing Calcium", "explanation": "No." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_11.jpg",
-        "slideImageDescription": "Undershoot = portion of AP"
-    },
-    {
-        "id": 34,
-        "category": "Clinical Correlate",
-        "questionText": "Hypocalcemia (low extracellular calcium) causes neuronal hyperexcitability and tetany (muscle spasms). This is because:",
-        "options": [
-            { "text": "Low calcium blocks Na+ channels", "explanation": "No." },
-            { "text": "Low calcium lowers the threshold for Na+ channel activation", "explanation": "Calcium normally stabilizes the membrane/Na+ channels. Low Ca2+ makes Na+ channels open more easily (lower threshold)." },
-            { "text": "Low calcium prevents transmitter release", "explanation": "Would cause weakness." },
-            { "text": "Low calcium opens K+ channels", "explanation": "Hyperpolarizing." },
-            { "text": "Low calcium blocks ACh receptors", "explanation": "No." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_26.jpg",
-        "slideImageDescription": "The slide (or general concept) regarding calcium and excitability."
-    },
-    {
-        "id": 35,
-        "category": "Structure",
-        "questionText": "The 'Trigger Zone' or Axon Hillock is the site of action potential initiation because:",
-        "options": [
-            { "text": "It has the highest density of Voltage-gated Sodium Channels", "explanation": "This high density lowers the threshold, making it the most excitable part of the neuron." },
-            { "text": "It is myelinated", "explanation": "Unmyelinated." },
-            { "text": "It has no K+ channels", "explanation": "It does." },
-            { "text": "It is closest to the synapse", "explanation": "Dendrites are." },
-            { "text": "It releases neurotransmitter", "explanation": "Terminal does." }
-        ],
-        "correctAnswerIndex": 0,
-        "slideImagePath": "images/L137_slide_3.jpg",
-        "slideImageDescription": "The slide showing the Axon Hillock/Initial Segment."
-    },
-    {
-        "id": 36,
-        "category": "Synapse",
-        "questionText": "SNARE proteins are essential for:",
-        "options": [
-            { "text": "Action potential propagation", "explanation": "Channels." },
-            { "text": "Vesicle docking and fusion", "explanation": "v-SNAREs and t-SNAREs mediate the fusion of the synaptic vesicle with the presynaptic membrane." },
-            { "text": "Receptor binding", "explanation": "Ligand." },
-            { "text": "Neurotransmitter synthesis", "explanation": "Enzymes." },
-            { "text": "Myelination", "explanation": "Glial cells." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_26.jpg",
-        "slideImageDescription": "The slide illustrating vesicle fusion and SNAREs."
-    },
-    {
-        "id": 37,
-        "category": "Neurotransmitter Termination",
-        "questionText": "The primary mechanism for terminating the action of Glutamate in the synapse is:",
-        "options": [
-            { "text": "Enzymatic degradation", "explanation": "ACh." },
-            { "text": "Diffusion away", "explanation": "Minor." },
-            { "text": "Reuptake by transporters (EAATs) into neurons and glia", "explanation": "Glutamate is rapidly cleared by transporters on astrocytes and neurons." },
-            { "text": "Endocytosis of the receptor", "explanation": "Desensitization." },
-            { "text": "Binding to autoreceptors", "explanation": "Feedback." }
-        ],
-        "correctAnswerIndex": 2,
-        "slideImagePath": "images/L137_slide_26.jpg",
-        "slideImageDescription": "The slide (or transcript mention) of reuptake."
-    },
-    {
-        "id": 38,
-        "category": "Clinical Correlate",
-        "questionText": "Multiple Sclerosis (MS) is a demyelinating disease of the CNS. How does demyelination affect the action potential?",
-        "options": [
-            { "text": "Increases conduction velocity", "explanation": "Decreases." },
-            { "text": "Causes current leak and slows or blocks conduction", "explanation": "Loss of myelin insulation allows current to leak out, preventing the signal from reaching the next node (conduction block)." },
-            { "text": "Increases the amplitude", "explanation": "No." },
-            { "text": "Causes constant firing", "explanation": "Ectopic potentially, but block is primary." },
-            { "text": "Blocks neurotransmitter release", "explanation": "Secondary." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_8.jpg",
-        "slideImageDescription": "The slide (from previous lecture or implied) about demyelination."
-    },
-    {
-        "id": 39,
-        "category": "Synapse",
-        "questionText": "Temporal Summation refers to:",
-        "options": [
-            { "text": "Inputs from different locations", "explanation": "Spatial." },
-            { "text": "Repeated inputs from a single presynaptic neuron in rapid succession", "explanation": "The EPSPs piggyback on each other before the membrane can repolarize." },
-            { "text": "Summation of IPSPs only", "explanation": "Both." },
-            { "text": "Long-term changes", "explanation": "Plasticity." },
-            { "text": "Genetic changes", "explanation": "No." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_19.jpg",
-        "slideImageDescription": "Excitatory postsynaptic potentials- EPSPs"
-    },
-    {
-        "id": 40,
-        "category": "General Physiology",
-        "questionText": "The Nernst Equation is used to calculate:",
-        "options": [
-            { "text": "The resting membrane potential", "explanation": "Goldman equation (multiple ions)." },
-            { "text": "The equilibrium potential for a single ion", "explanation": "Calculates the potential at which the electrical gradient balances the concentration gradient for one ion." },
-            { "text": "The speed of conduction", "explanation": "No." },
-            { "text": "The amount of neurotransmitter released", "explanation": "No." },
-            { "text": "The threshold voltage", "explanation": "No." }
-        ],
-        "correctAnswerIndex": 1,
-        "slideImagePath": "images/L137_slide_4.jpg",
-        "slideImageDescription": "The slide mentioning the Nernst equation."
-    }
+  {
+    "id": 1,
+    "category": "Resting Membrane Potential",
+    "questionText": "A 23-year-old medical student is participating in a neurophysiology lab. He isolates a squid giant axon and bathes it in a solution identical to extracellular fluid. He then adds a selective potassium channel blocker (like TEA) to the bath. What immediate effect would be observed on the resting membrane potential (rVm)?",
+    "options": [
+      {"text": "Hyperpolarization (more negative)", "explanation": "Blocking K+ channels prevents K+ from leaving, causing depolarization, not hyperpolarization."},
+      {"text": "Depolarization (less negative)", "explanation": "The rVm is primarily set by 'leak' K+ channels allowing K+ efflux. Blocking these channels traps K+ inside, reducing the chemical gradient drive and moving the membrane potential away from EK (-80mV) towards ENa, resulting in depolarization."},
+      {"text": "No change", "explanation": "Leak currents are essential for rVm."},
+      {"text": "Generation of spontaneous action potentials", "explanation": "While it brings it closer to threshold, the immediate effect is depolarization."},
+      {"text": "Inactivation of Sodium channels", "explanation": "Secondary effect of depolarization, but not the primary rVm change."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "The resting membrane potential is dominated by high K+ permeability (via leak channels). Blocking K+ conductance causes depolarization.",
+    "pdfPage": 7,
+    "slideImageDescription": "The slide 'Resting membrane potential of neurons' lists 'membrane channels selectively permeable to certain ions especially leak K+' as a key determinant. Blocking K+ removes this influence."
+  },
+  {
+    "id": 2,
+    "category": "Na/K Pump Poisoning",
+    "questionText": "A patient with heart failure inadvertently overdoses on Digoxin (a Na+/K+ ATPase inhibitor). In his neurons, inhibition of this pump would ultimately lead to:",
+    "options": [
+      {"text": "Immediate hyperpolarization", "explanation": "Pump helps maintain negativity (electrogenic), so blocking it causes depolarization."},
+      {"text": "Loss of the concentration gradients for Na+ and K+", "explanation": "The Na+/K+ pump (3 Na+ out, 2 K+ in) is responsible for maintaining the high extracellular Na+ and high intracellular K+. Inhibition leads to dissipation of these gradients over time."},
+      {"text": "Increased amplitude of action potentials", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Faster repolarization", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Increased release of GABA", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "The Na+/K+ pump is essential for long-term maintenance of ion gradients. Without it, the battery runs down.",
+    "pdfPage": 4,
+    "slideImageDescription": "The slide 'Resting membrane potential of neurons' lists '1] Na/K pump ->> 3Na+ out / 2K+ in' as a mechanism establishing the gradients."
+  },
+  {
+    "id": 3,
+    "category": "Hyperkalemia Effects",
+    "questionText": "A patient with renal failure presents with severe hyperkalemia (extracellular K+ = 8.0 mM, Normal = 4.0 mM). What is the physiological consequence of this electrolyte imbalance on neuronal resting membrane potential?",
+    "options": [
+      {"text": "Hyperpolarization and reduced excitability", "explanation": "Hyperpolarization and reduced excitability is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Depolarization and increased excitability", "explanation": "According to the Nernst equation, increasing extracellular K+ reduces the concentration gradient for K+ to leave the cell. This shifts the Equilibrium Potential for K+ (EK) to a less negative value, depolarizing the resting membrane potential and bringing it closer to threshold (increased excitability)."},
+      {"text": "No change in rVm", "explanation": "No change in rVm is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Blockade of Voltage-Gated Na+ channels", "explanation": "Blockade of Voltage-Gated Na+ channels is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Increased Sodium influx at rest", "explanation": "Increased Sodium influx at rest is not the primary characteristic or cause of the condition described in this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Hyperkalemia depolarizes cells (making them more excitable initially), while Hypokalemia hyperpolarizes them (muscle weakness/paralysis).",
+    "pdfPage": 4,
+    "slideImageDescription": "The slide mentions 'Unequal concentration of charged ions... determine direction... of ion flow'. Nernst equation logic applies here."
+  },
+  {
+    "id": 4,
+    "category": "Tetrodotoxin Mechanism",
+    "questionText": "A 35-year-old traveler consumes 'Fugu' (pufferfish) soup in Japan. Minutes later, he develops perioral numbness and weakness. The toxin responsible for these symptoms works by:",
+    "options": [
+      {"text": "Blocking Acetylcholine release", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Blocking Voltage-Gated Sodium Channels", "explanation": "Tetrodotoxin (TTX) binds to the external pore of Voltage-Gated Na+ Channels, preventing Na+ influx. This blocks the Rising Phase of the Action Potential, stopping nerve conduction."},
+      {"text": "Blocking Voltage-Gated Potassium Channels", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Stimulating Glutamate receptors", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Inhibiting Acetylcholinesterase", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "TTX (Pufferfish) and Saxitoxin (Red Tide) are potent blockers of Voltage-Gated Na+ channels, causing paralysis by silencing Action Potentials.",
+    "pdfPage": 12,
+    "slideImageDescription": "The slide 'Tetrodotoxin (TTX)' explicitly states: '- potent sodium channel blocker'."
+  },
+  {
+    "id": 5,
+    "category": "Dendrotoxin Effect",
+    "questionText": "A researcher is studying the venom of the Green Mamba snake, which contains alpha-dendrotoxin. Application of this toxin to a neuron would result in:",
+    "options": [
+      {"text": "Failure to generate an action potential", "explanation": "Failure to generate an action potential is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Prolongation of the Action Potential (delayed repolarization)", "explanation": "Dendrotoxin blocks Voltage-Gated K+ channels. Since K+ efflux is responsible for the falling phase (repolarization) of the AP, blocking these channels slows down repolarization, making the AP broader/longer."},
+      {"text": "Rapid repolarization", "explanation": "Rapid repolarization is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "Inhibition of neurotransmitter release", "explanation": "Actually, broad APs often increase release."},
+      {"text": "Muscle paralysis via ACh block", "explanation": "Muscle paralysis via ACh block is not the primary characteristic or cause of the condition described in this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Blocking Voltage-Gated K+ channels (Dendrotoxin/TEA) prevents repolarization, leading to prolonged Action Potential duration.",
+    "pdfPage": 12,
+    "slideImageDescription": "The slide 'alpha-dendrotoxin' states: '- potent potassium channel blocker... prolongs action potentials'."
+  },
+  {
+    "id": 6,
+    "category": "Local Anesthetics",
+    "questionText": "A dentist injects Lidocaine before a procedure. This drug prevents pain transmission by binding to:",
+    "options": [
+      {"text": "The external pore of Na+ channels", "explanation": "TTX binds externally. Lidocaine binds intracellularly."},
+      {"text": "The intracellular side of Voltage-Gated Na+ channels", "explanation": "Local anesthetics (Lidocaine) cross the membrane and bind to the Na+ channel from the INSIDE, blocking the pore in a use-dependent manner (they work better on active neurons)."},
+      {"text": "Voltage-Gated K+ channels", "explanation": "This is not an effective or appropriate treatment for this specific condition."},
+      {"text": "GABA receptors", "explanation": "This is not an effective or appropriate treatment for this specific condition."},
+      {"text": "Opioid receptors", "explanation": "This is not an effective or appropriate treatment for this specific condition."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Lidocaine is a Voltage-Gated Sodium Channel blocker. It stops pain signals (Action Potentials) from traveling from the periphery to the CNS.",
+    "pdfPage": 13,
+    "slideImageDescription": "The slide 'Mechanism of drug action: Lidocaine' lists it as a 'Sodium channel blocker'."
+  },
+  {
+    "id": 7,
+    "category": "Voltage Gated Na Channel Inactivation",
+    "questionText": "A genetic mutation in the SCN1A gene creates a Voltage-Gated Sodium Channel with a defective 'Inactivation Gate'. This 'Gain of Function' mutation would clinically manifest as:",
+    "options": [
+      {"text": "Congenital Insensitivity to Pain", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Paralysis", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Epilepsy / Seizures", "explanation": "If the Inactivation Gate fails, the Na+ channel stays open too long or recovers too quickly, leading to repetitive firing and hyperexcitability (Seizures)."},
+      {"text": "Blindness", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Hearing loss", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Inactivation is crucial for stopping the AP. Defective inactivation leads to 'Gain of Function' and neuronal hyperexcitability disorders like Epilepsy.",
+    "pdfPage": 10,
+    "slideImageDescription": "The slide 'Voltage-gated sodium channel inactivation' states: 'Genetic mutations that affect the inactivation gate result in channels being open for too long – EPILEPSY!'."
+  },
+  {
+    "id": 8,
+    "category": "Congenital Analgesia",
+    "questionText": "A 5-year-old child is brought to the clinic because he jumps off high structures and injures himself but never cries. Physical exam reveals multiple healed fractures and burns. Genetic testing is most likely to reveal a 'Loss of Function' mutation in:",
+    "options": [
+      {"text": "Nav1.7 Voltage-Gated Sodium Channels", "explanation": "Nav1.7 is highly expressed in nociceptors (pain neurons). Loss of function mutations render these neurons unable to fire APs, causing Congenital Insensitivity to Pain."},
+      {"text": "Kv1.1 Voltage-Gated Potassium Channels", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "Nicotinic Acetylcholine Receptors", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "Dopamine D2 Receptors", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "Connexin 36", "explanation": "This marker or finding is associated with different conditions, not the one described here."}
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Nav1.7 mutations can cause 'Pain Man' (Gain of Function = Erythromelalgia) or 'No Pain Man' (Loss of Function = Congenital Analgesia).",
+    "pdfPage": 15,
+    "slideImageDescription": "The slide 'VG Sodium channel gene mutations... reducing activity' lists 'Congenital Pain Insensitivity... Nav1.7'."
+  },
+  {
+    "id": 9,
+    "category": "Relative Refractory Period",
+    "questionText": "During the 'Undershoot' (Hyperpolarization) phase of the Action Potential, it is harder but not impossible to fire a second AP. This is because:",
+    "options": [
+      {"text": "Na+ channels are absolutely inactivated", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "K+ conductance is high (Open K+ channels)", "explanation": "During the undershoot, K+ channels are still open (slow to close), keeping the membrane potential near -80mV. A larger-than-normal stimulus is required to overcome this K+ efflux and reach threshold. This is the Relative Refractory Period."},
+      {"text": "Ca++ channels are closed", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "The Na/K pump is turned off", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Cl- influx is maximal", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "The Relative Refractory Period corresponds to the Undershoot. The neuron is hyperpolarized due to lingering K+ conductance.",
+    "pdfPage": 11,
+    "slideImageDescription": "The slide '4 Phases of the AP' describes 'Undershoot... closing of K+ channels' implies they are open and causing the hyperpolarization."
+  },
+  {
+    "id": 10,
+    "category": "Gap Junctions",
+    "questionText": "A cardiologist is explaining how the heart beats in sync. He describes channels that allow ions to flow directly from one cell to the next, ensuring rapid, synchronized depolarization. In the brain, these same structures are known as:",
+    "options": [
+      {"text": "Chemical Synapses", "explanation": "This cell type or cellular mechanism is not primarily involved in this process."},
+      {"text": "Electrical Synapses (Gap Junctions)", "explanation": "Gap Junctions (formed by Connexins) allow direct ionic current flow between cells. They are bidirectional and instant (<1ms), usually found where synchronization is key (Heart, Inhibitory interneuron networks)."},
+      {"text": "Nodes of Ranvier", "explanation": "This cell type or cellular mechanism is not primarily involved in this process."},
+      {"text": "Desmosomes", "explanation": "This cell type or cellular mechanism is not primarily involved in this process."},
+      {"text": "Tight Junctions", "explanation": "This cell type or cellular mechanism is not primarily involved in this process."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Electrical Synapses (Gap Junctions) allow cytoplasmic continuity. They are faster than chemical synapses but lack gain (signal amplification) and plasticity.",
+    "pdfPage": 22,
+    "slideImageDescription": "The slide 'Electrical synapses' lists 'Direct ion & small molecule flow' and 'Fastest type of neural communication'."
+  },
+  {
+    "id": 11,
+    "category": "Lambert-Eaton Mechanism",
+    "questionText": "A 60-year-old smoker presents with proximal muscle weakness that IMPROVES with repeated use/exercise. The underlying pathophysiology involves antibodies against:",
+    "options": [
+      {"text": "Post-synaptic Acetylcholine Receptors", "explanation": "This is Myasthenia Gravis (gets worse with use)."},
+      {"text": "Pre-synaptic Voltage-Gated Calcium Channels (VGCC)", "explanation": "Lambert-Eaton Myasthenic Syndrome (LEMS) is caused by antibodies blocking P/Q-type VGCCs on the nerve terminal. Less Ca2+ influx = Less ACh release. Repetitive stimulation builds up residual Ca2+, improving release (facilitation)."},
+      {"text": "Synaptotagmin", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Voltage-Gated Sodium Channels", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Ryanodine Receptors", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Lambert-Eaton = Presynaptic Ca2+ channel block -> Weakness improves with use. Myasthenia Gravis = Postsynaptic AChR block -> Weakness worsens with use.",
+    "pdfPage": 27,
+    "slideImageDescription": "The slide 'Lambert-Eaton Syndrome' states: 'Auto-immune Disease of VGCC at the NMJ... Antibodies against voltage gated calcium channels'."
+  },
+  {
+    "id": 12,
+    "category": "Myasthenia Gravis Mechanism",
+    "questionText": "A 30-year-old woman presents with ptosis (droopy eyelids) and double vision that gets worse late in the day. Edrophonium test is positive. The target of the auto-antibodies in this condition is:",
+    "options": [
+      {"text": "Pre-synaptic VGCC", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "Post-synaptic Nicotinic Acetylcholine Receptors", "explanation": "Myasthenia Gravis involves antibodies attacking the ACh receptors on the muscle endplate. This reduces the safety factor of transmission, leading to fatiguable weakness."},
+      {"text": "Muscarinic Receptors", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "Acetylcholinesterase", "explanation": "This marker or finding is associated with different conditions, not the one described here."},
+      {"text": "Synaptic Vesicles", "explanation": "This marker or finding is associated with different conditions, not the one described here."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Myasthenia Gravis is a post-synaptic disorder (Anti-AChR). Treatment involves AChE inhibitors (Pyridostigmine) to increase cleft ACh concentration.",
+    "pdfPage": 28,
+    "slideImageDescription": "The slide 'Myasthenia Gravis' states: 'antibodies against AchR... Symptoms include muscle weakness... especially limbs and face'."
+  },
+  {
+    "id": 13,
+    "category": "Botulinum Toxin Target",
+    "questionText": "Botulinum toxin (Botox) causes flaccid paralysis by cleaving SNARE proteins. This action specifically prevents:",
+    "options": [
+      {"text": "Synthesis of Acetylcholine", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Vesicle fusion and neurotransmitter release", "explanation": "SNARE proteins (Syntaxin, SNAP-25, Synaptobrevin) are the machinery required for the synaptic vesicle to fuse with the presynaptic membrane. Botox cuts these proteins, preventing ACh release totally."},
+      {"text": "Calcium influx", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Reuptake of Choline", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Post-synaptic depolarization", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Botulinum Toxin disables the Docking/Fusion machinery (SNAREs), resulting in a complete blockade of neurotransmitter release (Flaccid Paralysis).",
+    "pdfPage": 26,
+    "slideImageDescription": "While not explicitly detailed in text, the diagram 'Synaptic mechanisms of disease' highlights 'Vesicle packaging' and release steps. This is standard context for 'Synaptic transmission' slide 25."
+  },
+  {
+    "id": 14,
+    "category": "Calcium's Role",
+    "questionText": "If you experimentally remove all extracellular Calcium from the synapse, electrical stimulation of the presynaptic nerve will result in:",
+    "options": [
+      {"text": "Normal neurotransmitter release", "explanation": "This cell type or cellular mechanism is not primarily involved in this process."},
+      {"text": "An Action Potential in the nerve terminal, but NO release of neurotransmitter", "explanation": "The Action Potential (Na/K) reaches the terminal, but the conversion of 'Electricity to Chemistry' requires Ca2+ influx through VGCCs to trigger vesicle fusion. No Ca2+ = No Release."},
+      {"text": "Spontaneous massive release", "explanation": "This cell type or cellular mechanism is not primarily involved in this process."},
+      {"text": "Inability to propagate the action potential down the axon", "explanation": "Axonal conduction is Na/K, not Ca."},
+      {"text": "Post-synaptic hyperpolarization", "explanation": "This cell type or cellular mechanism is not primarily involved in this process."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Calcium is the critical link between the electrical signal (AP) and the chemical signal (exocytosis). AP -> VGCC Open -> Ca Influx -> Release.",
+    "pdfPage": 18,
+    "slideImageDescription": "The slide 'Glutamate synapses' explicitly states: '*** Presynaptic voltage-gated Ca+ channels cause neurotransmitter release at the terminal.'."
+  },
+  {
+    "id": 15,
+    "category": "IPSP Mechanism",
+    "questionText": "Benzodiazepines are used to treat anxiety because they enhance the effect of GABA. When GABA binds to its receptor, it induces an Inhibitory Post-Synaptic Potential (IPSP) by opening channels for:",
+    "options": [
+      {"text": "Sodium (Na+)", "explanation": "This represents a different molecular pathway or signaling mechanism."},
+      {"text": "Calcium (Ca++)", "explanation": "This represents a different molecular pathway or signaling mechanism."},
+      {"text": "Chloride (Cl-)", "explanation": "GABA-A receptors are Chloride channels. Cl- flows INTO the cell (down concentration gradient), bringing negative charge and hyperpolarizing the neuron away from threshold."},
+      {"text": "Potassium (K+) influx", "explanation": "K+ efflux causes hyperpolarization, but GABA-A is Cl-."},
+      {"text": "Magnesium (Mg++)", "explanation": "This represents a different molecular pathway or signaling mechanism."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "GABA = Chloride Influx = Hyperpolarization (IPSP). Glutamate = Sodium Influx = Depolarization (EPSP).",
+    "pdfPage": 20,
+    "slideImageDescription": "The slide 'GABA synapses hyperpolarize' states: 'Ionotropic GABAA receptors have a Cl- pore... Cl- rushes into the cell'."
+  },
+  {
+    "id": 16,
+    "category": "EPSP Mechanism",
+    "questionText": "Glutamate is the primary excitatory neurotransmitter in the brain. Binding of Glutamate to AMPA receptors results in:",
+    "options": [
+      {"text": "Cl- influx", "explanation": "This represents a different molecular pathway or signaling mechanism."},
+      {"text": "Mixed Cation influx (mostly Na+)", "explanation": "AMPA receptors are non-selective cation channels. They allow Na+ and K+ to pass, but the driving force for Na+ is much stronger, resulting in net depolarization (EPSP)."},
+      {"text": "Ca++ efflux", "explanation": "This represents a different molecular pathway or signaling mechanism."},
+      {"text": "K+ influx only", "explanation": "While K+ influx may be involved, this answer is incomplete and misses other essential components."},
+      {"text": "Hyperpolarization", "explanation": "This represents a different molecular pathway or signaling mechanism."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Excitatory transmission (Glutamate/ACh) generally involves opening non-selective cation channels (Na+/K+), driving the membrane potential towards 0mV.",
+    "pdfPage": 18,
+    "slideImageDescription": "The slide 'Glutamate synapses' states: 'AMPA have a Na+ pore... Na+ rushes into the cell (some K+ out)'."
+  },
+  {
+    "id": 17,
+    "category": "Reflex Arc Physiology",
+    "questionText": "In the Patellar Tendon (Knee-jerk) reflex, the 1a sensory afferent enters the spinal cord and directly synapses on the somatic motor neuron. This synapse relies on the release of:",
+    "options": [
+      {"text": "GABA", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Glycine", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Glutamate", "explanation": "The 1a afferent is a sensory neuron causing EXCITATION of the motor neuron (contraction). Therefore, it must release Glutamate."},
+      {"text": "Acetylcholine", "explanation": "Motor neuron releases ACh at the muscle, but the sensory->motor synapse is Glutaminergic."},
+      {"text": "Dopamine", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "The stretch reflex is monosynaptic. Sensory Neuron (Glutamate) -> Motor Neuron (ACh) -> Muscle.",
+    "pdfPage": 23,
+    "slideImageDescription": "The slide 'Patellar-tendon reflex' details: '1a neuron synapses on motor neuron and releases Glu'."
+  },
+  {
+    "id": 18,
+    "category": "Erythromelalgia",
+    "questionText": "A teenager presents with episodes to intense burning pain and redness in the feet. Genetic analysis reveals a Gain-of-Function mutation in Nav1.7. This condition is known as:",
+    "options": [
+      {"text": "Congenital Analgesia", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Myasthenia Gravis", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Primary Erythromelalgia", "explanation": "Erythro (Red) + Melalgia (Pain). Gain of function in Na+ channels makes pain fibers hypersensitive."},
+      {"text": "Multiple Sclerosis", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Guillain-Barre", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Primary Erythromelalgia is the 'Man on Fire' syndrome caused by hyperactive Sodium Channels (Nav1.7) in sensory neurons.",
+    "pdfPage": 15,
+    "slideImageDescription": "The slide 'VG Sodium channel gene mutations' lists 'Inherited Primary Erythromelalgia... intermittently red, hot, painful extremities'."
+  },
+  {
+    "id": 19,
+    "category": "Threshold Determination",
+    "questionText": "The 'Threshold' for action potential generation (approx -40mV) is determined by the biophysical properties of:",
+    "options": [
+      {"text": "Leak K+ channels", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "The Voltage-Gated Na+ Channel Activation Gate", "explanation": "Threshold is the voltage at which the Probability of Na+ channels opening becomes high enough to trigger the positive feedback loop (Hodgkin cycle). This corresponds to the activation voltage of Kv Na+ channels."},
+      {"text": "The Na/K Pump", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Ligand-gated channels", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Myelin sheath thickness", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Threshold matches the activation voltage of the Voltage-Gated Sodium Channel. Until you open these, you cannot have a spike.",
+    "pdfPage": 8,
+    "slideImageDescription": "The slide 'Action Potentials' asks 'What determines the AP threshold? – the voltage-gating of voltage-gated Na+ channels'."
+  },
+  {
+    "id": 20,
+    "category": "Falling Phase Ion",
+    "questionText": "During the falling phase (repolarization) of the action potential, which ionic conductance is dominant?",
+    "options": [
+      {"text": "gNa (Sodium)", "explanation": "gNa (Sodium) is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "gCa (Calcium)", "explanation": "gCa (Calcium) is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "gK (Potassium)", "explanation": "The falling phase is driven by the opening of Voltage-Gated Potassium channels (Delayed Rectifiers), allowing K+ to rush OUT of the cell, removing positive charge."},
+      {"text": "gCl (Chloride)", "explanation": "gCl (Chloride) is not the primary characteristic or cause of the condition described in this question."},
+      {"text": "gMg (Magnesium)", "explanation": "gMg (Magnesium) is not the primary characteristic or cause of the condition described in this question."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Rising Phase = Na+ In. Falling Phase = K+ Out.",
+    "pdfPage": 11,
+    "slideImageDescription": "The slide '4 Phases of the AP' lists 'Falling phase... opening of voltage gated K+ channels'."
+  },
+  {
+    "id": 21,
+    "category": "Action Potential Propagation",
+    "questionText": "Multiple Sclerosis damages the myelin sheath. This impairs action potential propagation by:",
+    "options": [
+      {"text": "Blocking Na+ channels directly", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Increasing the capacitance and decreasing membrane resistance (Current leak)", "explanation": "Myelin insulates the axon, forcing current to jump (Saltatory Conduction). Loss of myelin allows charge to leak out across the membrane, causing the AP to decay before reaching the next node."},
+      {"text": "Creating new gap junctions", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Depleting ATP", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Blocking K+ channels", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Myelin acts as electrical insulation. Demyelination (MS) causes conduction block because the safety factor for transmission drops below 1.",
+    "pdfPage": 29,
+    "slideImageDescription": "Implied by context of 'myelin' mentioned in conclusions/intro. Standard physiology application of AP propagation."
+  },
+  {
+    "id": 22,
+    "category": "Synaptic Delay",
+    "questionText": "Chemical transmission is slower than electrical transmission. The majority of this 'Synaptic Delay' (0.5-1.0 ms) is due to:",
+    "options": [
+      {"text": "Diffusion across the cleft", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Binding to the receptor", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "The calcium-dependent vesicle fusion process", "explanation": "The complex machinery of opening Ca channels, Ca entering, binding sensor, and SNARE zippering is the rate-limiting step."},
+      {"text": "Axonal conduction time", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Reuptake", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "The bottleneck in chemical transmission is the presynaptic release machinery (E-C coupling).",
+    "pdfPage": 2,
+    "slideImageDescription": "Contrasted with Electrical synapses 'Fastest type... <1ms'. Chemical implies slower steps shown in slide 25."
+  },
+  {
+    "id": 23,
+    "category": "Spatial vs Temporal Summation",
+    "questionText": "A neuron receives 5 inputs from 5 different dendrites simultaneously, causing it to fire. This is an example of:",
+    "options": [
+      {"text": "Temporal Summation", "explanation": "One synapse firing rapidly in time."},
+      {"text": "Spatial Summation", "explanation": "Multiple inputs arriving at different locations (Space) at the same time summing up to reach threshold."},
+      {"text": "Long Term Potentiation", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Presynaptic Inhibition", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Desensitization", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Spatial Summation = Many friends shouting at once. Temporal Summation = One friend shouting repeatedly.",
+    "pdfPage": 18,
+    "slideImageDescription": "Implied by EPSP/IPSP diagrams showing Cell 1/Cell 2 inputs."
+  },
+  {
+    "id": 24,
+    "category": "Reuptake Inhibition",
+    "questionText": "Cocaine causes euphoria by blocking the DAT transporter. This effectively:",
+    "options": [
+      {"text": "Increases Dopamine release", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Prevents Dopamine degradation", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Increases the duration and concentration of Dopamine in the cleft", "explanation": "DAT removes DA. Blocking DAT leaves DA in the synapse longer to activate receptors repeatedly."},
+      {"text": "Blocks Dopamine receptors", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Enhances GABA", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Reuptake is the primary method of terminating monoamine signals. Blocking it (Cocaine/SSRIs) amplifies the signal.",
+    "pdfPage": 26,
+    "slideImageDescription": "Context of 'Reuptake of transmitter' in Synaptic mechanisms slide."
+  },
+  {
+    "id": 25,
+    "category": "Potassium Equilibrium Potential",
+    "questionText": "If the intracellular concentration of K+ is 140mM and extracellular is 4mM, the Nernst Equation calculates an EK of roughly -90mV. If you double the extracellular [K+] to 8mM, EK will:",
+    "options": [
+      {"text": "Become more negative (e.g., -100mV)", "explanation": "This cell type or cellular mechanism is not primarily involved in this process."},
+      {"text": "Become less negative (e.g., -75mV)", "explanation": "Increasing extracellular K+ decreases the gradient ratio (140/8 < 140/4). Since the log of a smaller number is smaller, the potential becomes less negative (depolarized)."},
+      {"text": "Become positive", "explanation": "This cell type or cellular mechanism is not primarily involved in this process."},
+      {"text": "Stay the same", "explanation": "This cell type or cellular mechanism is not primarily involved in this process."},
+      {"text": "Cause apoptosis", "explanation": "This cell type or cellular mechanism is not primarily involved in this process."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Nernst Equation: E_ion is proportional to log([Out]/[In]). Increasing the numerator [Out] makes the result more positive (Depolarization).",
+    "pdfPage": 4,
+    "slideImageDescription": "Direct application of 'Nernst equation!' referenced on slide 4."
+  },
+  {
+    "id": 26,
+    "category": "New Drug Identification",
+    "questionText": "A new drug 'Journavx' (suzetrigine) is approved for pain. It works by targeting:",
+    "options": [
+      {"text": "Opioid Receptors", "explanation": "This is not an effective or appropriate treatment for this specific condition."},
+      {"text": "Cox-2 enzymes", "explanation": "This is not an effective or appropriate treatment for this specific condition."},
+      {"text": "Nav1.8 Voltage-Gated Sodium Channels", "explanation": "Nav1.8 is specific to peripheral pain neurons (DRG). Blocking it stops pain without affecting central neurons (less side effects)."},
+      {"text": "NMDA Receptors", "explanation": "This is not an effective or appropriate treatment for this specific condition."},
+      {"text": "Substance P", "explanation": "This is not an effective or appropriate treatment for this specific condition."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "Nav1.8 is a Peripheral-Specific sodium channel. Specific blockers like Suzetrigine offer pain relief without CNS side effects (addiction/sedation).",
+    "pdfPage": 14,
+    "slideImageDescription": "The slide 'VX-548 now called suzetrigine' links it to 'Targeting VG Na channels... Nav1.8'."
+  },
+  {
+    "id": 27,
+    "category": "Familial Episodic Pain",
+    "questionText": "A patient suffers from intense, recurrent pain attacks in the upper body triggered by fatigue / cold. Diagnosis: Familial Episodic Pain Syndrome. The molecular defect is:",
+    "options": [
+      {"text": "Gain of function in Nav1.7", "explanation": "Similar to Primary Erythromelalgia, but episodic. Gain of function = Hyperexcitability = Pain."},
+      {"text": "Loss of function in Nav1.7", "explanation": "This value is not correct for the parameter described in this clinical scenario."},
+      {"text": "Loss of Myelin", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Antibodies to VGCC", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Glutamate deficiency", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Both Erythromelalgia and Episodic Pain Syndrome are Gain-of-Function Sodium Channelopathies.",
+    "pdfPage": 15,
+    "slideImageDescription": "The slide lists 'Familial Episodic Pain Syndrome (Nav1.7)' under 'Mutations... increasing activity'."
+  },
+  {
+    "id": 28,
+    "category": "Inhibitory vs Excitatory",
+    "questionText": "Whether a neurotransmitter is Excitatory or Inhibitory is determined ULTIMATELY by:",
+    "options": [
+      {"text": "The chemical structure of the neurotransmitter", "explanation": "Glutamate can be inhibitory (mGluR). ACh can be inhibitory (Heart)."},
+      {"text": "The type of receptor it binds to", "explanation": "The Receptor determines the ion channel. ACh -> Nicotinic (Na+) = Excitatory. ACh -> Muscarinic (K+) = Inhibitory. The key is the receptor."},
+      {"text": "The voltage of the neuron", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "The amount released", "explanation": "This describes only Magnitude but misses other critical components of this process."},
+      {"text": "The presynaptic machinery", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "There is no such thing as an 'Excitatory Molecule'. There are only Excitatory Receptors. The Receptor dictates the action.",
+    "pdfPage": 29,
+    "slideImageDescription": "The slide 'Conclusions' stats: 'The postsynaptic effect... will depend on... the type of receptor found on the postsynaptic neuron'."
+  },
+  {
+    "id": 29,
+    "category": "Overshoot Phase",
+    "questionText": "The peak of the action potential (+30mV) approaches but never quite reaches ENa (+60mV). This is partly because:",
+    "options": [
+      {"text": "Na+ channels do not open fully", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "K+ channels begin to open, and Na+ channels begin to inactivate", "explanation": "The 'Overshoot' is blunted by the delayed opening of K+ channels (pulling Vm down) and the rapid inactivation of Na+ channels (stopping the upswing)."},
+      {"text": "Cl- channels open widely", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "The Na/K pump works super fast", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "The cell runs out of Sodium", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "The AP peak is a tug-of-war. Na+ brings it up, but Na-Inactivation and K-Activation drag it back down.",
+    "pdfPage": 11,
+    "slideImageDescription": "The slide '4 Phases of the AP' describes Overshoot involving 'opening, closing, inactivation of Na+ channels and opening of K+ channels'."
+  },
+  {
+    "id": 30,
+    "category": "Absolute Refractory Period",
+    "questionText": "Why cannot an action potential travel backwards up the axon (Retrograde)?",
+    "options": [
+      {"text": "Microtubules block it", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "The membrane behind the AP is in the Absolute Refractory Period", "explanation": "As the AP moves forward, the Na+ channels behind it enter the Inactivated State. They cannot reopen immediately. This forces the signal to only move forward into 'fresh' membrane."},
+      {"text": "Potassium channels are closed", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Myelin is directional", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Dendrites repel current", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Na+ Channel Inactivation is the mechanism of the Absolute Refractory Period and ensures unidirectional propagation.",
+    "pdfPage": 10,
+    "slideImageDescription": "Implied by 'Inactivated channel' visual on slide 10 and unidirectional arrow on slide 18."
+  },
+  {
+    "id": 31,
+    "category": "Connexin Mutation",
+    "questionText": "Charcot-Marie-Tooth is a peripheral neuropathy associated with mutations in Myelin genes (Connexin 32). This suggests a failure in:",
+    "options": [
+      {"text": "Chemical Synapses", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Gap Junctions between layers of myelin", "explanation": "Connexins form Gap Junctions. In myelin (Schwann cells), they allow diffusion of nutrients across the layers of the myelin sheath to support the deep axon."},
+      {"text": "Dopamine receptors", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Vesicle fusion", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Na+ channel inactivation", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Gap Junction mutations (Connexins) often cause tissues that rely on metabolic coupling (Lens, Myelin, Cochlea) to degenerate. CMT = Nerve degeneration.",
+    "pdfPage": 21,
+    "slideImageDescription": "The slide 'Gap junctions' notes '~30 disease due to connexin gene mutations'."
+  },
+  {
+    "id": 32,
+    "category": "Vesicle Trafficking",
+    "questionText": "Tetanus toxin creates rigid paralysis (lockjaw) by blocking the release of Glycine and GABA. It does this by cleaving:",
+    "options": [
+      {"text": "Tubulin", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "SNARE proteins in inhibitory interneurons", "explanation": "Like Botox, Tetanus targets SNAREs. But Tetanus travels retrograde to the spinal cord and specifically disrupts Inhibitory (GABA/Glycine) release. Loss of inhibition = Runaway excitation (Tetany)."},
+      {"text": "Actin", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Voltage Gated Ca channels", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Post-synaptic receptors", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Botox = Flaccid (No ACh). Tetanus = Rigid (No GABA/Glycine). Both cut SNAREs.",
+    "pdfPage": 26,
+    "slideImageDescription": "Contextual application of 'Vesicle packaging/release' machinery being a target."
+  },
+  {
+    "id": 33,
+    "category": "Neuromuscular Junction Anatomy",
+    "questionText": "The specialized synapse between a somatic motor neuron and a skeletal muscle fiber is unique because:",
+    "options": [
+      {"text": "It uses Glutamate", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "It is always inhibitory", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "It has a high safety factor ensuring 1:1 firing", "explanation": "Unlike CNS synapses (which need summation), the NMJ releases so much ACh (Quanta) that every presynaptic AP triggers a muscle AP/Contraction. It is built to NOT fail."},
+      {"text": "It lacks Voltage Gated Na channels", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "It uses Gap Junctions", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 2,
+    "clinicalPearl": "The Neuromuscular Junction (NMJ) is the reliable 'Command' synapse. 1 Neuron Spike = 1 Muscle Twitch.",
+    "pdfPage": 25,
+    "slideImageDescription": "The slide 'Neuromuscular synapse/junction' highlights its role in 'Muscle contraction & behavior!'."
+  },
+  {
+    "id": 34,
+    "category": "Metabotropic vs Ionotropic",
+    "questionText": "Reaction time to a visual stimulus (seeing a brake light -> hitting brake) is ~200ms. This rapid response relies primarily on:",
+    "options": [
+      {"text": "Metabotropic receptors (GPCRs)", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Ionotropic receptors (Ligand-Gated Channels)", "explanation": "Fast synaptic transmission (milliseconds) requires Ionotropic receptors (AMPA/Nicotinic/GABA-A) that directly open channels."},
+      {"text": "Hormonal signaling", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Genetic transcription", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Axonal transport", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Fast behavior requires Fast Ionotropic Receptors. Mood/State requires Slow Metabotropic Receptors.",
+    "pdfPage": 26,
+    "slideImageDescription": "The slide lists 'Ionotropic/metabotropic' as the two types of receptors."
+  },
+  {
+    "id": 35,
+    "category": "Axon Hillock",
+    "questionText": "The decision to fire an action potential involves the summation of EPSPs and IPSPs. This 'integration' occurs primarily at the:",
+    "options": [
+      {"text": "Dendritic Spine", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Axon Hillock / Initial Segment", "explanation": "This region has the highest density of Voltage-Gated Na+ Channels, giving it the lowest threshold. It is the 'Trigger Zone' where the analogue sum becomes a digital spike."},
+      {"text": "Synaptic Terminal", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Nucleus", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Node of Ranvier", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "The Axon Hillock is the 'Calculator' of the neuron. Sum > Threshold -> Fire.",
+    "pdfPage": 8,
+    "slideImageDescription": "The slide 'Action Potentials' discusses 'threshold for AP generation', which anatomically occurs at the initial segment (Hillock)."
+  },
+  {
+    "id": 36,
+    "category": "Curare Mechanism",
+    "questionText": "Curare (arrow poison) causes paralysis by binding to the:",
+    "options": [
+      {"text": "Muscarinic Receptor", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Nicotinic Acetylcholine Receptor (nAChR)", "explanation": "Curare is a competitive antagonist at the NMJ Nicotinic receptor. It blocks ACh from binding, preventing EPP, AP, and Contraction (Flaccid Paralysis)."},
+      {"text": "GABA Receptor", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Glycine Receptor", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Voltage Gated Na Channel", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Curare is a non-depolarizing blocker. It sits in the chair (receptor) and prevents ACh from sitting down.",
+    "pdfPage": 25,
+    "slideImageDescription": "Context of 'Neuromuscular synapse' and 'Nicotinic receptors' shown in the diagram."
+  },
+  {
+    "id": 37,
+    "category": "Temporal Summation",
+    "questionText": "A single presynaptic neuron fires at high frequency (100Hz), causing the post-synaptic potential to ratchet up step-by-step until it hits threshold. This is:",
+    "options": [
+      {"text": "Spatial Summation", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Temporal Summation", "explanation": "Time-dependent summation from a single source."},
+      {"text": "Inhibition", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Adaptation", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Fatigue", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Temporal summation relies on the time constant of the membrane. If the second EPSP arrives before the first has decayed, they add up.",
+    "pdfPage": 2,
+    "slideImageDescription": "Concept of EPSP summation implied in synaptic transmission slides."
+  },
+  {
+    "id": 38,
+    "category": "Hypocalcemia Effects",
+    "questionText": "Paradoxically, HYPOcalcemia (Low extracellular Ca++) causes neuronal HYPERexcitability (Tetany/Chvostek sign). This is because Calcium normally:",
+    "options": [
+      {"text": "Blocks Na+ channels by 'surface charge screening'", "explanation": "Ca2+ ions 'sit' near the external face of Na+ channels, shielding the voltage sensor from the negative membrane surface. Low Ca2+ removes this shield, making the Na+ channel 'feel' a more depolarized environment, effectively lowering the threshold for firing."},
+      {"text": "Directly opens K+ channels", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Inhibits release", "explanation": "True, but peripheral tetany is axonal excitability."},
+      {"text": "Activates the pump", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Is inhibitory", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."}
+    ],
+    "correctAnswerIndex": 0,
+    "clinicalPearl": "Low Calcium = Easy Firing (Tetany). High Calcium = Hard Firing (Weakness/Lethargy). Think 'Calcium calms the membrane'.",
+    "pdfPage": 12,
+    "slideImageDescription": "Clinical Pearl derived from basic ion channel physics discussed in lecture context (Voltage gating)."
+  },
+  {
+    "id": 39,
+    "category": "Multiple Sclerosis Symptoms",
+    "questionText": "A 28-year-old woman presents with transient vision loss in one eye (Optic Neuritis) and weakness in her hand. These symptoms are due to:",
+    "options": [
+      {"text": "Axonal severance", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Demyelination of central axons", "explanation": "MS is an autoimmune attack on Oligodendrocytes (CNS Myelin). Loss of myelin slows/blocks conduction in optic nerve (Vision) and motor tracts (Weakness)."},
+      {"text": "Demyelination of peripheral nerves", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Neuromuscular Junction blockade", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."},
+      {"text": "Loss of Dopamine", "explanation": "This describes a different mechanism than the one responsible for the pathophysiology described."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "MS is 'Disseminated in Space and Time'. Lesions appear in different white matter tracts at different times.",
+    "pdfPage": 29,
+    "slideImageDescription": "Implied clinical correlate of myelin preservation/loss."
+  },
+  {
+    "id": 40,
+    "category": "VGCC Function",
+    "questionText": "N-type and P/Q-type Calcium channels are concentrated at the:",
+    "options": [
+      {"text": "Dendrites", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Presynaptic Active Zone", "explanation": "These specific subtypes are coupled to the release machinery (SNAREs) to ensure Ca2+ enters exactly where the vesicles are docked."},
+      {"text": "Node of Ranvier", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Cell Body", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."},
+      {"text": "Myelin", "explanation": "This option does not correctly describe the mechanism, association, or characteristic relevant to this question."}
+    ],
+    "correctAnswerIndex": 1,
+    "clinicalPearl": "Location, Location, Location. Ca2+ channels must be right next to the vesicles for the fast synaptic delay (<1ms) to work.",
+    "pdfPage": 18,
+    "slideImageDescription": "The slide 'Chemical synapses' shows 'Presynaptic voltage-gated Ca+ channels cause neurotransmitter release at the terminal'."
+  }
 ];

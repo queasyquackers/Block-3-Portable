@@ -293,7 +293,24 @@
             </div>
 
             <div class="flex items-center gap-4">
-                <button id="master-review-btn" class="btn-primary flex items-center gap-2">
+                <button id="flashcard-mode-btn" class="btn-secondary flex items-center gap-2 hidden md:flex">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10">
+                        </path>
+                    </svg>
+                    Flashcards
+                </button>
+                <button id="time-attack-btn"
+                    class="btn-secondary flex items-center gap-2 text-red-600 border-red-200 hover:bg-red-50">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                    </svg>
+                    Time Attack
+                </button>
+                <button id="master-review-btn"
+                    class="btn-secondary flex items-center gap-2 text-purple-600 border-purple-200 hover:bg-purple-50">
                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                             d="M19.428 15.428a2 2 0 00-1.022-.547l-2.384-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z">
@@ -321,45 +338,73 @@
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
 
             <aside class="lg:col-span-3 space-y-6">
-                <div class="card p-6 sticky top-28 glass-panel rounded-2xl">
+                <div class="card p-6 mb-6 glass-panel rounded-2xl">
                     <div class="flex justify-between items-center mb-6">
-                        <h2 class="text-lg font-bold text-secondary uppercase tracking-wider text-xs">Control Center</h2>
+                        <h2 class="text-lg font-bold text-secondary uppercase tracking-wider text-xs">Study Modes</h2>
                     </div>
+                    <div class="space-y-2">
+                        <div class="space-y-3">
+                            <button id="flashcard-mode-btn-sidebar"
+                                class="w-full flex items-center justify-start gap-3 px-4 py-3 text-white bg-gradient-to-r from-indigo-500 to-blue-500 hover:from-indigo-600 hover:to-blue-600 rounded-lg shadow-md transition-all transform hover:scale-[1.02]">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                        d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10">
+                                    </path>
+                                </svg>
+                                <span class="font-semibold tracking-wide">Flashcards</span>
+                            </button>
+                            <button id="time-attack-btn-sidebar"
+                                class="w-full flex items-center justify-start gap-3 px-4 py-3 text-white bg-gradient-to-r from-red-500 to-orange-500 hover:from-red-600 hover:to-orange-600 rounded-lg shadow-md transition-all transform hover:scale-[1.02]">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                        d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                </svg>
+                                <span class="font-semibold tracking-wide">Time Attack</span>
+                            </button>
+                            <button id="master-review-btn-sidebar"
+                                class="w-full flex items-center justify-start gap-3 px-4 py-3 text-white bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 rounded-lg shadow-md transition-all transform hover:scale-[1.02]">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                        d="M19.428 15.428a2 2 0 00-1.022-.547l-2.384-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z">
+                                    </path>
+                                </svg>
+                                <span class="font-semibold tracking-wide">Master Review</span>
+                            </button>
 
-                    <div class="subtle-card text-center p-6 mb-6">
-                        <div class="text-xs font-semibold text-secondary uppercase mb-2">Time Elapsed</div>
-                        <div id="timer-display" class="text-4xl font-mono font-bold tracking-tighter"
-                            style="color: var(--accent-color)">00:00</div>
-                        <div class="flex justify-center space-x-3 mt-4">
-                            <button id="timer-start-btn" class="btn-primary py-1 px-4 text-sm">Start</button>
-                            <button id="timer-pause-btn"
-                                class="hidden bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-1 px-4 rounded-lg text-sm transition">Pause</button>
+                            <div class="subtle-card text-center p-6 mb-6">
+                                <div class="text-xs font-semibold text-secondary uppercase mb-2">Time Elapsed</div>
+                                <div id="timer-display" class="text-4xl font-mono font-bold tracking-tighter"
+                                    style="color: var(--accent-color)">00:00</div>
+                                <div class="flex justify-center space-x-3 mt-4">
+                                    <button id="timer-start-btn" class="btn-primary py-1 px-4 text-sm">Start</button>
+                                    <button id="timer-pause-btn"
+                                        class="hidden bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-1 px-4 rounded-lg text-sm transition">Pause</button>
+                                </div>
+                            </div>
+
+                            <h3 class="font-semibold mb-3 text-sm text-secondary">Question Navigator</h3>
+                            <div id="question-grid" class="grid grid-cols-5 gap-2 mb-6"></div>
+
+                            <div class="space-y-2 text-xs text-secondary mb-6 subtle-card p-3">
+                                <div class="flex items-center"><span
+                                        class="w-2 h-2 rounded-full bg-gray-300 mr-2"></span>Unanswered</div>
+                                <div class="flex items-center"><span
+                                        class="w-2 h-2 rounded-full bg-green-500 mr-2"></span>Correct</div>
+                                <div class="flex items-center"><span
+                                        class="w-2 h-2 rounded-full bg-red-500 mr-2"></span>Incorrect</div>
+                                <div class="flex items-center"><span
+                                        class="w-2 h-2 rounded-full bg-orange-500 mr-2"></span>Flagged</div>
+                            </div>
+
+                            <button id="finish-test-btn"
+                                class="w-full bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-4 rounded-xl shadow-md transition transform hover:scale-[1.02] disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none">
+                                Finish & Grade
+                            </button>
+                            <button id="reset-progress-btn"
+                                class="w-full mt-3 text-sm text-center text-secondary hover:text-red-500 transition">
+                                Reset Progress
+                            </button>
                         </div>
-                    </div>
-
-                    <h3 class="font-semibold mb-3 text-sm text-secondary">Question Navigator</h3>
-                    <div id="question-grid" class="grid grid-cols-5 gap-2 mb-6"></div>
-
-                    <div class="space-y-2 text-xs text-secondary mb-6 subtle-card p-3">
-                        <div class="flex items-center"><span
-                                class="w-2 h-2 rounded-full bg-gray-300 mr-2"></span>Unanswered</div>
-                        <div class="flex items-center"><span
-                                class="w-2 h-2 rounded-full bg-green-500 mr-2"></span>Correct</div>
-                        <div class="flex items-center"><span
-                                class="w-2 h-2 rounded-full bg-red-500 mr-2"></span>Incorrect</div>
-                        <div class="flex items-center"><span
-                                class="w-2 h-2 rounded-full bg-orange-500 mr-2"></span>Flagged</div>
-                    </div>
-
-                    <button id="finish-test-btn"
-                        class="w-full bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-4 rounded-xl shadow-md transition transform hover:scale-[1.02] disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none">
-                        Finish & Grade
-                    </button>
-                    <button id="reset-progress-btn"
-                        class="w-full mt-3 text-sm text-center text-secondary hover:text-red-500 transition">
-                        Reset Progress
-                    </button>
-                </div>
             </aside>
 
             <main class="lg:col-span-9">
@@ -399,6 +444,40 @@
                             </div>
 
                             <div id="question-container" class="max-w-3xl mx-auto"></div>
+
+                            <!-- Flashcard Container (Hidden by default) -->
+                            <div id="flashcard-container"
+                                class="max-w-3xl mx-auto hidden perspective-1000 h-[500px] cursor-pointer group">
+                                <div id="flashcard-inner"
+                                    class="relative w-full h-full transition-transform duration-700 transform-style-3d">
+                                    <!-- Front -->
+                                    <div
+                                        class="flashcard-front absolute w-full h-full backface-hidden card p-8 flex flex-col justify-center items-center text-center rounded-2xl shadow-xl border-2 border-transparent hover:border-accent">
+                                        <div class="text-xs font-bold uppercase tracking-wider text-secondary mb-4">
+                                            Question</div>
+                                        <div id="flashcard-front-content" class="text-xl font-medium leading-relaxed">
+                                        </div>
+                                        <div class="mt-8 text-sm text-accent font-semibold animate-pulse">Click to Flip
+                                            ↻</div>
+                                    </div>
+
+                                    <!-- Back -->
+                                    <div
+                                        class="flashcard-back absolute w-full h-full backface-hidden rotate-y-180 card p-8 flex flex-col rounded-2xl shadow-xl overflow-y-auto">
+                                        <div class="text-xs font-bold uppercase tracking-wider text-green-600 mb-2">
+                                            Answer</div>
+                                        <div id="flashcard-back-answer" class="text-lg font-bold mb-6 text-green-700">
+                                        </div>
+
+                                        <div class="w-full h-px bg-gray-200 dark:bg-gray-700 mb-6"></div>
+
+                                        <div class="text-xs font-bold uppercase tracking-wider text-secondary mb-2">
+                                            Explanation</div>
+                                        <div id="flashcard-back-explanation"
+                                            class="text-base text-secondary leading-relaxed"></div>
+                                    </div>
+                                </div>
+                            </div>
 
                             <div id="slide-display-container" class="mt-8 p-6 rounded-xl subtle-card hidden border-l-4"
                                 style="border-color: var(--accent-color)">

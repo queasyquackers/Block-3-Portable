@@ -35,6 +35,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const testStates = {};
     let currentTestName = '';
     let performanceChart = null;
+    let isFlashcardMode = false;
+    let isTimeAttackMode = false;
+    const TIME_ATTACK_DURATION = 480; // 8 minutes in seconds
 
     const getCurrentTestState = () => {
         if (!currentTestName || !testStates[currentTestName]) return null;
@@ -159,6 +162,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function switchToTest(testName) {
         if (currentTestName && testStates[currentTestName]) {
+            pauseTimer(); // Stop previous timer to prevent overlap
             saveState();
         }
 
@@ -223,13 +227,18 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function loadTest(testObject) {
+        // If in Flashcard mode, exit it first to restore UI
+        if (isFlashcardMode) {
+            toggleFlashcardMode(false);
+        }
+
         if (!testStates[testObject.name]) {
             testStates[testObject.name] = {
                 questions: testObject.data,
                 currentQuestionIndex: 0,
                 userAnswers: [],
                 flaggedQuestions: new Set(),
-                timer: { interval: null, startTime: 0, elapsedTime: 0, isRunning: false },
+                timer: { interval: null, startTime: 0, elapsedTime: 0, isRunning: false, isCountdown: false, duration: 0 },
                 examFinished: false,
                 currentSummaryStats: {}
             };
@@ -473,6 +482,11 @@ document.addEventListener('DOMContentLoaded', () => {
         slideContainer.classList.add('hidden');
         slidePlaceholder.innerHTML = ''; // Clear placeholder content
 
+        if (isFlashcardMode) {
+            renderFlashcard();
+            return;
+        }
+
         getEl('question-counter').textContent = `Question ${state.currentQuestionIndex + 1} of ${state.questions.length}`;
 
         // Update Progress Bar
@@ -538,7 +552,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const pearlContainer = document.createElement('div');
             // Premium Card Design: Amber/Gold theme for "Gold Standard" knowledge
             pearlContainer.className = "mt-6 mb-4 overflow-hidden rounded-xl bg-white dark:bg-[#073642] border border-[#d3d0c8] dark:border-orange-500/30 shadow-sm dark:shadow-[0_2px_8px_-1px_rgba(249,115,22,0.1)] group relative transition-colors duration-300";
-            
+
             pearlContainer.innerHTML = `
                 <div class="absolute top-0 left-0 w-1.5 h-full bg-gradient-to-b from-orange-400 to-orange-600"></div>
                 <div class="p-5 flex gap-4">
@@ -720,8 +734,30 @@ document.addEventListener('DOMContentLoaded', () => {
         const state = getCurrentTestState();
         if (!state) return;
         const now = Date.now();
-        const totalElapsed = state.timer.elapsedTime + (now - state.timer.startTime);
-        getEl('timer-display').textContent = formatTime(Math.floor(totalElapsed / 1000));
+
+        if (state.timer.isCountdown) {
+            // Time Attack Logic
+            const timePassed = (now - state.timer.startTime);
+            const remaining = Math.max(0, state.timer.duration - timePassed);
+
+            getEl('timer-display').textContent = formatTime(Math.floor(remaining / 1000));
+
+            // Visual Urgency
+            if (remaining < 60000) { // Less than 1 minute
+                getEl('timer-display').classList.add('text-red-600', 'animate-pulse');
+            } else {
+                getEl('timer-display').classList.remove('text-red-600', 'animate-pulse');
+            }
+
+            if (remaining <= 0) {
+                finishTest(); // Auto-finish
+                alert("Time's Up! Pencils down!");
+            }
+        } else {
+            // Standard Stopwatch Logic
+            const totalElapsed = state.timer.elapsedTime + (now - state.timer.startTime);
+            getEl('timer-display').textContent = formatTime(Math.floor(totalElapsed / 1000));
+        }
     };
 
     const startTimer = () => {
@@ -815,7 +851,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const state = getCurrentTestState();
         if (!state || state.examFinished) return;
         const index = state.currentQuestionIndex;
-        
+
         if (state.flaggedQuestions.has(index)) {
             state.flaggedQuestions.delete(index);
         } else {
@@ -825,9 +861,9 @@ document.addEventListener('DOMContentLoaded', () => {
         // Optimized UI Update (No Re-render)
         const flagBtn = getEl('flag-question-btn');
         const flagText = getEl('flag-btn-text');
-        
+
         if (flagBtn && flagText) {
-             if (state.flaggedQuestions.has(index)) {
+            if (state.flaggedQuestions.has(index)) {
                 flagText.textContent = 'Flagged';
                 flagBtn.classList.add('text-yellow-500');
             } else {
@@ -835,7 +871,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 flagBtn.classList.remove('text-yellow-500');
             }
         }
-        
+
         // Update Sidebar Dot
         updateSidebarState(); // Ensure this updates immediately
 
@@ -847,7 +883,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const selectedButton = e.target.closest('button[data-index]');
         // If no button found, or if it's not a data-index button, exit
         if (!selectedButton) return;
-        
+
         const selectedIndex = parseInt(selectedButton.dataset.index);
         selectOption(selectedIndex);
     };
@@ -1324,14 +1360,14 @@ document.addEventListener('DOMContentLoaded', () => {
         if (index >= state.questions[state.currentQuestionIndex].options.length) return;
 
         state.userAnswers[state.currentQuestionIndex].selectedIndex = index;
-        
+
         // Optimized DOM Update
         const allOpts = document.querySelectorAll('.option-btn');
         allOpts.forEach(btn => btn.classList.remove('option-btn-selected'));
-        
+
         const targetBtn = document.querySelector(`.option-btn[data-index="${index}"]`);
         if (targetBtn) targetBtn.classList.add('option-btn-selected');
-        
+
         updateSidebarState(); // Update sidebar dots
         saveState();
     }
@@ -1413,6 +1449,238 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     renderKeyboardShortcuts();
+
+    renderKeyboardShortcuts();
+
+    // --- FLASHCARD MODE LOGIC ---
+    const startFlashcardSession = () => {
+        // 1. Collect all questions
+        let allQuestions = [];
+        testsToLoad.forEach(test => {
+            if (test.data && Array.isArray(test.data)) {
+                const questionsWithContext = test.data.map(q => ({
+                    ...q,
+                    category: `${q.category} (${test.name})`
+                }));
+                allQuestions = allQuestions.concat(questionsWithContext);
+            }
+        });
+
+        if (allQuestions.length === 0) {
+            alert("No questions found.");
+            return;
+        }
+
+        // 2. Shuffle & Select 20
+        for (let i = allQuestions.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [allQuestions[i], allQuestions[j]] = [allQuestions[j], allQuestions[i]];
+        }
+        const selectedQuestions = allQuestions.slice(0, 20);
+
+        // 3. Load Test
+        const flashcardTest = {
+            name: "Flashcards",
+            displayName: "🃏 Flashcards (20 Random)",
+            data: selectedQuestions
+        };
+
+        // Clear previous state if needed
+        if (testStates["Flashcards"]) delete testStates["Flashcards"];
+        loadTest(flashcardTest);
+
+        // 4. Activate Mode
+        if (!isFlashcardMode) {
+            toggleFlashcardMode(true);
+        } else {
+            // If already in mode, just refresh display
+            displayQuestion();
+        }
+    };
+
+    const toggleFlashcardMode = (forceActive = null) => {
+        if (forceActive !== null) isFlashcardMode = forceActive;
+        else isFlashcardMode = !isFlashcardMode;
+
+        const btn = getEl('flashcard-mode-btn');
+        const qContainer = getEl('question-container');
+        const fContainer = getEl('flashcard-container');
+        const sidebar = document.querySelector('aside');
+        const mainContent = document.getElementById('main-content-area');
+
+        if (isFlashcardMode) {
+            btn.classList.add('bg-indigo-100', 'text-indigo-700', 'border-indigo-300');
+            qContainer.classList.add('hidden');
+            fContainer.classList.remove('hidden');
+
+            // Sidebar remains visible as per user request
+            // if (sidebar) sidebar.classList.add('hidden');
+            // if (mainContent) {
+            //     mainContent.classList.remove('md:col-span-3');
+            //     mainContent.classList.add('md:col-span-4'); 
+            // }
+
+            displayQuestion();
+        } else {
+            btn.classList.remove('bg-indigo-100', 'text-indigo-700', 'border-indigo-300');
+            qContainer.classList.remove('hidden');
+            fContainer.classList.add('hidden');
+
+            // Sidebar is always visible now
+            // if (sidebar) sidebar.classList.remove('hidden');
+            // if (mainContent) {
+            //     mainContent.classList.add('md:col-span-3');
+            //     mainContent.classList.remove('md:col-span-4');
+            // }
+
+            displayQuestion();
+        }
+    };
+
+    const renderFlashcard = () => {
+        const state = getCurrentTestState();
+        if (!state) return;
+        const question = state.questions[state.currentQuestionIndex];
+
+        getEl('flashcard-front-content').innerHTML = question.questionText;
+
+        // Show 3 options (Correct + 2 Random Distractors) to aid guessing
+        if (question.options && question.options.length >= 3) {
+            const correctIndex = question.correctAnswerIndex;
+            const otherIndices = question.options.map((_, i) => i).filter(i => i !== correctIndex);
+
+            // Shuffle distractors
+            for (let i = otherIndices.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [otherIndices[i], otherIndices[j]] = [otherIndices[j], otherIndices[i]];
+            }
+
+            // Pick 2 distractors
+            const selectedIndices = [correctIndex, ...otherIndices.slice(0, 2)];
+
+            // Shuffle selected options for display so correct answer isn't always first
+            for (let i = selectedIndices.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [selectedIndices[i], selectedIndices[j]] = [selectedIndices[j], selectedIndices[i]];
+            }
+
+            let optionsHtml = '<div class="mt-6 space-y-2 text-left w-full max-w-md">';
+            selectedIndices.forEach(idx => {
+                optionsHtml += `
+                    <div class="p-3 rounded-lg bg-white/50 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700 text-sm text-secondary">
+                        <span class="font-bold mr-2">${String.fromCharCode(65 + idx)}.</span> ${question.options[idx].text}
+                    </div>`;
+            });
+            optionsHtml += '</div>';
+
+            getEl('flashcard-front-content').innerHTML += optionsHtml;
+        }
+
+        // Prepare Back Content
+        const correctOpt = question.options[question.correctAnswerIndex];
+        let backHtml = `<div class="text-lg font-bold mb-4 text-green-700">${String.fromCharCode(65 + question.correctAnswerIndex)}. ${correctOpt.text}</div>`;
+        backHtml += `<div class="w-full h-px bg-gray-200 dark:bg-gray-700 mb-4"></div>`;
+        backHtml += `<div class="text-base text-secondary leading-relaxed mb-4">${correctOpt.explanation}</div>`;
+
+        if (question.clinicalPearl) {
+            backHtml += `
+                <div class="mt-4 p-3 bg-blue-50 dark:bg-blue-900/30 border-l-4 border-blue-500 rounded-r text-sm">
+                    <strong class="block text-blue-700 dark:text-blue-300 mb-1">💡 Clinical Pearl</strong>
+                    <span class="text-blue-800 dark:text-blue-200">${question.clinicalPearl}</span>
+                </div>
+             `;
+        }
+
+        getEl('flashcard-back-answer').innerHTML = backHtml;
+        // Clear old explanation container since we merged it
+        getEl('flashcard-back-explanation').innerHTML = '';
+
+        // Reset Flip
+        getEl('flashcard-inner').classList.remove('flip');
+
+        // Sync Question Navigator
+        updateSidebarState();
+
+        // Update Counter
+        getEl('question-counter').textContent = `Card ${state.currentQuestionIndex + 1} of ${state.questions.length}`;
+    };
+
+    const flipCard = () => {
+        getEl('flashcard-inner').classList.toggle('flip');
+    };
+
+    // Event Listeners for Flashcard
+    const flashcardBtn = getEl('flashcard-mode-btn');
+    if (flashcardBtn) {
+        flashcardBtn.removeEventListener('click', toggleFlashcardMode);
+        flashcardBtn.addEventListener('click', startFlashcardSession);
+    }
+
+    const flashcardContainer = getEl('flashcard-container');
+    if (flashcardContainer) flashcardContainer.addEventListener('click', flipCard);
+
+    // --- TIME ATTACK LOGIC ---
+    const startTimeAttack = () => {
+        // 1. Collect all questions (reuse Master Review logic mostly)
+        let allQuestions = [];
+        testsToLoad.forEach(test => {
+            if (test.data && Array.isArray(test.data)) {
+                const questionsWithContext = test.data.map(q => ({
+                    ...q,
+                    category: `${q.category} (${test.name})`
+                }));
+                allQuestions = allQuestions.concat(questionsWithContext);
+            }
+        });
+
+        if (allQuestions.length === 0) {
+            alert("No questions found.");
+            return;
+        }
+
+        // 2. Shuffle
+        for (let i = allQuestions.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [allQuestions[i], allQuestions[j]] = [allQuestions[j], allQuestions[i]];
+        }
+
+        // 3. Select 20
+        const selectedQuestions = allQuestions.slice(0, 20);
+
+        // 4. Create Test Object
+        const timeAttackTest = {
+            name: "Time Attack",
+            displayName: "⚡ Time Attack (5 min)",
+            data: selectedQuestions
+        };
+
+        // 5. Load it
+        // Clear previous progress
+        const LOCAL_STORAGE_KEY = `examProgress_Time Attack`;
+        localStorage.removeItem(LOCAL_STORAGE_KEY);
+        if (testStates["Time Attack"]) delete testStates["Time Attack"];
+
+        loadTest(timeAttackTest);
+
+        // 6. Configure Timer for Countdown
+        const state = testStates["Time Attack"];
+        state.timer.isCountdown = true;
+        state.timer.duration = TIME_ATTACK_DURATION * 1000;
+
+        // 7. Auto-start
+        startTimer();
+
+        // 8. Ensure we are not in flashcard mode
+        if (isFlashcardMode) toggleFlashcardMode();
+    };
+
+    const timeAttackBtn = getEl('time-attack-btn');
+    if (timeAttackBtn) timeAttackBtn.addEventListener('click', startTimeAttack);
+
+    // Sidebar Event Listeners
+    getEl('flashcard-mode-btn-sidebar')?.addEventListener('click', startFlashcardSession);
+    getEl('time-attack-btn-sidebar')?.addEventListener('click', startTimeAttack);
+    getEl('master-review-btn-sidebar')?.addEventListener('click', startMasterReview);
 
 });
 

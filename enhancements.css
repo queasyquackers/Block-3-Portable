@@ -8,7 +8,8 @@
     --font-heading: 'Outfit', sans-serif;
     --font-body: 'Inter', sans-serif;
     --glass-border: rgba(255, 255, 255, 0.2);
-    --glass-bg: rgba(238, 232, 213, 0.75); /* Solarized Beige Glass */
+    --glass-bg: rgba(238, 232, 213, 0.75);
+    /* Solarized Beige Glass */
     --glass-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
 }
 
@@ -16,7 +17,7 @@
 nav.card {
     position: relative !important;
     transform: none !important;
-    transition: none !important; 
+    transition: none !important;
     top: auto !important;
 }
 
@@ -38,8 +39,10 @@ h4,
 h5,
 h6 {
     font-family: var(--font-heading);
-    letter-spacing: -0.02em; /* Tighter tracking for modern look */
-    text-shadow: 0 1px 2px rgba(0,0,0,0.05); /* Subtle depth */
+    letter-spacing: -0.02em;
+    /* Tighter tracking for modern look */
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+    /* Subtle depth */
 }
 
 /* 3. Glassmorphism Utilities */
@@ -96,8 +99,15 @@ h6 {
 }
 
 @keyframes pulseSoft {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.7; }
+
+    0%,
+    100% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.7;
+    }
 }
 
 .animate-pulse-soft {
@@ -105,17 +115,41 @@ h6 {
 }
 
 @keyframes shake {
-    0%, 100% { transform: translateX(0); }
-    20% { transform: translateX(-4px); }
-    40% { transform: translateX(4px); }
-    60% { transform: translateX(-2px); }
-    80% { transform: translateX(2px); }
+
+    0%,
+    100% {
+        transform: translateX(0);
+    }
+
+    20% {
+        transform: translateX(-4px);
+    }
+
+    40% {
+        transform: translateX(4px);
+    }
+
+    60% {
+        transform: translateX(-2px);
+    }
+
+    80% {
+        transform: translateX(2px);
+    }
 }
 
 @keyframes pop {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.03); }
-    100% { transform: scale(1); }
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.03);
+    }
+
+    100% {
+        transform: scale(1);
+    }
 }
 
 /* 6. Component Enhancements */
@@ -127,7 +161,8 @@ h6 {
 }
 
 .card:hover {
-    box-shadow: var(--shadow-lg), 0 0 20px rgba(38, 139, 210, 0.05); /* Added glow */
+    box-shadow: var(--shadow-lg), 0 0 20px rgba(38, 139, 210, 0.05);
+    /* Added glow */
 }
 
 /* Buttons */
@@ -234,7 +269,8 @@ body.dark-mode .explanation-incorrect {
 /* Visual Aid Box Styling */
 #slide-display-container {
     font-family: var(--font-body);
-    background-color: var(--glass-bg); /* Glass-like */
+    background-color: var(--glass-bg);
+    /* Glass-like */
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
     color: var(--text-primary);
@@ -274,17 +310,17 @@ body.dark-mode .explanation-incorrect {
     line-height: 1.6;
     padding: 1.25rem;
     border-radius: 0.5rem;
-    
+
     /* POP EFFECT: Semi-transparent white background */
     background-color: rgba(255, 255, 255, 0.65) !important;
-    
+
     /* POP EFFECT: Accent border on the left */
     border: 1px solid var(--border-color) !important;
     border-left: 5px solid var(--accent-color) !important;
-    
+
     /* POP EFFECT: Stronger shadow */
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
-    
+
     color: var(--text-primary) !important;
 }
 
@@ -316,13 +352,19 @@ body.dark-mode .image-context-header {
     background-size: 200% 100%;
     width: 0%;
     transition: width 0.5s ease-out;
-    box-shadow: 0 0 10px rgba(51, 204, 255, 0.5); /* Matching cyan glow */
+    box-shadow: 0 0 10px rgba(51, 204, 255, 0.5);
+    /* Matching cyan glow */
     animation: rainbowMove 2s linear infinite;
 }
 
 @keyframes rainbowMove {
-    0% { background-position: 100% 0; }
-    100% { background-position: -100% 0; }
+    0% {
+        background-position: 100% 0;
+    }
+
+    100% {
+        background-position: -100% 0;
+    }
 }
 
 /* Finish Button Special Styling */
@@ -340,15 +382,23 @@ body.dark-mode .image-context-header {
     left: -150%;
     width: 60%;
     height: 100%;
-    background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(255,255,255,0.3) 50%, rgba(255,255,255,0) 100%);
+    background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.3) 50%, rgba(255, 255, 255, 0) 100%);
     transform: skewX(-25deg);
     animation: sheen 3s infinite;
 }
 
 @keyframes sheen {
-    0% { left: -150%; }
-    20% { left: 150%; }
-    100% { left: 150%; }
+    0% {
+        left: -150%;
+    }
+
+    20% {
+        left: 150%;
+    }
+
+    100% {
+        left: 150%;
+    }
 }
 
 #finish-test-btn:hover {
@@ -457,29 +507,29 @@ body.dark-mode .week-dropdown-panel .test-item-btn:hover {
 }
 
 /* --- UPDATED: QUESTION STEM (MAIN QUESTION) --- */
-#question-container > p {
+#question-container>p {
     font-size: 1.15rem;
     font-weight: 500;
     line-height: 1.7;
-    
+
     /* POP EFFECT: Semi-transparent white background (same as context box) */
     background-color: rgba(255, 255, 255, 0.65) !important;
-    
+
     /* POP EFFECT: Accent border on the left */
     border: 1px solid var(--border-color) !important;
     border-left: 5px solid var(--accent-color) !important;
-    
+
     /* POP EFFECT: Stronger shadow */
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
-    
+
     color: var(--text-primary) !important;
-    
+
     padding: 1.5rem;
     border-radius: 0.5rem;
     margin-bottom: 2rem;
 }
 
-body.dark-mode #question-container > p {
+body.dark-mode #question-container>p {
     background-color: rgba(0, 0, 0, 0.3) !important;
     border-color: var(--border-color) !important;
     border-left-color: var(--accent-color) !important;
@@ -526,8 +576,15 @@ body.dark-mode #flag-question-btn.text-yellow-500 {
 
 /* Welcome Screen Button Pulse */
 @keyframes pulse-subtle {
-    0%, 100% { transform: scale(1); }
-    50% { transform: scale(1.02); }
+
+    0%,
+    100% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.02);
+    }
 }
 
 #start-practice-btn {
@@ -536,27 +593,118 @@ body.dark-mode #flag-question-btn.text-yellow-500 {
 
 /* Staggered Animation for Question Options */
 @keyframes slideInUp {
-    from { opacity: 0; transform: translateY(10px); }
-    to { opacity: 1; transform: translateY(0); }
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 .animate-slide-entry {
     animation: slideInUp 0.3s ease-out backwards;
 }
 
-#question-container .space-y-3 > div {
+#question-container .space-y-3>div {
     animation: slideInUp 0.4s ease-out backwards;
 }
 
-#question-container .space-y-3 > div:nth-child(1) { animation-delay: 0.05s; }
-#question-container .space-y-3 > div:nth-child(2) { animation-delay: 0.1s; }
-#question-container .space-y-3 > div:nth-child(3) { animation-delay: 0.15s; }
-#question-container .space-y-3 > div:nth-child(4) { animation-delay: 0.2s; }
-#question-container .space-y-3 > div:nth-child(5) { animation-delay: 0.25s; }
+#question-container .space-y-3>div:nth-child(1) {
+    animation-delay: 0.05s;
+}
+
+#question-container .space-y-3>div:nth-child(2) {
+    animation-delay: 0.1s;
+}
+
+#question-container .space-y-3>div:nth-child(3) {
+    animation-delay: 0.15s;
+}
+
+#question-container .space-y-3>div:nth-child(4) {
+    animation-delay: 0.2s;
+}
+
+#question-container .space-y-3>div:nth-child(5) {
+    animation-delay: 0.25s;
+}
 
 /* Sidebar Button Zoom */
 .q-grid-btn:hover {
     transform: scale(1.15);
     z-index: 10;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* --- FLASHCARD MODE --- */
+.perspective-1000 {
+    perspective: 1000px;
+}
+
+.transform-style-3d {
+    transform-style: preserve-3d;
+}
+
+.backface-hidden {
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+    transform: rotateY(180deg);
+}
+
+.flashcard-front,
+.flashcard-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+}
+
+/* Flip Class to be toggled via JS */
+.flip {
+    transform: rotateY(180deg);
+}
+/* Theme Toggle Animation */
+#dark-mode-toggle {
+    transition: transform 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55), background-color 0.3s;
+}
+
+#dark-mode-toggle:active {
+    transform: scale(0.9) rotate(180deg);
+}
+
+#dark-mode-toggle svg {
+    transition: transform 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+}
+
+.dark-mode #dark-mode-toggle svg {
+    transform: rotate(360deg);
+}
+
+/* Theme Toggle Animation */
+#dark-mode-toggle {
+    transition: transform 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55), background-color 0.3s;
+}
+
+#dark-mode-toggle:active {
+    transform: scale(0.9) rotate(180deg);
+}
+
+#dark-mode-toggle svg {
+    transition: transform 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+}
+
+.dark-mode #dark-mode-toggle svg {
+    transform: rotate(360deg);
+}
+
+/* Hide Old Header Buttons */
+#flashcard-mode-btn, #time-attack-btn, #master-review-btn {
+    display: none !important;
 }

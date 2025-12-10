@@ -185,9 +185,6 @@ document.addEventListener('DOMContentLoaded', () => {
         let reviewQuestions = [];
 
         // Find the actual question objects
-        // This requires inefficiently searching all testsToLoad.
-        // Given <50 tests, it's fine.
-
         list.forEach(key => {
             const [tName, qId] = key.split('|');
             const testObj = testsToLoad.find(t => t.name === tName);
@@ -218,7 +215,12 @@ document.addEventListener('DOMContentLoaded', () => {
             data: reviewQuestions
         };
 
+        // --- FIX: ALWAYS FRESH START ---
+        // Clear any previous progress for Global Review to ensure we don't load stale state
+        const PROGRESS_KEY = `examProgress_Global Review`;
+        localStorage.removeItem(PROGRESS_KEY);
         if (testStates["Global Review"]) delete testStates["Global Review"];
+
         loadTest(reviewTest);
     };
 

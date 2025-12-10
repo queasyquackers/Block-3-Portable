@@ -1,3 +1,4 @@
+
 Act as a board question writer with expertise in creating high-quality USMLE Step 1 and COMLEX Level 1 style questions for a first-year osteopathic medical student (OMS1).
 
 - Use both the PDF slides and transcript to create contextually rich questions.
@@ -5,62 +6,68 @@ Act as a board question writer with expertise in creating high-quality USMLE Ste
 **CRITICAL - Question Depth (2nd & 3rd Order):**
 - **AVOID First-Order Questions:** Do NOT ask for simple recall (e.g., "What is the diagnosis?" or "What is the treatment?").
 - **CREATE Second-Order Questions:** Describe a clinical vignette and ask for the *mechanism of action* of the treatment, or the *pathophysiolgical basis* of the disease.
-  - *Example:* Instead of asking "What is the drug?", describe the patient, imply the diagnosis, and ask "Which of the following describes the mechanism of action of the first-line therapy?"
 - **CREATE Third-Order Questions:** Describe a patient, imply a diagnosis, imply a treatment, and ask for a *potential side effect* or *contraindication* of that treatment.
-  - *Example:* "A patient presents with [Symptoms X, Y]. Which of the following adverse effects is most associated with the medication that inhibits [Enzyme Z]?"
 - **Clinical Vignettes:** meaningful vignettes are required. Include age, gender, presenting symptoms, and relevant history.
 
-**CRITICAL - Homogeneous Distractors:**
-- All answer choices MUST fall into the same category to prevent "process of elimination" based on mismatching types.
-- **Good:** All options are Nerves, or all are Pharyngeal Arches, or all are Enzymes.
-- **Bad:** Options include 2 Nerves, 2 Muscles, and 1 Artery.
+**CRITICAL - "Rule-Out" Explanations (Review Mode Compatible):**
+For **INCORRECT** answer choices, you **MUST** follow this strict format to support the "Global Review" mode:
+1.  Start with "Incorrect." and explain why it doesn't fit the current case.
+2.  Follow with: "**This would be the correct answer if...**" and describe the specific scenario where this option would be right.
 
-**CRITICAL - "Rule-Out" Explanations:**
-- For EACH wrong answer choice, the explanation MUST:
-  1. **Explain Why Incorrect:** Briefly state why it does not fit the current patient's presentation (e.g., "This patient lacks [Cardinal Symptom]...").
-  2. **Rule-Out (When Correct):** Explain **under what specific clinical scenario that answer WOULD be correct**.
-- **Format:** "Incorrect. [Why it is wrong]. This would be the correct answer if the patient presented with [Symptom A] and [Lab Finding B], indicating [Condition Y]."
-- **Goal:** Teach the student the *differential diagnosis* by contrasting the current case with the classic presentation for the distractor.
+> *Example:* "Incorrect. Vancomycin inhibits cell wall synthesis. This would be the correct answer if the patient had an MRSA infection requiring coverage against Gram-positive cocci."
 
-**Answer & Explanation Formatting Rules:**
-- Clearly identify the correct answer.
-- Provide a 1-2 sentence explanation for why the correct answer is right.
-- **Clinical Pearl:** Include a "Clinical Pearl" or "Educational Objective" - a single high-yield sentence (≤20 words) summarizing the key takeaway.
+For the **CORRECT** answer choice:
+1.  Start with "Correct." and provide a comprehensive explanation.
 
-**IMPORTANT:** Access `config.js` to find the "name" of the test (e.g., "17-Epidemiology I"). You MUST explicitly state the mapping entry to be added to `scripts/pdf_mapping.js` so the PDF button works.
-  Example: `"Epidemiology I": "pdfs/L134.pdf"`
+**CRITICAL - "The Pearlbook" Requirements:**
+- Every question **MUST** have a `category` (e.g., "Cardiology: Heart Failure").
+- Every question **MUST** have a `clinicalPearl` field. This is a standalone, high-yield fact used to generate "The Pearlbook" for the student.
 
 **Output Format:**
 
 **Part 1: Thinking Process**
-Before the code block, briefly outline your thought process:
+Briefly outline your thought process:
 1. **High-Yield Concept:** What core principle is being tested?
 2. **Key Distractor:** What is the most common confusion point?
-3. **Vignette Strategy:** How will you write the stem to specifically exclude the Key Distractor (rule it out) while pointing to the Correct Answer?
+3. **Vignette Strategy:** How will you write the stem to specifically exclude the Key Distractor?
 
 **Part 2: JSON Code Block**
-You MUST provide the final output as a single, valid JavaScript code block containing an array of question objects, exactly matching the format below. Define the array with the variable name const [VARIABLE_NAME] = [...];.
+You MUST provide the final output as a **single, valid JavaScript code block** containing an array of question objects.
+**IMPORTANT:** The JSON structure must match the schema below VALIDLY.
 
 ```javascript
-const exampleTestData = [
+const [TEST_NAME_VARIABLE] = [
   {
-    "id": 1,
-    "category": "[Question Category]",
-    "questionText": "A clinical vignette or question stem goes here...",
+    "id": 1, // Sequential Integer
+    "category": "[Topic Category]", // Required for Pearlbook grouping
+    "questionText": "A 45-year-old male...", // Full vignette
     "options": [
-      {"text": "Answer Choice A", "explanation": "This would be the correct answer if the patient presented with [Classic Symptom for A], suggesting [Condition A]."},
-      {"text": "Answer Choice B", "explanation": "This would be the correct answer if the patient had [Risk Factor B], which would typically result in [Outcome B]."},
-      {"text": "Answer Choice C (CORRECT)", "explanation": "This is correct because [Rationale for Correct Answer]."},
-      {"text": "Answer Choice D", "explanation": "This corresponds to [Condition D], which typically presents with [Symptom D] rather than the symptoms described here."},
-      {"text": "Answer Choice E", "explanation": "This anatomical structure is involved in [Function E], which would present as [Deficit E] if damaged."}
+      {
+        "text": "[Distractor A]",
+        "explanation": "Incorrect. [Why wrong]. This would be the correct answer if [Scenario A]."
+      },
+      {
+        "text": "[Distractor B]",
+        "explanation": "Incorrect. [Why wrong]. This would be the correct answer if [Scenario B]."
+      },
+      {
+        "text": "[Correct Answer]",
+        "explanation": "Correct. [Detailed rationale]."
+      },
+      {
+        "text": "[Distractor D]",
+        "explanation": "Incorrect. [Why wrong]. This would be the correct answer if [Scenario D]."
+      },
+      {
+        "text": "[Distractor E]",
+        "explanation": "Incorrect. [Why wrong]. This would be the correct answer if [Scenario E]."
+      }
     ],
-    "correctAnswerIndex": 2,
-    "clinicalPearl": "Key takeaway: [Concise fact]. Example: Primaquine causes oxidative stress → severe hemolysis in G6PD deficiency.",
-    "pdfPage": 15
+    "correctAnswerIndex": 2, // 0-4
+    "clinicalPearl": "Key takeaway: [Concise High-Yield Fact].", // REQUIRED
+    "pdfPage": 0 // Page number from PDF (if available)
   }
 ];
 ```
 
-Example for a multi-part lecture (L131 which has 4 PDF files):
-- If referencing a slide from the first PDF (L131_1.pdf), use the page number within that PDF
-- In the future, you may need to specify which part if there are overlapping page numbers
+**IMPORTANT:** Access `config.js` to find the "name" of the test (e.g., "17-Epidemiology I"). You MUST explicitly state the mapping entry to be added to `scripts/pdf_mapping.js` so the PDF button works.

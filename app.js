@@ -82,6 +82,149 @@ document.addEventListener('DOMContentLoaded', () => {
         `;
     };
 
+    // --- Pearlbook Logic ---
+    const openPearlbook = () => {
+        const state = getCurrentTestState();
+        if (!state || !state.questions) return;
+
+        const container = getEl('pearlbook-content');
+        container.innerHTML = '';
+        
+        // Group by Category
+        const pearlsByCategory = {};
+        state.questions.forEach(q => {
+             if (q.clinicalPearl) {
+                 const cat = q.category || "General";
+                 if (!pearlsByCategory[cat]) pearlsByCategory[cat] = [];
+                 pearlsByCategory[cat].push(q.clinicalPearl);
+             }
+        });
+
+        if (Object.keys(pearlsByCategory).length === 0) {
+            container.innerHTML = `<div class="text-center text-secondary py-10">No Clinical Pearls found for this exam section.</div>`;
+        } else {
+            Object.entries(pearlsByCategory).forEach(([category, pearls]) => {
+                const section = document.createElement('div');
+                section.className = "mb-8";
+                section.innerHTML = `
+                    <h3 class="pearl-category-header text-lg font-bold text-accent mb-4 sticky bg-white/90 dark:bg-slate-900/90 py-2 px-1">${category}</h3>
+                    <div class="space-y-4">
+                        ${pearls.map(pearl => renderClinicalPearl(pearl)).join('')}
+                    </div>
+                `;
+                container.appendChild(section);
+            });
+        }
+
+        getEl('pearlbook-modal').classList.remove('hidden');
+    };
+    
+    // Close Pearlbook
+    getEl('close-pearlbook-btn')?.addEventListener('click', () => {
+        getEl('pearlbook-modal').classList.add('hidden');
+    });
+    getEl('pearlbook-backdrop')?.addEventListener('click', () => {
+        getEl('pearlbook-modal').classList.add('hidden');
+    });
+    getEl('pearlbook-btn')?.addEventListener('click', openPearlbook);
+
+
+    // --- Global Review Logic ---
+    const GLOBAL_REVIEW_KEY = 'medStudy_globalIncorrects';
+
+    const getGlobalIncorrects = () => {
+        const stored = localStorage.getItem(GLOBAL_REVIEW_KEY);
+        return stored ? JSON.parse(stored) : []; // Array of "TestName|QuestionID"
+    };
+
+    const updateGlobalIncorrect = (testName, questionId, isCorrect) => {
+        // We need questionId (or index if ID missing) to track specifics
+        // Assuming Question objects have unique IDs or we use index as fallback if stable
+        // For robustness, we'll try to use Question ID, fallback to Question Text Hash? 
+        // Let's rely on Question ID if available, else TestName_Index.
+        
+        const qKey = `${testName}|${questionId}`;
+        let list = getGlobalIncorrects();
+        const exists = list.includes(qKey);
+
+        if (!isCorrect && !exists) {
+            list.push(qKey);
+            localStorage.setItem(GLOBAL_REVIEW_KEY, JSON.stringify(list));
+            updateGlobalReviewButton();
+        } else if (isCorrect && exists) {
+            list = list.filter(id => id !== qKey);
+            localStorage.setItem(GLOBAL_REVIEW_KEY, JSON.stringify(list));
+            updateGlobalReviewButton();
+        }
+    };
+
+    const updateGlobalReviewButton = () => {
+        const list = getGlobalIncorrects();
+        const btn = getEl('global-review-btn-sidebar');
+        const countSpan = getEl('global-review-count');
+        
+        if (btn) {
+            if (list.length > 0) {
+                btn.classList.remove('hidden');
+                btn.classList.add('flex'); // Ensure flex display
+                if (countSpan) countSpan.textContent = list.length;
+            } else {
+                btn.classList.add('hidden');
+                btn.classList.remove('flex');
+            }
+        }
+    };
+
+    const startGlobalReview = () => {
+        const list = getGlobalIncorrects();
+        if (list.length === 0) {
+            alert("No incorrect questions tracked yet! Great job!");
+            return;
+        }
+
+        let reviewQuestions = [];
+        
+        // Find the actual question objects
+        // This requires inefficiently searching all testsToLoad.
+        // Given <50 tests, it's fine.
+        
+        list.forEach(key => {
+            const [tName, qId] = key.split('|');
+            const testObj = testsToLoad.find(t => t.name === tName);
+            if (testObj && testObj.data) {
+                const q = testObj.data.find(item => String(item.id) === qId);
+                if (q) {
+                    reviewQuestions.push({
+                        ...q,
+                        category: `${q.category} (Review: ${tName})`,
+                        originalTestName: tName // Store source to update correctness later
+                    });
+                }
+            }
+        });
+
+        if (reviewQuestions.length === 0) {
+            // IDs might be stale if content changed
+            alert("Could not load saved questions (data mismatch). Clearing list.");
+            localStorage.setItem(GLOBAL_REVIEW_KEY, JSON.stringify([]));
+            updateGlobalReviewButton();
+            return;
+        }
+
+        // Create Session
+        const reviewTest = {
+            name: "Global Review",
+            displayName: `Global Review (${reviewQuestions.length})`,
+            data: reviewQuestions
+        };
+
+        if (testStates["Global Review"]) delete testStates["Global Review"];
+        loadTest(reviewTest);
+    };
+
+    getEl('global-review-btn-sidebar')?.addEventListener('click', startGlobalReview);
+
+
     // --- Theme Handling ---
     const savedTheme = localStorage.getItem('theme');
     if (savedTheme === 'dark') {
@@ -450,10 +593,15 @@ document.addEventListener('DOMContentLoaded', () => {
             btn.classList.remove('q-grid-btn-answered', 'q-grid-btn-flagged', 'q-grid-btn-current');
             if (state.userAnswers[index].isCorrect) {
                 btn.classList.add('q-grid-btn-correct');
+                updateGlobalIncorrect(currentTestName, state.questions[index].id, true);
             } else {
                 btn.classList.add('q-grid-btn-incorrect');
+                updateGlobalIncorrect(currentTestName, state.questions[index].id, false);
             }
         });
+        
+        // Update review button visibility immediately
+        updateGlobalReviewButton();
     };
 
     const handleTabClick = (e) => {
@@ -495,6 +643,14 @@ document.addEventListener('DOMContentLoaded', () => {
         answerState.isSubmitted = true;
         answerState.isCorrect = answerState.selectedIndex === state.questions[state.currentQuestionIndex].correctAnswerIndex;
         answerState.strikedOutIndices.clear();
+
+        // Update Global Review tracking on immediate submit
+        // Note: For "Global Review" session, we need to map back to original test if possible
+        let sourceTestName = state.questions[state.currentQuestionIndex].originalTestName || currentTestName;
+        // If we are in "Global Review" mode, question objects have .originalTestName attached in startGlobalReview
+        
+        updateGlobalIncorrect(sourceTestName, state.questions[state.currentQuestionIndex].id, answerState.isCorrect);
+
         displayQuestion();
         saveState();
     };
@@ -1696,7 +1852,9 @@ document.addEventListener('DOMContentLoaded', () => {
     getEl('flashcard-mode-btn-sidebar')?.addEventListener('click', startFlashcardSession);
     getEl('time-attack-btn-sidebar')?.addEventListener('click', startTimeAttack);
     getEl('master-review-btn-sidebar')?.addEventListener('click', startMasterReview);
-
+    
+    // Initial check
+    updateGlobalReviewButton();
 });
 
 

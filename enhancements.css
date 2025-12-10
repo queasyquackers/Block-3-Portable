@@ -734,3 +734,12 @@ body.dark-mode .flashcard-back {
   background-color: #1e293b !important; /* Slate-800 */
   border-color: #334155 !important;
 }
+
+/* PEARLBOOK STYLES */
+.pearl-category-header {
+    top: 0;
+    z-index: 10;
+    backdrop-filter: blur(8px);
+    border-bottom: 2px solid var(--accent-color);
+}
+

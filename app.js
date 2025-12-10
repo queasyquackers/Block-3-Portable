@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Helper for Clinical Pearls ---
     const renderClinicalPearl = (text) => {
         if (!text) return '';
-        
+
         // Simple Markdown parsing: **bold** -> <strong>bold</strong>
         // Also supports __bold__
         const parsedText = text
@@ -89,15 +89,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const container = getEl('pearlbook-content');
         container.innerHTML = '';
-        
+
         // Group by Category
         const pearlsByCategory = {};
         state.questions.forEach(q => {
-             if (q.clinicalPearl) {
-                 const cat = q.category || "General";
-                 if (!pearlsByCategory[cat]) pearlsByCategory[cat] = [];
-                 pearlsByCategory[cat].push(q.clinicalPearl);
-             }
+            if (q.clinicalPearl) {
+                const cat = q.category || "General";
+                if (!pearlsByCategory[cat]) pearlsByCategory[cat] = [];
+                pearlsByCategory[cat].push(q.clinicalPearl);
+            }
         });
 
         if (Object.keys(pearlsByCategory).length === 0) {
@@ -118,7 +118,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         getEl('pearlbook-modal').classList.remove('hidden');
     };
-    
+
     // Close Pearlbook
     getEl('close-pearlbook-btn')?.addEventListener('click', () => {
         getEl('pearlbook-modal').classList.add('hidden');
@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Assuming Question objects have unique IDs or we use index as fallback if stable
         // For robustness, we'll try to use Question ID, fallback to Question Text Hash? 
         // Let's rely on Question ID if available, else TestName_Index.
-        
+
         const qKey = `${testName}|${questionId}`;
         let list = getGlobalIncorrects();
         const exists = list.includes(qKey);
@@ -162,7 +162,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const list = getGlobalIncorrects();
         const btn = getEl('global-review-btn-sidebar');
         const countSpan = getEl('global-review-count');
-        
+
         if (btn) {
             if (list.length > 0) {
                 btn.classList.remove('hidden');
@@ -183,11 +183,11 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         let reviewQuestions = [];
-        
+
         // Find the actual question objects
         // This requires inefficiently searching all testsToLoad.
         // Given <50 tests, it's fine.
-        
+
         list.forEach(key => {
             const [tName, qId] = key.split('|');
             const testObj = testsToLoad.find(t => t.name === tName);
@@ -431,6 +431,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 state.userAnswers = parsedState.userAnswers.map(a => ({ ...a, strikedOutIndices: new Set(a.strikedOutIndices) }));
                 state.flaggedQuestions = new Set(parsedState.flaggedQuestions);
                 state.timer.elapsedTime = parsedState.timer.elapsedTime;
+                // Restore finished state
+                if (parsedState.examFinished) {
+                    state.examFinished = true;
+                }
             } else {
                 const state = testStates[testObject.name];
                 state.userAnswers = Array(state.questions.length).fill(null).map(() => ({
@@ -585,9 +589,12 @@ document.addEventListener('DOMContentLoaded', () => {
         summaryTab.classList.remove('disabled:opacity-50', 'disabled:cursor-not-allowed');
         summaryTab.click();
 
-        localStorage.removeItem(`examProgress_${currentTestName}`);
+        // --- SESSION PERSISTENCE: Save Finished State instead of deleting ---
+        saveState();
+
         generateSummary(currentTestName);
 
+        // Update Review for Incorrect
         const navButtons = getEl('question-grid').querySelectorAll('button');
         navButtons.forEach((btn, index) => {
             btn.classList.remove('q-grid-btn-answered', 'q-grid-btn-flagged', 'q-grid-btn-current');
@@ -599,7 +606,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 updateGlobalIncorrect(currentTestName, state.questions[index].id, false);
             }
         });
-        
+
         // Update review button visibility immediately
         updateGlobalReviewButton();
     };
@@ -648,7 +655,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Note: For "Global Review" session, we need to map back to original test if possible
         let sourceTestName = state.questions[state.currentQuestionIndex].originalTestName || currentTestName;
         // If we are in "Global Review" mode, question objects have .originalTestName attached in startGlobalReview
-        
+
         updateGlobalIncorrect(sourceTestName, state.questions[state.currentQuestionIndex].id, answerState.isCorrect);
 
         displayQuestion();
@@ -872,13 +879,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const saveState = () => {
         const state = getCurrentTestState();
-        if (!state || state.examFinished) return;
+        // Allow saving 'finished' state so we can resume/view stats later
+        if (!state) return;
         const LOCAL_STORAGE_KEY = `examProgress_${currentTestName}`;
         const stateToSave = {
             currentQuestionIndex: state.currentQuestionIndex,
             userAnswers: state.userAnswers.map(a => ({ ...a, strikedOutIndices: Array.from(a.strikedOutIndices) })),
             flaggedQuestions: Array.from(state.flaggedQuestions),
-            timer: { elapsedTime: state.timer.elapsedTime + (state.timer.isRunning ? Date.now() - state.timer.startTime : 0) }
+            timer: { elapsedTime: state.timer.elapsedTime + (state.timer.isRunning ? Date.now() - state.timer.startTime : 0) },
+            // PERSIST finished state
+            examFinished: state.examFinished || false
         };
         localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(stateToSave));
     };
@@ -1112,7 +1122,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="mt-4 space-y-2">${optionsHtml}</div>`;
 
             if (q.clinicalPearl) {
-                 questionEl.innerHTML += renderClinicalPearl(q.clinicalPearl);
+                questionEl.innerHTML += renderClinicalPearl(q.clinicalPearl);
             }
 
             // --- PDF / Visual Aid Logic ---
@@ -1716,6 +1726,19 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!state) return;
         const question = state.questions[state.currentQuestionIndex];
 
+        // --- TRANSITION FIX: Disable animation for instant reset ---
+        const cardInner = getEl('flashcard-inner');
+        if (cardInner) {
+            cardInner.style.transition = 'none';
+            cardInner.classList.remove('flip');
+            // Force Reflow
+            void cardInner.offsetWidth;
+            // Restore transition (next tick or after reflow)
+            setTimeout(() => {
+                cardInner.style.transition = '';
+            }, 50);
+        }
+
         getEl('flashcard-front-content').innerHTML = question.questionText;
 
         // Show 3 options (Correct + 2 Random Distractors) to aid guessing
@@ -1741,8 +1764,8 @@ document.addEventListener('DOMContentLoaded', () => {
             let optionsHtml = '<div class="mt-6 space-y-2 text-left w-full max-w-md">';
             selectedIndices.forEach(idx => {
                 optionsHtml += `
-                    <div class="p-3 rounded-lg bg-white/50 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700 text-sm text-secondary">
-                        <span class="font-bold mr-2">${String.fromCharCode(65 + idx)}.</span> ${question.options[idx].text}
+                    <div class="p-3 rounded-lg bg-white/50 dark:bg-[var(--bg-card)] border border-gray-200 dark:border-[var(--border-color)] text-sm text-[var(--text-secondary)]">
+                        <span class="font-bold mr-2 text-[var(--text-primary)]">${String.fromCharCode(65 + idx)}.</span> ${question.options[idx].text}
                     </div>`;
             });
             optionsHtml += '</div>';
@@ -1753,10 +1776,16 @@ document.addEventListener('DOMContentLoaded', () => {
         // Prepare Back Content
         if (question.correctAnswerIndex != null && question.options[question.correctAnswerIndex]) {
             const correctOpt = question.options[question.correctAnswerIndex];
-            let backHtml = `<div class="text-lg font-bold mb-4 text-green-700 dark:text-green-400">${String.fromCharCode(65 + question.correctAnswerIndex)}. ${correctOpt.text}</div>`;
-            backHtml += `<div class="w-full h-px bg-gray-300 dark:bg-gray-700 mb-4"></div>`;
-            backHtml += `<div class="text-base text-gray-800 dark:text-gray-200 leading-relaxed mb-4">${correctOpt.explanation}</div>`;
+            // Use CSS var for correct text color instead of generic green-400
+            let backHtml = `<div class="text-lg font-bold mb-4 text-green-700 dark:text-[var(--correct-text)]">${String.fromCharCode(65 + question.correctAnswerIndex)}. ${correctOpt.text}</div>`;
+            backHtml += `<div class="w-full h-px bg-gray-300 dark:bg-[var(--border-color)] mb-4"></div>`;
 
+            // --- EXPLANATION HEADER ---
+            backHtml += `<h3 class="font-bold text-xs uppercase tracking-wider text-gray-500 dark:text-[var(--text-secondary)] mb-2 mt-4">Explanation</h3>`;
+
+            backHtml += `<div class="text-base text-gray-800 dark:text-[var(--text-primary)] leading-relaxed mb-4">${correctOpt.explanation}</div>`;
+
+            // --- LAYOUT CHANGE: Clinical Pearl displayed AFTER Explanation (User Request) ---
             if (question.clinicalPearl) {
                 backHtml += renderClinicalPearl(question.clinicalPearl);
             }
@@ -1765,9 +1794,6 @@ document.addEventListener('DOMContentLoaded', () => {
             // Clear old explanation container since we merged it
             getEl('flashcard-back-explanation').innerHTML = '';
         }
-
-        // Reset Flip
-        getEl('flashcard-inner').classList.remove('flip');
 
         // Sync Question Navigator
         updateSidebarState();
@@ -1852,7 +1878,7 @@ document.addEventListener('DOMContentLoaded', () => {
     getEl('flashcard-mode-btn-sidebar')?.addEventListener('click', startFlashcardSession);
     getEl('time-attack-btn-sidebar')?.addEventListener('click', startTimeAttack);
     getEl('master-review-btn-sidebar')?.addEventListener('click', startMasterReview);
-    
+
     // Initial check
     updateGlobalReviewButton();
 });

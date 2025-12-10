@@ -17,7 +17,7 @@
     card.className = 'glass-panel p-10 rounded-3xl shadow-2xl text-center max-w-sm w-full transform transition-all duration-500 scale-100';
     card.style.border = '1px solid var(--glass-border)';
     card.style.background = 'var(--glass-bg)';
-    
+
     // Smart Greeting
     const hour = new Date().getHours();
     let greeting = 'Welcome back';
@@ -36,15 +36,15 @@
             break;
         }
     }
-    
+
     // Calculate Stats
     let totalQuestions = 0;
     let totalAnswered = 0;
     let totalCorrect = 0;
-    
+
     // Ensure we can access the tests variable
-    const tests = (typeof window.testsToLoad !== 'undefined') ? window.testsToLoad : 
-                  (typeof testsToLoad !== 'undefined') ? testsToLoad : [];
+    const tests = (typeof window.testsToLoad !== 'undefined') ? window.testsToLoad :
+        (typeof testsToLoad !== 'undefined') ? testsToLoad : [];
 
     if (tests.length > 0) {
         tests.forEach(test => {
@@ -57,7 +57,7 @@
                     const qCount = state.userAnswers.length;
                     const ansCount = state.userAnswers.filter(a => a.isSubmitted).length;
                     const corrCount = state.userAnswers.filter(a => a.isCorrect).length;
-                    
+
                     totalQuestions += qCount;
                     totalAnswered += ansCount;
                     totalCorrect += corrCount;
@@ -69,7 +69,7 @@
     }
 
     const accuracy = totalAnswered > 0 ? Math.round((totalCorrect / totalAnswered) * 100) : 0;
-    
+
     // Random Tips System
     const tips = [
         "Tip: Use <span class='font-bold'>Arrow Keys</span> (←/→) to navigate questions quickly.",
@@ -156,11 +156,11 @@
         welcomeScreen.style.opacity = '0';
         welcomeScreen.style.pointerEvents = 'none';
         card.style.transform = 'scale(1.1)'; // Zoom out effect
-        
+
         setTimeout(() => {
             welcomeScreen.remove();
         }, 500);
-        
+
         // Remove listener
         document.removeEventListener('keydown', handleKey, { capture: true });
     };

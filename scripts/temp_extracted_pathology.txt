@@ -1,0 +1,666 @@
+IMPORTANT POINTS TO TAKE AWAY:   PATHOLOGY Foundations of Medicine      
+Maria M. Plummer, M.D 
+_____________________________________________________________________________ 
+CELLULAR ADAPTATION, INJURY, DEATH                                                          
+Hypertrophy – increase in the SIZE of cells 
+• 
+Physiologic –“normal”:  increased functional demands, stimulation by growth factors, 
+hormones (examples – uterine growth during pregnancy, skeletal muscle in response to 
+increased demand – e.g body building) 
+• 
+Pathologic- “abnormal” – examples – heart in hypertension, aortic stenosis 
+• 
+Note: Certain types of cells in tissues , mainly skeletal muscle, cardiac muscle, and nerve 
+tissue, do not proliferate because they are considered permanent tissue. Therefore they can 
+only get bigger via hypertrophy  
+ 
+Hyperplasia – increase in the NUMBER of cells 
+• 
+Physiologic – hormonal, growth factors (breast at puberty/pregnancy) 
+• 
+Pathological – e.g inappropriate or excessive hormonal (endometrial hyperplasia) or growth 
+factors acting on target cells 
+Hyperplasia and hypertrophy can occur together in some tissues/organs but usually not in skeletal 
+and cardiac muscle, and nerve tissue. 
+ 
+METAPLASIA – CHANGE FROM ONE CELL TYPE TO ANOTHER TO ADAPT TO ENVIRONMENT, ETC. THIS 
+IS A REVERSIBLE CELLULAR ADAPTATION.   SEE EXAMPLES IN THE POWER POINT SLIDES. E.G., 
+BARRETT’S ESOPHAGUS 
+Atrophy 
+• 
+Physiologic  - normal development, uterus post partum 
+• 
+Pathologic – disuse (decreased workload), denervation, decreased blood supply, decreased 
+nutrition, decreased hormone stimulation, pressure 
+Cell injury: 
+• 
+Damage to mitochondria causes decreased  oxidative phosphorylation and therefore 
+decreased ATP  
+• 
+Reduced Na/K pump leads to cell swelling (hydropic change, vacuolar degeneration) aka 
+edema – reversible because Na enters the cell and water follows Na. 
+• 
+Swelling  (edema) of cells is reversible injury and happens when the Na/K pump does not 
+function properly because of the loss of ATP.  This pump is a plasma membrane pump. 
+ 
+ 
+ 
+• 
+After 20 – 30 minutes, changes become irreversible: 
+• 
+Increase in anaerobic glycolysis – decreases glycogen, increases lactic acid, decreases pH 
+(chromatin clumping) 
+• 
+Decrease in protein synthesis 
+• 
+Failure of CA pump----Ca enters cell causing membrane and nuclear damage via activation 
+of enzymes such as phospholipases, proteases, endonuclease, and ATPases (irreversible) 
+• 
+Denaturation of intracellular proteins, enzymatic digestion of cell, contents leak out and 
+elicit inflammation 
+ 
+Coagulative necrosis: Architecture (cell outlines) preserved, nucleus disappears (breaks up, 
+disintegrates- pyknosis, karyohexix, karyolysis) – loss of nucleus with outline of cell “ghost” 
+remaining. 
+An example includes a myocardial infarct in which coagulative necrosis would show nuclear loss.  
+Local area of coagulative necrosis – infarct 
+Liquefactive necrosis: Digestion of dead cells resulting in liquid, viscous mass, examples include brain 
+infarcts (strokes), abscesses 
+Fat necrosis – breast, pancreatitis 
+Granulomatous necrosis – TB 
+Fibrinoid necrosis - vasculitis 
+ 
+Necrosis  versus apoptosis (programmed cell death). Necrosis is always pathological. Apoptosis could 
+be physiologic or pathologic and requires activation by caspases.  This figure should be in power point. 
+ 
+Examples of pigments that may accumulate in cells include: 
+Anthracosis – especially in lungs in heavy smokers, polluted areas, coal, dust 
+Hemosiderin – old blood 
+Lipofuscin – “wear and tear”  pigment associated with aging cells 
+ 
+ 
+INFLAMMATION/HEALING AND REPAIR 
+Timing of inflammation: 
+Neutrophils (most predominant around 24 hours) , macrophages (most predominant around 48 – 72 
+hours) , granulation tissue (new blood vessels aka angiogenesis, macrophages, and fibroblasts to 
+produce collagen). Granulation tissue is usually present by one week (5 – 7 days). The fibroblasts 
+mainly lay down collagen and ECM and after about 1 – 2 months fibrous scar is present (especially in 
+permanent tissue and large skin wounds) 
+  
+Neutrophils first roll via selectins, then become activated and adhere to endothelium via integrins, 
+then transmigrate across the endothelium (pierce the basement membrane) and migrate toward 
+chemoattractants emanating from the source of injury. Different molecules play predominant roles in 
+different steps of this process: selectins, in rolling; chemokines (usually displayed bound to 
+proteoglycans), in activating the neutrophils to increase avidity of integrins; integrins, in firm 
+adhesion. 
+ 
+Note: Neutrophils are not only the “first responders” in acute inflammation but are also the 
+predominant inflammatory cell in acute infections especially acute bacterial infections. 
+ 
+Granulomas: 
+Chronic inflammation - attempt to contain offending agent difficult to eradicate, e.g. Mycobacteria 
+tuberculosis (TB) 
+• Macrophages process and present antigen to helper T cells. 
+• This interaction produces cytokines like IL-2 which activate other T cells (TH1 subtype) perpetuating 
+response by causing secretion of IFN gamma 
+• IFN gamma leads to macrophage activation, converting macrophages to epithelioid histiocytes and 
+giant cells 
+• Necrotizing (caseating) v. non-necrotizing (non-caseating) 
+ 
+From Summary of Inflammation 
+• Vascular changes of inflammation (vasodilation, vascular permeability, edema, stasis, margination) 
+• Major mediators involved in inflammation (histamine, NO, bradykinin, prostaglandins, leukotrienes, 
+cytokines, complement) 
+• Cellular response in inflammation (margination, rolling, adhesion, transmigration, chemotaxis) 
+including roles of adhesion selectins and integrins 
+• Phagocytosis – Recognition (Opsonization), Engulfment, Killing 
+• Termination of acute inflammation 
+• Types of acute inflammation – serous, fibrinous, suppurative 
+• Chronic inflammation including cell types – macrophages, lymphocytes, eosinophils, granulomas 
+• Acute v. Chronic inflammation (in general, think neutrophils for acute and mononuclear cells such as 
+lymphocytes and macrophages for chronic.  
+• 
+Eosinophils are also considered chronic inflammatory cells: allergies, asthma, parasites. 
+ 
+ 
+Note:  
+CD markers are important and are detected usually via flow cytometry.  For now remember that low 
+numbers under 10 are usually T lymphocytes and CD10, CD 19, CD20, etc. are usually B lymphocytes. 
+However there are many, many CDs and there is no need to memorize them all now. 
+ The usual peripheral blood (NOT bone marrow) differential in a healthy adult would be about 65 – 
+75% neutrophils, 30 – 40 % lymphocytes,   monocytes, eosinophils, 1- 2 % basophils.  These are just 
+ranges and labs may differ somewhat in normal values. 
+ 
+The lymphocytes which make up the 30 – 40% of the peripheral blood are mostly T lymphocytes (low 
+number CD markers). However, the only way to tell the difference between T and B lymphocytes is 
+using CD markers. A peripheral blood smear cannot distinguish the different types of lymphocytes.  
+Most of the lymphocytes in the blood are T lymphocytes but you can not distinguish them by just 
+looking at them with a light microscope. 
+ 
+Review of Healing:  (Skin Example) 
+• 
+24 to 48 hours - epithelial cells move from wound edge along  cut margins of dermis, deposit 
+basement membrane components; produce thin, continuous epithelial layer; macrophages 
+predominate (remember neutrophils arrive first and are prominent by 24 hours  
+• 
+Fibroblasts, vascular endothelial cells proliferate to form granulation tissue by 5 to 7 days, fills 
+wound, neovascularization maximal.  Granulation tissue is mainly made up of new vessels, 
+macrophages and fibroblasts.  The fibroblasts begin to deposit collagen which will eventually 
+form scar tissue. 
+• 
+Wbc infiltrate, edema, increased vascularity disappear by second week 
+• 
+TGF-beta is most important fibrogenic agent: causes fibroblast migration and proliferation, 
+increased synthesis of collagen and fibronectin, and decreased ECM degradation by MMPs 
+• 
+Increased collagen accumulation and regression of vascular channels – original granulation 
+tissue scaffold converted to pale, avascular scar made up of fibroblasts, dense collagen, elastic 
+tissue, other ECM components 
+• 
+By end of first/second month – scar is composed of acellular connective tissue without 
+inflammation, covered by intact epithelium 
+ 
+ 
+Some important mediators: 
+• 
+PDGF causes migration and proliferation of fibroblasts, smooth muscle cells, monocytes to 
+inflammatory areas and healing skin wounds 
+• 
+VEGF important in new blood vessel formation (angiogenesis), promotes angiogenesis in 
+chronic inflammation, wound healing, and tumors 
+• 
+TGF-beta is potent fibrogenic agent - stimulates fibroblast chemotaxis, enhances production of 
+collagen, fibronectin, and proteoglycans; inhibits collagen degradation, anti-inflammatory 
+Wound tensile strength plateaus at about 70-80% around 3 months – never really returns to full 
+strength. 
+Primary v secondary intention healing – examples of healing in skin wounds.  Primary intention occurs 
+with surgical or clean linear wounds in which the skin edges are apposed to each other and there is 
+not a lot of tissue lost on the surface.  
+Deterrents to healing may include debris within wound, obesity, vomiting, dehiscence, keloid 
+formation, etc.  If the wound has debris in it such as foreign objects, dirt, glass, rocks, etc. it must be 
+debrided. 
+ 
+ 
+ 
+NEOPLASIA 
+Nomenclature is important. Adenoma v. Adenocarcinoma (this is applies to glandular epithelium), etc. 
+Squamous cell carcinoma, which is not glandular, if well differentiated will produce keratin (should 
+not be present in a pure adenocarcinoma). 
+A tumor may be benign and epithelial – for example adenoma 
+A tumor may be benign and mesenchymal – for example LIPOMA. Mesenchymal refers to connective 
+tissue and other elements such as adipose tissue, fibrous tissue, muscle, bone, etc. 
+A tumor may be malignant and epithelial (most are) – for example, ADENOCARCINOMA (colon, lung, 
+etc.) 
+A tumor may be malignant and mesenchymal (rare) – for example, liposarcoma, fibrosarcoma, 
+osteosarcoma, leiomyosarcoma, rhabdomyosarcoma. 
+Please note: While they are both malignant tumors, a carcinoma is derived from epithelial tissue and 
+a sarcoma is derived from mesenchymal tissue.  Prognosis and treatments are different and 
+carcinomas are more common in the general population. 
+What is the definitive criterium for malignancy? THE ABILITY TO METASTASIZE. 
+Hallmarks of Malignancy 
+1. Proliferate without external stimuli (growth signals), usually because of oncogene activation – 
+self-sufficiency 
+2. Insensitive to growth-inhibitory signals 
+3. Undergo metabolic switch to aerobic glycolysis (Warburg effect) which enables synthesis of 
+macromolecules needed for fast cell growth. See below for further explanation 
+4. Evade apoptosis (p53 inactivation or activation of anti-apoptotic genes)- tumors are resistant to 
+programmed cell death 
+5. Have limitless proliferative capacity = immortality (telomerase)** 
+6. Sustained angiogenesis 
+7. Ability to invade and metastasize 
+8. Evade host immune response 
+ 
+**The Enzyme telomerase is very important for one of the hallmarks of cancer – it gives cells 
+unlimited replicative potential by not allowing the telomeres to continue to shorten as they would in 
+a normal cell which has a limited lifetime. 
+• 
+Telomeres - sequence of repetitive bases at end of linear chromosomes  
+– prevent chromosomes from attaching 
+– determine limited number of cell replications 
+• TELOMERASE 
+–  enzyme present in 90% of human cancers; most somatic cells do not express telomerase  
+– changes telomeres so they have unlimited replicative potential 
+Terms to associate with malignancy (metastasis is definitive) 
+• Anaplasia – lack of differentiation, “to form backward” 
+• Well to moderately to poorly differentiated refers to how neoplasms appears when seen through 
+microscopic – this is associated with GRADE of tumor. 
+• Malignant – ability to metastasize 
+– Pleomorphism – variation in size and shape of cells 
+– Abnormal nuclear morphology 
+• Hyperchromasia 
+• Increased nuclear/cytoplasm ratio – may approach 1:1 ratio 
+• Increased mitotic rate (proliferative activity); bizarre mitotic figures more reliable 
+• Loss of polarity – tumor cells grow in disorganized fashion 
+• Necrosis – outgrowth of blood supply, especially in large tumors 
+ 
+Words to associate with malignancy (although metastases is the definitive criteria): Anaplasia, 
+pleomorphic, invasion/infiltration, metastases, necrosis, high mitotic rate (INCREASE IN MITOSES), 
+hyperchromasia, increased nuclear to cytoplasm ratio.  Note: Dysplasia can also how hyperchromasia, 
+increased N/C ratio, higher mitotic rate but to a lesser degree than neoplasia. However dysplasia is 
+NOT associated with invasion/infiltration. 
+Masses which are poorly circumscribed are also more likely to be malignant.  
+Differentiation: Helps determine GRADE of tumor – extent that the neoplastic cells resemble 
+corresponding normal cells, morphologically and functionally 
+Grade:  
+• Based on cellular appearance and mitotic activity microscopically 
+• Based on degree of differentiation; therefore, low grade = well-differentiated but high grade would 
+imply poorly differentiated (does not resemble original tissue from which it developed) 
+• idea that biological behaviour and differentiation are related, i.e., poorly differentiated tumors 
+behave more aggressively. Correlation is not perfect. 
+ 
+Stage:  
+• Degree of localization/spread based on size, local and regional  
+lymph node spread, and distant metastases 
+• determined clinically by surgery and/or radiology; more clinically relevant   
+    TNM  Tumor, Nodes, Metastases – Staging system 
+ T0 = in situ 
+ 
+ 
+Note: Spread/metastasis to lymph nodes (regional or distant) will increase the stage of the cancer. 
+ 
+ 
+Tumor markers in the serum may aid more with follow-up than detection.  Some are not specific. 
+However please be familiar with alpha-fetoprotein (AFP)  in hepatocellular carcinoma, CEA, CA-19-9, 
+PSA, etc. 
+ 
+Certain viruses are oncogenic (induce cancer development) – examples include HPV (human 
+papillomaa virus) in cervical squamous cell carcinoma, EBV, etc.   
+Helicobacter pylori is a bacteria which if present chronically in the stomach may induce a low grade 
+lymphoma. 
+ 
+ 
+Regulatory genes involved in cancer: 4 major categories 
+• 
+Proto-oncogenes - involved in normal cell growth and repair (Abl, HER, Myc, Ras) – growth 
+promoting 
+• 
+DNA repair genes 
+• 
+ Tumor suppressor genes - protect against unregulated  cell growth (APC, BRCA) – growth 
+inhibiting 
+• 
+Antiapoptosis genes: overexpression prevents apoptosis (Bcl-2); apoptosis genes mutations 
+prevent programmed cell death, i.e promotes proliferation 
+ 
+Examples of important genes in cancer: for now these 3 are especially important: RAS, MYC, and p53 
+RAS Oncogene, example – Signal transducer 
+Most common type of abnormality involving proto-oncogenes in humans 
+• HRAS, KRAS, NRAS 
+• Point mutation of RAS genes - single most common abnormality of proto-oncogenes in human tumors 
+•  15-20% of all human cancers express mutated RAS 
+• Usually carcinomas, esp. colon and pancreas, are associated with KRAS, bladder tumors with HRAS,and 
+hematopoietic tumors with NRAS 
+• Normal RAS proteins flip between an excited signal-transmitting state bound to GTP and quiescent 
+state bound to GDP; stimulation of receptor tyrosine kinase by growth factors leads to exchange of 
+GDP for GTP to make active RAS 
+• Mutated RAS protein is permanently activated (stimulates downstream regulators of proliferation) 
+because of inability to hydrolyze GTP, causing continuous stimulation of cells without external trigger 
+ 
+MYC Oncogene – Nuclear regulator 
+Activation linked to proliferation; activates expression of many genes involved in cell growth – encodes 
+for transcription factors and also involved with apoptosis 
+• Many ways MYC can be deregulated in cancer cells 
+• Translocation of the gene causes dysregulation of Myc expression in Burkitt lymphoma 
+• Amplified in breast, colon, lung and other cancers which results in overexpression 
+• Sometimes MYC upregulates expression of telomerase (contributes to endless replicative capacity) –
+see later slide 
+• N-Myc and L-Myc amplified in neuroblastoma and small cell cancer of lung, respectively 
+ 
+p53 – Tumor suppressor gene 
+Tumor suppressor gene mutated in majority of cancers; on chromosome 17 
+• NORMALLY regulates cell cycle progression, DNA repair, senescence, and apoptosis 
+• NORMALLY prevents neoplastic transformation via  
+– Temporary cell cycle arrest (quiescence) 
+– Induction of permanent cell cycle arrest (senescence) 
+– Triggering programmed cell death (apoptosis) 
+• NORMALLY Acts mainly via cell cycle inhibitor p21 to cause cell cycle arrest 
+• NORMALLY Causes apoptosis by inducing transcription of genes such as BAX 
+• Required for G1/S checkpoint, main component of G2/M checkpoint 
+• p53 aka  “molecular policeman”: prevents propogation of genetically damaged cells 
+• 
+Homozygous loss occurs in almost all types of cancer e.g. lung, colon, breast 
+• 
+Over 50% of tumors have mutations of p53 – biallelic loss-of-function mutations 
+• 
+Most sporadic cancers require “two hits”, that is, both alleles need to be mutated. 
+• Li-Fraumeni syndrome – VERY IMPORTANT 
+• patients inherit one mutant p53 allele; THEREFORE, only require one “hit” to lose p53     
+functions stated above.   
+• 25-fold greater chance of developing a malignant tumor by age 50 than general population  
+• sarcomas, breast cancer, leukemia, brain tumors, adrenal cortex carcinomas, and others 
+ 
+ 
+ 
+Paraneoplastic syndromes: May represent early manifestation of occult neoplasm 
+• 10% of persons with malignant disease 
+• May be earliest manifestation of occult neoplasm 
+• Endocrinopathies 
+• Nerve and muscle syndromes – e.g., myasthenia gravis (thymoma) 
+• Dermatological disorders  
+• Vascular and hematological changes  
+• Others – bone, joint, soft tissue changes, nephrotic syndrome 
+ 
+Warburg effect Note: 
+The Scholars Rx brick, which mentions the Warburg effect in neoplasia, is not very clear.  I have 
+annotated it and updated it, and also copied and pasted the direct text from Robbins below which 
+may be more helpful:       Please note that even Robbins can be wrong, or in this case, have a typo. See 
+below- fermentation via the glycolytic pathway converts glucose to lactate NOT lactose.  Thank you 
+Daniel Chan Class of 2026 for picking that up! 
+“Even in the presence of ample oxygen, cancer cells demonstrate a distinctive form of cellular 
+metabolism characterized by high levels of glucose uptake and increased conversion of glucose to 
+lactose (fermentation) via the glycolytic pathway. This phenomenon, called the Warburg effect and also 
+known as aerobic glycolysis, has been recognized for many years… Clinically the “glucose hunger” of 
+tumors is used to visualize them via positron emission tomography (PET) scanning, in which patients are 
+injected with 18 F-fluorodeoxyglucose, a nonmetabolizable derivative of glucose that is preferentially 
+taken up into tumor cells (as well as normal, actively dividing tissues such as the bone marrow). Most 
+tumors are PET-positive, and rapidly growing ones are markedly so. 
+…why is it advantageous for a cancer cell to rely on seemingly inefficient glycolysis (which generates two 
+molecules of ATP per molecule of glucose) instead of oxidative phosphorylation (which generates 36 
+molecules of ATP per molecule of glucose)? While pondering this question, it is important to recognize 
+that rapidly growing normal cells, such as in embryonic tissues, also rely on aerobic fermentation. Thus, 
+“Warburg metabolism” is not cancer-specific, but instead is a general property of growing cells that is 
+exploited by cancer cells. 
+The answer to this riddle is surprisingly simple: aerobic glycolysis provides rapidly dividing tumor cells 
+with metabolic intermediates that are needed for the synthesis of cellular components, whereas 
+mitochondrial oxidative phosphorylation does not. The reason growing cells rely on aerobic glycolysis 
+becomes readily apparent when one considers that a growing cell has a strict biosynthetic requirement; 
+it must duplicate all of its cellular components—DNA, RNA, proteins, lipid, and organelles—before it can 
+divide and produce two daughter cells. Recall that the net effect of oxidative phosphorylation is to take 
+a molecule of glucose, C 6 H 12 O 6 , and combine it with six molecules of O 2 to produce six molecules 
+of H 2 O and six molecules of CO 2 , which are lost through respiration. Thus, while “pure” oxidative 
+phosphorylation yields abundant ATP, it fails to produce any carbon moieties that can be used to build 
+cellular components that are needed for growth (proteins, lipids, and nucleic acids). Even cells that are 
+not actively growing must shunt some metabolic intermediates away from oxidative phosphorylation to 
+synthesize macromolecules that are needed for cellular maintenance. 
+By contrast, in actively growing cells, only a small fraction of the cellular glucose is shunted through the 
+oxidative phosphorylation pathway, such that on average each molecule of glucose that is metabolized 
+produces approximately four molecules of ATP (instead of the two molecules that would be produced by 
+“pure” glycolysis). Presumably, this balance in glucose utilization (heavily biased toward aerobic 
+fermentation, with a bit of oxidative phosphorylation) hits a metabolic “sweet spot” that is optimal for 
+growth. It follows that growing cells do rely on mitochondrial metabolism. However, the main metabolic 
+function of mitochondria in growing cells is not to generate ATP, but rather to carry out reactions that 
+generate intermediates that can be diverted for use as precursors in the synthesis of cellular building 
+blocks..” 
+ 
+THE NEW EDITION OF ROBBINS CAME OUT THIS PAST JUNE 2025, AND I HAVE MADE SURE THAT 
+EVERYTHING IN THE POWER POINT, ETC. HAS BEEN UPDATED IF NEEDED, EVEN THOUGH THE SLIDE 
+MAY STILL HAVE THE 2020 REFERENCE.  I JUST DID NOT CHANGE THE YEAR YET on the slide. 
+ 
+ 
+ 
+_____________________________________________________________________________________ 
+ 
+ 
+The questions below are taken from Robbins and Cotran Review of Pathology 3rd edition  
+These tend to be more on the difficult side, so again, it is not about getting them all correct 
+right now. Some minor edits have been made.  
+Answers are at the end of each section.  
+Please read the explanations which may provide useful information. 
+There are 6 questions pertaining to Inflammation and 5 questions related to Healing and 
+Repair. 
+ 
+Acute and Chronic Inflammation 
+ 
+1. A 63-year-old man develops worsening congestive heart failure 2 weeks after an 
+acute myocardial infarction. An echocardiogram shows a markedly decreased 
+ejection fraction. He dies 1 day later. At autopsy, a section of the infarct shows that 
+the necrotic myocardium has largely been replaced by capillaries, fibroblasts, and 
+collagen. Various inflammatory cells are present. Which of the following 
+inflammatory cell types in this lesion plays the most important role in the healing 
+process? 
+ 
+ (A) Macrophages 
+ (B) Plasma cells 
+ (C) Neutrophils 
+ (D) Eosinophils 
+ (E) Epithelioid cells 
+ 
+2. A 36-year-old man has had midepigastric abdominal pain for the past 3 months. An 
+upper gastrointestinal endoscopy shows a 2-cm, sharply demarcated, shallow 
+ulceration of the gastric antrum. A biopsy specimen of the ulcer base shows 
+angiogenesis, fibrosis, and mononuclear cell infiltrates with lymphocytes, 
+macrophages, and plasma cells. Which of the following terms best describes this 
+pathologic process? 
+ 
+(A) Acute inflammation 
+(B) Serous inflammation 
+(C) Granulomatous inflammation 
+(D) Fibrinous inflammation 
+(E) Granulation tissue formation 
+ 
+3. A 5-year-old child reaches up to the stove and touches a pot of boiling soup. Within 
+several hours, there is marked erythema of the skin of the fingers on the child's right 
+hand, and small blisters appear on the finger pads. Which of the following terms best 
+describes this process? 
+ 
+□ (A) Fibrinous inflammation 
+□ (B) Purulent inflammation 
+□ (C) Serous inflammation 
+□ (D) Ulceration 
+□ (E) Granulomatous inflammation 
+ 
+ 
+ 
+ 
+ 
+4. A 6-year-old child has a history of recurrent infections with pyogenic bacteria, 
+including Staphylococcus aureus and Streptococcus pneumoniae. The infections are 
+accompanied by a neutrophilic leukocytosis. Microscopic examination of a biopsy 
+specimen obtained from an area of soft tissue necrosis shows microbial organisms, 
+but very few neutrophils. An analysis of neutrophil function shows a defect in rolling. 
+This child's increased susceptibility to infection is most likelycaused by a defect in 
+which of the following molecules? 
+ 
+□ (A) Selectins 
+□ (B) Integrins 
+□ (C) Leukotriene B4 
+□ (D) Complement C3b 
+□ (E) NADPH oxidase 
+ 
+ 
+5. In an experiment, neutrophils collected from peripheral blood are analyzed for a 
+“burst” of oxygen consumption. This respiratory burst is an essential step for which 
+of the following events in an acute inflammatory response? 
+ 
+□ (A) Increased production in bone marrow 
+□ (B) Attachment to endothelial cells 
+□ (C) Opsonization of bacteria 
+□ (D) Phagocytosis of bacteria 
+□ (E) Generation of microbicidal activity 
+ 
+6. A 70-year-old woman has had worsening shortness of breath for the past week. On 
+physical examination, her temperature is 102 degrees F. On percussion, there is 
+dullness over the left lung fields. Thoracentesis (removal of fluid from the thoracic 
+cavity) yields 800 mL of cloudy yellow fluid from the left pleural cavity. Analysis of the 
+fluid reveals a WBC count of 2500/mm3 with 98% neutrophils and 2% lymphocytes. 
+A Gram stain of the fluid shows the presence of bacteria. Which of the following 
+terms best describes the process occurring in the left pleural cavity? 
+ 
+□ (A) Serous effusion 
+□ (B) Chronic inflammation 
+□ (C) Abscess 
+□ (D) Fibrinous inflammation 
+□ (E) Purulent exudate 
+ 
+ 
+ 
+ 
+ 
+ANSWERS 
+1. (A) Macrophages, present in such lesions, play a prominent role in the healing 
+process. Activated macrophages can secrete various cytokines that promote 
+angiogenesis and fibrosis, including platelet-derived growth factor, fibroblast growth 
+factor, interleukin-1, and tumor necrosis factor. Plasma cells can secrete 
+immunoglobulins and are not instrumental to healing of an area of tissue injury. 
+Neutrophils are most numerous within the initial 48 hours after infarction, but are not 
+numerous after the first week. They are important in the acute inflammatory 
+response. Eosinophils are most prominent in allergic inflammations and in parasitic 
+infections. Epithelioid cells, which are aggregations of activated macrophages, are 
+typically seen with granulomatous inflammation.The healing of acute inflammatory 
+processes does not involve granulomatous inflammation. 
+ 
+ 
+2. (E) Granulation tissue formation is an important part of the healing process. As the 
+acute inflammatory response wanes, granulation tissue forms to start the 
+regeneration/repair process.  Granulation tissue is predominantly made of up new 
+blood vessels, macrophages, and fibroblasts. 
+ 
+ 
+3. (C) Serous inflammation is the mildest form of acute inflammation. A blister is a good 
+example of serous inflammation. It is associated primarily with exudation of fluid into 
+the subcorneal or subepidermal space. Because the injury is mild, the fluid is 
+relatively protein-poor. A protein-rich exudate results in fibrin accumulation. Acute 
+inflammatory cells, mainly neutrophils, exuded into a body cavity or space form a 
+purulent (suppurative) exudate, typically associated with liquefactive necrosis. Loss 
+of the epithelium leads to ulceration. Granulomatous inflammation is characterized 
+by collections of transformed macrophages called epithelioid cells. 
+ 
+ 
+4. (A) The patient has a defect in leukocyte rolling, the first step in transmigration of 
+neutrophils from the vasculature to the tissues. Rolling depends on interaction 
+between selectins (P-selectin and E-selectin on endothelial cells, and L-selectin on 
+neutrophils) and their sialylated ligand molecules (e.g., sialylated Lewis X). Integrins 
+are involved in the next step of transmigration, during which there is firm adhesion 
+between neutrophils and endothelial cells. Leukotriene B4 is a chemotactic agent, 
+complement C3b facilitates phagocytosis, and NADPH oxidase is involved in 
+microbicidal activity. 
+ 
+ 
+ 
+ 
+ 
+ 
+5. (E) The respiratory, or oxidative, burst generates reactive oxygen species (i.e., 
+superoxide anion) that are important in destruction of engulfed bacteria. 
+Myelopoiesis does not depend on generation of superoxide. Endothelial attachment 
+of neutrophils is aided by adhesion molecules on the endothelium and the neutrophil 
+surface. These molecules include selectins and integrins. Bacteria are opsonized by 
+complement C3b and IgG, allowing the bacteria to be more readily phagocytosed. 
+ 
+ 
+6. (E) Bacterial infections often evoke an acute inflammatory response dominated by 
+neutrophils. The extravasated neutrophils attempt to phagocytose and kill the 
+bacteria. In the process, some neutrophils die, and the release of their lysosomal 
+enzymes can cause liquefactive necrosis of the tissue. This liquefied tissue debris 
+and the live and dead neutrophils comprise pus, or purulent exudate. Such an 
+exudate is typical of bacterial infections that involve body cavities. Another term for 
+purulent exudate in the pleural space is empyema. An abscess is a localized 
+collection of neutrophils within tissues. Chronic inflammation occurs when there is a 
+preponderance of mononuclear cells, such as lymphocytes, macrophages, and 
+plasma cells, in a process that has gone on for more than a few days—more likely 
+weeks or months— or that accompanies repeated bouts of acute inflammation. 
+Edema refers to increased fluid collection within tissues,leading to tissue swelling. In 
+fibrinous inflammation, exudation of blood proteins (including fibrinogen, which 
+polymerizes to fibrin) gives a grossly shaggy appearance to surfaces overlying the 
+inflammation. A serous effusion is a watery-appearing transudate that resembles an 
+ultrafiltrate of blood plasma, with a low cell and protein content. 
+ 
+ 
+ 
+ 
+ 
+Healing/Repair 
+ 
+1. In an experiment, surgical incisions are made in a study group of laboratory rats. 
+Observations about the wounds are recorded over a 2-week period using various 
+chemical mediators. Which of the following steps in the inflammatory-repair 
+response is most likely affected by neutralization of transforming growth factor β 
+(TGF-β)? 
+ 
+□ (A) Leukocyte extravasation 
+□ (B) Increase in vascular permeability 
+□ (C) Production of collagen 
+□ (D) Chemotaxis of lymphocytes 
+□ (E) Migration of epithelial cells 
+ 
+ 
+ 
+2.  A cesarean section is performed on a 20-year-old woman to deliver a term infant, 
+and the lower abdominal incision is sutured. The sutures are removed 1 week later. 
+Which of the following statements best describes the wound site at the time of suture 
+removal? 
+ 
+□ (A) Granulation tissue is still present 
+□ (B) Collagen degradation exceeds synthesis 
+□ (C) Wound strength is 80% of normal tissue 
+□ (D) Type IV collagen predominates 
+□ (E) There is a predominance of neutrophils 
+ 
+ 
+ 
+3. A 40-year-old man underwent laparotomy for a perforated sigmoid colon 
+diverticulum. A wound infection complicated the postoperative course, and surgical 
+wound dehiscence occurred. Primary closure was no longer possible, and the wound 
+“granulated in.” Six weeks later, the wound is only 10% of its original size. Which of 
+the following processes best accounts for the observed decrease in wound size over 
+the past 6 weeks? 
+ 
+□ (A) Increase in synthesis of collagen 
+□ (B) Myofibroblast contraction 
+□ (C) Inhibition of metalloproteinases 
+□ (D) Resolution of subcutaneous edema 
+□ (E) Elaboration of adhesive glycoproteins 
+ 
+ 
+ 
+ 
+4. An 18-year-old man lacerated his left hand and required sutures. The sutures were 
+removed 1 week later. Wound healing continued, but the site became disfigured by a 
+prominent raised, nodular scar that developed over the next 2 months. Which of the 
+following terms best describes the process that occurred during this 2-month period? 
+ 
+□ (A) Organization 
+□ (B) Dehiscence 
+□ (C) Resolution 
+□ (D) Keloid formation 
+□ (E) Secondary union 
+ 
+ 
+ 
+5. A 24-year-old man with acute appendicitis undergoes surgical removal of the 
+inflamed appendix. The incision site is sutured. Approximately how long after the 
+surgery would scar tissue be evident? 
+ 
+□ (A) 1 day 
+□ (B) 2 to 3 days 
+□ (C) 4 to 5 days 
+□ (D) 2 weeks 
+□ (E) 1 to 2 month 
+ 
+ 
+ 
+ 
+ANSWERS 
+1.  (C) TGF-β stimulates many steps in fibrogenesis, including fibroblast chemotaxis 
+and production of collagen by fibroblasts, while inhibiting degradation of collagen. All 
+of the other steps listed are unaffected by TGF-β.  
+ 
+ 
+2. (A) At 1 week, wound healing is incomplete, and granulation tissue is still present. 
+More collagen is synthesized in the following weeks. Wound strength peaks at about 
+80% by 3 months. Type IV collagen is found in basement membranes. 
+ 
+ 
+3. (B) Wound contraction is a characteristic feature of healing by second intention that 
+occurs in larger wounds. Collagen synthesis helps fill the defect, but does not 
+contract it. The inhibition of metalloproteinases leads to decreased degradation of 
+collagen and impaired connective tissue remodeling in wound repair. Edema 
+diminishes over time, but this does not result in much contraction. Adhesive 
+glycoproteins such as fibronectin help to maintain a cellular scaffolding for growth 
+and repair, but they do not contract. 
+ 
+ 
+4. (D) The healing process sometimes results in an exuberant production of 
+collagen, giving rise to a keloid. This tendency may run in families. Organization 
+occurs as granulation tissue is replaced by fibrous tissue. Dehiscence occurs 
+when a wound pulls apart. If normal tissue architecture is restored, resolution of 
+inflammation has occurred. Secondary union describes the process by which 
+large wounds fill in and contract. 
+ 
+ 
+5. (E) Dense collagen (scar tissue) with some remaining dilated blood vessels, 
+typical of the final phase of wound healing, is extensive by the end of the first 
+month. On day 1, the wound is filled only with fibrin and inflammatory cells. 
+Macrophages and granulation tissue are seen 2 to 3 days postoperatively. 
+Neovascularization is most prominent by days 4 and 5. By week 2, collagen is 
+prominent, and fewer vessels and inflammatory cells are seen. 

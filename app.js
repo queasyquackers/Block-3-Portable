@@ -437,6 +437,21 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (parsedState.examFinished) {
                     state.examFinished = true;
                 }
+
+                // VALIDATION: Ensure mismatch in question count triggers reset (e.g. after content update)
+                if (state.userAnswers.length !== state.questions.length) {
+                    console.warn("State mismatch detected (Question Count changed). Resetting progress.");
+                    state.userAnswers = Array(state.questions.length).fill(null).map(() => ({
+                        selectedIndex: null,
+                        isSubmitted: false,
+                        isCorrect: false,
+                        strikedOutIndices: new Set()
+                    }));
+                    state.flaggedQuestions = new Set();
+                    state.currentQuestionIndex = 0;
+                    state.examFinished = false;
+                    localStorage.removeItem(LOCAL_STORAGE_KEY);
+                }
             } else {
                 const state = testStates[testObject.name];
                 state.userAnswers = Array(state.questions.length).fill(null).map(() => ({

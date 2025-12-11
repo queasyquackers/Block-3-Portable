@@ -82,7 +82,8 @@ const PDF_MAPPING = {
     "Clinical Pharmacokinetics": "pdfs/L115L116.pdf",
     "Drug Interactions & Pharmacogenomics": "pdfs/L117L118.pdf",
     "Antimicrobials": "pdfs/L119.pdf",
-    "Beta Lactams Pt1": "pdfs/L120.pdf"
+    "Beta Lactams Pt1": "pdfs/L120.pdf",
+    "Pathology-Lecture 128 Review": "pdfs/Lecture #128. M. Plummer, M.D. (Pathology Review Handout).pdf"
 };
 
 // Expose to global scope

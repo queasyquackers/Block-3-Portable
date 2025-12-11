@@ -7,7 +7,8 @@ def extract_text_from_pdf(pdf_path, output_path):
     try:
         doc = fitz.open(pdf_path)
         text = ""
-        for page in doc:
+        for i, page in enumerate(doc):
+            text += f"\n=== PAGE {i+1} ===\n"
             text += page.get_text()
         
         os.makedirs(os.path.dirname(output_path), exist_ok=True)

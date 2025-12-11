@@ -38,5 +38,5 @@ const testsToLoad = [
     { name: "Pharmacology-Clinical Pharmacokinetics", data: window.Test35 },
     { name: "Pharmacology-Drug Interactions & Pharmacogenomics", data: window.Test36 },
     { name: "Pharmacology-Antimicrobials and Beta Lactams Pt 2", data: window.Test37 },
-    { name: "Pathology-Lecture 128 Review", data: window.TestPathology }
+    { name: "Pathology-Pathology Review Sheet", data: window.TestPathology }
 ];    // Add your other test objects here

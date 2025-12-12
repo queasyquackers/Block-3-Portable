@@ -7,7 +7,12 @@ Act as a board question writer with expertise in creating high-quality USMLE Ste
 - **AVOID First-Order Questions:** Do NOT ask for simple recall (e.g., "What is the diagnosis?" or "What is the treatment?").
 - **CREATE Second-Order Questions:** Describe a clinical vignette and ask for the *mechanism of action* of the treatment, or the *pathophysiolgical basis* of the disease.
 - **CREATE Third-Order Questions:** Describe a patient, imply a diagnosis, imply a treatment, and ask for a *potential side effect* or *contraindication* of that treatment.
-- **Clinical Vignettes:** meaningful vignettes are required. Include age, gender, presenting symptoms, and relevant history.
+- **Vignette Style & Length (Board Style):**
+  - **Longer Vignettes (~60%):** Create detailed, board-style vignettes (4-8 sentences) that mimic actual Step 1/COMLEX items. Include full vital signs, HPI, and relevant social/family history.
+  - **Shorter Vignettes (~40%):** Use focused, shorter vignettes to maintain pacing and variety.
+- **Buzzwords & Clinical Correlates:**
+  - Actively include classic "buzzwords" or pathognomonic findings (e.g., "currant jelly sputum", "honey-crusted lesions") to clue the diagnosis.
+  - Use these findings to anchor the clinical correlate, but ensure the question remains 2nd or 3rd order.
 
 **CRITICAL - "Rule-Out" Explanations (Review Mode Compatible):**
 For **INCORRECT** answer choices, you **MUST** follow this strict format to support the "Global Review" mode:
